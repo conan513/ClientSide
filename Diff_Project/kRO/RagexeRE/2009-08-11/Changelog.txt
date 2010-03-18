@@ -1,0 +1,19 @@
+-= 2009-08-11 =-
+
+v1.0
+
+Add :
+* [Fix]_Remove_Gravity_Error_Message_(Experimental)
+* [UI]_Translate_Class/String_Into_Francais_(Experimental)
+* [Fix]_Change_Version_Into_Date_(Experimental)
+* [Fix](12)_Enable_42_Character_Slots_(Recommended)
+* [Fix](12)_Enable_3_Character_Slots_(Recommended)
+* [Fix](12)_Enable_6_Character_Slots_(Recommended)
+
+Remove :
+* [Fix](12)_Enable_255_Character_Slots_(Recommended)
+
+Change :
+* [UI]_Translate_Char_Selection_Screen_(Recommended)
+* [Fix]_Disable_HShield_(Recommended) 
+

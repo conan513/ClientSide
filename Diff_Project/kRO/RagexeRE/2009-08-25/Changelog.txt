@@ -1,0 +1,8 @@
+-= 2009-08-25 =-
+
+v1.2
+Added [Fix] Map Indicator in Langtypes 1+
+v1.1
+Fixed Show Exp Job Bars up to 255
+v1.0
+Full Options.

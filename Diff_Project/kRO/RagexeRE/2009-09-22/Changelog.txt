@@ -1,0 +1,8 @@
+-= 2009-09-22 =-
+
+v1.2
+Now "DisableEncryption" work.
+v1.1
+Full Options.
+v1.0
+Missing "Skip_License_Screen_(Recommended)"

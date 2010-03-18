@@ -1,0 +1,12 @@
+-= 2009-08-05 =-
+
+v1.0
+Failed :
+* [Fix]_Disable_HShield_(Recommended)
+* [UI]_Enable_Flag_Emotes
+* [UI]_Skip_Resurrection_Buttons
+* [Fix]_Exit_BattleMode_only_with_Space_(Recommended)
+* [Fix]_Fix_BattleMode_Double_Letters_in_Chats_(Recommended)
+* [Fix]_Guild_Message_Crash_Fix_(Recommended)
+* [Fix]_Trade_Window_Crash_Fix_(Recommended)
+
