@@ -1,0 +1,66 @@
+rev1 - [2010-03-19]
+ - moved to assembla
+ - added stateiconinfo.lua (needs some translators)
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+rev14 - [2010-03-17]
+ - Added stateicon_f.lua and efstids.lua
+ - Updated jobname.lua, npcidentity.lua, accessoryid.lua and accname.lub
+ - updated wndinfo.lua
+ - Updated some typo and translated english in party_booking.lua 95% done
+
+rev13 - [2010-03-15]
+ - Added kRO update new headgear from data.grf that is not in rdata.grf
+ - Fixed party_booking.lua wrong table structure on map list
+ * still not done decompiling yet.
+
+rev12 - [2010-03-13]
+ - Fixed wrong info showed when /ex is highlighted in Option window.
+ - Translated Hotkey_2 [33] and [34]
+ - Added 2010-03-10 lub files v1. 
+   v1 doesnt include party_booking.lub files eathena doesnt have this feature so no need to hurry and it's hard to decompile.
+
+rev11 - [2010-03-11]
+ - Translated Optioninfo.lua to English
+ - Updated and Translated party_booking.lua to English but still incomplete
+
+rev10 - [2010-03-10]
+ - Updated Skilltreeview.lua
+ - Added Optioninfo.lua and Optioninfo_f.lua [not yet translated will be translated on next revision]
+ - Added an "incomplete" party_booking.lua this might take a while before i can finish it kRO used a weird structure for this lub file
+ * Once done ill be add 2010-03-10 lub files in the download section
+
+rev9 - [2010-03-03]
+ - Updated skilltreeview.lua, skillinfo_f.lua, accname.lua and accessoryid.lua
+ - Gravity changed the structure of skilltreeview and fixed some skills with reject sword and gnome skills
+   but i still see 1 mistake which is GN_SPORE_EXPLOSION has max level of 25 but ill stay using that value
+   its up to you to change it
+ - Skillinfo_f.lua has added some checks/functions for the new structure
+ - accname.lua and accessoryid.lua added new headgears called Sloth Hat, Duneyrr Helm and Golden Angel
+   not sure why those new headgears are not in the same numbers
+ - Added 2010-03-03 translated compiled lub files for client 2010-03-03
+
+rev7~8 - 
+ - Added luac5.0.2.exe to compile your lua (not really needed but still some wants it to be compiled)
+
+rev6 - [2010-02-24]
+ - Added lua files/datainfo/accessoryid.lua = viewids of headgears
+ - Added lua files/datainfo/accname.lua = sprite names of headgears
+ - Added lua files/datainfo/accname_f.lua = function that connects those 2 tables
+ - Added a packaged translated compiled lub files for this update.
+ 
+rev5 - [2010-02-17]
+ - Updated /lua files/datainfo/* files to add the latest npc JT_4_WHITETIGER
+ - kRO changed the structure of those files
+ - Added 2010-02-17 translated compiled lub files for client 2010-02-17
+
+rev4 - [2010-02-10]
+ - Updated 2010-02-10 hotkey.lua
+ - Added 2009-12-23+ translated compiled lub files for clients from 2009-12-23 to 2010-02-03 [moved from rev2 forgot to commit]
+ - Added 2010-02-10 translated compiled lub files for client 2010-02-10
+
+rev3 - [2010-02-03]
+ - Updated 2010-02-03 latest emotionlist.lua
+
+rev2 - [2009-12-23]
+ - Added 2009-12-23 decompiled lua binary files
