@@ -1,0 +1,10 @@
+v1.0
+First release
+v1.0b
+* Added new patch byte [Auto] OFF by default /Skip [Fabio]
+/skip: "Widens frame skip. This is recommended for players who lag excessively"
+Some skills are much slow with this OFF, try before implement.
+v1.0c
+* Added [UI] Disable Charname Chat Parsing. [Fabio]
+v1.0d
+Added Main Chato Color [Thx Usako]

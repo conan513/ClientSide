@@ -1,0 +1,7 @@
+v1.0
+First Release
+v1.0b
+Added Main Chat Color [Thx to Usako]
+v1.0c
+Added [UI]_Disable_/effect
+Added [Fix]_Multi_Language_Support_in_all_Langtypes

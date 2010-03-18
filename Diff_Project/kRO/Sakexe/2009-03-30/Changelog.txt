@@ -1,0 +1,6 @@
+v1.0
+Missing [Fix]_Disable_nProtect_KeyCrypt_(Recommended) (Need packetver 23 with Extended Pet Packet).
+v1.0b
+Update "Disable HShield". [Myst]
+v1.1
+Update diff with latest option.

@@ -1,0 +1,10 @@
+-= 2009-04-29 =-
+* SVN Version : 13708
+* packet_ver : 23
+
+v1.0a
+Add : [Fix] Enable Title Bar Menu
+
+v1.0
+Full Options.
+New : [Fix] ScreenShot In Bmp By Default

@@ -1,0 +1,7 @@
+v1.0
+Full Options (Need packetver 23 with Extended Pet Packet).
+Added [Fix] Disable HShield (Recommended) [Yommy].
+v1.0b
+Update "Disable HShield". [Myst]
+v1.1
+Update diff with latest option.

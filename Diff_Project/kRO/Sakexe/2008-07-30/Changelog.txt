@@ -1,0 +1,4 @@
+v1.0
+First Release With Full Options.
+v1.0b
+Added new patch [Fix]Disable Hallucination Wavy Screen (Fabio)

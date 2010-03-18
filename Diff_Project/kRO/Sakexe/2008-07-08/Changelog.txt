@@ -1,0 +1,5 @@
+v1.0
+First Release
+v1.0b
+Fixed GRF_Adata/Bdata_Support using same offset that DNS Support.
+Renamed [Auto] options to be more clear

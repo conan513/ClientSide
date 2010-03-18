@@ -1,0 +1,27 @@
+v0.9
+- Recommended for eA SVN 12937.
+- PACKETVER must set 9 if your server set 8. You can go have problems with Npcs.
+v.1.0
+- Added: Enable Flag emotes / Enable_Quest_Window / Use_Arial_on_All_Langtypes / Enable_Proxy_Support (Thanks to Yommy and Myst).
+v1.0b
+Solved the problem in Enable Aura Over 99 and Disable Lvl 99 aura. (Thx XXhappyXX)!
+v1.0c
+Solved the problem in Custom Aura
+v.1.1
+Added all [Auto] Enables and Disable
+Added Chat Colors
+v1.1b
+Added X-rays Options
+v1.0c
+Solved problem in some [Auto] Enable and Disable (Thx Samuoela)
+v.1.2
+Added Use Official Clothes Pallelts in All Langtypes. (By Adrilindozao Thx Leon and Yomanda)
+v1.2b
+Added Enable_/w_and_/who_commands (Thx Samuoela)
+Added new Option Taekwon, SL and SG Korean to English in Langtype0
+v1.3
+Added Missing options and some new usefull patches made after this sakexe.
+v1.4
+Update diff with latest option.
+v1.5
+Update diff with latest option.

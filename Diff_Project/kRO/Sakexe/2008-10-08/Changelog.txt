@@ -1,0 +1,6 @@
+v1.0
+Full Options (Need packetver 23).
+Includes new patch: [Fix]_Multi_Language_Support_in_all_Langtypes.
+
+v1.0b
+Add [Fix]_Guild_Message_Crash_Fix_(Recommended) (FlavioJS/Adri)

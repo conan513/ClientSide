@@ -1,0 +1,4 @@
+v1.0
+First release of Yomanda
+v1.0b
+Added Missing options and some new usefull patches made after this sakexe.

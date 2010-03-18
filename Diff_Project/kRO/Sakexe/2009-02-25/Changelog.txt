@@ -1,0 +1,17 @@
+v1.0
+Full Options (Need packetver 23 with Extended Pet Packet).
+
+v1.0a
+* Added [UI]_Use_New_Char_Selection_Screen_on_All_Langtypes_(Recommended)
+
+v1.0b
+* Added [Fix]_Remove_Gravity_Ads [Thanks Mysteltainn for idea!]
+
+v1.1
+Update diff with latest option.
+
+v1.2
+Update diff with latest option.
+
+v1.3
+Update diff with latest option.

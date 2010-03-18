@@ -1,0 +1,6 @@
+v1.0
+First release
+v1.0b
+* Added new patch byte [Auto] OFF by default /Skip (Recommended) [Fabio]
+v1.0c
+Added Main Chat color [Thx to Usako]

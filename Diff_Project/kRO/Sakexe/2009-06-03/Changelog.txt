@@ -1,0 +1,11 @@
+-= 2009-06-03 =-
+* packet_ver : 23
+
+v1.0
+Full Options.
+Add :
+* [UI](X)_W_Color_(Red)
+* [UI](X)_W_Color_(Yellow)
+* [UI](X)_W_Color_(White)
+* [UI]_Translate_Char_Selection_Screen_(Recommended)
+Change [UI]_Enable_All_Elements_of_Quest_Windows_(Recommended) into [UI]_Enable_Quest_Window.

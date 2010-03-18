@@ -1,0 +1,6 @@
+v1.0
+Full Options (Need packetver 23 with Extended Pet Packet).
+v1.0a
+Add "Disable Random Login Background"
+v1.1
+Update diff with latest option.

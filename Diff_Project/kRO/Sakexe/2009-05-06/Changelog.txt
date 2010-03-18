@@ -1,0 +1,11 @@
+-= 2009-05-06 =-
+* packet_ver : 23
+
+v1.0b
+Add : [Fix] Enable Official Custom Fonts
+
+v1.0a
+Add : [Fix] Enable Title Bar Menu
+
+v1.0
+Full Options.

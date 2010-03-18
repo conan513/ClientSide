@@ -1,0 +1,42 @@
+v0.9e
+Solved problem in Custom Aura [Adrilindozao]
+Solved problem in Adata/bdata [Fabio / Yommy]
+
+v0.9d
+Added Proxy Support [Adrilindozao]
+
+v0.9c
+Added new "Enable 9 Character Slots" (Thanks lordchris) [Myst]
+Added "Black Login background", it's the old "Enforce Old Login Background" [Myst]
+Added Chat Colors [Myst]
+Change "[Data]_Use_Official_Clothes_Pallelts_All_Langtypes" to "[Data]_Use_Official_Clothes_Palettes_All_Langtypes" [Myst]
+
+v0.9b
+Added Enable Multipl Grfs [Yomanda]
+
+v0.9
+Beta version
+
+First Release.
+Added new options: 
+[Required] Fix Client Freeze langtype 1+
+(Recommended) Enforce Official Login Background (Gravity removed old background from Client)
+Black Login Background, it's the old "Enforce Old Login background"
+
+Removed:
+Enforce New Login Background
+Enforce Old Login Background
+
+Missing:
+*Xray options
+
+
+-------------------------------------------------------------
+
+//   [Required] Fix Client Freeze Langtype1+:   [by Yommy]
+This patch is to fix the client freeze in langtype 1+
+
+//   [UI] Enforce Official Login Background (Recommended) [Adrilindozao]
+----------------------------------------
+- Used login background alike kRO background. (t_배경x-x , t2_배경x-x)
+Recommend now because gravity removed old background and langtypes that used bgi_temp don't show none login background without this patch.

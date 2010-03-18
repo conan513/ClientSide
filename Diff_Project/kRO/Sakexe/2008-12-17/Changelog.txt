@@ -1,0 +1,6 @@
+v1.0
+Full Options (Need packetver 23 with Extended Pet Packet).
+
+v1.1
+Add [Fix]_HKLM_To_HKCU. NOT YET TESTED. Thanks to flaviojs :)
+You MUST have a patched Setup.exe in your client's folder BEFORE.

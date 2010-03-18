@@ -1,0 +1,7 @@
+-= 2009-05-20 =-
+* packet_ver : 23
+
+v1.0
+Full Options.
+Update Show_EXP/Job_Bars_up_to_255, please test it !
+Add [Fix](12)_Enable_21_Character_Slots and [Fix](12)_Enable_255_Character_Slots !

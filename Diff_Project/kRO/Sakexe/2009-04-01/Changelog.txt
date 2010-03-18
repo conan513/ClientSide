@@ -1,0 +1,12 @@
+v1.0
+Full Options (Need packetver 23 with Extended Pet Packet).
+v1.0b
+Solved problem in Disable Hshield. Now we need remove another call.
+v1.0c
+Update "Disable HShield".
+v1.0d
+Better "Disable HShield".
+v1.0e
+Add "Disable Random Login Background"
+v1.1
+Update diff with latest option.

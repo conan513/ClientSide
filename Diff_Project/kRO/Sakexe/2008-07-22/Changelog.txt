@@ -1,0 +1,7 @@
+v1.0
+First Release.
+Full Options.
+v1.0b
+Added new diff: Enable New Trade Window [Fabio]
+v1.1
+Added Save Main Chat With Scroll Lock

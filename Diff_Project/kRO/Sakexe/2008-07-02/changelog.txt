@@ -1,0 +1,15 @@
+v.1.0
+First Release.
+Missing Chat Colors and DNS Support.
+v1.0b
+Added Chat Colors and DNS Support.
+v1.0c
+Added [Fix]Fix BattleMode Double Letters in Chats (Recommended) by FlavioJs
+Added [Fix]Exit BattleMode only with Space (Recommended) by FlavioJs
+v1.1
+Added Missing options and some new usefull patches made after this sakexe.
+v1.2
+* Added new patch byte [Auto] OFF by default /Skip [Fabio]
+v1.2b
+Added [UI]_Disable_/effect
+Added [Fix]_Multi_Language_Support_in_all_Langtypes

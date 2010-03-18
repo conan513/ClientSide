@@ -1,0 +1,16 @@
+v0.9b
+- Missing : [Fix](12)_Enable_12_Character_Slots
+- Bugged : [Fix](12)_Enable_9_Character_Slots
+
+v1.0
+- Fixed : [Fix](12)_Enable_9_Character_Slots
+- Bugged : [Fix](12)_Enable_12_Character_Slots
+
+v1.1
+Full Options (Need packetver 23 with Extended Pet Packet).
+- Fixed : [Fix](12)_Enable_12_Character_Slots
+- Added : [Fix](12)_Enable_15_Character_Slots
+- Added : [Fix](12)_Enable_18_Character_Slots
+
+v1.2
+Update diff with latest option.

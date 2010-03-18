@@ -1,0 +1,18 @@
+v1.0a
+First Release
+v1.0b
+Solved problems in Multigrfs.
+v1.0c
+Organized the order of patches.
+Added /loading
+v1.0d
+Added Free Form Stats Polygon.
+Added Proxy Support.
+v1.1
+Added CashPoints Korean to English in Langtype0 (Recommended)
+v1.1b
+Fixed /Notalkmsg.
+v1.1c
+Added Enable New Trade Window.
+v1.1d
+Solved problem in New Trade Window

@@ -1,0 +1,12 @@
+v1.0
+First Release. (Full Options)
+v1.0b
+Tried to Solve the problem in DNS and Proxy, (Failed)
+v1.0c
+Solved the CRC problem.
+Renamed Disable Login Encryption in Langtype 0 >>> Disable Encryption in Login Packet 0x2b0
+Added new Diffs: Enforce Login Packet 0x2b0 and Disable Login Packet 0x2b0
+v1.0d
+Solved problem in DNS and Proxy.
+v1.1
+Added new patch byte [Auto] OFF by default /Skip (Recommended) [Fabio]

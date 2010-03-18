@@ -1,0 +1,4 @@
+v1.0
+Full Options (Need packetver 23 with Extended Pet Packet).
+v1.0a
+Update "Enable 9 Chars Slots"

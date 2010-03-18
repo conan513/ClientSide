@@ -1,0 +1,8 @@
+-= 2009-06-10 =-
+* packet_ver : 23
+
+v1.0
+Full Options.
+Change :
+* [Required]_Aura_Crashfix to [Fix]_Aura_Crashfix
+* [Required]_Fix_Client_Freeze_Langtype_1+ to [Fix]_Fix_Client_Freeze_Langtype_1+

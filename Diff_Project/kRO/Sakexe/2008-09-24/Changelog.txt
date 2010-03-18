@@ -1,0 +1,8 @@
+v1.0
+Full Options (Need packetver 23).
+v1.0b
+Added [Required]_Ignore_File_Checksum_Langtype_0.
+v1.0c
+Added byte_[UI]_Extended_PM_Box.
+Added byte_[UI]_Extended_Chat_Room_Box.
+Fix [Required]_Ignore_File_Checksum_Langtype_0.

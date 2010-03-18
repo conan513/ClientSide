@@ -1,0 +1,18 @@
+v0.1d
+Added /Loading
+v0.1c
+Renamed Autos to the new name [Adrilindozao]
+v0.1b
+Added Autos  [Adrilindozao]
+v0.1
+Beta version, first shot !
+
+First Release.
+Removed:
+[UI] Enable Proxy Support, think nobody use it, probably useless. [Myst]
+
+Missing:
+Nothing !
+
+
+-------------------------------------------------------------

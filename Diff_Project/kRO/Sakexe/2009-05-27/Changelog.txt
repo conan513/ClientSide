@@ -1,0 +1,12 @@
+-= 2009-05-27 =-
+* packet_ver : 23
+
+v1.0
+Full Options.
+Update [Fix]_Disable_HShield_(Recommended) and [Fix]_Allow_Multiple_Windows !
+
+v1.1
+Add [UI]_Enable_All_Elements_of_Quest_Windows ! (Thanks Henko !)
+
+v1.2
+Update some things.

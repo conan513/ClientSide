@@ -1,0 +1,13 @@
+v1.0c
+	*Fix, [UI]_Disable_Charname_Chat_Parsing, it was causing the client to crash when using @go,   [Diablo]
+	 Updated, [UI]_Custom_Window_Title_(Recommended), it now add the clientdate & clienttype to the Title
+	 Added, [UI]_Change_Gravity_Error_Handler_(Recommended).
+v1.0b
+	*Added [UI]_Custom_Window_Title_(Recommended), [Fix]_Show_Debug. [Diablo]
+v1.0
+	*Solved the bug with Nprotect and Filename Check, now both diffs are together.
+v0.91
+	*Added Guild_Chat_Color. [Myst]
+v0.9
+	*Missing: Custom_Window_Title / Guild_Chat_Color / Show_Debug
+	 Bug: [Fix]_Disable_nProtect_&_GameGuard_(Recommended) and [Fix]_Disable_Filename_Check_(Recommended) at same byte : 29A3A6

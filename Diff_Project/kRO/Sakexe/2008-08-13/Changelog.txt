@@ -1,0 +1,4 @@
+v1.0
+Full Options.
+v1.0b
+* Added new patch byte [Auto] OFF by default /Skip (Recommended) [Fabio]

@@ -1,0 +1,9 @@
+v1.3
+Update diff with latest option.
+v1.2
+* Add diff "[Fix] Remove Gravity Logo"
+* Change diff "[Fix] Remove Gravity Ads"
+v1.1
+Update to 2009-03-11bSakexe instead of 2009-03-11aSakexe.
+v1.0
+Full Options (Need packetver 23 with Extended Pet Packet).
