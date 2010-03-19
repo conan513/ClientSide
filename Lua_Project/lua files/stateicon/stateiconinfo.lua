@@ -71,7 +71,7 @@ StateIconList[EFST_IDs.EFST_CONCENTRATION] = {
 }
 StateIconList[EFST_IDs.EFST_GRIFFON] = {
 	descript = {
-		{"Riding a Griffon", 155, 202, 155}
+		{"Riding Griffon", 155, 202, 155}
 	}
 }
 StateIconList[EFST_IDs.EFST_GS_MADNESSCANCEL] = {
@@ -210,10 +210,10 @@ StateIconList[EFST_IDs.EFST_NJ_BUNSINJYUTSU] = {
 }
 StateIconList[EFST_IDs.EFST_WUGRIDER] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"워그 라이더 (WUG RIDER / 늑대 기수)", 155, 202, 155}, 
+		{"Warg Rider", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"활 사용 불가"}, 
-		{"워그 전용 스킬만 사용 가능"}
+		{"Bows Disabled"}, 
+		{"Warg Skills are only allowed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ATKER_BLOOD] = {
@@ -225,11 +225,11 @@ StateIconList[EFST_IDs.EFST_ATKER_BLOOD] = {
 }
 StateIconList[EFST_IDs.EFST_BODYPAINT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"바디 페인팅", 155, 202, 155}, 
+		{"Body Painting", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"클로킹 상태 해제"}, 
-		{"확률에 따라 암흑 발생"}, 
-		{"확률에 따라 공격속도 감소"}
+		{"Reveals hidden enemies"}, 
+		{"Chance to inflict Blind to enemies"}, 
+		{"Reduces Enemy ASPD"}
 	}
 }
 StateIconList[EFST_IDs.EFST_NJ_UTSUSEMI] = {
@@ -333,14 +333,14 @@ StateIconList[EFST_IDs.EFST_SHIELDSPELL_REF] = {
 StateIconList[EFST_IDs.EFST_FOOD_INT_CASH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"INT 향상"}
+		{"Improves INT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPSHIELD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"방패 장착해제 상태", 155, 202, 155}, 
+		{"Shield Off Status", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"방패 장착 불가"}
+		{"Cannot equip Shields"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MELTDOWN] = {
@@ -355,10 +355,10 @@ StateIconList[EFST_IDs.EFST_MELTDOWN] = {
 }
 StateIconList[EFST_IDs.EFST_QUAGMIRE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"콰그마이어(Quagmire)", 155, 202, 155}, 
+		{"Quagmire", 155, 202, 155}, 
 		{"%s", 255, 176, 98},
-		{"이동속도 감소"}, 
-		{"AGI, DEX 감소"}
+		{"Reduces Movement Speed"}, 
+		{"Reduces AGI/DEX"}
 	}
 }
 StateIconList[EFST_IDs.EFST_KAIZEL] = {
@@ -380,7 +380,7 @@ StateIconList[EFST_IDs.EFST_CR_SHRINK] = {
 StateIconList[EFST_IDs.EFST_FOOD_VIT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"VIT 향상"}
+		{"Improves VIT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PARRYING] = {
@@ -400,22 +400,22 @@ StateIconList[EFST_IDs.EFST_PROTECTWEAPON] = {
 StateIconList[EFST_IDs.EFST_FOOD_AGI] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"AGI 향상"}
+		{"Improves AGI"}
 	}
 }
 StateIconList[EFST_IDs.EFST_INC_AGI] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"민첩성 증가(Increase agility)", 155, 202, 155}, 
+		{"Increase agility", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"이동속도 증가"}, 
-		{"공격속도 증가"}
+		{"Increases Movement Speed"}, 
+		{"Increases Attack Speed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SHOUT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"고성방가", 155, 202, 155}, 
+		{"Loud Exclamation (Crazy Uproar)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"STR 증가"}
+		{"Increases STR"}
 	}
 }
 StateIconList[EFST_IDs.EFST_HELLPOWER] = {
@@ -544,8 +544,8 @@ StateIconList[EFST_IDs.EFST_HIDING] = {
 }
 StateIconList[EFST_IDs.EFST_WEIGHTOVER50] = {
 	descript = {
-		{"무게 50% 이상", 155, 202, 155}, 
-		{"HP, SP 자연회복 불가"}
+		{"Overweight 50%", 155, 202, 155}, 
+		{"HP/SP will not be restored"}
 	}
 }
 StateIconList[EFST_IDs.EFST_STRUP] = {
@@ -1121,7 +1121,7 @@ StateIconList[EFST_IDs.EFST_REFRESH] = {
 StateIconList[EFST_IDs.EFST_FOOD_LUK_CASH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98},
-		{"LUK 향상"}
+		{"Improves LUK"}
 	}
 }
 StateIconList[EFST_IDs.EFST_BROKENARMOR] = {
@@ -1225,12 +1225,12 @@ StateIconList[EFST_IDs.EFST_TOXIN] = {
 }
 StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {
 	descript = {
-		{"잠룡승천(潛龍昇天)", 155, 202, 155}, 
-		{"최대 기 구체 수 증가"}, 
-		{"최대 HP와 SP 증가"}, 
-		{"공격속도 증가"}, 
-		{"폭기 상태 유지"}, 
-		{"매 초당 일정량의 HP 소실"}
+		{"Rising Dragon", 155, 202, 155}, 
+		{"Maximum Spheres Increased"}, 
+		{"Increases Maximum HP/SP"}, 
+		{"Increases Attack Speed"}, 
+		{"Maintains Fury State"}, 
+		{"Slowly Drains HP per seconds"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ANGEL_PROTECT] = {
@@ -1264,14 +1264,14 @@ StateIconList[EFST_IDs.EFST_CLOAKINGEXCEED] = {
 		{"Cloaking Exceed", 155, 202, 155},
 		{"Hides from Insects and Demon types too."},
 		{"Remains hidden until a certain number of damage received."},
-		{"Increase Movement Speed"}
+		{"Increases Movement Speed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ASSUMPTIO2] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"아숨프티오 (Assumptio)", 155, 202, 155}, 
+		{"Assumptio", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"방어력 증가"}
+		{"Increases Defense"}
 	}
 }
 StateIconList[EFST_IDs.EFST_THORNS_TRAP] = {
@@ -1290,15 +1290,15 @@ StateIconList[EFST_IDs.EFST_SLOWPOISON] = {
 }
 StateIconList[EFST_IDs.EFST_CLOAKING] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"클로킹(Cloaking)", 155, 202, 155},
+		{"Cloaking", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"다른 사람에게 보이지 않는 상태"}
+		{"Invisible"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PARTYFLEE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"회피율 증가"}
+		{"Increases Flee Rate"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CRITICALPERCENT] = {
@@ -1330,7 +1330,7 @@ StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
 StateIconList[EFST_IDs.EFST_FOOD_DEX] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"DEX 향상"}
+		{"Improves DEX"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ANALYZE] = {
@@ -1359,9 +1359,9 @@ StateIconList[EFST_IDs.EFST_COUNTER_ON] = {
 }
 StateIconList[EFST_IDs.EFST_GLORIA] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"글로리아(Gloria)", 155, 202, 155}, 
+		{"Gloria", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"LUK 증가"}
+		{"Increases LUK"}
 	}
 }
 StateIconList[EFST_IDs.EFST_RUSH_WINDMILL] = {
@@ -1418,15 +1418,15 @@ StateIconList[EFST_IDs.EFST_GENTLETOUCH_CHANGE] = {
 }
 StateIconList[EFST_IDs.EFST_STRIPACCESSARY] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"액세서리 장착해제 상태", 155, 202, 155}, 
+		{"Accessory Off Status", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"액세서리 장착 불가"}
+		{"Cannot Equip Accessories"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYUNDEAD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"언데드 속성 적용"}
+		{"Applies Undead Property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_INVISIBILITY] = {
@@ -1449,13 +1449,13 @@ StateIconList[EFST_IDs.EFST_ABUNDANCE] = {
 StateIconList[EFST_IDs.EFST_FOOD_BASICHIT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"명중률 향상"}
+		{"Improves HIT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_AGI_CASH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"AGI 향상"}
+		{"Improves AGI"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SHADOWFORM] = {
@@ -1499,7 +1499,7 @@ StateIconList[EFST_IDs.EFST_MARIONETTE_MASTER] = {
 }
 StateIconList[EFST_IDs.EFST_MARIONETTE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"마리오네뜨 컨트롤 (대상)", 155, 202, 155}, 
+		{"Marionette Control (target)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
 		{"시전 플레이어에게"}, 
 		{"스테이터스를 받은 상태"}
@@ -1531,7 +1531,7 @@ StateIconList[EFST_IDs.EFST_INFRAREDSCAN] = {
 StateIconList[EFST_IDs.EFST_INT_SCROLL] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"INT 향상"}
+		{"Improves INT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ASPERSIO] = {
@@ -1543,7 +1543,7 @@ StateIconList[EFST_IDs.EFST_ASPERSIO] = {
 }
 StateIconList[EFST_IDs.EFST_MOVHASTE_INFINITY] = {
 	descript = {
-		{"이동속도 증가"}
+		{"Increases Movement Speed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_LERADS_DEW] = {
@@ -1556,7 +1556,7 @@ StateIconList[EFST_IDs.EFST_LERADS_DEW] = {
 StateIconList[EFST_IDs.EFST_FOOD_INT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"INT 향상"}
+		{"Improves INT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_VENOMBLEED] = {
@@ -1596,16 +1596,16 @@ StateIconList[EFST_IDs.EFST_STONEHARDSKIN] = {
 }
 StateIconList[EFST_IDs.EFST_WEIGHTOVER90] = {
 	descript = {
-		{"무게 90% 이상", 155, 202, 155}, 
-		{"HP, SP 자연회복 불가"}, 
-		{"공격, 스킬 사용 불가"}
+		{"Overweight 90%", 155, 202, 155}, 
+		{"HP/SP will not be restored"}, 
+		{"Attacks/Skills are disabled"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTHELM] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"케미칼 프로텍션(헬름) (Chemical Protection Helm)", 155, 202, 155}, 
+		{"Chemical Protection Helm (Biochemical Helm)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"투구가 절대로 손상되지 않는 상태"}
+		{"Protects Helm from any kinds of status"} --Or use "Indestructible and Unstrippable"
 	}
 }
 StateIconList[EFST_IDs.EFST_PLUSAVOIDVALUE] = {
@@ -1646,28 +1646,28 @@ StateIconList[EFST_IDs.EFST_CRITICALWOUND] = {
 }
 StateIconList[EFST_IDs.EFST_PRESTIGE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"프레스티지", 155, 202, 155}, 
+		{"Prestige", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"스탯에 따른 마법 회피율 적용"}, 
-		{"방어력 상승"}
+		{"Chance to evade Magical Attacks"}, 
+		{"Defense Up"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_DEX_CASH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"DEX 향상"}
+		{"Improves DEX"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CARTBOOST] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"카트 부스트 (Cart Boost)", 155, 202, 155}, 
+		{"Cart Boost", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
 		{"카트 이용 시의 이동속도 증가"}
 	}
 }
 StateIconList[EFST_IDs.EFST_L_LIFEPOTION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"중형 생명수", 155, 202, 155}, 
+		{" Medium Life Potion", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
 		{"4초 당 일정량의 HP 회복"}, 
 		{"버서크 상태 중 효과 없음"}
@@ -1675,9 +1675,9 @@ StateIconList[EFST_IDs.EFST_L_LIFEPOTION] = {
 }
 StateIconList[EFST_IDs.EFST_WINDWALK] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"윈드 워크 (Wind Walk)", 155, 202, 155}, 
+		{"Wind Walk", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"이동속도, 회피율 향상"}
+		{"Increases Movement Speed/Evasion"}
 	}
 }
 StateIconList[EFST_IDs.EFST_POPECOOKIE] = {
@@ -1719,12 +1719,12 @@ StateIconList[EFST_IDs.EFST_PROTECTEXP] = {
 StateIconList[EFST_IDs.EFST_PROPERTYDARK] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"암속성 적용"}
+		{"Applies Shadow Property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_REFLECTSHIELD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"리플렉트 쉴드 (Reflect Shield)", 155, 202, 155}, 
+		{"Reflect Shield", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
 		{"자신을 근거리 물리 공격한 적에게"}, 
 		{"일정한 데미지를 되돌림"}
@@ -1746,17 +1746,17 @@ StateIconList[EFST_IDs.EFST_LIGHTNINGWALK] = {
 }
 StateIconList[EFST_IDs.EFST_FROSTMISTY] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"빙결 상태"}, 
+		{"Freezing Status"}, 
 		{"%s", 255, 176, 98}, 
-		{"방어력, 이동속도, 공격속도 감소"}, 
-		{"고정 캐스팅 시간 증가"}
+		{"Decreases Defense, ASPD and Movement speed"}, 
+		{"Increases Fixed Cast time."}
 	}
 }
 StateIconList[EFST_IDs.EFST_COLD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"콜드 슬로어", 155, 202, 155}, 
+		{"Cold Slower", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"수속성 데미지와"}, 
-		{"빙결, 동빙 상태 이상"}
+		{"Increases Attack Power"}, 
+		{"Freezing or Frozen chance"}
 	}
 }

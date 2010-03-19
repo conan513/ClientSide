@@ -348,13 +348,14 @@ makeMapList()
 --code below are wrong codes
 print("[All Output Data Structure]")
 regionIterator = getRegionIterator()
-if not regionIterator.hasNext() 
-		or not mapIterator.hasNext() then
+if not regionIterator.hasNext() then
 			region = regionIterator.value()
 			print(region["id"],region["name"])
 			mapIterator = getMapIterator(region["id"])
+	if not mapIterator.hasNext() then
 			map = mapIterator.value()
 			print("\t",queryMapInfo(region.id,map.id))
+	end
 end
 print("\n[Local Data Search]")
 

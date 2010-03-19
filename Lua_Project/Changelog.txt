@@ -1,3 +1,7 @@
+rev8 - [2010-03-19]
+ - fixed string buf 352 error to party_booking.lua
+ - Translated some korean description from stateiconinfo.lua (some might be not in proper grammar)
+ 
 rev1 - [2010-03-19]
  - moved to assembla
  - added stateiconinfo.lua (needs some translators)
