@@ -344,47 +344,43 @@ getMapIterator = function(regionId)
 end
 
 makeMapList()
---Lines Below is my next work.. functions are done so few more lines to go :)
---code below are wrong codes
 print("[All Output Data Structure]")
 regionIterator = getRegionIterator()
 if not regionIterator.hasNext() then
-			region = regionIterator.value()
-			print(region["id"],region["name"])
-			mapIterator = getMapIterator(region["id"])
+	region = regionIterator.value()
+	print(region["id"],region["name"])
+	mapIterator = getMapIterator(region["id"])
 	if not mapIterator.hasNext() then
-			map = mapIterator.value()
-			print("\t",queryMapInfo(region.id,map.id))
+		map = mapIterator.value()
+		print("\t",queryMapInfo(region.id,map.id))
 	end
 end
+
 print("\n[Local Data Search]")
+regionIterator = getRegionIterator()
+if not regionIterator.hasNext() then
+	region = regionIterator.value()
+	print(region.id,region.name)
+end
 
+print("\n[Map Data Search]")
+mapIterator = getMapIterator(2)
+if not mapIterator.hasNext() then
+	map = mapIterator.value()
+	print(map.id,map.name)
+end
+
+print("\n[지역 데이터 정보 요청]")
+print(queryRegionInfo(2))
+_,_,mapIterator,_ = queryRegionInfo(2)
+if not mapIterator.hasNext() then
+	map = mapIterator.value()
+	print(map.id,map.name)
+end
+
+print("\n[맵 데이터 정보 요청]")
+print(queryMapInfo(2,1))
 
 --[[
---Ignore this line below
-ShowUpdateNowConfirmationDialog = function(l_2_0)
-if EasterEggRunning == true then
-return
-end
-if navigatingOut == true then
-return
-end
-local l_2_1 = URL("Manila://Confirmation.dialog")
-l_2_1.Parameters:AddParameter("Title", Locale:GetString("IDS_YOU_ARE_ROAMING"))
-l_2_1.Parameters:AddParameter("ContentString", Locale:GetString("IDS_UPDATE_NOW_DLG_MSG"))
-local l_2_2 = _application.DialogManager:GetDialog(l_2_1)
--- internal function below this line
-l_2_2.OnExit:connect(function(l_1_0)
-OnShowUpdateNowConfirmationDialogReturned(l_1_0, l_2_0)
-end)
-l_2_2:Show()
-end
---]]
---[[
-makeMapList()
-print["All Output Data Structure"]
-getRegionIterator()
-
-Incomplete working on it.
-5 Functions left and it's done.
+Even though line 349 to 382 it doesnt match the disassembler it does still work tested on official servers.
 --]]

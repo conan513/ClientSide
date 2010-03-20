@@ -1,3 +1,8 @@
+rev10 - [2010-03-20]
+ - Updated party_booking.lua and should be working now
+ - added 2010-03-10 Lub Files v2 now have party_booking.lub in it
+ - updated stateiconinfo.lua some descriptions from korean to english
+
 rev8 - [2010-03-19]
  - fixed string buf 352 error to party_booking.lua
  - Translated some korean description from stateiconinfo.lua (some might be not in proper grammar)
