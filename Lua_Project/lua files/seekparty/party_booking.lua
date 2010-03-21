@@ -370,7 +370,7 @@ if not mapIterator.hasNext() then
 	print(map.id,map.name)
 end
 
-print("\n[지역 데이터 정보 요청]")
+print("\n[Regional Data Information Request]")
 print(queryRegionInfo(2))
 _,_,mapIterator,_ = queryRegionInfo(2)
 if not mapIterator.hasNext() then
@@ -378,8 +378,9 @@ if not mapIterator.hasNext() then
 	print(map.id,map.name)
 end
 
-print("\n[맵 데이터 정보 요청]")
+print("\n[Map Data Information Request]")
 print(queryMapInfo(2,1))
+
 
 --[[
 Even though line 349 to 382 it doesnt match the disassembler it does still work tested on official servers.

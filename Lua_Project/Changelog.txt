@@ -1,3 +1,7 @@
+rev11 - [2010-03-21]
+ - Added diff/hex files for party_booking jobs category and stateicon timers to translate to English
+ - Translated remaining untranslated strings in party_booking.lua
+
 rev10 - [2010-03-20]
  - Updated party_booking.lua and should be working now
  - added 2010-03-10 Lub Files v2 now have party_booking.lub in it
