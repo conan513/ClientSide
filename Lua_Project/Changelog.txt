@@ -1,3 +1,6 @@
+rev12 - [2010-03-23]
+ - Updated stateiconinfo.lua [credit HiddenDragon for translations]
+
 rev11 - [2010-03-21]
  - Added diff/hex files for party_booking jobs category and stateicon timers to translate to English
  - Translated remaining untranslated strings in party_booking.lua

@@ -25,7 +25,7 @@ StateIconList[EFST_IDs.EFST_OVERTHRUST] = {
 StateIconList[EFST_IDs.EFST_AUTOBERSERK] = {
 	descript = {
 		{"Auto Berserk", 155, 202, 155},
-		{"빈사 상태 시 분노"}
+		{"Rage when close to death"}
 	}
 }
 StateIconList[EFST_IDs.EFST_BEYOND_OF_WARCRY] = {
@@ -39,10 +39,10 @@ StateIconList[EFST_IDs.EFST_BEYOND_OF_WARCRY] = {
 StateIconList[EFST_IDs.EFST_SWORDREJECT] = {
 	descript = {
 		{"Sword Reject", 155, 202, 155},
-		{"상대 플레이어의 검계열 무기 공격에 대해"},
-		{"(상대 몬스터의 모든 공격에 대해)"},
-		{"확률에 따라 데미지 1/2로 감소"},
-		{"나머지 1/2은 상대에게 되돌림"}
+		{"Reflects damage back to attacking monsters"},
+		{"(for all monster attacks)"},
+		{"Damage received is reduced by 1/2"},
+		{"You receive the other 1/2 of damage"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MANU_DEF] = {
@@ -55,18 +55,18 @@ StateIconList[EFST_IDs.EFST_MANU_DEF] = {
 }
 StateIconList[EFST_IDs.EFST_ENERVATION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"마스커레이드 : 이너베이션 (가면 : 탈력)", 155, 202, 155},
+		{"Masquerade: Enervation", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"공격력 감소"},
-		{"피해 순간 기 구체 소실"}
+		{"Reduces ATK"},
+		{"Removes Spirit Spheres"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CONCENTRATION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"집중력 향상(Attention concentrate)", 155, 202, 155},
+		{"Attention Concentration", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"DEX, AGI 증가"},
-		{"사용 순간 가까이 숨은 적 발견"}
+		{"Increases DEX, AGI 증가"},
+		{"Reveals nearby hidden enemies"}
 	}
 }
 StateIconList[EFST_IDs.EFST_GRIFFON] = {
@@ -109,118 +109,118 @@ StateIconList[EFST_IDs.EFST_HALLUCINATIONWALK] = {
 StateIconList[EFST_IDs.EFST_STORMKICK_ON] = {
 	descript = {
 		{"Whirlwind Kick (Tornado Kick)", 155, 202, 155},
-		{"적에게 공격 명중 시"},
-		{"확률에 따라 회오리차기 준비 자세"}
+		{"When attacking an enemy"},
+		{"there is a chance to prepare a Whirlwind Kick"}
 	}
 }
 StateIconList[EFST_IDs.EFST_KAUPE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"카우프", 155, 202, 155}, 
+		{"Kaupe", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"확률에 따라 적의 공격을 회피"}
+		{"Chance to evade an enemy attack."}
 	}
 }
 StateIconList[EFST_IDs.EFST_SHIELDSPELL_DEF] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"쉴드 스펠 - 防", 155, 202, 155}, 
+		{"Shield Spell (DEF)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"방패 방어도에 따른 마법 발동"}
+		{"Invokes a magical spell based on DEF"}
 	}
 }
 StateIconList[EFST_IDs.EFST_WARMER] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"워머", 155, 202, 155}, 
+		{"Warmer", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"냉동, 동빙, 빙결 상태 해제"}, 
-		{"냉동, 동빙, 빙결 상태에 걸리지 않음"}, 
-		{"3초당 일정량의 HP 회복"}
+		{"Removes Frozen/Freezing status"}, 
+		{"Immunity to Frozen/Freezing status"}, 
+		{"Recovers HP every 3 seconds"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECT_MDEF] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"마법 방어 포션", 155, 202, 155}, 
+		{"Magic Armor Potions", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"마법 공격 내성 증가"}
+		{"Increases resistance to magical attacks"}
 	}
 }
 StateIconList[EFST_IDs.EFST_STAR_COMFORT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"별의 안락함", 155, 202, 155}, 
+		{"Comfort of the Stars", 155, 202, 155}, 
 		{"%s", 255, 176, 98},
-		{"공격속도 향상"}
+		{"Increases ASPD"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_CRITICALSUCCESSVALUE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"크리티컬 확률 향상"}
+		{"Improves CRIT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYTELEKINESIS] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"염속성 적용"}
+		{"Enchants Weapon with Ghost Property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_GLOOMYDAY] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"수줍은 하루의 우울", 155, 202, 155}, 
+		{"Gloomy Day", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"특정 스킬의 데미지 상승"}, 
-		{"회피율과 공격속도 감소"}
+		{"Increases the damage of specific skills"}, 
+		{"Reduces FLEE, ASPD"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SIRCLEOFNATURE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"순환하는 자연의 소리", 155, 202, 155},
+		{"Circle of Nature's Sound", 155, 202, 155},
 		{"%s", 255, 176, 98}, 
-		{"매 초당 일정량의 SP 소모, HP 회복"}
+		{"Consumes SP and recovers HP"}
 	}
 }
 StateIconList[EFST_IDs.EFST_DEADLYINFECT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"데들리 인펙트", 155, 202, 155}, 
+		{"Deadly Infect", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"자신이 공격하거나"},
-		{"자신을 공격하는 적에게"},
-		{"모든 상태이상을 전염"}
+		{"When attacking"},
+		{"or being attacked"},
+		{"your status effects are applies to them"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SYMPHONY_LOVE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"연인들을 위한 심포니", 155, 202, 155}, 
+		{"Symphony of Love", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"마법 방어력 상승"}
+		{"Increases MDEF"}
 	}
 }
 StateIconList[EFST_IDs.EFST_BANDING] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"밴딩", 155, 202, 155}, 
+		{"Banding", 155, 202, 155}, 
 		{"%s", 255, 176, 98},
-		{"밴딩 상태"}
+		{"Banding status"}
 	}
 }
 StateIconList[EFST_IDs.EFST_NJ_BUNSINJYUTSU] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"환영분신", 155, 202, 155}, 
+		{"Illusionary Shadow", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"일정 횟수만큼 근거리, 원거리 물리 공격을 회피"}, 
-		{"마법 공격 방어 불가"}
+		{"Avoids a certain number of physical attacks"}, 
+		{"Magical attacks cannot be avoided"}
 	}
 }
 StateIconList[EFST_IDs.EFST_WUGRIDER] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Warg Rider", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"Bows Disabled"}, 
+		{"Bows are Disabled"}, 
 		{"Warg Skills are only allowed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ATKER_BLOOD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"SP 소모량 감소포션", 155, 202, 155}, 
+		{"SP Consumption Potion", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"스킬 사용 SP 소모량 감소"}
+		{"Skills using SP have their consumption increased"}
 	}
 }
 StateIconList[EFST_IDs.EFST_BODYPAINT] = {
@@ -234,100 +234,100 @@ StateIconList[EFST_IDs.EFST_BODYPAINT] = {
 }
 StateIconList[EFST_IDs.EFST_NJ_UTSUSEMI] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"매미허물 벗기", 155, 202, 155}, 
+		{"Cicada Skin Shedding", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"일정 횟수만큼 공격을 회피"}, 
-		{"공격자의 반대 방향으로 이동"}
+		{"Avoids a certain number of physical attacks"}, 
+		{"When avoiding, move in the opposite direction of the attacker"}
 	}
 }
 StateIconList[EFST_IDs.EFST_POISONINGWEAPON] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"포이즈닝 웨폰 (POISONING WEAPON / 맹독 무기)", 155, 202, 155}, 
+		{"Poisoning Weapon", 155, 202, 155}, 
 		{"%s", 255, 176, 98},
-		{"공격 시 대상에게 무기에 바른 독 효과를 입힘"}
+		{"Applies the poison coated on your weapon to the target"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CASH_DEATHPENALTY] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"사망 시 경험치 소실 없음"}
+		{"No EXP loss upon death"}
 	}
 }
 StateIconList[EFST_IDs.EFST_GS_ADJUSTMENT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"애드저스트먼트(Adjustment)", 155, 202, 155}, 
+		{"Adjustment", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"명중률 감소"}, 
-		{"회피율 증가"},
-		{"원거리 물리 공격으로 받는 데미지 감소"}
+		{"Reduces HIT"}, 
+		{"Increases FLEE"},
+		{"Reduces damage of incoming ranged physical attacks"}
 	}
 }
 StateIconList[EFST_IDs.EFST_AUTOSPELL] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"오토 스펠 (Auto Spell)", 155, 202, 155},
+		{"Auto Spell", 155, 202, 155},
 		{"%s", 255, 176, 98}, 
-		{"일반 공격 중 확률에 따라"},
-		{"선택된 스킬이 캐스팅 없이 자동 발사"}, 
-		{"SP 소모는 일반 사용 시의 2/3"},
-		{"SP 부족 시 스킬 발동 불가"}
+		{"When physically attacking"},
+		{"the selected skill will automatically cast."}, 
+		{"SP consumed is 2/3 the regular amount"},
+		{"Skill will not cast without sufficient SP"}
 	}
 }
 StateIconList[EFST_IDs.EFST_DEC_AGI] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"민첩성 감소(Decrease agility)", 155, 202, 155}, 
+		{"Decrease Agility", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"이동속도 감소"}, 
-		{"공격속도 감소"}
+		{"Reduces Movement Speed"}, 
+		{"Reduces ASPD"}
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPWEAPON] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"무기 장착해제 상태", 155, 202, 155}, 
+		{"Weapon Off Status", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"무기 장착 불가"}
+		{"Weapons cannot be worn"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SHIELDSPELL_MDEF] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"쉴드 스펠 - 魔", 155, 202, 155}, 
+		{"Shield Spell (MDEF)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"방패 마법 방어도에 따른 마법 발동"}
+		{"Invokes a magical spell based on MDEF"}
 	}
 }
 StateIconList[EFST_IDs.EFST_AUTOGUARD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"오토 가드 (Auto Guard)", 155, 202, 155}, 
+		{"Auto Guard", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"근거리, 원거리 물리공격을 일정확률로 막음"}
+		{"Has a chance to block physical attacks"}
 	}
 }
 StateIconList[EFST_IDs.EFST_TAROTCARD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"운명의 타로 카드 (Tarot Card of Fate)", 155, 202, 155}, 
+		{"Tarot Card of Fate", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"적에게 14종류 카드 중 하나의 효과 부여"}
+		{"Applies one of 14 cards and their effects"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FEARBREEZE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"피어 브리즈 (FEAR BREEZE / 산들바람의 공포)", 155, 202, 155}, 
+		{"Fear Breeze", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"활 공격 시 확률에 따라"}, 
-		{"추가 공격 발동"}
+		{"When attacking with a bow"}, 
+		{"there is a chance to cause additional attacks"}
 	}
 }
 StateIconList[EFST_IDs.EFST_GN_CARTBOOST] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"카트 부스트", 155, 202, 155}, 
+		{"Cart Boost", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"카트 장착 시의 속도 증가"}
+		{"Increases Movement Speed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SHIELDSPELL_REF] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"쉴드 스펠 - 鍊", 155, 202, 155}, 
+		{"Shield Spell (Refine)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"방패 제련도에 따른 마법 발동"}
+		{"Invokes a magical effect based on refine"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_INT_CASH] = {
@@ -340,17 +340,17 @@ StateIconList[EFST_IDs.EFST_NOEQUIPSHIELD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Shield Off Status", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"Cannot equip Shields"}
+		{"Shields cannot be worn"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MELTDOWN] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"멜트다운 (Meltdown)", 155, 202, 155}, 
+		{"Meltdown", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"플레이어를 공격할 때"}, 
-		{"플레이어의 무기나 방어구를 일정확률로 파괴"}, 
-		{"몬스터를 공격할 때"}, 
-		{"몬스터의 공격력이나 방어력이 감소"}
+		{"When attacking a player"}, 
+		{"there is a chance to destroy his/her weapon/armor"}, 
+		{"When attacking a monster"}, 
+		{"the monster's attack and defense are reduced"}
 	}
 }
 StateIconList[EFST_IDs.EFST_QUAGMIRE] = {
@@ -363,18 +363,18 @@ StateIconList[EFST_IDs.EFST_QUAGMIRE] = {
 }
 StateIconList[EFST_IDs.EFST_KAIZEL] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"카이젤", 155, 202, 155},
+		{"Kaizel", 155, 202, 155},
 		{"%s", 255, 176, 98}, 
-		{"캐스팅시간이 DEX에 영향을 받지않음"}, 
-		{"사망 시 곧바로 부활, 2초간 기리에 상태 유지"}
+		{"Cast time not affected by DEX"}, 
+		{"Upon death, you will revive with Kyrie Eleison for 2 seconds"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CR_SHRINK] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"슈링크(Shrink)", 155, 202, 155}, 
+		{"Shrink", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"오토가드 스킬로 방어 시"}, 
-		{"확률에 따라 상대방을 밀어냄"}
+		{"When Autoguarding attacks"}, 
+		{"there is a chance to push the attack back"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_VIT] = {
@@ -385,16 +385,16 @@ StateIconList[EFST_IDs.EFST_FOOD_VIT] = {
 }
 StateIconList[EFST_IDs.EFST_PARRYING] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"패링 (Parrying)", 155, 202, 155}, 
+		{"Parrying", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"확률에 따라 상대방의 공격을 칼로 방어"}
+		{"Blocks physical attacks by chance"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTWEAPON] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"케미칼 프로텍션(웨폰) (Chemical Protection Weapon)", 155, 202, 155}, 
+		{"Chemical Protection (Weapon)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"무기가 절대로 손상되지 않는 상태"}
+		{"Prevents weapon from being stripped/broken"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_AGI] = {
@@ -420,18 +420,18 @@ StateIconList[EFST_IDs.EFST_SHOUT] = {
 }
 StateIconList[EFST_IDs.EFST_HELLPOWER] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"지옥의 권능", 155, 202, 155}, 
+		{"Hell Power", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"부활 불가"}, 
-		{"새크리파이스 사용 불가"}, 
-		{"지그프리드의 증표 사용 불가"}
+		{"Can not be revived"}, 
+		{"Sacrifice is Disabled"}, 
+		{"Token of Siegfried disabled"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CASH_RECEIVEITEM] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"몬스터 사냥 시"}, 
-		{"기본 아이템의 드롭률 2배 증가"}
+		{"When killing monsters"}, 
+		{"the drop chance is doubled"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SPL_DEF] = {
@@ -439,68 +439,68 @@ StateIconList[EFST_IDs.EFST_SPL_DEF] = {
 		{"루시올라의 꿀쨈", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
 		{"스플랑디드 필드지역 몬스터에게 받는"}, 
-		{"물리, 마법 데미지 감소"}
+		{"Reduces DEF, MDEF"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ILLUSION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"환각 상태", 155, 202, 155}, 
+		{"Illusion", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"화면 뒤틀림"},
-		{"데미지 표시 이상"},
-		{"경직에 의한 캐스팅 끊김"}
+		{"Screen distortion"},
+		{"Shows more damage"},
+		{"Randomly interrupts casting"}
 	}
 }
 StateIconList[EFST_IDs.EFST_HOVERING] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"호버링", 155, 202, 155}, 
+		{"Hovering", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"트랩 및 일부 지면 대상 마법의 효과를 받지 않음"}
+		{"Traps and some ground skills do not have any effect"}
 	}
 }
 StateIconList[EFST_IDs.EFST_BENEDICTIO] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"방어구에 성속성 부여"}
+		{"Enchants Armor with Holy Property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_WEAPONBLOCKING] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"웨폰 블로킹 (WEAPON BLOCKING / 튕겨내기)", 155, 202, 155}, 
+		{"Weapon Blocking", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"근접 물리 공격을 받을 시"}, 
-		{"확률에 따라 데미지 완전 무효"}
+		{"When hit by close range physical attacks"}, 
+		{"there is a chance to nullify the damage"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ANGELUS] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"안젤루스(Angelus)", 155, 202, 155}, 
+		{"Angelus", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"방어력 증가"}
+		{"Increases VIT DEF"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MARSHOFABYSS] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"마쉬 오브 어비스 (MARSH OF ABYSS / 심연의 늪)", 155, 202, 155}, 
+		{"Marsh of Abyss", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"이동속도 저하"},
-		{"방어력, 회피율 저하"}
+		{"Slows Movement"},
+		{"Reduces DEF, Flee"}
 	}
 }
 StateIconList[EFST_IDs.EFST_STEALTHFIELD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"스텔스 필드", 155, 202, 155}, 
+		{"Stealth Field", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"주변의 모든 대상을 클로킹 상태로 만듬"}, 
-		{"지속적으로 SP 소모"}, 
-		{"이동속도 감소"}
+		{"Cloaks everyone in a radius around caster"}, 
+		{"Consumes SP while active"}, 
+		{"Reduces Movement Speed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ADRENALINE2] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"풀 아드레날린러쉬", 155, 202, 155}, 
+		{"Full Adrenaline Rush", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"활을 제외한 무기의 공격속도 증가"}
+		{"Increases Weapon ASPD except Bows"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MANU_MATK] = {
@@ -513,33 +513,33 @@ StateIconList[EFST_IDs.EFST_MANU_MATK] = {
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPARMOR] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"갑옷 장착해제 상태", 155, 202, 155}, 
+		{"Armor Off Status", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"갑옷 장착 불가"}
+		{"Armor cannot be worn"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ENERGYCOAT] = {
 	descript = {
-		{"에너지 코트 (Energy Coat)", 155, 202, 155}, 
-		{"현재 SP 양에 비례하여"}, 
-		{"적으로부터의 피해 감소"}
+		{"Energy Coat", 155, 202, 155}, 
+		{"Reduces damage in proportion"}, 
+		{"to the amount of SP remaining"}
 	}
 }
 StateIconList[EFST_IDs.EFST_RENOVATIO] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"레노바티오 (RENOVATIO / 정화)", 155, 202, 155}, 
+		{"Renovatio", 155, 202, 155}, 
 		{"%s", 255, 176, 98},
-		{"5초 당 일정량의 HP 회복"}, 
-		{"언데드 몬스터에게 사용 시"}, 
-		{"시전자 레벨에 따라 일정한 데미지를 줌"}
+		{"Recovers HP every 5 seconds"}, 
+		{"When used on Undead monsters"}, 
+		{"it deals high damage according to skill level"}
 	}
 }
 StateIconList[EFST_IDs.EFST_HIDING] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"하이딩(Hiding)", 155, 202, 155}, 
+		{"Hiding", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"땅 속에 숨어 적의 공격 회피"}, 
-		{"적의 탐색 스킬로 발견 가능"}
+		{"Avoids enemy attacks by hiding in the ground"}, 
+		{"Can be discovered with detection skills"}
 	}
 }
 StateIconList[EFST_IDs.EFST_WEIGHTOVER50] = {
@@ -550,29 +550,29 @@ StateIconList[EFST_IDs.EFST_WEIGHTOVER50] = {
 }
 StateIconList[EFST_IDs.EFST_STRUP] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"스퍼트", 155, 202, 155}, 
+		{"Spurt", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"STR 증가"}, 
-		{"무기 미착용 시"}, 
-		{"달리기 레벨에 따라 공격력 증가"}
+		{"Increases STR"}, 
+		{"if the user is unequipped"}, 
+		{"and the skill level is high enough"}
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPHELM] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"투구 장착해제 상태", 155, 202, 155}, 
+		{"Headgear Off Status", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"투구 장착 불가"}
+		{"Headgear cannot be worn"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ATTHASTE_POTION3] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"공격속도 증가"}
+		{"Increases ASPD"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ENDURE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"인듀어(Endure)", 155, 202, 155},
+		{"Endure", 155, 202, 155},
 		{"%s", 255, 176, 98}, 
 		{"공격당해도 이동이나 공격 가능"}, 
 		{"일정 횟수 이상 공격 당할 경우 상태 해제"}
@@ -580,16 +580,16 @@ StateIconList[EFST_IDs.EFST_ENDURE] = {
 }
 StateIconList[EFST_IDs.EFST_TURNKICK_ON] = {
 	descript = {
-		{"차기 준비", 155, 202, 155}, 
-		{"적에게 공격 명중 시"}, 
-		{"확률에 따라 돌려차기 준비 자세"}
+		{"Ready Turn Kick", 155, 202, 155}, 
+		{"When attacking,"}, 
+		{"there's a chance to prepare a Turn Kick"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ENCHANTPOISON] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"인챈트 포이즌(Enchant Poison)", 155, 202, 155}, 
+		{"Enchant Poison", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"무기에 독속성 부여"}
+		{"Enchants Weapon with Poison Property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SPL_ATK] = {
@@ -602,221 +602,221 @@ StateIconList[EFST_IDs.EFST_SPL_ATK] = {
 }
 StateIconList[EFST_IDs.EFST_BLESSING] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"블레싱(Blessing)", 155, 202, 155},
+		{"Blessing", 155, 202, 155},
 		{"%s", 255, 176, 98}, 
-		{"DEX, INT, STR 증가"}, 
-		{"사용 순간 저주나 석화상태 회복"}
+		{"Increases DEX, INT and STR"}, 
+		{"Recovers from a few status effects"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ONEHANDQUICKEN] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"원핸드 퀴큰", 155, 202, 155}, 
+		{"One-hand Quicken", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"한손검 사용 시 공격속도 증가"}
+		{"Increases ASPD when using one-handed weapons"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SPEARQUICKEN] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"스피어 퀴큰 (Spear Quicken)", 155, 202, 155}, 
+		{"Spear Quicken", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
 		{"창 사용 시"}, 
-		{"공격속도 증가"}, 
-		{"크리티컬 상승"}, 
-		{"회피확률 상승"}
+		{"Increases ASPD"}, 
+		{"Increases CRIT"}, 
+		{"Increases Flee"}
 	}
 }
 StateIconList[EFST_IDs.EFST_BROKENWEAPON] = {
 	descript = {
-		{"무기 파괴 상태.", 155, 202, 155}
+		{"Weapon is damaged.", 155, 202, 155}
 	}
 }
 StateIconList[EFST_IDs.EFST_ASSUMPTIO] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"아숨프티오 (Assumptio)", 155, 202, 155}, 
+		{"Assumptio", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"방어력 증가"}
+		{"Reduces damage taken"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MAXIMIZE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"맥시마이즈 파워(Maximize Power)", 155, 202, 155}, 
+		{"Maximize Power", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"무기의 최대 성능을 이끌어냄"}, 
-		{"지속적으로 SP 소모"}
+		{"Increases damage to the maximum"}, 
+		{"Drains SP over time"}
 	}
 }
 StateIconList[EFST_IDs.EFST_LG_REFLECTDAMAGE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"리플렉트 데미지", 155, 202, 155}, 
+		{"Reflect Damage", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"받은 물리/마법 데미지의 일부를 주변에 되돌림"}, 
-		{"매 초당 일정량의 SP 소모"}
+		{"Applies damage received to all enemies in an area"}, 
+		{"Consumes SP every second"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTSHIELD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"케미칼 프로텍션(쉴드) (Chemical Protection Shield)", 155, 202, 155}, 
+		{"Chemical Protection (Shield)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"방패가 절대로 손상되지 않는 상태"}
+		{"Prevents shield from being stripped/broken"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MAGNIFICAT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"마니피캇(Magnificat)", 155, 202, 155}, 
+		{"Magnificat", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"SP 회복속도 향상"}
+		{"Increases natural SP Recovery Speed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ATTHASTE_POTION1] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"집중의 포션", 155, 202, 155}, 
+		{"Concentration Potion", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"공격속도 증가"}
+		{"Increases ASPD"}
 	}
 }
 StateIconList[EFST_IDs.EFST_POISONREACT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"포이즌 리액트(Poison React)", 155, 202, 155}, 
+		{"Poison React", 155, 202, 155}, 
 		{"%s", 255, 176, 98},
-		{"독속성의 공격을 되돌려주는 상태"},
-		{"일반공격에 의해 데미지를 입을 경우"},
-		{"상대에게 인베넘 스킬 사용"}
+		{"Counters a Poison attack with a one-time attack"},
+		{"When hit by a physical non-poison attack,"},
+		{"there is a chance to cast Envenom on target"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MOVHASTE_HORSE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"이동속도 증가"}
+		{"Increases Movement Speed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CRESCENTELBOW] = {
 	descript = {
-		{"파쇄주(破碎柱)", 155, 202, 155}, 
-		{"대상을 넉 백시키며 데미지 입히며"}, 
-		{"그 데미지의 일부를 입음"}
+		{"Crescent Elbow", 155, 202, 155}, 
+		{"Attempts to counter opponent's attack"}, 
+		{"You still take some of the damage"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SONG_OF_MANA] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"마나의 노래", 155, 202, 155}, 
+		{"Song of Mana", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"5초 당 SP 회복"}
+		{"Recovers SP every 5 seconds"}
 	}
 }
 StateIconList[EFST_IDs.EFST_KAAHI] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"카아히", 155, 202, 155},
+		{"Kaahi", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"스킬을 제외한 공격을 받을 때마다"},
-		{"SP를 소모하며 HP 회복"}
+		{"Whenever you are hit by non-skills"},
+		{"SP is consumed and HP is recovered"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ECHOSONG] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"메아리의 노래", 155, 202, 155}, 
+		{"Echo Song", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"방어력 상승"}
+		{"Increases DEF"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PRESERVE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"프리저브 (Preserve)", 155, 202, 155}, 
+		{"Preserve", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"스킬을 맞아도 도작 불가"}
+		{"Allows you to keep copied skill"}
 	}
 }
 StateIconList[EFST_IDs.EFST_WEAPONPERFECT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"웨폰 퍼펙션(Weapon Perfection)", 155, 202, 155},
+		{"Weapon Perfection", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"소형, 중형, 대형 몬스터에게"},
-		{"각각 100%씩의 데미지"}
+		{"Applies 100% damage to"},
+		{"small, medium and large monsters"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROVOKE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"프로보크(Provoke)", 155, 202, 155},
+		{"Provoke", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"방어력 하락"},
-		{"공격력 상승"}
+		{"Reduces VIT DEF"},
+		{"Increases ATK"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MOVHASTE_POTION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"이동속도 증가"}
+		{"Increases Movement Speed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_EDP] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"치명적인 독 부여 (Enchant Deadly Poison)", 155, 202, 155}, 
+		{"Enchant Deadly Poison", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"이 무기에 맞으면 확률에 따라 강한 독 걸림"}, 
-		{"보스 몬스터에게는 증가데미지 무효"}
+		{"Applies a deadly poison to weapon"}, 
+		{"Damage increase does not apply to boss monsters"}
 	}
 }
 StateIconList[EFST_IDs.EFST_JOINTBEAT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"조인트 비트(Joint Beat)", 155, 202, 155}, 
+		{"Joint Beat", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"관절 파괴에 따른"}, 
-		{"상태 이상"}
+		{"Applies various status effects"}, 
+		{"due to joint damage."}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROVIDENCE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"신의 뜻 (Providence)", 155, 202, 155}, 
+		{"Providence", 155, 202, 155}, 
 		{"%s", 255, 176, 98},
-		{"악마형, 성속성 몬스터에 대한"}, 
-		{"내성 증가"}
+		{"Increased resistance"}, 
+		{"to undead and demon monsters"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FIGHTINGSPIRIT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"에이시르 룬 스톤 ; 파이팅 스피릿 (Fighting Spirit)", 155, 202, 155},
+		{"Rune Stone: Fighting Spirit", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"ATK 상승"},
-		{"시전자는 공격속도 증가"}
+		{"Increases ATK"},
+		{"Increases ASPD of caster"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_VIT_CASH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"VIT 향상"}
+		{"Improves VIT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SATURDAY_NIGHT_FEVER] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"광란 상태"}
+		{"Berserk state"}
 	}
 }
 StateIconList[EFST_IDs.EFST_TRUESIGHT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"트루 사이트 (True Sight)", 155, 202, 155},
+		{"True Sight", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"모든 스테이터스 증가"},
-		{"명중률, 데미지, 크리티컬 증가"}
+		{"Increases all stats"},
+		{"Increases ATK, HIT, CRIT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CASH_PLUSONLYJOBEXP] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98},
-		{"몬스터 사냥 시 JOB 경험치 1.5배 획득"}
+		{"Increases Job EXP acquired by 150%"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ARMOR_PROPERTY] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"속성 변화 스크롤", 155, 202, 155}, 
+		{"Armor Property", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"속성 변화 상태"}
+		{"Changes your Elemental Property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_TENSIONRELAX] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"텐션 릴렉스 (Tension Relax)", 155, 202, 155}, 
+		{"Tension Relax", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"HP 회복속도 향상"}
+		{"Increases natural HP recovery"}
 	}
 }
 StateIconList[EFST_IDs.EFST_DEATHHURT] = {
@@ -828,46 +828,46 @@ StateIconList[EFST_IDs.EFST_DEATHHURT] = {
 }
 StateIconList[EFST_IDs.EFST_IMPOSITIO] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"임포시티오 마누스(Impositio Manus)", 155, 202, 155}, 
+		{"Impositio Manus", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"무기의 공격력 증가"}
+		{"Increases Weapon damage"}
 	}
 }
 StateIconList[EFST_IDs.EFST_LEECHESEND] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"리치 엔드 (거머리 독)", 155, 202, 155},
+		{"Leech End", 155, 202, 155},
 		{"%s", 255, 176, 98}, 
-		{"매 초당 HP 소모"}
+		{"Drains HP every second"}
 	}
 }
 StateIconList[EFST_IDs.EFST_REPRODUCE] = {
 	descript = {
-		{"리프로듀스", 155, 202, 155},
-		{"활성화 중 자신이 목표가 된 스킬을 배움"}, 
-		{"배움 가능한 스킬은 단 1개"}
+		{"Reproduce", 155, 202, 155},
+		{"Activates when targetted by a skill"}, 
+		{"Only one skill can be learnt"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ACCELERATION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"액셀레이션", 155, 202, 155}, 
+		{"Acceleration", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"마도 기어의 이동속도 증가"}
+		{"Increases movement speed of the Magic Gear"}
 	}
 }
 StateIconList[EFST_IDs.EFST_NJ_NEN] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"염(念)", 155, 202, 155}, 
+		{"Soul", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"지력과 힘 증가"}
+		{"Increases INT, STR"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FORCEOFVANGUARD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"포스 오브 뱅가드", 155, 202, 155}, 
+		{"Force of Vanguard", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"MHP, 방어력 상승"}, 
-		{"데미지를 입을 때마다 분노 카운터 누적"},
-		{"활성화 중 지속적으로 SP 소모"}
+		{"Max HP, Defense increased"}, 
+		{"When physicalled attacked there is a chance to earn a rage counter"},
+		{"SP consumed while active"}
 	}
 }
 StateIconList[EFST_IDs.EFST_RG_CCONFINE_M] = {
@@ -875,8 +875,8 @@ StateIconList[EFST_IDs.EFST_RG_CCONFINE_M] = {
 		{"Close Confine", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
 		{"Both Players cannot Move"}, 
-		{"Increases Evasion"}, 
-		{"Does not affects Boss"}
+		{"Increases FLEE"}, 
+		{"Does not affect Boss"}
 	}
 }
 StateIconList[EFST_IDs.EFST_TRICKDEAD] = {
@@ -896,91 +896,91 @@ StateIconList[EFST_IDs.EFST_ADORAMUS] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Adoramus", 155, 202, 155},
 		{"%s", 255, 176, 98}, 
-		{"암흑과 민첩성 감소 상태"}
+		{"Blinds and reduces Movement Speed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_GENTLETOUCH_ENERGYGAIN] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"점혈 - 구(點穴-救)", 155, 202, 155}, 
+		{"Gentle Touch - Energy Gain", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"근접 물리 공격을 하거나 데미지를 입을 시"}, 
-		{"기 구체 하나 생성"}
+		{"When attacked or when attacking, there is a chance to"}, 
+		{"earn a Spirit Sphere"}
 	}
 }
 StateIconList[EFST_IDs.EFST_NEUTRALBARRIER] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"뉴트럴 배리어", 155, 202, 155}, 
+		{"Neutral Barrier", 155, 202, 155}, 
 		{"%s", 255, 176, 98},
-		{"물리, 마법 방어력 향상"},
-		{"원거리 공격 무효화"}
+		{"DEF/MDEF up"},
+		{"Neutralizes ranged attacks"}
 		}
 }
 StateIconList[EFST_IDs.EFST_EARTHSCROLL] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"즐거운 휴식", 155, 202, 155}, 
+		{"Happy Break (Enjoyable Rest)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"어스 스파이크 주문서 사용 시"}, 
-		{"일정량의 SP 소모"}, 
-		{"낮은 확률로 주문서 소비"}
+		{"When sitting with another Taekwon"}, 
+		{"A certain amount of SP is regained"}, 
+		{"Chance for Earth Spike scrolls to not be destroyed when used"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FALCON] = {
 	descript = {
 		{"Falconry Mastery", 155, 202, 155}, 
-		{"Enables to Rent a Falcon"}
+		{"Falcon Rental"}
 	}
 }
 StateIconList[EFST_IDs.EFST_TWOHANDQUICKEN] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"투핸드 퀴큰(Two Hand Quicken)", 155, 202, 155}, 
+		{"Two Hand Quicken", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"양손검 사용 시"}, 
-		{"공격속도 증가"}
+		{"When using two handed weapons,"}, 
+		{"increases ASPD"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SUN_COMFORT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Comfort of the Sun", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"Improves Defense"}
+		{"Improves VIT DEF"}
 	}
 }
 StateIconList[EFST_IDs.EFST_KYRIE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Kyrie Eleison", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"배리어가 정해진 공격 횟수만큼 방어"}
+		{"A defensive barrier that blocks a certain number of attacks"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTARMOR] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"케미칼 프로텍션(아머) (Chemical Protection armor)", 155, 202, 155}, 
+		{"Chemical Protection (Armor)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"갑옷이 절대로 손상되지 않는 상태"}
+		{"Prevents body Armor from being stripped/broken"}
 	}
 }
 StateIconList[EFST_IDs.EFST_STATUSONE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"당신을 위해서 희생할께요", 155, 202, 155}, 
+		{"I'll Sacrifice For You", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"자신의 SP를 소모하여"}, 
-		{"배우자의 SP를 회복"}
+		{"Consumes their own SP"}, 
+		{"to recover the SP of his/her spouse"}
 	}
 }
 StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"튜리서드 룬 스톤 ; 자이언트 그로스 (Giant Growth)", 155, 202, 155}, 
+		{"Rune Stone: Giant Growth", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"STR 증가"}, 
-		{"근접 물리 공격 시"}, 
-		{"확률에 따라 큰 데미지"}, 
-		{"확률에 따라 자신의 무기 파괴"}
+		{"Increases STR"}, 
+		{"There is a chance to vastly increase damage"}, 
+		{"of close range physical attacks"}, 
+		{"Chance to destroy weapon with each hit"}
 	}
 }
 StateIconList[EFST_IDs.EFST_GROUNDMAGIC] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"지면 스킬의 효과 적용"}
+		{"Ground skill effect"}
 	}
 }
 StateIconList[EFST_IDs.EFST_STR_SCROLL] = {
@@ -991,17 +991,17 @@ StateIconList[EFST_IDs.EFST_STR_SCROLL] = {
 }
 StateIconList[EFST_IDs.EFST_AB_SECRAMENT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"세크라멘트 (SECRAMENT / 성사 ; 聖事)", 155, 202, 155}, 
+		{"Sacrament", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"캐스팅 시간 감소"}
+		{"Reduces fixed casting time"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PARALYSE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"패럴라이즈 (감각마비 독)", 155, 202, 155},
+		{"Paralyze", 155, 202, 155},
 		{"%s", 255, 176, 98}, 
 		{"Reduces Attack Speed"}, 
-		{"회피 감소"},
+		{"Reduces FLEE"},
 		{"Reduces Movement Speed"}
 	}
 }
@@ -1009,15 +1009,15 @@ StateIconList[EFST_IDs.EFST_PROPERTYGROUND] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Seismic Weapon", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"Enchants Weapon with Earth Element"}
+		{"Enchants Weapon with Earth Property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_DOUBLECASTING] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Double Casting", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"Affects all Bolt Skills"},
-		{"Bolt skill has a chance to cast one more time"}
+		{"When casting a Bolt Skill"},
+		{"there is a chance to cast another automatically"}
 	}
 }
 StateIconList[EFST_IDs.EFST_RG_CCONFINE_S] = {
@@ -1025,23 +1025,23 @@ StateIconList[EFST_IDs.EFST_RG_CCONFINE_S] = {
 		{"Close Confine", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
 		{"Both Players cannot Move"}, 
-		{"Increases Evasion"}, 
+		{"Increases FLEE"}, 
 		{"Does not affect Boss"}
 	}
 }
 StateIconList[EFST_IDs.EFST_OVERHEAT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
-		{"오버 히트 (Over Heat)", 155, 202, 155}, 
-		{"마도 기어 오버 히트 상태"}, 
-		{"매초 당 일정량의 HP 감소"}
+		{"Over Heat", 155, 202, 155}, 
+		{"Heating caused by skill use"}, 
+		{"A certain amount of HP is lost every second"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SPL_MATK] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"코르누스의 눈물", 155, 202, 155}, 
+		{"Cornelia Anubis' Tears", 155, 202, 155}, 
 		{"%s", 255, 176, 98},
 		{"스플랑디드 필드지역 몬스터에게"}, 
-		{"마법공격 데미지 상승"}
+		{"Magical attack damage increased"}
 	}
 }
 StateIconList[EFST_IDs.EFST_DEEP_SLEEP] = {
@@ -1049,7 +1049,7 @@ StateIconList[EFST_IDs.EFST_DEEP_SLEEP] = {
 		{"Deep Sleep Status", 155, 202, 155},
 		{"%s", 255, 176, 98}, 
 		{"Increases Damage Received by 1.5 times"}, 
-		{"Drains HP/SP every 2 seconds"}
+		{"Recovers HP/SP every 2 seconds"}
 	}
 }
 StateIconList[EFST_IDs.EFST_RECOGNIZEDSPELL] = {
@@ -1063,13 +1063,13 @@ StateIconList[EFST_IDs.EFST_RECOGNIZEDSPELL] = {
 StateIconList[EFST_IDs.EFST_TARGET_ASPD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
-		{"MSP 증가, SP 소모량 감소"}
+		{"Max SP increased, SP consumption reduced"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_BASICAVOIDANCE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98},
-		{"Improves Evasion"}
+		{"Improves FLEE"}
 	}
 }
 StateIconList[EFST_IDs.EFST_DEFENDER] = {
@@ -1084,15 +1084,15 @@ StateIconList[EFST_IDs.EFST_WEAPONPROPERTY] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Aspersio", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"Enchants Weapon to Holy"}
+		{"Enchants Weapon with Holy Property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_S_LIFEPOTION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"소형 생명수", 155, 202, 155}, 
+		{"Small Life Potion", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"5초 당 일정량의 HP 회복"}, 
-		{"버서크 상태 중 효과 없음"}
+		{"Recoverys HP every 5 seconds"}, 
+		{"No effect if Berserk State is active"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_LUK] = {
@@ -1103,19 +1103,19 @@ StateIconList[EFST_IDs.EFST_FOOD_LUK] = {
 }
 StateIconList[EFST_IDs.EFST_BLOODING] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"출혈 상태", 155, 202, 155}, 
+		{"Bleeding", 155, 202, 155}, 
 		{"%s", 255, 176, 98},
-		{"HP, SP 회복 불가"},
-		{"10초 당 일정량의 HP 소실"}
+		{"HP, SP recovery disabled"},
+		{"HP lost every 10 seconds"}
 	}
 }
 StateIconList[EFST_IDs.EFST_REFRESH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"노씨즈 룬 스톤 ; 리플래쉬 (Refresh)", 155, 202, 155}, 
+		{"Rune Stone: Refresh", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"사용 시 모든 상태이상, 디버프 해제"}, 
-		{"어떤 상태이상, 디버프에도 걸리지 않음"}, 
-		{"일정량의 HP 회복"}
+		{"Removes all debuffs when cast"}, 
+		{"Grants immunity to debuffs"}, 
+		{"Recovers a certain amount of HP"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_LUK_CASH] = {
@@ -1126,26 +1126,26 @@ StateIconList[EFST_IDs.EFST_FOOD_LUK_CASH] = {
 }
 StateIconList[EFST_IDs.EFST_BROKENARMOR] = {
 	descript = {
-		{"방어구 파괴 상태"}
+		{"Armor is damaged"}
 	}
 }
 StateIconList[EFST_IDs.EFST_DODGE_ON] = {
 	descript = {
-		{"낙법", 155, 202, 155}, 
-		{"날라차기 준비 자세"}, 
-		{"적의 원거리, 마법 공격을 받을 시"}, 
-		{"확률에 따라 공격 회피"}, 
-		{"스퍼트 상태 시"}, 
-		{"근거리 공격에도 발동"}
+		{"Dodge", 155, 202, 155}, 
+		{"Allows Flying Kick to be used as a counter"}, 
+		{"When receiving enemy magic attack"}, 
+		{"there is a chance of completely avoiding it"}, 
+		{"If Spurt is also active"}, 
+		{"chance of avoiding physical attacks as well"}
 	}
 }
 StateIconList[EFST_IDs.EFST_TARGET_BLOOD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"상태이상 저항포션", 155, 202, 155}, 
+		{"Resistance Potion", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"아래 상태에 대한 저항력 증가"}, 
-		{"스턴, 동빙, 석화, 수면, 침묵"},
-		{"암흑, 저주, 독, 출혈, 혼란"}
+		{"Increases resistance to"}, 
+		{"Stun, Frozen, Stone, Sleep, Silence"},
+		{"Blind, Curse, Poison, Bleeding, Confusion"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MELODYOFSINK] = {
@@ -1160,7 +1160,7 @@ StateIconList[EFST_IDs.EFST_CRUCIS] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Signum Crucis", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"Reduces Undead and Demon monsters armor"}
+		{"Reduces Undead and Demon monsters DEF"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SLOWCAST] = {
@@ -1172,31 +1172,31 @@ StateIconList[EFST_IDs.EFST_SLOWCAST] = {
 }
 StateIconList[EFST_IDs.EFST_PROPERTYWIND] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"라이트닝 로더 (Lightning Loader)", 155, 202, 155}, 
+		{"Lightning Loader", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"무기에 풍속성 적용"}
+		{"Enchants Weapon with Wind Property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ENCHANTBLADE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"엔첸트 블레이드 (Enchant Blade)", 155, 202, 155}, 
+		{"Enchant Blade", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"근접 물리 공격에 마법 공격력 추가"}
+		{"Adds magic damage to physical attacks"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ADRENALINE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Adrenaline Rush", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"Axes and Mace weapons"}, 
-		{"Increases Attack Speed"}
+		{"Increases Attack Speed of"}, 
+		{"Axes and Mace weapons"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MAGICMUSHROOM] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Magic Mushroom (Laughing Poison Mushroom)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"Smile Emoticon"}, 
+		{"Uses Smile Emoticon"}, 
 		{"Casts random spells every 4 seconds"}, 
 		{"Drains 4 HP per second"}
 	}
@@ -1209,18 +1209,18 @@ StateIconList[EFST_IDs.EFST_CASH_PLUSEXP] = {
 }
 StateIconList[EFST_IDs.EFST_ATTHASTE_POTION2] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"각성의 포션", 155, 202, 155}, 
+		{"Awakening Potion", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"공격속도 증가"}
+		{"Increases ASPD"}
 	}
 }
 StateIconList[EFST_IDs.EFST_TOXIN] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"톡신 (신경마비 독)", 155, 202, 155},
+		{"Toxin", 155, 202, 155},
 		{"%s", 255, 176, 98}, 
-		{"10초 당 캐스팅, 스킬 동작 방해"},
-		{"휀 카드 옵션 무시"}, 
-		{"10초당 일정량의 SP 소실"}
+		{"Interferes with skills every 10 seconds"},
+		{"Phen card is ignored"}, 
+		{"Every 10 seconds, SP is consumed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {
@@ -1235,16 +1235,16 @@ StateIconList[EFST_IDs.EFST_RAISINGDRAGON] = {
 }
 StateIconList[EFST_IDs.EFST_ANGEL_PROTECT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"엄마 아빠 사랑해요", 155, 202, 155}, 
+		{"Mom and Dad I love you", 155, 202, 155}, 
 		{"%s", 255, 176, 98},
-		{"죽더라도 경험치 소실 없음"}
+		{"No EXP loss upon death"}
 	}
 }
 StateIconList[EFST_IDs.EFST_HARMONIZE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Harmonize", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"스테이터스 가중치 조정"}
+		{"Increases all Stats"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CHASEWALK2] = {
@@ -1263,7 +1263,7 @@ StateIconList[EFST_IDs.EFST_CLOAKINGEXCEED] = {
 	descript = {
 		{"Cloaking Exceed", 155, 202, 155},
 		{"Hides from Insects and Demon types too."},
-		{"Remains hidden until a certain number of damage received."},
+		{"Remains hidden until a certain number of hits received."},
 		{"Increases Movement Speed"}
 	}
 }
@@ -1278,14 +1278,14 @@ StateIconList[EFST_IDs.EFST_THORNS_TRAP] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Thorn Trap", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"조금씩 데미지 입음"}
+		{"Periodically applies damage"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SLOWPOISON] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Slow Poison", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"Pauses the Poison Damage"}
+		{"Temporarily stops Poison Damage"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CLOAKING] = {
@@ -1305,26 +1305,26 @@ StateIconList[EFST_IDs.EFST_CRITICALPERCENT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Varnish", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"Increases Critical Rate"}
+		{"Increases Critical"}
 	}
 }
 StateIconList[EFST_IDs.EFST_INSPIRATION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"인스피레이션", 155, 202, 155}, 
+		{"Inspiration", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"명중률, 스탯 상승, 공격력, MHP 증가"}, 
-		{"특정 버프, 상태이상 무효화"},
-		{"지속적으로 HP, SP 감소"},
-		{"발동 시 모든 버프 및 상태이상 해제"},
-		{"발동 시 일정량의 경험치 소실"}
+		{"Hit rate, Stats, Damage, Max HP increased"}, 
+		{"All buffs and status effects removed"},
+		{"Drains HP, SP over time"},
+		{"Cannot receive status effects"},
+		{"Lose a percentage of your EXP"}
 	}
 }
 StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"언리미티드 허밍 보이스", 155, 202, 155},
+		{"Unlimited Humming Voice", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"대상의 스킬, 마법 캐스팅이 끊기지 않음"},
-		{"스킬 사용 시 소모 SP 증가"}
+		{"Affected target's skills"},
+		{"increase their SP consumption"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_DEX] = {
@@ -1342,19 +1342,19 @@ StateIconList[EFST_IDs.EFST_ANALYZE] = {
 }
 StateIconList[EFST_IDs.EFST_GENTLETOUCH_REVITALIZE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"점혈 - 활(點穴-活)", 155, 202, 155}, 
+		{"Gentle Touch - Revitalize", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"VIT, MHP 상승"}, 
-		{"물리 방어력 상승"}, 
-		{"HP 자연 회복속도 증가"}, 
-		{"이동, 공격 중에도 HP 회복"}
+		{"Increases VIT, Max HP"}, 
+		{"Increases DEF"}, 
+		{"Increases natural HP Recovery"}, 
+		{"Movement speed increased"}
 	}
 }
 StateIconList[EFST_IDs.EFST_COUNTER_ON] = {
 	descript = {
-		{"카운터 준비", 155, 202, 155}, 
-		{"적에게 공격 명중 시"}, 
-		{"확률에 따라 카운터차기 준비 자세"}
+		{"Prepare Counter Kick", 155, 202, 155}, 
+		{"Hit an enemy"}, 
+		{"to be ready for a counter kick"}
 	}
 }
 StateIconList[EFST_IDs.EFST_GLORIA] = {
@@ -1366,54 +1366,54 @@ StateIconList[EFST_IDs.EFST_GLORIA] = {
 }
 StateIconList[EFST_IDs.EFST_RUSH_WINDMILL] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"풍차를 향해 돌격", 155, 202, 155}, 
+		{"Rush Windmill Attack", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"공격력 상승"}
+		{"Increases Damage"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PYREXIA] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"파이렉시아 (열병 독)", 155, 202, 155}, 
+		{"Pyrexia", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"암흑, 환각 상태"}
+		{"Dark and Hallucinating state"}
 	}
 }
 StateIconList[EFST_IDs.EFST_DANCE_WITH_WUG] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"워그와 함께 춤을", 155, 202, 155}, 
+		{"Dance With Warg", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"공격속도 증가"}, 
-		{"고정 캐스팅 시간 감소"}
+		{"Increases ASPD"}, 
+		{"Reduces Fixed casting time"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SWING] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"스윙 댄스", 155, 202, 155}, 
+		{"Swing Dance", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"이동속도 증가"}, 
-		{"공격속도 증가"}
+		{"Increases Movement Speed"}, 
+		{"Increases ASPD"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MOON_COMFORT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"달의 안락함", 155, 202, 155}, 
+		{"Comfort of the Moon", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"회피율 향상"}
+		{"Improves FLEE"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MOONLIT_SERENADE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"달빛의 세레나데", 155, 202, 155}, 
+		{"Moonlit Serenade", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"마법 공격력 상승"}
+		{"Increases damage of magic skills"}
 	}
 }
 StateIconList[EFST_IDs.EFST_GENTLETOUCH_CHANGE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"점혈 - 반(點穴-反)", 155, 202, 155}, 
+		{"Gentle Touch - Change", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"체력, 마법 방어력 하락"}, 
-		{"공격력, 공격속도 증가"}
+		{"Reduces DEF and MDEF"}, 
+		{"Increases Damage and ASPD"}
 	}
 }
 StateIconList[EFST_IDs.EFST_STRIPACCESSARY] = {
@@ -1431,19 +1431,19 @@ StateIconList[EFST_IDs.EFST_PROPERTYUNDEAD] = {
 }
 StateIconList[EFST_IDs.EFST_INVISIBILITY] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"인비지빌리티 (투명화)", 155, 202, 155}, 
+		{"Invisibility", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"보이지 않는 상태에서 공격 가능"}, 
-		{"공격 속성이 염속성 1레벨로 변화"}, 
-		{"지속적인 SP 감소"}, 
-		{"스킬, 아이템 사용 불가"}
+		{"Conceals yourself from view"}, 
+		{"All attacks become Ghost Lvl 1 property"}, 
+		{"Drains SP"}, 
+		{"Skills and items cannot be used"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ABUNDANCE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"우르즈 룬 스톤 ;  어번던스 (Abundance)", 155, 202, 155}, 
+		{"Rune Stone: Abundance", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"10초 당 일정량의 SP 회복"}
+		{"Recovers SP every 10 seconds"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_BASICHIT] = {
@@ -1460,25 +1460,25 @@ StateIconList[EFST_IDs.EFST_FOOD_AGI_CASH] = {
 }
 StateIconList[EFST_IDs.EFST_SHADOWFORM] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"섀도우 폼", 155, 202, 155}, 
+		{"Shadow Form", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"일정 횟수만큼 자신의 데미지를"}, 
-		{"목표 플레이어에게 대신 입힘"}
+		{"For a certain number of hits"}, 
+		{"have a target take the damage instead"}
 	}
 }
 StateIconList[EFST_IDs.EFST_AUTOSHADOWSPELL] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"오토 섀도우 스펠", 155, 202, 155}, 
+		{"Auto Shadow Spell", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"도작, 리프로듀스로 배운"}, 
-		{"마법 스킬 사용 가능"}
+		{"Automatically casts"}, 
+		{"an available magic spell"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SHAPESHIFT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"셰이프 쉬프트", 155, 202, 155}, 
+		{"Shape Shift", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"마도기어의 동체 속성 변환"}
+		{"Changes your Mado Gear elemental property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MANU_ATK] = {
@@ -1491,41 +1491,41 @@ StateIconList[EFST_IDs.EFST_MANU_ATK] = {
 }
 StateIconList[EFST_IDs.EFST_MARIONETTE_MASTER] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"마리오네뜨 컨트롤 (시전)", 155, 202, 155}, 
+		{"Marionette Control (caster)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"대상 플레이어에게"}, 
-		{"스테이터스를 넘긴 상태"}
+		{"Passes the stats"}, 
+		{"to a Player"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MARIONETTE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Marionette Control (target)", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"시전 플레이어에게"}, 
-		{"스테이터스를 받은 상태"}
+		{"Target Player"}, 
+		{"who receives the stats"}
 	}
 }
 StateIconList[EFST_IDs.EFST_WZ_SIGHTBLASTER] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"사이트 블래스터(Sight Blaster)", 155, 202, 155}, 
+		{"Sight Blaster", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"붙은 적에게 마법 공격력 만큼의"}, 
-		{"데미지를 주며 밀어냄"}
+		{"Attacks an enemy with a single attack"}, 
+		{"that ventures too close"}
 	}
 }
 StateIconList[EFST_IDs.EFST_LEXAETERNA] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"렉스 에테르나(Lex Aeterna)", 155, 202, 155}, 
+		{"Lex Aeterna", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"1회 공격에 두 배 데미지를 받는 상태"}
+		{"Doubles damage of the next attack"}
 	}
 }
 StateIconList[EFST_IDs.EFST_INFRAREDSCAN] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"인프라레드 스캔", 155, 202, 155}, 
+		{"Infrared Scan", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"숨어있는 적 발견"}, 
-		{"확률에 따라 범위 내 모든 대상의 회피율 감소"}
+		{"Discovers targets in hiding"}, 
+		{"Chance to Reduce FLEE of nearby enemy"}
 	}
 }
 StateIconList[EFST_IDs.EFST_INT_SCROLL] = {
@@ -1536,9 +1536,9 @@ StateIconList[EFST_IDs.EFST_INT_SCROLL] = {
 }
 StateIconList[EFST_IDs.EFST_ASPERSIO] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"아스페르시오(Aspersio)", 155, 202, 155}, 
+		{"Aspersio", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"무기에 성속성 부여"}
+		{"Enchants Weapon with Holy Property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MOVHASTE_INFINITY] = {
@@ -1548,9 +1548,9 @@ StateIconList[EFST_IDs.EFST_MOVHASTE_INFINITY] = {
 }
 StateIconList[EFST_IDs.EFST_LERADS_DEW] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"레라드의 이슬", 155, 202, 155}, 
+		{"Lerad's Dew", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"MHP 상승"}
+		{"Increases Max HP"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FOOD_INT] = {
@@ -1561,37 +1561,37 @@ StateIconList[EFST_IDs.EFST_FOOD_INT] = {
 }
 StateIconList[EFST_IDs.EFST_VENOMBLEED] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"베놈 블리드 (체력저하 독)", 155, 202, 155}, 
+		{"Venom Bleed", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"MHP 저하 고정"}
+		{"Reduces Max HP"}
 	}
 }
 StateIconList[EFST_IDs.EFST_GS_GATLINGFEVER] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"개틀링 피버(Gatling Fever)", 155, 202, 155}, 
+		{"Gatling Fever", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"공격속도, 데미지 향상"}, 
-		{"회피율, 이동속도 감소"}
+		{"Increases Damage and ASPD"}, 
+		{"Reduces Movement Speed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_VITALITYACTIVATION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"아이샤 룬 스톤 ; 바이탈리티 액티베이션 (Vitality Activation)", 155, 202, 155}, 
+		{"Rune Stone: Vitality Activation", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"자신에게 또는 자신이 사용한"}, 
-		{"HP 회복 스킬, 아이템의 효과 증가"}, 
-		{"SP 자연회복 불가"}, 
-		{"SP 회복 포션의 효과 감소"}
+		{"To the caster,"}, 
+		{"Increases Healing skills and Item effects"}, 
+		{"Stops SP regeneration"}, 
+		{"Reduces SP recovery item effects"}
 	}
 }
 StateIconList[EFST_IDs.EFST_STONEHARDSKIN] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"하갈라즈 룬 스톤 ; 스톤 하드 스킨 (Stone Hard Skin)", 155, 202, 155}, 
+		{"Rune Stone: Stone Hard Skin", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"일정량의 HP 소실 후 그 만큼의 방어막 생성"}, 
-		{"다른 플레이어가 근접 물리 공격 시"}, 
-		{"확률에 따라 공격한 플레이어 무기 파괴"}, 
-		{"몬스터의 경우 확률에 따라 10초간 ATK 하락"}
+		{"Resists damage equal to the HP consumed when casting"}, 
+		{"Players that attack you with weapons"}, 
+		{"will break them by chance."}, 
+		{"On monsters, they will have reduced ATK for 10 seconds"}
 	}
 }
 StateIconList[EFST_IDs.EFST_WEIGHTOVER90] = {
@@ -1617,31 +1617,31 @@ StateIconList[EFST_IDs.EFST_PLUSAVOIDVALUE] = {
 }
 StateIconList[EFST_IDs.EFST_OBLIVIONCURSE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"오블리비언 커즈 (망각의 재)", 155, 202, 155}, 
+		{"Oblivion Curse", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"망각 상태"}
+		{"Oblivion status"}
 	}
 }
 StateIconList[EFST_IDs.EFST_HEALPLUS] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"회복력 향상포션", 155, 202, 155}, 
+		{"Enhanced Healing Potion", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"받는 힐과 일부 회복 아이템의"}, 
-		{"사용 효과 향상"}
+		{"When healing via recovery items"}, 
+		{"the healing effect is increased"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECT_DEF] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"물리 방어 포션", 155, 202, 155}, 
+		{"Defense Protection", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"물리 공격 내성 증가"}
+		{"Increases physical DEF"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CRITICALWOUND] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"치명적인 상처", 155, 202, 155}, 
+		{"Critical Wounds", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"받게 되는 회복계 스킬의 효과 감소"}
+		{"Reduces effects of healing skills"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PRESTIGE] = {
@@ -1662,15 +1662,15 @@ StateIconList[EFST_IDs.EFST_CARTBOOST] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Cart Boost", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"카트 이용 시의 이동속도 증가"}
+		{"Increases Movement Speed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_L_LIFEPOTION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{" Medium Life Potion", 155, 202, 155}, 
+		{"Medium Life Potion", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"4초 당 일정량의 HP 회복"}, 
-		{"버서크 상태 중 효과 없음"}
+		{"Recovers HP every 4 seconds"}, 
+		{"No effect if Berserk State is active"}
 	}
 }
 StateIconList[EFST_IDs.EFST_WINDWALK] = {
@@ -1682,38 +1682,38 @@ StateIconList[EFST_IDs.EFST_WINDWALK] = {
 }
 StateIconList[EFST_IDs.EFST_POPECOOKIE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"교황쿠키", 155, 202, 155}, 
+		{"Pope Cookie", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"ATK, MATK 증가"}, 
-		{"모든 속성 내성 증가"}
+		{"Increases ATK and MATK"}, 
+		{"Increases Resistance to all property."}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYFIRE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"프레임 런쳐 (Flame Launcher)", 155, 202, 155}, 
+		{"Flame Launcher", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"무기에 화속성 부여"}
+		{"Enchants Weapon with Fire Property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_STRIKING] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"스트라이킹", 155, 202, 155}, 
+		{"Striking", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"무기 공격력, 크리티컬 확률 상승"}
+		{"Increases Weapon damage and chance of critical"}
 	}
 }
 StateIconList[EFST_IDs.EFST_DOWNKICK_ON] = {
 	descript = {
-		{"찍기 준비", 155, 202, 155}, 
-		{"적에게 공격 명중 시"}, 
-		{"확률에 따라 찍기 준비 자세"}
+		{"Prepare Down Kick", 155, 202, 155}, 
+		{"Hit an enemy"}, 
+		{"for a chance to preform a kick"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROTECTEXP] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"엄마 아빠 사랑해요", 155, 202, 155}, 
+		{"Mom and Dad I Love You", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"죽더라도 경험치 소실 없음"}
+		{"No EXP loss upon death"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYDARK] = {
@@ -1726,22 +1726,22 @@ StateIconList[EFST_IDs.EFST_REFLECTSHIELD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Reflect Shield", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"자신을 근거리 물리 공격한 적에게"}, 
-		{"일정한 데미지를 되돌림"}
+		{"When attacked with physical short range attacks"}, 
+		{"reflect a portion of the damage"}
 	}
 }
 StateIconList[EFST_IDs.EFST_RIDING] = {
 	descript = {
-		{"탈 것 대여 중"}
+		{"Peco Peco Rental"} --Rental Transportation
 	}
 }
 StateIconList[EFST_IDs.EFST_LIGHTNINGWALK] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"섬전보(閃電步)", 155, 202, 155}, 
+		{"Lightning Walk", 155, 202, 155}, 
 		{"%s", 255, 176, 98}, 
-		{"원거리 물리, 마법 공격의 타겟일 때"}, 
-		{"일정 확률로 공격 회피 후"}, 
-		{"공격한 대상의 바로 앞까지 이동"}
+		{"When targetted by a magic attack,"}, 
+		{"after a chance to avoid"}, 
+		{"move straight to the caster"}
 	}
 }
 StateIconList[EFST_IDs.EFST_FROSTMISTY] = {
