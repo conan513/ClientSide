@@ -1,3 +1,6 @@
+rev13 - [2010-03-24]
+ - Updated lua files to latest kRO patch(2010-03-24)
+
 rev12 - [2010-03-23]
  - Updated stateiconinfo.lua [credit HiddenDragon for translations]
 

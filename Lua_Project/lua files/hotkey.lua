@@ -192,7 +192,8 @@ HOTKEY_2 = {
 	[31] = { EXE = "Chatmode On/Off", KEY1 = 13 },
 	[32] = { EXE = "Info Display Button", KEY1 = 192, KEY2 = 18 },
 	[33] = { EXE = "Party Recruit Window" },
-	[34] = { EXE = "Party Booking Window" }
+	[34] = { EXE = "Party Booking Window" }, -- they changed it to "Party Recruitment List Window" but its too long to fit in hotkey window
+	[35] = { EXE = "Ground Cursor On/Off", KEY1 = 36, KEY2 = 18 }
 }
 HOTKEY_3 = {
 	[0] = { EXE = "Emote 1", KEY1 = 49, KEY2 = 18 },

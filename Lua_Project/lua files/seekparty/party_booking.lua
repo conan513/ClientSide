@@ -380,7 +380,23 @@ end
 
 print("\n[Map Data Information Request]")
 print(queryMapInfo(2,1))
-
+PartyBookingHelp = {
+	"/recruit: Brings up the Recruitment Party window.",
+	"/booking: Brings up the Party Application List window.", --or Brings up the Party Booking List window
+	"/organize \"Party Name\": Creates a party.",
+	"/invite \"Character Name\": Invite the specific character to the party."
+}
+GetPartyBookingHelp = function()
+	local descript = ""
+	local obj = PartyBookingHelp
+	if obj ~= nil then
+		for i,v in pairs(obj) do
+			descript = descript .. v
+			descript = descript .. "\r\n"
+		end
+	end
+	return descript
+end
 
 --[[
 Even though line 349 to 382 it doesnt match the disassembler it does still work tested on official servers.

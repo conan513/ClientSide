@@ -418,15 +418,6 @@ StateIconList[EFST_IDs.EFST_SHOUT] = {
 		{"Increases STR"}
 	}
 }
-StateIconList[EFST_IDs.EFST_HELLPOWER] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Hell Power", 155, 202, 155}, 
-		{"%s", 255, 176, 98}, 
-		{"Can not be revived"}, 
-		{"Sacrifice is Disabled"}, 
-		{"Token of Siegfried disabled"}
-	}
-}
 StateIconList[EFST_IDs.EFST_CASH_RECEIVEITEM] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", 255, 176, 98}, 
@@ -959,14 +950,6 @@ StateIconList[EFST_IDs.EFST_PROTECTARMOR] = {
 		{"Prevents body Armor from being stripped/broken"}
 	}
 }
-StateIconList[EFST_IDs.EFST_STATUSONE] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"I'll Sacrifice For You", 155, 202, 155}, 
-		{"%s", 255, 176, 98}, 
-		{"Consumes their own SP"}, 
-		{"to recover the SP of his/her spouse"}
-	}
-}
 StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Rune Stone: Giant Growth", 155, 202, 155}, 
@@ -975,12 +958,6 @@ StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 		{"There is a chance to vastly increase damage"}, 
 		{"of close range physical attacks"}, 
 		{"Chance to destroy weapon with each hit"}
-	}
-}
-StateIconList[EFST_IDs.EFST_GROUNDMAGIC] = {
-	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
-		{"%s", 255, 176, 98}, 
-		{"Ground skill effect"}
 	}
 }
 StateIconList[EFST_IDs.EFST_STR_SCROLL] = {
@@ -1760,3 +1737,71 @@ StateIconList[EFST_IDs.EFST_COLD] = {
 		{"Freezing or Frozen chance"}
 	}
 }
+StateIconList[EFST_IDs.EFST_GROUNDMAGIC] = {
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+		{"%s", 255, 176, 98}, 
+		{"Ground skill effect"}
+	}
+}
+StateIconList[EFST_IDs.EFST_HELLPOWER] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Hell Power", 155, 202, 155}, 
+		{"%s", 255, 176, 98}, 
+		{"Can not be revived"}, 
+		{"Sacrifice is Disabled"}, 
+		{"Token of Siegfried disabled"}
+	}
+}
+StateIconList[EFST_IDs.EFST_SAVAGE_STEAK] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Savage Roast", 155, 202, 155}, 
+		{"%s", 255, 176, 98}, 
+		{"Increases STR"}
+	}
+}
+
+StateIconList[EFST_IDs.EFST_COCKTAIL_WARG_BLOOD] = {
+haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Wolf Blood Cocktail", 155, 202, 155}, 
+		{"%s", 255, 176, 98}, 
+		{"Increases INT"}
+	}
+}
+StateIconList[EFST_IDs.EFST_MINOR_BBQ] = {
+haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Minorous Beef Stew", 155, 202, 155}, 
+		{"%s", 255, 176, 98}, 
+		{"Increases VIT"}
+	}
+}
+StateIconList[EFST_IDs.EFST_SIROMA_ICE_TEA] = {
+haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Siroma Iced Tea", 155, 202, 155}, 
+		{"%s", 255, 176, 98}, 
+		{"Increases DEX"}
+	}
+}
+StateIconList[EFST_IDs.EFST_DROCERA_HERB_STEAMED] = {
+haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Drosera Herb Salad", 155, 202, 155},
+		{"%s", 255, 176, 98}, 
+		{"Increases AGI"}
+	 }
+ }
+StateIconList[EFST_IDs.EFST_PUTTI_TAILS_NOODLES] = {
+haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Petite Tail Noodle", 155, 202, 155},
+		{"%s", 255, 176, 98},
+		{"Increases LUK"}
+	 }
+ }
+StateIconList[EFST_IDs.EFST_STOMACHACHE] = {
+haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Abdominal Pain", 155, 202, 155},  -- or Stomach Ache
+		{"%s", 255, 176, 98}, 
+		{"Reduces All Stats"}, 
+		{"Reduces Movement Speed"},
+		{"10초 당 한 번씩 /앉기 발생"},
+		{"Drains SP every 10 seconds"}
+	}
+ }
