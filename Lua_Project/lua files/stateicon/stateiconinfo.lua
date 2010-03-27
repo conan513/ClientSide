@@ -65,7 +65,7 @@ StateIconList[EFST_IDs.EFST_CONCENTRATION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Attention Concentration", 155, 202, 155},
 		{"%s", 255, 176, 98},
-		{"Increases DEX, AGI 증가"},
+		{"Increases DEX, AGI"},
 		{"Reveals nearby hidden enemies"}
 	}
 }
@@ -812,7 +812,7 @@ StateIconList[EFST_IDs.EFST_TENSIONRELAX] = {
 }
 StateIconList[EFST_IDs.EFST_DEATHHURT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"데스 허트 (상처오염 독)", 155, 202, 155},
+		{"Death Hurt (Contaminated Wound Poison)", 155, 202, 155},
 		{"%s", 255, 176, 98},
 		{"회복 스킬을 받을 때 효과 저하"}
 	}

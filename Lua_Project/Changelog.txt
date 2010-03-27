@@ -1,3 +1,8 @@
+rev15 - [2010-03-27]
+ - stateiconinfo updates
+ - added diff/hex files for party_booking
+ - added 2010-03-17 Lub Files v1 [90% translated stateiconinfo]
+
 rev13 - [2010-03-24]
  - Updated lua files to latest kRO patch(2010-03-24)
 
