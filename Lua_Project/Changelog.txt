@@ -1,3 +1,7 @@
+rev16 - [2010-03-29]
+ - Removed Hex/Diff files (already added in "[UI] TranslateClient In English" official diff)
+ - Added 2010-03-24 Lub Files v1 [90% translated stateiconinfo]
+
 rev15 - [2010-03-27]
  - stateiconinfo updates
  - added diff/hex files for party_booking
