@@ -219,22 +219,23 @@ HOTKEY_3 = {
 
 }
 BEHAVIOR_TO_WINDOWID = {
+	[0] = 0,
 	[10] = 1,
 	[37] = 2,
-	[141] = 3,
+	[134] = 3,
 	[40] = 7,
-	[147] = 8,
-	[8] = 9,
+	[140] = 8,
+	[8]= 9,
 	[59] = 10,
 	[87] = 11,
-	[14] = 86,
-	[15] = 112,
+	[86] = 14,
+	[112] = 15,
 	[36] = 17,
-	[22] = 144,
-	[23] = 88,
-	[24] = 113,
-	[132] = 25,
-	[164] = 31,
+	[137] = 22,
+	[88] = 23,
+	[113] = 24,
+	[125] = 25,
+	[157] = 31,
 }
 
 GetKeyDes = function(key1, key2)
@@ -257,7 +258,7 @@ GetBeHaviorOfWindow = function(winID)
 			local key2 = nil
 		if userTable ~= nil then
 			userTable = USERKEY_2[behavior]
-			if userTable ~= nil then
+			if userTable ~= nil and userTable ~= "NULL" then
 				key1 = userTable["KEY1"]
 				key2 = userTable["KEY2"]
 			end

@@ -618,7 +618,7 @@ StateIconList[EFST_IDs.EFST_SPEARQUICKEN] = {
 }
 StateIconList[EFST_IDs.EFST_BROKENWEAPON] = {
 	descript = {
-		{"Weapon is damaged.", 155, 202, 155}
+		{"Weapon is damaged."}
 	}
 }
 StateIconList[EFST_IDs.EFST_ASSUMPTIO] = {

@@ -581,3 +581,13 @@ GetEFST = function(EFSTID)
    end
    return ""
 end
+
+GetEFSTID = function(EFSTID)
+   if EFSTID ~= 0 then
+      local efst = EFST_IDs[EFSTID]
+      if efst ~= nil then
+         return efst
+      end
+   end
+   return 0
+end

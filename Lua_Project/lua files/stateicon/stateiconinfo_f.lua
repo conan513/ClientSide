@@ -79,3 +79,22 @@ MakeBuffIconInfoFile = function()
    end
    io.close(makeFile)
 end
+
+GetStrEFSTID = function(EFSTID)
+   for j, k in pairs(EFST_IDs) do
+      if k == EFSTID then
+         return j
+      end
+   end
+   return ""
+end
+
+GetEFSTID = function(EFSTID)
+   if EFSTID ~= 0 then
+      local efst = EFST_IDs[EFSTID]
+      if efst ~= nil then
+         return efst
+      end
+   end
+   return 0
+end
