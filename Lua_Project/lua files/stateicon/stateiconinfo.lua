@@ -1175,7 +1175,7 @@ StateIconList[EFST_IDs.EFST_MAGICMUSHROOM] = {
 		{"%s", 255, 176, 98}, 
 		{"Uses Smile Emoticon"}, 
 		{"Casts random spells every 4 seconds"}, 
-		{"Drains 4 HP per second"}
+		{"Drains HP every 4 seconds"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CASH_PLUSEXP] = {
