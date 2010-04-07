@@ -1,3 +1,7 @@
+rev21 - [2010-04-07]
+ - Updated lua files to kRO Patch(2010-04-07)
+ - Added Lub files for that patch [90% translated stateiconinfo]
+
 rev20 - [2010-04-06] - Updated translation for stateiconinfo.lua rev17 - [2010-03-31]
  - Updated lua files to kRO Patch(2010-03-31)
  - Added Lub files for that patch [90% translated stateiconinfo]
