@@ -1491,7 +1491,7 @@ Unable to specify the key assigned.#
 Initialization is stored in the shortcut key settings. Do you want to initialized?#
 Skill Bar#
 Window Interface#
-Emotions#
+Macros#
 Windows Shortcut Key Setting#
 BGM#
 Effect#

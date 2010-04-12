@@ -1574,12 +1574,12 @@ byte_[Fix]_Disable_Captcha:20D4AD:21:22
 byte_[Data]_Load_Lua_Before_Lub:37543F:97:98
 byte_[Data]_Load_Lua_Before_Lub:375447:98:97
 
-byte_[ADD]_Increase_Headgear_ViewID_to_2000:2BC0CC:232:208
-byte_[ADD]_Increase_Headgear_ViewID_to_2000:2BC0CD:3:7
-byte_[ADD]_Increase_Headgear_ViewID_to_2000:2BC0E5:232:208
-byte_[ADD]_Increase_Headgear_ViewID_to_2000:2BC0E6:3:7
-byte_[ADD]_Increase_Headgear_ViewID_to_2000:2BC187:232:208
-byte_[ADD]_Increase_Headgear_ViewID_to_2000:2BC188:3:7
+byte_[Add]_Increase_Headgear_ViewID_to_2000:2BC0CC:232:208
+byte_[Add]_Increase_Headgear_ViewID_to_2000:2BC0CD:3:7
+byte_[Add]_Increase_Headgear_ViewID_to_2000:2BC0E5:232:208
+byte_[Add]_Increase_Headgear_ViewID_to_2000:2BC0E6:3:7
+byte_[Add]_Increase_Headgear_ViewID_to_2000:2BC187:232:208
+byte_[Add]_Increase_Headgear_ViewID_to_2000:2BC188:3:7
 
 byte_[Fix]_HKLM_To_HKCU:5757C:2:1
 byte_[Fix]_HKLM_To_HKCU:575AE:2:1

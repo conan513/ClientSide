@@ -176,7 +176,7 @@ byte_[UI](1)_Unlimit_Chat_Flood:1B2383:116:235
 
 byte_[UI]_Extended_Chat_Box:9C0A9:70:234
 
-byte_[UI]_Extended_PM_Box:858E3:70:221
+byte_[UI]_Extended_PM_Box:858E3:70:234
 
 byte_[UI]_Extended_Chat_Room_Box:60B23:70:234
 
@@ -246,21 +246,42 @@ byte_[UI]_Use_New_Char_Selection_Screen_on_All_Langtypes_(Recommended):5B0F0:1:1
 byte_[UI]_Use_New_Char_Selection_Screen_on_All_Langtypes_(Recommended):5B0F1:0:144
 byte_[UI]_Use_New_Char_Selection_Screen_on_All_Langtypes_(Recommended):5B0F2:0:144
 
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D465:196:85
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D466:179:115
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D467:184:101
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D468:175:100
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D469:197:32
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D46A:205:47
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D46B:47:32
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D46C:195:84
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D46D:209:111
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D46E:32:116
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D46F:189:97
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D470:189:108
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D471:183:41
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D472:212:0
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34D473:41:0
+byte_[UI]_Translate_Client_In_English_(Recommended):34D465:196:85
+byte_[UI]_Translate_Client_In_English_(Recommended):34D466:179:115
+byte_[UI]_Translate_Client_In_English_(Recommended):34D467:184:101
+byte_[UI]_Translate_Client_In_English_(Recommended):34D468:175:100
+byte_[UI]_Translate_Client_In_English_(Recommended):34D469:197:32
+byte_[UI]_Translate_Client_In_English_(Recommended):34D46A:205:47
+byte_[UI]_Translate_Client_In_English_(Recommended):34D46B:47:32
+byte_[UI]_Translate_Client_In_English_(Recommended):34D46C:195:84
+byte_[UI]_Translate_Client_In_English_(Recommended):34D46D:209:111
+byte_[UI]_Translate_Client_In_English_(Recommended):34D46E:32:116
+byte_[UI]_Translate_Client_In_English_(Recommended):34D46F:189:97
+byte_[UI]_Translate_Client_In_English_(Recommended):34D470:189:108
+byte_[UI]_Translate_Client_In_English_(Recommended):34D471:183:41
+byte_[UI]_Translate_Client_In_English_(Recommended):34D472:212:0
+byte_[UI]_Translate_Client_In_English_(Recommended):34F579:195:68
+byte_[UI]_Translate_Client_In_English_(Recommended):34F57A:162:105
+byte_[UI]_Translate_Client_In_English_(Recommended):34F57B:32:115
+byte_[UI]_Translate_Client_In_English_(Recommended):34F57C:199:112
+byte_[UI]_Translate_Client_In_English_(Recommended):34F57D:165:108
+byte_[UI]_Translate_Client_In_English_(Recommended):34F57E:189:97
+byte_[UI]_Translate_Client_In_English_(Recommended):34F57F:195:121
+byte_[UI]_Translate_Client_In_English_(Recommended):34F581:193:73
+byte_[UI]_Translate_Client_In_English_(Recommended):34F582:164:110
+byte_[UI]_Translate_Client_In_English_(Recommended):34F583:186:102
+byte_[UI]_Translate_Client_In_English_(Recommended):34F584:184:111
+byte_[UI]_Translate_Client_In_English_(Recommended):34D090:184:109
+byte_[UI]_Translate_Client_In_English_(Recommended):34D091:222:101
+byte_[UI]_Translate_Client_In_English_(Recommended):34D092:189:115
+byte_[UI]_Translate_Client_In_English_(Recommended):34D093:195:115
+byte_[UI]_Translate_Client_In_English_(Recommended):34D094:193:97
+byte_[UI]_Translate_Client_In_English_(Recommended):34D095:246:103
+byte_[UI]_Translate_Client_In_English_(Recommended):34D096:0:101
+byte_[UI]_Translate_Client_In_English_(Recommended):2008E5:117:235
+byte_[UI]_Translate_Client_In_English_(Recommended):CD47B:117:235
+byte_[UI]_Translate_Client_In_English_(Recommended):34F77C:161:42
+byte_[UI]_Translate_Client_In_English_(Recommended):34F77D:218:0
 
 byte_[UI]_Enable_/w_and_/who_commands:1AFB38:3:255
 byte_[UI]_Enable_/w_and_/who_commands:1AFB41:8:255
@@ -1184,13 +1205,6 @@ byte_[Fix]_Show_Debug:5D12:144:255
 byte_[Fix]_Show_Debug:5D13:144:255
 byte_[Fix]_Show_Debug:5D14:144:255
 
-byte_[Fix]_Taekwon_SL_SG_Korean_to_English_in_Langtype_0_(Recommended):2008E5:117:235
-
-byte_[Fix]_CashPoints_Korean_to_English_in_Langtype_0_(Recommended):CD47B:117:235
-
-byte_[Fix]_Map_Indicator_in_Langtypes_1+_(Recommended):34F77C:161:42
-byte_[Fix]_Map_Indicator_in_Langtypes_1+_(Recommended):34F77D:218:0
-
 byte_[Fix]_Disable_Hallucination_Wavy_Screen:10C0B:15:144
 byte_[Fix]_Disable_Hallucination_Wavy_Screen:10C0C:132:233
 
@@ -1207,6 +1221,13 @@ byte_[Fix]_Disable_Captcha:1FF9CE:21:22
 
 byte_[Data]_Load_Lua_Before_Lub:35FC7F:97:98
 byte_[Data]_Load_Lua_Before_Lub:35FC87:98:97
+
+byte_[Add]_Increase_Headgear_ViewID_to_2000:2AA132:232:208
+byte_[Add]_Increase_Headgear_ViewID_to_2000:2AA133:3:7
+byte_[Add]_Increase_Headgear_ViewID_to_2000:2AA14B:232:208
+byte_[Add]_Increase_Headgear_ViewID_to_2000:2AA14C:3:7
+byte_[Add]_Increase_Headgear_ViewID_to_2000:2AA1ED:232:208
+byte_[Add]_Increase_Headgear_ViewID_to_2000:2AA1EE:3:7
 
 byte_[Fix]_HKLM_To_HKCU:5408C:2:1
 byte_[Fix]_HKLM_To_HKCU:540BE:2:1

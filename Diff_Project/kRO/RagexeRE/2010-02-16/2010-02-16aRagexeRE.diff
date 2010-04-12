@@ -177,7 +177,7 @@ byte_[UI](1)_Unlimit_Chat_Flood:1B1F53:116:235
 
 byte_[UI]_Extended_Chat_Box:9B939:70:234
 
-byte_[UI]_Extended_PM_Box:858E3:70:221
+byte_[UI]_Extended_PM_Box:858E3:70:234
 
 byte_[UI]_Extended_Chat_Room_Box:60B23:70:234
 
@@ -247,21 +247,42 @@ byte_[UI]_Use_New_Char_Selection_Screen_on_All_Langtypes_(Recommended):5B0F0:1:1
 byte_[UI]_Use_New_Char_Selection_Screen_on_All_Langtypes_(Recommended):5B0F1:0:144
 byte_[UI]_Use_New_Char_Selection_Screen_on_All_Langtypes_(Recommended):5B0F2:0:144
 
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F465:196:85
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F466:179:115
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F467:184:101
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F468:175:100
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F469:197:32
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F46A:205:47
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F46B:47:32
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F46C:195:84
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F46D:209:111
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F46E:32:116
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F46F:189:97
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F470:189:108
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F471:183:41
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F472:212:0
-byte_[UI]_Translate_Char_Selection_Screen_(Recommended):34F473:41:0
+byte_[UI]_Translate_Client_In_English_(Recommended):34F465:196:85
+byte_[UI]_Translate_Client_In_English_(Recommended):34F466:179:115
+byte_[UI]_Translate_Client_In_English_(Recommended):34F467:184:101
+byte_[UI]_Translate_Client_In_English_(Recommended):34F468:175:100
+byte_[UI]_Translate_Client_In_English_(Recommended):34F469:197:32
+byte_[UI]_Translate_Client_In_English_(Recommended):34F46A:205:47
+byte_[UI]_Translate_Client_In_English_(Recommended):34F46B:47:32
+byte_[UI]_Translate_Client_In_English_(Recommended):34F46C:195:84
+byte_[UI]_Translate_Client_In_English_(Recommended):34F46D:209:111
+byte_[UI]_Translate_Client_In_English_(Recommended):34F46E:32:116
+byte_[UI]_Translate_Client_In_English_(Recommended):34F46F:189:97
+byte_[UI]_Translate_Client_In_English_(Recommended):34F470:189:108
+byte_[UI]_Translate_Client_In_English_(Recommended):34F471:183:41
+byte_[UI]_Translate_Client_In_English_(Recommended):34F472:212:0
+byte_[UI]_Translate_Client_In_English_(Recommended):351579:195:68
+byte_[UI]_Translate_Client_In_English_(Recommended):35157A:162:105
+byte_[UI]_Translate_Client_In_English_(Recommended):35157B:32:115
+byte_[UI]_Translate_Client_In_English_(Recommended):35157C:199:112
+byte_[UI]_Translate_Client_In_English_(Recommended):35157D:165:108
+byte_[UI]_Translate_Client_In_English_(Recommended):35157E:189:97
+byte_[UI]_Translate_Client_In_English_(Recommended):35157F:195:121
+byte_[UI]_Translate_Client_In_English_(Recommended):351581:193:73
+byte_[UI]_Translate_Client_In_English_(Recommended):351582:164:110
+byte_[UI]_Translate_Client_In_English_(Recommended):351583:186:102
+byte_[UI]_Translate_Client_In_English_(Recommended):351584:184:111
+byte_[UI]_Translate_Client_In_English_(Recommended):34F090:184:109
+byte_[UI]_Translate_Client_In_English_(Recommended):34F091:222:101
+byte_[UI]_Translate_Client_In_English_(Recommended):34F092:189:115
+byte_[UI]_Translate_Client_In_English_(Recommended):34F093:195:115
+byte_[UI]_Translate_Client_In_English_(Recommended):34F094:193:97
+byte_[UI]_Translate_Client_In_English_(Recommended):34F095:246:103
+byte_[UI]_Translate_Client_In_English_(Recommended):34F096:0:101
+byte_[UI]_Translate_Client_In_English_(Recommended):200635:117:235
+byte_[UI]_Translate_Client_In_English_(Recommended):CD02B:117:235
+byte_[UI]_Translate_Client_In_English_(Recommended):35177C:161:42
+byte_[UI]_Translate_Client_In_English_(Recommended):35177D:218:0
 
 byte_[UI]_Enable_/w_and_/who_commands:1AF708:3:255
 byte_[UI]_Enable_/w_and_/who_commands:1AF711:8:255
@@ -278,8 +299,11 @@ byte_[UI](3)_Black_Login_Background:1FCA66:255:144
 byte_[UI](3)_Black_Login_Background:1FCA6C:117:144
 byte_[UI](3)_Black_Login_Background:1FCA6D:10:144
 
-byte_[UI]_Disable_Random_Login_Background:F470E:184:20
-byte_[UI]_Disable_Random_Login_Background:F470F:55:56
+byte_[UI]_Only_First_Login_Background:F470E:184:20
+byte_[UI]_Only_First_Login_Background:F470F:55:56
+
+byte_[UI]_Only_Second_Login_Background:F4363:20:184
+byte_[UI]_Only_Second_Login_Background:F4364:56:55
 
 byte_[UI]_Remove_Gravity_Logo:3537AB:84:0
 byte_[UI]_Remove_Gravity_Logo:3537AC:95:0
@@ -1180,13 +1204,6 @@ byte_[Fix]_Show_Debug:5D11:144:187
 byte_[Fix]_Show_Debug:5D12:144:255
 byte_[Fix]_Show_Debug:5D13:144:255
 byte_[Fix]_Show_Debug:5D14:144:255
-
-byte_[Fix]_Taekwon_SL_SG_Korean_to_English_in_Langtype_0_(Recommended):200635:117:235
-
-byte_[Fix]_CashPoints_Korean_to_English_in_Langtype_0_(Recommended):CD02B:117:235
-
-byte_[Fix]_Map_Indicator_in_Langtypes_1+_(Recommended):35177C:161:42
-byte_[Fix]_Map_Indicator_in_Langtypes_1+_(Recommended):35177D:218:0
 
 byte_[Fix]_Disable_Hallucination_Wavy_Screen:10C0B:15:144
 byte_[Fix]_Disable_Hallucination_Wavy_Screen:10C0C:132:233
