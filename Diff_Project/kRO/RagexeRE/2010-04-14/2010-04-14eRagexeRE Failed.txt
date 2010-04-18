@@ -1,0 +1,12 @@
+[Packet](11)_Enforce_Login_Packet_0x2b0
+[Packet](11)_Disable_Login_Packet_0x2b0
+[UI]_Use_New_Char_Selection_Screen_on_All_Langtypes_(Recommended)
+[UI]_Enable_/w_and_/who_commands
+[Fix](12)_Enable_3_Character_Slots
+[Fix](12)_Enable_6_Character_Slots
+[Fix](12)_Enable_9_Character_Slots_(Recommended)
+[Fix](12)_Enable_12_Character_Slots
+[Fix](12)_Enable_15_Character_Slots
+[Fix](12)_Enable_18_Character_Slots
+[Fix](12)_Enable_21_Character_Slots
+[Fix](12)_Enable_42_Character_Slots
