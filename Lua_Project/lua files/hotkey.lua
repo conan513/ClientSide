@@ -238,6 +238,7 @@ BEHAVIOR_TO_WINDOWID = {
 	[157] = 31,
 }
 
+--Function #0
 GetKeyDes = function(key1, key2)
 	local keyName1 = KEYNAME[key1]
 	local keyName2 = KEYNAME[key2]
@@ -250,6 +251,7 @@ GetKeyDes = function(key1, key2)
 	end
 end
 
+--Function #1
 GetBeHaviorOfWindow = function(winID)
 	local behavior = BEHAVIOR_TO_WINDOWID[winID]
 	if behavior ~= nil then
@@ -277,6 +279,7 @@ GetBeHaviorOfWindow = function(winID)
 	end
 end
 
+--Function #2
 GetHotKeyInfo = function(tableName, idx)
 	element = _G[tableName]
 	if element ~= nil then
@@ -291,14 +294,17 @@ GetHotKeyInfo = function(tableName, idx)
 	end
 end
 
+--Function #3
 GetOriginalHotKeyInfo = function(tabNum, idx)
 	return GetHotKeyInfo(string.format("HOTKEY_%d", tabNum), idx)
 end
 
+--Function #4
 GetUserHotKeyInfo = function(tabNum, idx)
 	return GetHotKeyInfo(string.format("USERKEY_%d", tabNum), idx)
 end
 
+--Function #5
 GetOriginalHotKeyListSize = function(tabNum)
 	local tableSize = 0
 	table = _G[string.format("HOTKEY_%d", tabNum)]
@@ -308,6 +314,7 @@ GetOriginalHotKeyListSize = function(tabNum)
 	return tableSize
 end
 
+--Function #6
 GetHotKey = function(tabNum, idx)
 	key1,key2,des,exe = GetUserHotKeyInfo(tabNum, idx)
 	if exe == "" then
@@ -316,6 +323,7 @@ GetHotKey = function(tabNum, idx)
 	return key1,key2,des,exe
 end
 
+--Function #7
 GetBehaviorOfHotKey = function(inKey1, inKey2)
 	size = 0
 	tab = 1
@@ -324,6 +332,9 @@ GetBehaviorOfHotKey = function(inKey1, inKey2)
 		idx = 0
 		key1,key2,des,exe = GetHotKey(tab, idx)
 		while exe ~= "" do
+			if exe == MsgStrID.MSI_HK_CHATMODE_ONOFF and key1 == inKey1 then
+				return idx + size
+			end
 			if key1 == inKey1 and key2 == inKey2 then
 				return idx + size
 			end
@@ -337,6 +348,7 @@ GetBehaviorOfHotKey = function(inKey1, inKey2)
 	return -1
 end
 
+--Function #8
 ChangeUserHotKey = function(tabNum, idx, exe, key1, key2)
 	TableName = string.format("USERKEY_%d", tabNum)
 	UserKeyTable = _G[TableName]
@@ -362,6 +374,7 @@ ChangeUserHotKey = function(tabNum, idx, exe, key1, key2)
 	_G[TableName] = UserKeyTable
 end
 
+--Function #9
 GetIndexOfTheUserHotKey = function(inKey1, inKey2)
 	tab = 1
 	tableLen = GetOriginalHotKeyListSize(tab)
@@ -381,6 +394,7 @@ GetIndexOfTheUserHotKey = function(inKey1, inKey2)
 	return -1
 end
 
+--Function #10
 ResetTheHotKey  = function(tabNum, idx, inKey1, inKey2)
 	tableLen = GetOriginalHotKeyListSize(tabNum)
 	idx = idx - tableLen
@@ -399,6 +413,7 @@ ResetTheHotKey  = function(tabNum, idx, inKey1, inKey2)
 	end
 end
 
+--Function #11
 SaveUserHotKeys = function(saveFileName)
 	saveFile = io.open(saveFileName,"w")
 	if saveFile ~= nil then

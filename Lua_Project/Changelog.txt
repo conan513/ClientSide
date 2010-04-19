@@ -1,3 +1,9 @@
+rev26 - [2010-0420]
+ - Updated lua files to kRO Patch(2010-04-14) this includes the 6 new lub files
+ - fixed party_booking it matches the official one
+ - skilldescript and skillinfoid are not 100% translated i need an updated skilldesctable
+ - Added lub files for that patch
+
 rev21 - [2010-04-07]
  - Updated lua files to kRO Patch(2010-04-07)
  - Added Lub files for that patch [90% translated stateiconinfo]

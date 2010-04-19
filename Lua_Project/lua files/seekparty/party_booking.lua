@@ -346,11 +346,11 @@ end
 makeMapList()
 print("[All Output Data Structure]")
 regionIterator = getRegionIterator()
-if not regionIterator.hasNext() then
+while regionIterator.hasNext() do
 	region = regionIterator.value()
 	print(region["id"],region["name"])
 	mapIterator = getMapIterator(region["id"])
-	if not mapIterator.hasNext() then
+	while mapIterator.hasNext() do
 		map = mapIterator.value()
 		print("\t",queryMapInfo(region.id,map.id))
 	end
@@ -358,14 +358,14 @@ end
 
 print("\n[Local Data Search]")
 regionIterator = getRegionIterator()
-if not regionIterator.hasNext() then
+while regionIterator.hasNext() do
 	region = regionIterator.value()
 	print(region.id,region.name)
 end
 
 print("\n[Map Data Search]")
 mapIterator = getMapIterator(2)
-if not mapIterator.hasNext() then
+while mapIterator.hasNext() do
 	map = mapIterator.value()
 	print(map.id,map.name)
 end
@@ -373,7 +373,7 @@ end
 print("\n[Regional Data Information Request]")
 print(queryRegionInfo(2))
 _,_,mapIterator,_ = queryRegionInfo(2)
-if not mapIterator.hasNext() then
+while mapIterator.hasNext() do
 	map = mapIterator.value()
 	print(map.id,map.name)
 end
@@ -397,7 +397,3 @@ GetPartyBookingHelp = function()
 	end
 	return descript
 end
-
---[[
-Even though line 349 to 382 it doesnt match the disassembler it does still work tested on official servers.
---]]
