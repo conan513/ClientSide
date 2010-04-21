@@ -1,3 +1,6 @@
+rev28 - [2010-04-21]
+ - Updated lua files + lub files to kRO Patch(2010-04-21)
+
 rev27 - [2010-04-20]
  - Updated skilldescript.lua translation (thanks Chilly for sharing your updated skilldesctable)
  - Added 2010-04-14 v2 lub file

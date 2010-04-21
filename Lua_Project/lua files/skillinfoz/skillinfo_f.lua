@@ -130,7 +130,7 @@ InitSkillTreeView = function(jobID, arrayNum)
 			if skillID ~= nil then
 				local strSkillID, strSkillName, MaxLv, UserUpgradable = GetSkillInfo(skillID)
 				if strSkillID ~= nil and strSkillID ~= "" then
-					c_AddSkillList(jobID, arrayNum, skillID, strSkillID, skillPos, MaxLv, UserUpgradable)
+					c_AddSkillList(arrayNum, skillID, strSkillID, skillPos, MaxLv, UserUpgradable)
 					AddNeedSkillList(skillID)
 				end
 				listSize = listSize - 1

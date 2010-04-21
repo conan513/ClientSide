@@ -196,8 +196,6 @@ SKILL_DESCRIPT = {
 
 		"Safety Wall",
 		"MAX Lv : 10",
-		"2^777777Skill Requirements : Napalm Beat 7, Soul Strike 5^000000",
-		"8^777777Skill Requirements : Aspersio 4, Sanctuary 3^000000",
 		"Type:^33cc00 Active ^000000",
 		"Property: ^bb00bbGhost^000000",
 		"Target:^777777 1 cell ^000000",
@@ -213,11 +211,11 @@ SKILL_DESCRIPT = {
 		"Target:^777777 Enemy ^000000",
 		"Effect:^777777Summon ancient spirits to attack an enemy. Especially effective against Undead monsters.^000000",
 	},
+
 		--Hqg ri sUR-Kbeulg Vnloo Ghvf,
 	[SKID.MG_COLDBOLT] = {
 
 		"Cold Bolt",
-		"Required For:^777777 Frost Diver (L5), Water Ball (L1 Wizard), Frost Weapon (L1 Sage) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive, Level Selectable ^000000",
 		"SP Cost:^777777 10 + 2*SkillLV ^000000",
@@ -232,7 +230,6 @@ SKILL_DESCRIPT = {
 	[SKID.MG_FROSTDIVER] = {
 
 		"Frost Diver",
-		"Required For:^777777 Ice Wall (L1 Wizard), Storm Gust (L1 Wizard) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 26 - SkillLV ^000000",
@@ -258,7 +255,6 @@ SKILL_DESCRIPT = {
 	[SKID.MG_STONECURSE] = {
 
 		"Stone Curse",
-		"Required For:^777777 Earth Spike (L1 Wizard), Ice Wall (L1 Wizard), Seismic Weapon (L1 Sage) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 26 - SkillLV ^000000",
@@ -285,7 +281,6 @@ SKILL_DESCRIPT = {
 	[SKID.MG_FIREBALL] = {
 
 		"Fire Ball",
-		"Required For:^777777 Fire Wall (L5), Crimson Rock (LV1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 25 ^000000",
@@ -310,7 +305,6 @@ SKILL_DESCRIPT = {
 	[SKID.MG_FIREWALL] = {
 
 		"Fire Wall",
-		"Required For:^777777 Fire Pillar (L1 Wizard) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 40 ^000000",
@@ -335,7 +329,6 @@ SKILL_DESCRIPT = {
 	[SKID.MG_FIREBOLT] = {
 
 		"Fire Bolt",
-		"Required For:^777777 Fire Ball (L4), Flame Launcher (L1 Sage) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive, Level Selectable ^000000",
 		"SP Cost:^777777 10 + 2*SkillLV ^000000",
@@ -350,7 +343,6 @@ SKILL_DESCRIPT = {
 	[SKID.MG_LIGHTNINGBOLT] = {
 
 		"Lightning Bolt",
-		"Required For:^777777 Jupitel Thunder (L1 Wizard), Sightrasher (L1 Wizard), Thunder Storm (L4), Water Ball (L1 Wizard), Lightning Loader (L1 Sage) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive, Level Selectable ^000000",
 		"SP Cost:^777777 10 + 2*SkillLV ^000000",
@@ -365,7 +357,6 @@ SKILL_DESCRIPT = {
 	[SKID.MG_THUNDERSTORM] = {
 
 		"Thunder Storm",
-		"Required For:^777777 Lord of Vermillion (L1 Wizard), Meteor Storm (L1 Wizard). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 24 + 5*SkillLV ^000000",
@@ -390,7 +381,6 @@ SKILL_DESCRIPT = {
 	[SKID.AL_DP] = {
 
 		"Divine Protection",
-		"Required For:^777777 Angelus (L3 Acolyte), Blessing (L5 Acolyte), Demon Bane (L3 Acolyte/Crusader), Iron Palm (L10 Monk), Providence (L5 Crusader) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Reduces damage from Undead property and Demon family monsters by (3*SkillLV)+[0.04*(BaseLV + 1)]. Damage is subtracted after DEF reductions.",
@@ -410,7 +400,6 @@ SKILL_DESCRIPT = {
 	[SKID.AL_DEMONBANE] = {
 
 		"Demon Bane",
-		"Required For:^777777 Signum Crucis (L3), Iron Palm (L10 Monk), Heal (L5 Crusader), Gospel (L5 Paladin), Mana Recharge (L10 High Priest) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases damage against Undead property and Demon family monsters by (3*SkillLV)+[0.05*(BaseLV + 1)]. Damage ignores DEF reduction from armor, but not from VIT. The skill bonus increases with higher character BaseLV.",
@@ -430,7 +419,6 @@ SKILL_DESCRIPT = {
 	[SKID.AL_RUWACH] = {
 
 		"Ruwach",
-		"Required For:^777777 Lex Divina (Priest), Teleportation ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -462,7 +450,6 @@ SKILL_DESCRIPT = {
 	[SKID.AL_TELEPORT] = {
 
 		"Teleportation",
-		"Required For:^777777 Warp Portal (L2) ^000000",
 		"Max Level:^777777 2 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 11 - SkillLV ^000000",
@@ -479,7 +466,6 @@ SKILL_DESCRIPT = {
 	[SKID.AL_WARP] = {
 
 		"Warp Portal",
-		"Required For:^777777 Pneuma (L4) ^000000",
 		"Max Level:^777777 4 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 38 - 3*SkillLV ^000000",
@@ -504,7 +490,6 @@ SKILL_DESCRIPT = {
 	[SKID.AL_HEAL] = {
 
 		"Heal",
-		"Required For:^777777 Cure (L2 Acolyte), Increase Agility (L3 Acolyte), Sanctuary (L1 Priest), Providence (L5 Crusader), Coluceo Heal (LV1) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active, Level Selectable ^000000",
 		"SP Cost:^777777 10 + 3*SkillLV ^000000",
@@ -520,7 +505,6 @@ SKILL_DESCRIPT = {
 	[SKID.AL_INCAGI] = {
 
 		"Increase Agility",
-		"Required For:^777777 Decrease Agility (L1), Canto Candidus (LV1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active, Level Selectable ^000000",
 		"SP Cost:^777777 15 + 3*SkillLV ^000000",
@@ -574,7 +558,6 @@ SKILL_DESCRIPT = {
 	[SKID.AL_HOLYWATER] = {
 
 		"Aqua Benedicta",
-		"Required For:^777777 Aspersio (Priest) ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -615,7 +598,6 @@ SKILL_DESCRIPT = {
 	[SKID.AL_ANGELUS] = {
 
 		"Angelus",
-		"Required For:^777777 Kyrie Eleison (L2 Priest), Assumptio (L1 High Priest) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active, Level Selectable ^000000",
 		"SP Cost:^777777 20 + 3*SkillLV ^000000",
@@ -639,7 +621,6 @@ SKILL_DESCRIPT = {
 	[SKID.AL_BLESSING] = {
 
 		"Blessing",
-		"Required For:^777777 Divine Protection (LV5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active, Level Selectable ^000000",
 		"SP Cost:^777777 24 + 4*SkillLV ^000000",
@@ -667,7 +648,6 @@ SKILL_DESCRIPT = {
 	[SKID.AL_CURE] = {
 
 		"Cure",
-		"Required For:^777777 Divine Protection (Crusader) ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 15 ^000000",
@@ -683,7 +663,6 @@ SKILL_DESCRIPT = {
 	[SKID.MC_INCCARRY] = {
 
 		"Enlarge Weight Limit",
-		"Required For:^777777 Discount (L3), Pushcart (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases maximum carrying capacity by 200*SkillLV. ^000000",
@@ -702,7 +681,6 @@ SKILL_DESCRIPT = {
 	[SKID.MC_DISCOUNT] = {
 
 		"Discount",
-		"Required For:^777777 Overcharge (L3) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Allows buying items at reduced prices from NPC shops. Deals, vending shops, and chat-selling NPCs (e.g. Upgrade stone NPC) are not affected. The final price is always rounded down and has a minimum value of 1z.",
@@ -739,7 +717,6 @@ SKILL_DESCRIPT = {
 	[SKID.MC_PUSHCART] = {
 
 		"Pushcart",
-		"Required For:^777777 Vending (L3), Cart Boost (L5 Whitesmith). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Allows the character to equip and use a pushcart. Movement speed with a Pushcart equipped is (50+5*SkillLV)% (yes, you move much slower at the beginning).",
@@ -797,7 +774,6 @@ SKILL_DESCRIPT = {
 	[SKID.MC_MAMMONITE] = {
 
 		"Mammonite",
-		"Required For:^777777 Cart Termination (L10 Whitesmith). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive, Level Selectable ^000000",
 		"SP Cost:^777777 5 ^000000",
@@ -822,7 +798,6 @@ SKILL_DESCRIPT = {
 	[SKID.AC_OWL] = {
 
 		"Owl's Eye",
-		"Required For:^777777 Vulture's Eye (L3), True Sight (L10 Sniper). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases DEX by 1*SkillLV. ^000000",
@@ -841,7 +816,6 @@ SKILL_DESCRIPT = {
 	[SKID.AC_VULTURE] = {
 
 		"Vulture's Eye",
-		"Required For:^777777 Attention Concentrate (L1), Double Strafing (L10 Rogue), Falcon Assault (L5 Sniper), True Sight (L10 Sniper). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases range with bows by 1*SkillLV cells and increases HIT by 1 per SkillLV. ^000000",
@@ -860,7 +834,6 @@ SKILL_DESCRIPT = {
 	[SKID.AC_CONCENTRATION] = {
 
 		"Attention Concentrate",
-		"Required For:^777777 Detecting (L1), Wind Walk (L9 Sniper), True Sight (L10 Sniper), Sharp Shooting (L10 Sniper), Moonlit Water Mill (L5 Clown/Gypsy), Marionette Control (L10 Clown & Gypsy), Wand of Hermode (L10 Clown & Gypsy), Tarot Card of Fate (L10 Clown & Gypsy). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 20 + 5*SkillLV ^000000",
@@ -884,7 +857,6 @@ SKILL_DESCRIPT = {
 	[SKID.AC_DOUBLE] = {
 
 		"Double Strafing",
-		"Required For:^777777 Arrow Shower (L5 Archer), Beast Strafing (L10 Hunter -SoulLinked), Remove Trap (L5 Rogue), Sharp Shooting (L5 Sniper). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 12 ^000000",
@@ -909,7 +881,6 @@ SKILL_DESCRIPT = {
 	[SKID.AC_SHOWER] = {
 
 		"Arrow Shower",
-		"Required For:^777777 Arrow Vulcan (L5 Clown & Gypsy) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 15 ^000000",
@@ -934,7 +905,6 @@ SKILL_DESCRIPT = {
 	[SKID.TF_DOUBLE] = {
 
 		"Double Attack",
-		"Required For:^777777 Advanced Katar Research (L5 Assassin Cross), Soul Breaker (L5 Assassin Cross). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Gives chance to double swing a Dagger class weapon with a chance equal to (5*SkillLV)%, and adds +1 HIT per SkillLV (that only applies in double attacks). In the case of an Assassin wielding two Dagger class weapons, it applies to the right-hand weapon only.",
@@ -973,7 +943,6 @@ SKILL_DESCRIPT = {
 	[SKID.TF_STEAL] = {
 
 		"Steal",
-		"Required For:^777777 Hiding (L5), Snatcher (L1 Rogue) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -1001,7 +970,6 @@ SKILL_DESCRIPT = {
 	[SKID.TF_HIDING] = {
 
 		"Hiding",
-		"Required For:^777777 Cloaking (L2 Assassin), Tunnel Drive (L1 Rogue), Chase Walk (L5 Stalker) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 + see below ^000000",
@@ -1028,7 +996,6 @@ SKILL_DESCRIPT = {
 	[SKID.TF_POISON] = {
 
 		"Envenom",
-		"Required For:^777777 Detoxify (L3), Enchant Poison (L1 Assassin), Soul Breaker (L5 Assassin Cross), Create Deadly Poison (L10 Assassin Cross). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 12 ^000000",
@@ -1055,7 +1022,6 @@ SKILL_DESCRIPT = {
 	[SKID.TF_DETOXIFY] = {
 
 		"Detoxify",
-		"Required For:^777777 Create Deadly Poison (Assassin Cross) ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -1070,7 +1036,6 @@ SKILL_DESCRIPT = {
 	[SKID.ALL_RESURRECTION] = {
 
 		"Resurrection",
-		"Required For:^777777 Turn Undead (L1). ^000000",
 		"Max Level:^777777 4 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 60 ^000000",
@@ -1091,7 +1056,6 @@ SKILL_DESCRIPT = {
 	[SKID.KN_SPEARMASTERY] = {
 
 		"Spear Mastery",
-		"Required For:^777777 Pierce (L1 Knight), Spear Quicken (L10 Crusader), Concentration (L5 Lord Knight), Spiral Pierce (L10 Lord Knight), Head Crush (L9 Lord Knight), Joint Beat (L9 Lord Knight). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases damage with all Spears by +4*SkillLV. If riding a Peco Peco, then the damage improvement is +5*SkillLV. This damage ignores modification from Armor and VIT defense, but not from Elemental and Card modifiers and applies to all hits for multi hit attacks. ^000000",
@@ -1110,7 +1074,6 @@ SKILL_DESCRIPT = {
 	[SKID.KN_PIERCE] = {
 
 		"Pierce",
-		"Required For:^777777 Spear Boomerang (L3), Spear Stab (L5), Spiral Pierce (L5 Lord Knight). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive",
 		"SP Cost:^777777 9 ^000000",
@@ -1138,7 +1101,6 @@ SKILL_DESCRIPT = {
 	[SKID.KN_BRANDISHSPEAR] = {
 
 		"Brandish Spear",
-		"Required For:^777777 Phantom Trust (LV2). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 12 ^000000",
@@ -1176,7 +1138,6 @@ SKILL_DESCRIPT = {
 	[SKID.KN_SPEARSTAB] = {
 
 		"Spear Stab",
-		"Required For:^777777 Brandish Spear (L3), Spiral Pierce (L5 Lord Knight). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 9 ^000000",
@@ -1221,7 +1182,6 @@ SKILL_DESCRIPT = {
 	[SKID.KN_TWOHANDQUICKEN] = {
 
 		"Two-Hand Quicken",
-		"Required For:^777777 Bowling Bash (L10), One-Hand Quicken (L10 -SoulLinked), Parrying (L3 Lord Knight) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 + 4*SkillLV ^000000",
@@ -1245,7 +1205,6 @@ SKILL_DESCRIPT = {
 	[SKID.KN_AUTOCOUNTER] = {
 
 		"Auto Counter",
-		"Required For:^777777 Bowling Bash (L5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 3 ^000000",
@@ -1289,7 +1248,6 @@ SKILL_DESCRIPT = {
 	[SKID.KN_RIDING] = {
 
 		"Riding",
-		"Required For:^777777 Brandish Spear, Cavalry Mastery, Concentration (Lord Knight), Spiral Pierce (Lord Knight), Head Crush (Lord Knight) ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 This skill allows the character to ride a Peco Peco. Mounted characters gain an additional 25% walking speed (cumulative with AGI UP) and the maximum weight limit a character can carry is increased by 1000.",
@@ -1300,7 +1258,6 @@ SKILL_DESCRIPT = {
 	[SKID.KN_CAVALIERMASTERY] = {
 
 		"Cavalry Mastery",
-		"Required For:^777777 Joint Beat (L3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Helps return weapon swinging speed to normal while riding a Peco Peco. The swinging speed while riding a Peco Peco is (50+10*SkillLV)% based on unmounted ASPD. This can be incorporated into ASPD as Weapon Delay*(2 - 0.2*SkillLV)*(250 - AGI - [DEX/4])/250. ^000000",
@@ -1314,7 +1271,6 @@ SKILL_DESCRIPT = {
 	[SKID.PR_MACEMASTERY] = {
 
 		"Mace Mastery",
-		"Required For:^777777 Mana Recharge (L10 High Priest) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases damage with Maces by +3*SkillLV. This damage ignores modification from Armor and VIT defense, but not from Elemental and Card modifiers and applies to all hits for multi hit attacks. ^000000",
@@ -1333,7 +1289,6 @@ SKILL_DESCRIPT = {
 	[SKID.PR_IMPOSITIO] = {
 
 		"Impositio Manus",
-		"Required For:^777777 Aspersio (L3), Suffragium (L2), Assumptio (L3 High Priest). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 + 3*SkillLV ^000000",
@@ -1373,7 +1328,6 @@ SKILL_DESCRIPT = {
 	[SKID.PR_ASPERSIO] = {
 
 		"Aspersio",
-		"Required For:^777777 Benedictio Sanctissimi Sacramenti (L5), Safety Wall (L4), Meditatio (L3 High Priest), Duple Light (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 + 4*SkillLV ^000000",
@@ -1418,7 +1372,6 @@ SKILL_DESCRIPT = {
 	[SKID.PR_SANCTUARY] = {
 
 		"Sanctuary",
-		"Required For:^777777 Safety Wall (L3). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 12 + 3*SkillLV ^000000",
@@ -1471,7 +1424,6 @@ SKILL_DESCRIPT = {
 	[SKID.PR_STRECOVERY] = {
 
 		"Recovery",
-		"Required For:^777777 Resurrection, Slow Poison, Lauda Agnus(LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 5 ^000000",
@@ -1487,7 +1439,6 @@ SKILL_DESCRIPT = {
 	[SKID.PR_KYRIE] = {
 
 		"Kyrie Eleison",
-		"Required For:^777777 Gloria (L4), Basilica (L3 High Priest), Praefatio (LV5). ^000000. ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 20 + 5*[(SkillLV - 1)/3 rounded down] ^000000",
@@ -1514,7 +1465,6 @@ SKILL_DESCRIPT = {
 	[SKID.PR_MAGNIFICAT] = {
 
 		"Magnificat",
-		"Required For:^777777 Gloria (L3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 40 ^000000",
@@ -1534,7 +1484,6 @@ SKILL_DESCRIPT = {
 	[SKID.PR_GLORIA] = {
 
 		"Gloria",
-		"Required For:^777777 Benedictio Sanctissimi Sacramenti (L3), Basilica (L2 High Priest) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 20 ^000000",
@@ -1554,7 +1503,6 @@ SKILL_DESCRIPT = {
 	[SKID.PR_LEXDIVINA] = {
 
 		"Lex Divina",
-		"Required For:^777777 Lex Aeterna (L5), Turn Undead (L3), Meditatio (L5 High Priest). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 LV 1-5 20; LV 6-10 30-2*SkillLV ^000000",
@@ -1580,7 +1528,6 @@ SKILL_DESCRIPT = {
 	[SKID.PR_TURNUNDEAD] = {
 
 		"Turn Undead",
-		"Required For:^777777 Magnus Exorcismus (L3), Judex (LV1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 20 ^000000",
@@ -1596,7 +1543,6 @@ SKILL_DESCRIPT = {
 	[SKID.PR_LEXAETERNA] = {
 
 		"Lex Aeterna",
-		"Required For:^777777 Magnus Exorcismus ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -1611,7 +1557,6 @@ SKILL_DESCRIPT = {
 	[SKID.PR_MAGNUS] = {
 
 		"Magnus Exorcismus",
-		"Required For:^777777 Adoramus (LV1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 38 + 2*SkillLV ^000000",
@@ -1667,7 +1612,6 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_SIGHTRASHER] = {
 
 		"Sightrasher",
-		"Required For:^777777 Meteor Storm (L2) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive, Combo ^000000",
 		"SP Cost:^777777 33 + 2*SkillLV ^000000",
@@ -1704,7 +1648,6 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_METEOR] = {
 
 		"Meteor Storm",
-		"Required For:^777777 Summon Fire Ball (LV1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 See below ^000000",
@@ -1729,7 +1672,6 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_JUPITEL] = {
 
 		"Jupitel Thunder",
-		"Required For:^777777 Lord of Vermillion (L5), Storm Gust (L3) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 17 + 3*SkillLV ^000000",
@@ -1754,7 +1696,6 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_VERMILION] = {
 
 		"Lord of Vermillion",
-		"Required For:^777777 Summon Lightning Ball (LV1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 56 + 4*SkillLV ^000000",
@@ -1793,19 +1734,19 @@ SKILL_DESCRIPT = {
 		"In any given X by X grid, the game determines that you are surrounded by (X*X)-1 cells. So, at level 4/5 Waterball, you can cast up to (5*5)-1, or 24 water balls.",
 		"However, if you're only standing in a 3x3 pool, you will only cast 8 water balls. If you're standing in a freaky grid (like a partially-used Deluge), the number of balls cast is equal to the number of water-occupied cells in your grid, so if you're in a cell like this:",
 
-		"O = empty",
+		"O = empty",
 		"X = water",
 		"* = player",
 
-		"OOOOO",
+		"OOOOO",
 		"OOOOO",
 		"XX*XX",
 		"OOOOO",
 		"OOOOO",
 
-		"...you'll only cast 4 water balls with level 4/5. With level 2/3, you'll only cast 2 water balls, since only 2 are in the 3x3 grid surrounding you.",
+		"...you'll only cast 4 water balls with level 4/5. With level 2/3, you'll only cast 2 water balls, since only 2 are in the 3x3 grid surrounding you.",
 
-		"This is particularly useful to keep in mind when you're with a Deluge Sage, since Waterball uses up the Deluge cells.",
+		"This is particularly useful to keep in mind when you're with a Deluge Sage, since Waterball uses up the Deluge cells.",
 		"You can determine which cells are used by how you stand in the cast area (every cast will wipe out the respective grid section around you, centered on you), and maximize the effectiveness of the water ball spells you cast. ^000000",
 		"[LV 1]^777777 1 Waterball / 1x1 Grid, 130% MATK ^000000",
 		"[LV 2]^777777 3 Waterball / 3x3 Grid, 160% MATK ^000000",
@@ -1817,7 +1758,6 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_ICEWALL] = {
 
 		"Ice Wall",
-		"Required For:^777777 Frost Nova (L1 Wizard), Ganbantein (L1 High Wizard). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 20 ^000000",
@@ -1869,7 +1809,6 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_STORMGUST] = {
 
 		"Storm Gust",
-		"Required For:^777777 Summon Water Ball (L1) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 78 ^000000",
@@ -1896,7 +1835,6 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_EARTHSPIKE] = {
 
 		"Earth Spike",
-		"Required For:^777777 Heaven's Drive (L3 Wizard), Heaven's Drive (L1 Sage). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive, Level Selectable ^000000",
 		"SP Cost:^777777 10 + 2*SkillLV ^000000",
@@ -1911,7 +1849,6 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_HEAVENDRIVE] = {
 
 		"Heaven's Drive",
-		"Required For:^777777 Quagmire (L1 Wizard), Summon Stone (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 24 + 4*SkillLV ^000000",
@@ -1927,7 +1864,6 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_QUAGMIRE] = {
 
 		"Quagmire",
-		"Required For:^777777 Gravitation Field (L1 High Wizard), Marsh Of Abyss (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 5*SkillLV ^000000",
@@ -1942,7 +1878,6 @@ SKILL_DESCRIPT = {
 	[SKID.WZ_ESTIMATION] = {
 
 		"Monster Property",
-		"Required For:^777777 Ganbantein (High Wizard) ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -1957,7 +1892,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_IRON] = {
 
 		"Iron Tempering",
-		"Required For:^777777 Enchanted Stone Craft (L1), Steel Tempering (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Catalyst:^777777 1 Iron Ore, 1 Mini-Furnace ^000000",
@@ -1969,7 +1903,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_STEEL] = {
 
 		"Steel Tempering",
-		"Required For:^777777 Finding Ore (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Catalyst:^777777 5 Iron, 1 Coal, 1 Mini-Furnace ^000000",
@@ -1981,7 +1914,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_ENCHANTEDSTONE] = {
 
 		"Enchanted Stone Craft",
-		"Required For:^777777 Research Oridecon (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Catalyst:^777777 Varies (see effect) ^000000",
@@ -2002,7 +1934,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_DAGGER] = {
 
 		"Smith Dagger",
-		"Required For:^777777 Smith Brass Knuckle (L1), Smith Spear (L2), Smith Sword (L1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Catalyst:^777777 Varies ^000000",
@@ -2054,7 +1985,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_SWORD] = {
 
 		"Smith Sword",
-		"Required For:^777777 Smith Axe (L2), Smith Two-Handed Sword (L1) ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Catalyst:^777777 Varies ^000000",
@@ -2251,7 +2181,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_KNUCKLE] = {
 
 		"Smith Brass Knuckle",
-		"Required For:^777777 Smith Mace (L1) ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Catalyst:^777777 Varies ^000000",
@@ -2352,7 +2281,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_HILTBINDING] = {
 
 		"Hilt Binding",
-		"Required For:^777777 Finding Ore, Weaponry Research, Melt Down (Whitesmith), Cart Boost (Whitesmith) ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Gives a +1 bonus to STR and +4 ATK. Increases Adrenaline Rush, Over Thrust and Weapon Perfection duration by 10%. DOES NO LONGER prevent you from dropping the equipped weapon upon death. The chance of items dropping on death is only implemented in Nightmare mode PvP currently. ^000000",
@@ -2369,7 +2297,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_WEAPONRESEARCH] = {
 
 		"Weaponry Research",
-		"Required For:^777777 Weapon Perfection (L2), Repair Weapon (L1), Melt Down (L5 Whitesmith), Weapon Refine (L10 Whitesmith). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases character's HIT by +2 per SkillLV, ATK by +2 per SkillLV and weapon forging success rate by +1% per SkillLV. The damage applies even on a missed attack and is affected by elemental properties and card modifiers.",
@@ -2409,7 +2336,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_SKINTEMPER] = {
 
 		"Skin Tempering",
-		"Required For:^777777 Melt Down (L3 Whitesmith) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases character's resistance to Fire element by (4*SkillLV)% and reduces non-elemental damage by (1*SkillLV)%. ^000000",
@@ -2423,7 +2349,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_HAMMERFALL] = {
 
 		"Hammer Fall",
-		"Required For:^777777 Adrenaline Rush (L2), Cart Termination (L5 Whitesmith). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"Range:^777777 Melee ^000000",
@@ -2442,7 +2367,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_ADRENALINE] = {
 
 		"Adrenaline Rush",
-		"Required For:^777777 Over Thrust (L3), Weapon Perfection (L2), Full Adrenaline Rush (L5 -SoulLinked). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 17 + 3*SkillLV ^000000",
@@ -2461,7 +2385,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_WEAPONPERFECT] = {
 
 		"Weapon Perfection",
-		"Required For:^777777 Maximize Power (L3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 20 - 2*SkillLV ^000000",
@@ -2480,7 +2403,6 @@ SKILL_DESCRIPT = {
 	[SKID.BS_OVERTHRUST] = {
 
 		"Over Thrust",
-		"Required For:^777777 Maximize Power (L2), Melt Down (L3 Whitesmith), Maximum Over Thrust (L5 Whitesmith). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 20 - 2*SkillLV ^000000",
@@ -2517,7 +2439,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_SKIDTRAP] = {
 
 		"Skid Trap",
-		"Required For:^777777 Ankle Snare (L1), Flasher (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Trap ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -2540,7 +2461,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_LANDMINE] = {
 
 		"Land Mine",
-		"Required For:^777777 Blast Mine (L1), Remove Trap (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Trap ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -2564,7 +2484,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_ANKLESNARE] = {
 
 		"Ankle Snare",
-		"Required For:^777777 Shockwave Trap (L1), Aimed Bolt (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Trap ^000000",
 		"SP Cost:^777777 12 ^000000",
@@ -2588,7 +2507,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_SHOCKWAVE] = {
 
 		"Shockwave Trap",
-		"Required For:^777777 Claymore Trap (L1), Talkie Box (L1), Electric Shcoker (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Trap ^000000",
 		"SP Cost:^777777 45 ^000000",
@@ -2611,7 +2529,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_SANDMAN] = {
 
 		"Sandman",
-		"Required For:^777777 Blast Mine (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Trap ^000000",
 		"SP Cost:^777777 12 ^000000",
@@ -2634,7 +2551,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_FLASHER] = {
 
 		"Flasher",
-		"Required For:^777777 Freezing Trap (L1), Sandman (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Trap ^000000",
 		"SP Cost:^777777 12 ^000000",
@@ -2658,7 +2574,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_FREEZINGTRAP] = {
 
 		"Freezing Trap",
-		"Required For:^777777 Blast Mine (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Trap ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -2682,7 +2597,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_BLASTMINE] = {
 
 		"Blast Mine",
-		"Required For:^777777 Claymore Trap (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Trap ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -2705,7 +2619,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_CLAYMORETRAP] = {
 
 		"Claymore Trap",
-		"Required For:^777777 Research Trap (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Trap ^000000",
 		"SP Cost:^777777 15 ^000000",
@@ -2729,7 +2642,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_REMOVETRAP] = {
 
 		"Remove Trap",
-		"Required For:^777777 Spring Trap, Talkie Box ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 5 ^000000",
@@ -2759,7 +2671,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_BEASTBANE] = {
 
 		"Beast Bane",
-		"Required For:^777777 Falconry Mastery (L1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases damage to Brute and Insect family monsters by +4*SkillLV. This damage ignores modification from Armor and VIT defense, but not from Elemental and Card modifiers and applies to all hits for multi hit attacks. ^000000",
@@ -2778,7 +2689,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_FALCON] = {
 
 		"Falconry Mastery",
-		"Required For:^777777 Blitz Beat, Detecting, Spring Trap, True Sight (Sniper), Falcon Assault (Sniper) ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Allows you to hire a Falcon from the Falcon Master in the Hunter Guild in Hugel.",
@@ -2788,7 +2698,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_STEELCROW] = {
 
 		"Steel Crow",
-		"Required For:^777777 Falcon Assault (L3 Sniper) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Adds 6*SkillLV damage to each hit with Blitz Beat. Note that Blitz Beat can do up to 5 hits. ^000000",
@@ -2807,7 +2716,6 @@ SKILL_DESCRIPT = {
 	[SKID.HT_BLITZBEAT] = {
 
 		"Blitz Beat",
-		"Required For:^777777 Steel Crow (L5), Falcon Assault (L5 Sniper). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 7 + 3*SkillLV ^000000",
@@ -2866,7 +2774,6 @@ SKILL_DESCRIPT = {
 	[SKID.AS_RIGHT] = {
 
 		"Right-Hand Mastery",
-		"Required For:^777777 Left-Hand Mastery (L2), Meteor Assault (L3 Assassin Cross). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Damage on the right-hand weapon while equipping two weapons is (50+10*SkillLV)%. DOES NOT WORK FOR KATARS AS THESE COUNT AS 2-HANDED WEAPONS. ^000000",
@@ -2880,7 +2787,6 @@ SKILL_DESCRIPT = {
 	[SKID.AS_LEFT] = {
 
 		"Left-Hand Mastery",
-		"Required For:^777777 Weapon Blocking (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Damage on the left-hand weapon while equipping two weapons is (30+10*SkillLV)%. DOES NOT WORK FOR KATARS AS THESE COUNT AS 2-HANDED WEAPONS. ^000000",
@@ -2894,7 +2800,6 @@ SKILL_DESCRIPT = {
 	[SKID.AS_KATAR] = {
 
 		"Katar Mastery",
-		"Required For:^777777 Sonic Blow (L4), Advanced Katar Research (L7 Assassin Cross), Meteor Assault (L5 Assassin Cross). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases damage with Katar class weapons by 3*SkillLV. This damage ignores modification from Armor and VIT defense, but not from Elemental and Card modifiers and applies to all hits for multi hit attacks. ^000000",
@@ -2913,7 +2818,6 @@ SKILL_DESCRIPT = {
 	[SKID.AS_CLOAKING] = {
 
 		"Cloaking",
-		"Required For:^777777 Grimtooth (L2), Soul Breaker (L3 Assassin Cross), Cloaking Exceed (LV3). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 15 ^000000",
@@ -2943,7 +2847,6 @@ SKILL_DESCRIPT = {
 	[SKID.AS_SONICBLOW] = {
 
 		"Sonic Blow",
-		"Required For:^777777 Grimtooth (L5), Meteor Assault (L5 Assassin Cross), Cross Impact (LV10), Rolling Cutter (LV10). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 14 + 2*SkillLV ^000000",
@@ -2988,7 +2891,6 @@ SKILL_DESCRIPT = {
 	[SKID.AS_ENCHANTPOISON] = {
 
 		"Enchant Poison",
-		"Required For:^777777 Poison React (L3), Venom Dust (L5), Create Deadly Poison (L5 Assassin Cross), Soul Breaker (L6 Assassin Cross), Venom Impress (LV3). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 20 ^000000",
@@ -3012,7 +2914,6 @@ SKILL_DESCRIPT = {
 	[SKID.AS_POISONREACT] = {
 
 		"Poison React",
-		"Required For:^777777 Venom Splasher (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 15 + 5*SkillLV (but 45 for LV 10) ^000000",
@@ -3037,7 +2938,6 @@ SKILL_DESCRIPT = {
 	[SKID.AS_VENOMDUST] = {
 
 		"Venom Dust",
-		"Required For:^777777 Venom Splasher (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 20 ^000000",
@@ -3363,7 +3263,6 @@ SKILL_DESCRIPT = {
 	[SKID.MC_CARTREVOLUTION] = {
 
 		"Cart Revolution",
-		"Required For:^777777 Cart Boost (Whitesmith). ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 12 ^000000",
 		"Target:^777777 1 Enemy ^000000",
@@ -3378,7 +3277,6 @@ SKILL_DESCRIPT = {
 	[SKID.MC_CHANGECART] = {
 
 		"Change Cart",
-		"Required For:^777777 Cart Boost (Whitesmith). ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 40 ^000000",
 		"Target:^777777 Self ^000000",
@@ -3440,7 +3338,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_SNATCHER] = {
 
 		"Snatcher",
-		"Required For:^777777 Steal Coin (L4) ^000000",
 		"Type:^000099 Passive ^000000",
 		"Target:^777777 Enemy ^000000",
 		"Effect:^777777 Steals from the enemy while attacking normally. Steal success chance is based on the Thief Steal Skill. ^000000",
@@ -3459,7 +3356,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_STEALCOIN] = {
 
 		"Steal Coin",
-		"Required For:^777777 Strip Helm (L2), Back Stab (L4) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"Target:^777777 Monster ^000000",
@@ -3474,7 +3370,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_BACKSTAP] = {
 
 		"Back Stab",
-		"Required For:^777777 Raid (L2), Intimidate (L4) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"Target:^777777 Enemy ^000000",
@@ -3499,7 +3394,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_TUNNELDRIVE] = {
 
 		"Tunnel Drive",
-		"Required For:^777777 Raid (L2), Chase Walk (L3 Stalker) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"SP Cost:^777777 Hide dependant ^000000",
@@ -3515,7 +3409,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_RAID] = {
 
 		"Raid",
-		"Required For:^777777 Intimidate (L5) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"Target:^777777 Enemy ^000000",
@@ -3535,7 +3428,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_STRIPWEAPON] = {
 
 		"Strip Weapon",
-		"Required For:^777777 Reject Sword (L1 Stalker), Full Strip (L5 Stalker) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 15 + 2*SkillLV ^000000",
@@ -3556,7 +3448,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_STRIPSHIELD] = {
 
 		"Strip Shield",
-		"Required For:^777777 Gangster's Paradise (L3), Strip Armor (L5), Full Strip (L5 Stalker) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 + 2*SkillLV ^000000",
@@ -3577,7 +3468,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_STRIPARMOR] = {
 
 		"Strip Armor",
-		"Required For:^777777 Strip Weapon (L5), Full Strip (L5 Stalker) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 15 + 2*SkillLV ^000000",
@@ -3598,7 +3488,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_STRIPHELM] = {
 
 		"Strip Helm",
-		"Required For:^777777 Strip Shield (L5), Full Strip (L5 Stalker) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 + 2*SkillLV ^000000",
@@ -3619,7 +3508,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_INTIMIDATE] = {
 
 		"Intimidate",
-		"Required For:^777777 Plagiarism (L5) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 + 3*SkillLV ^000000",
@@ -3654,7 +3542,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_FLAGGRAFFITI] = {
 
 		"Flag Graffiti",
-		"Required For:^777777 Graffiti (L5) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"Target:^777777 Area ^000000",
@@ -3676,7 +3563,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_CLEANER] = {
 
 		"Cleaner",
-		"Required For:^777777 Flag Graffiti ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"Target:^777777 Area ^000000",
@@ -3693,7 +3579,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_GANGSTER] = {
 
 		"Gangster's Paradise",
-		"Required For:^777777 Compulsion Discount, Cleaner ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 When 2 or more Rogues sit next to each other (all must have this skill) aggressive monsters, except Boss monsters, won't attack. ^000000",
@@ -3715,7 +3600,6 @@ SKILL_DESCRIPT = {
 	[SKID.RG_PLAGIARISM] = {
 
 		"Plagiarism",
-		"Required For:^777777 Preserve (L10 Stalker) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Passive ^000000",
 		"Effect:^777777 Allows the last offensive skill used on you to be used as a skill you have gained. Only one skill may be copied at a time in this fashion, maximum copied skill level equals the Plagiarism SkillLV. ^000000",
@@ -3752,7 +3636,6 @@ SKILL_DESCRIPT = {
 	[SKID.AM_LEARNINGPOTION] = {
 
 		"Learning Potion",
-		"Required For:^777777 Pharmacy (L5) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases effectiveness of healing items by 5% per SkillLV and potion creation chance by 1% per SkillLV. ^000000",
@@ -3771,7 +3654,6 @@ SKILL_DESCRIPT = {
 	[SKID.AM_PHARMACY] = {
 
 		"Pharmacy",
-		"Required For:^777777 Sphere Mine (L2), Potion Pitcher (L3), Demonstration (L4), Acid Terror (L5), Bio Cannibalize (L6), Chemical Protection Helm (L2), Twilight Alchemy I (L10 -SoulLinked), Twilight Alchemy II (L10 -SoulLinked), Twilight Alchemy III (L10 -SoulLinked). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 5 ^000000",
@@ -3784,26 +3666,19 @@ SKILL_DESCRIPT = {
 		"JobLV?.2+(DEX+LUK+INT/2)?.1+Learning Potion?.5+Pharmacy?+Base Value",
 		"^000000-Normal Potions^777777 Base Value =  + Random(1-100)/10 + 20%",
 		"^000000-Blue Potions^777777 Base Value = None",
-
 		"^000000-Alcohol-^777777 Base Value = + Random(1-100)/10 + 10%",
-
 		"^000000-Fire/Acid/Plant/Grenade Bottles-^777777 Base Value = + Random(1-100)/10",
-
 		"^000000-Condensed Red Potions-^777777 Base Value = None",
 		"^000000-Condensed Yellow Potions-^777777 Base Value = - Random(1-50)/10",
 		"^000000-Condensed White Potions-^777777 Base Value = - Random(1-100)/10",
-
 		"^000000-Glistening Coat-^777777 Base Value = - Random(1-100)/10",
-
 		"^000000-All Other-^777777 Base Value = None",
-
 		"^000099And as an important note to remember, an adopted Alchemist will have -30% success rates! ^000000",
 	},
 
 	[SKID.AM_DEMONSTRATION] = {
 
 		"Demonstration",
-		"Required For:^777777 Acid Demonstration (L5 Creator). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive^bb0000 (Fire) ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -3825,7 +3700,6 @@ SKILL_DESCRIPT = {
 	[SKID.AM_ACIDTERROR] = {
 
 		"Acid Terror",
-		"Required For:^777777 Acid Demonstration (L5 Creator). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -3850,7 +3724,6 @@ SKILL_DESCRIPT = {
 	[SKID.AM_POTIONPITCHER] = {
 
 		"Potion Pitcher",
-		"Required For:^777777 Slim Potion Pitcher (L5 Creator) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Level Selectable ^000000",
 		"SP Cost:^777777 1 ^000000",
@@ -3882,7 +3755,7 @@ SKILL_DESCRIPT = {
 		"Duration:^777777 35 + 5*SkillLV sec (only 60 sec at LV 5 confirmed) ^000000",
 		"Effect:^777777 Summon various plants to attack monsters or players. The level you have determines the HP of the plant, while the level you use determines the type of plant summoned, the duration, and the amount of ^66cc33Plant Bottles^777777 consumed.",
 		"The HP formula is 2230+200*Possessed SkillLV per plant (yes, these have significantly more HP than normal ones), all other stats remain the same. If you have less than the total amount of bottles required for the Skill Level you used, it will take the rest of the bottles, and summon that many plants.",
-		"So if you have three plant bottles, and use level one, you’ll end up with three Mandragora instead of the typical five. When used during the War of Emperium, the defense value of the castle the plants are in raises the defense of the plants themselves.",
+		"So if you have three plant bottles, and use level one, you’ll end up with three Mandragora instead of the typical five. When used during the War of Emperium, the defense value of the castle the plants are in raises the defense of the plants themselves.",
 		"Their attacks are considered extensions of your own when it comes to a single thing: auto-cast spells granted by weapons or cards. Status effects and damage increasing cards do not carry over to the plants.",
 		"You can only summon more plants once your first plants have died, or gone through their duration time. So long as you remain on screen with them, you will get the experience for their kills.",
 		"An effective strategy for all the plants is to summon them, hit/target a monster, and then use a Hiding accessory once the monster is in range of your plants.",
@@ -3928,7 +3801,7 @@ SKILL_DESCRIPT = {
 		"ASPD: Average.",
 		"Range: 3",
 		"Tip: randomly casts a 1024 HP Heal on allies. On specific servers (Aegis) in PvP only heals you if you’re in a party, it’s required for the Geographer to recognize you as a valid target for healing even if you are the only member. ^000000",
-	},
+	},
 
 	[SKID.AM_SPHEREMINE] = {
 
@@ -3954,7 +3827,6 @@ SKILL_DESCRIPT = {
 	[SKID.AM_CP_WEAPON] = {
 
 		"Chemical Protection Weapon",
-		"Required For:^777777 Full Chemical Protection (L5 Creator) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 30 ^000000",
@@ -3975,7 +3847,6 @@ SKILL_DESCRIPT = {
 	[SKID.AM_CP_SHIELD] = {
 
 		"Chemical Protection Shield",
-		"Required For:^777777 Chemical Protection Armor (L3), Full Chemical Protection (L5 Creator) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 25 ^000000",
@@ -3996,7 +3867,6 @@ SKILL_DESCRIPT = {
 	[SKID.AM_CP_ARMOR] = {
 
 		"Chemical Protection Armor",
-		"Required For:^777777 Chemical Protection Weapon (L3), Full Chemical Protection (L5 Creator) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 25 ^000000",
@@ -4017,7 +3887,6 @@ SKILL_DESCRIPT = {
 	[SKID.AM_CP_HELM] = {
 
 		"Chemical Protection Helm",
-		"Required For:^777777 Chemical Protection Shield (L3), Full Chemical Protection (L5 Creator) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 25 ^000000",
@@ -4038,7 +3907,6 @@ SKILL_DESCRIPT = {
 	[SKID.AM_BIOETHICS] = {
 
 		"Bioethics",
-		"Required For:^777777 Rest ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Allows Alchemist to begin learning the Homunculus Skill Tree. ^000000",
@@ -4079,7 +3947,6 @@ SKILL_DESCRIPT = {
 	[SKID.AM_CALLHOMUN] = {
 
 		"Call Homunculus",
-		"Required For:^777777 Resurrect Homunuculus ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -4090,7 +3957,7 @@ SKILL_DESCRIPT = {
 		"Effect:^777777 Summon or recall an already created Homunculus using an 'Embryo' item. When used for the first time the Embryo gives one of the 4 possible types at random, if you don't like the Homunculus, destroy it and make a new one.",
 		"You can see its state by right-clicking on it, then order it to either - attack, move, stay, feed, name change, and delete.",
 
-		"[Status]",
+		"[Status]",
 		"This shows variety of information about your Homunculus. This is where variety of command can be given to your Homunculus.",
 		"[Attack]",
 		"Select an enemy via Alt + Right click, then press Alt + Right click one more time to set the Homunculus to attack that target. To cancel, simply give it order to move or stay.",
@@ -4101,15 +3968,15 @@ SKILL_DESCRIPT = {
 		"[Feed]",
 		"Select this, or click [Feed] in Homunculus status window, then you will feed the Homunculus with appropriate food.",
 
-		"Homunculus eats following food:",
+		"Homunculus eats following food:",
 		"Lif: Pet Food",
 		"Amistr: Zargon",
 		"Filir: Garlet",
 		"Vanilmirth: Scell",
 
-		"Warning: Homunculus is an artificial life form. If you do not feed it periodically, it will simply disappear. So, take extra care in its feeding time!",
+		"Warning: Homunculus is an artificial life form. If you do not feed it periodically, it will simply disappear. So, take extra care in its feeding time!",
 
-		"Every Homunculus has different Skills, depending on its type:",
+		"Every Homunculus has different Skills, depending on its type:",
 		"^000000",
 		"- Lif (Dryad): -support caster",
 		"Touch of Heal^777777 - heals the master ^000000",
@@ -4117,25 +3984,25 @@ SKILL_DESCRIPT = {
 		"Brain Surgery",
 		"Mental Change (unknown)",
 
-		"- Amistr (Sheep): -defensive melee",
+		"- Amistr (Sheep): -defensive melee",
 		"Castling",
 		"Defense",
 		"Adamantium Skin",
 		"Blood Lust (unknown)",
 
-		"- Filir (Bird): -offensive meele",
+		"- Filir (Bird): -offensive meele",
 		"Moonlight",
 		"Fleet Move",
 		"Over Speed",
 		"S.B.R.44 (unknown)",
 
-		"- Vanilmirth (Mutant Jelly): -offensive spellcaster",
+		"- Vanilmirth (Mutant Jelly): -offensive spellcaster",
 		"Caprice",
 		"Chaotic Benediction",
 		"Change Instruction",
 		"Bio Explosion (unknown)",
 
-		"Leveling For Homunculus^777777",
+		"Leveling For Homunculus^777777",
 		"- Exp acquire by Homunculus depends on the damage it deals to the monster.",
 		"- No matter how many monsters the player kill, the Homunculus will not gain any exp.",
 		"- Let the Homunculus attack in order to level up Homunculus [no special effect when Homunculus Level Up].",
@@ -4148,7 +4015,6 @@ SKILL_DESCRIPT = {
 	[SKID.AM_REST] = {
 
 		"Rest",
-		"Required For:^777777 Call Homunculus ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"Effect:^777777 Destroys a currently created Homunculus. ^000000",
@@ -4195,7 +4061,6 @@ SKILL_DESCRIPT = {
 	[SKID.CR_TRUST] = {
 
 		"Faith",
-		"Required For:^777777 Cure (L5), Heal (L10), Holy Cross (L7), Grand Cross (L10), Pressure (L5 Paladin), Sacrifice (L5 Paladin), Gospel (L8 Paladin). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases Maximum HP by 200 and Resistance to Holy attacks by 5% per SkillLV. ^000000",
@@ -4214,7 +4079,6 @@ SKILL_DESCRIPT = {
 	[SKID.CR_AUTOGUARD] = {
 
 		"Auto Guard",
-		"Required For:^777777 Shield Charge (L5) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Supportive ^000000",
 		"SP Cost:^777777 10 + 2*SkillLV ^000000",
@@ -4238,7 +4102,6 @@ SKILL_DESCRIPT = {
 	[SKID.CR_SHIELDCHARGE] = {
 
 		"Shield Charge",
-		"Required For:^777777 Shield Boomerang (L3), Pressure (L2 Paladin) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -4258,7 +4121,6 @@ SKILL_DESCRIPT = {
 	[SKID.CR_SHIELDBOOMERANG] = {
 
 		"Shield Boomerang",
-		"Required For:^777777 Defender (L1), Reflect Shield (L3), Shield Chain (L5 Paladin) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 12 ^000000",
@@ -4278,7 +4140,6 @@ SKILL_DESCRIPT = {
 	[SKID.CR_REFLECTSHIELD] = {
 
 		"Reflect Shield",
-		"Required For:^777777 Devotion (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 30 + 5*SkillLV ^000000",
@@ -4302,7 +4163,6 @@ SKILL_DESCRIPT = {
 	[SKID.CR_HOLYCROSS] = {
 
 		"Holy Cross",
-		"Required For:^777777 Grand Cross (L6) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 10 + SkillLV ^000000",
@@ -4327,7 +4187,6 @@ SKILL_DESCRIPT = {
 	[SKID.CR_GRANDCROSS] = {
 
 		"Grand Cross",
-		"Required For:^777777 Devotion (L4). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 30 + 7*SkillLV ^000000",
@@ -4360,7 +4219,6 @@ SKILL_DESCRIPT = {
 	[SKID.CR_DEVOTION] = {
 
 		"Devotion",
-		"Required For:^777777 Sacrifice (L3 Paladin). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 25 ^000000",
@@ -4446,7 +4304,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_IRONHAND] = {
 
 		"Iron Hand",
-		"Required For:^777777 Call Spirits (L2), Dodge (L5), Palm Push Strike (L7 Champion), Tiger Knuckle Fist (L5 Champion), Chain Crush Combo (L5 Champion). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases Attack Power of fists and knuckle type weapons by 3 per SkillLV. ^000000",
@@ -4465,7 +4322,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_SPIRITSRECOVERY] = {
 
 		"Spirits Recovery",
-		"Required For:^777777 Body Relocation (L2) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Recovers HP and SP every 10 seconds while sitting (not while standing). Recovery is every 20 seconds when overweight and it works even when recuperating from Asura Strike, but without the natural recuperation bonuses",
@@ -4481,7 +4337,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_CALLSPIRITS] = {
 
 		"Call Spirits",
-		"Required For:^777777 Dodge (L5), Investigate (L5), Absorb Spirits (L5), Dangerous Soul Collect (L5, Champion), Palm Push Strike (L5 Champion), Tiger Knuckle Fist (L5 Champion), Chain Crush Combo (L5 Champion). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 8 ^000000",
@@ -4496,7 +4351,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_ABSORBSPIRITS] = {
 
 		"Absorb Spirits",
-		"Required For:^777777 Critical Explosion, Dangerous Soul Collect (Champion) ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 5 ^000000",
@@ -4511,7 +4365,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_TRIPLEATTACK] = {
 
 		"Triple Attack",
-		"Required For:^777777 Chain Combo (L5), Tiger Knuckle Fist (L5 Champion) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Combo Time:^777777 1.3 sec ^000000",
@@ -4551,7 +4404,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_DODGE] = {
 
 		"Dodge",
-		"Required For:^777777 Blade Stop (L5), Triple Attack (L5) ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases Flee Rate by +1.5 per SkillLV rounded down. ^000000",
 		"[LV 1]^777777 Flee Rate + 1 ^000000",
@@ -4569,7 +4421,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_INVESTIGATE] = {
 
 		"Investigate",
-		"Required For:^777777 Finger Offensive (L3) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 -0.5*(SkillLV*SkillLV) + 5.5*SkillLV + 5 ^000000",
@@ -4584,7 +4435,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_FINGEROFFENSIVE] = {
 
 		"Finger Offensive",
-		"Required For:^777777 Asura Strike (L3) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"Range:^777777 9 cells ^000000",
@@ -4606,7 +4456,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_STEELBODY] = {
 
 		"Steel Body",
-		"Required For:^777777 Body Relocation (L3) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 50% ^000000",
@@ -4626,7 +4475,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_BLADESTOP] = {
 
 		"Blade Stop",
-		"Required For:^777777 Spirits Recovery (L2) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -4649,7 +4497,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_EXPLOSIONSPIRITS] = {
 
 		"Critical Explosion",
-		"Required For:^777777 Asura Strike (L3), Dangerous Soul Collect (L5, Champion) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 15 ^000000",
@@ -4668,7 +4515,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_EXTREMITYFIST] = {
 
 		"Asura Strike",
-		"Required For:^777777 Body Relocation (L3) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 all ^000000",
@@ -4691,7 +4537,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_CHAINCOMBO] = {
 
 		"Chain Combo",
-		"Required For:^777777 Combo Finish (L3) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 10 + SkillLV ^000000",
@@ -4711,7 +4556,6 @@ SKILL_DESCRIPT = {
 	[SKID.MO_COMBOFINISH] = {
 
 		"Combo Finish",
-		"Required For:^777777 Steel Body (L3), Tiger Knuckle Fist (L3 Champion). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 10 + SkillLV ^000000",
@@ -4732,7 +4576,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_ADVANCEDBOOK] = {
 
 		"Advanced Book",
-		"Required For:^777777 Dragonology (L9), Cast Cancel (L2), Magic Rod (L4), Flame Launcher (L5), Frost Weapon (L5), Lightning Loader (L5), Seismic Weapon (L5), Memorize (L5 Professor). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Raises ATK by 3 and ASPD by 0.5% per SkillLV when using book type weapons. ^000000",
@@ -4751,7 +4594,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_CASTCANCEL] = {
 
 		"Cast Cancel",
-		"Required For:^777777 Free Cast (L1), Soul Burn (L5 Professor) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 2 ^000000",
@@ -4770,7 +4612,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_MAGICROD] = {
 
 		"Magic Rod",
-		"Required For:^777777 Spell Breaker (L1), Soul Change (L3, Professor), Soul Burn (L3 Professor), Health Conversion (L1 Professor). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 2 ^000000",
@@ -4790,7 +4631,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_SPELLBREAKER] = {
 
 		"Spell Breaker",
-		"Required For:^777777 Dispell (L3), Soul Change (L2 Professor). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 2 ^000000",
@@ -4812,7 +4652,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_FREECAST] = {
 
 		"Free Cast",
-		"Required For:^777777 Auto Spell (L4), Memorize (L5 Professor). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Allows movement and attack while casting spells. ",
@@ -4832,7 +4671,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_AUTOSPELL] = {
 
 		"Auto Spell",
-		"Required For:^777777 Abracadabra (L5), Memorize (L1 Professor), Double Casting (L1 Professor). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 35 ^000000",
@@ -4857,7 +4695,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_FLAMELAUNCHER] = {
 
 		"Flame Launcher",
-		"Required For:^777777 Volcano (L2) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 40 ^000000",
@@ -4878,7 +4715,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_FROSTWEAPON] = {
 
 		"Frost Weapon",
-		"Required For:^777777 Deluge (L2) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 40 ^000000",
@@ -4899,7 +4735,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_LIGHTNINGLOADER] = {
 
 		"Lightning Loader",
-		"Required For:^777777 Violent Gale (L2) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 40 ^000000",
@@ -4920,7 +4755,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_SEISMICWEAPON] = {
 
 		"Seismic Weapon",
-		"Required For:^777777 Earth Spike (L1) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 40 ^000000",
@@ -4941,7 +4775,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_DRAGONOLOGY] = {
 
 		"Dragonology",
-		"Required For:^777777 Spider Web (L4 Professor). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases Attack Power, MATK and DEF against Dragon type monsters by 4% per SkillLV. Also passively increases your INT depending on SkillLV. ^000000",
@@ -4955,7 +4788,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_VOLCANO] = {
 
 		"Volcano",
-		"Required For:^777777 Land Protector (L3) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Area Enchantment ^000000",
 		"SP Cost:^777777 50 - 2*SkillLV ^000000",
@@ -4977,7 +4809,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_DELUGE] = {
 
 		"Deluge",
-		"Required For:^777777 Land Protector (L3), Wall of Fog (L2). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Area Enchantment ^000000",
 		"SP Cost:^777777 50 - 2*SkillLV ^000000",
@@ -4999,7 +4830,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_VIOLENTGALE] = {
 
 		"Violent Gale",
-		"Required For:^777777 Land Protector (L3), Wall of Fog (L2 Professor). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Area Enchantment ^000000",
 		"SP Cost:^777777 50 - 2*SkillLV ^000000",
@@ -5020,7 +4850,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_LANDPROTECTOR] = {
 
 		"Land Protector",
-		"Required For:^777777 Abracadabra (L1) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active, Area Enchantment ^000000",
 		"SP Cost:^777777 70 - 4*SkillLV ^000000",
@@ -5042,7 +4871,6 @@ SKILL_DESCRIPT = {
 	[SKID.SA_DISPELL] = {
 
 		"Dispell",
-		"Required For:^777777 Abracadabra (L1), Soul Burn (L3 Professor). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 As casted spell ^000000",
@@ -5181,7 +5009,6 @@ SKILL_DESCRIPT = {
 	[SKID.BD_ADAPTATION] = {
 
 		"Adaptation to Circumstances",
-		"Required For:^777777 Encore (Bard & Dancer), Ugly Dance (Dancer), Dissonance (Bard) ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 1 ^000000",
@@ -5195,7 +5022,6 @@ SKILL_DESCRIPT = {
 	[SKID.BD_ENCORE] = {
 
 		"Encore",
-		"Required For:^777777 Scream, Frost Joker ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 See below ^000000",
@@ -5207,7 +5033,6 @@ SKILL_DESCRIPT = {
 	[SKID.BD_LULLABY] = {
 
 		"Lullaby",
-		"Required For:^777777 Into the Abyss (Bard/Dancer) ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^000099 Ensemble ^000000",
 		"SP Cost:^777777 20 ^000000",
@@ -5258,7 +5083,6 @@ SKILL_DESCRIPT = {
 	[SKID.BD_DRUMBATTLEFIELD] = {
 
 		"A Drum on the Battlefield",
-		"Required For:^777777 The Ring of Nibelungen (L3 Bard/Dancer) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Ensemble ^000000",
 		"SP Cost:^777777 35 + 3*SkillLV ^000000",
@@ -5299,7 +5123,6 @@ SKILL_DESCRIPT = {
 	[SKID.BD_ROKISWEIL] = {
 
 		"Loki's Veil",
-		"Required For:^777777 Eternal Chaos (LBard/Dancer) ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^000099 Ensemble ^000000",
 		"SP Cost:^777777 15 ^000000",
@@ -5330,7 +5153,6 @@ SKILL_DESCRIPT = {
 	[SKID.BD_SIEGFRIED] = {
 
 		"Invulnerable Siegfried",
-		"Required For:^777777 Mr. Kim A Rich Man (L3 Bard/Dancer) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Ensemble ^000000",
 		"SP Cost:^777777 20 ^000000",
@@ -5358,7 +5180,6 @@ SKILL_DESCRIPT = {
 	[SKID.BA_MUSICALLESSON] = {
 
 		"Musical Lesson",
-		"Required For:^777777 Musical Strike (L3), Dissonance (L1), Moonlit Water Mill (L7 Clown/Gypsy), Marionette Control (L5 Clown & Gypsy), Longing for Freedom (L10 Clown & Gypsy), Wand of Hermode (L10 Clown & Gypsy). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Raises Attack Power of instruments by 3 per SkillLV, and increases effects of songs. This skill also partially counters the walking speed reduction while performing. ^000000",
@@ -5377,7 +5198,6 @@ SKILL_DESCRIPT = {
 	[SKID.BA_MUSICALSTRIKE] = {
 
 		"Musical Strike",
-		"Required For:^777777 Arrow Vulcan (L1 Clown & Gypsy) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 2*SkillLV - 1 ^000000",
@@ -5397,7 +5217,6 @@ SKILL_DESCRIPT = {
 	[SKID.BA_DISSONANCE] = {
 
 		"Dissonance",
-		"Required For:^777777 A Whistle (L3), Assassin Cross of Sunset (L3), A Poem of Bragi (L3), The Apple of Idun (L3), Tarot Card of Fate (L3 Clown & Gypsy). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 15 + 3*SkillLV ^000000",
@@ -5437,7 +5256,6 @@ SKILL_DESCRIPT = {
 	[SKID.BA_WHISTLE] = {
 
 		"A Whistle",
-		"Required For:^777777 Lullaby (L10 Bard/Dancer) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 20 + 4*SkillLV ^000000",
@@ -5465,7 +5283,6 @@ SKILL_DESCRIPT = {
 
 		"BA_ASSASSINCROSS#",
 		"Assassin Cross of Sunset",
-		"Required For:^777777 Loki's Veil (L10 Bard/Dancer) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 35 + 3*SkillLV ^000000",
@@ -5491,7 +5308,6 @@ SKILL_DESCRIPT = {
 	[SKID.BA_POEMBRAGI] = {
 
 		"A Poem of Bragi",
-		"Required For:^777777 Invulnerable Siegfried (L10 Bard/Dancer) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 35 + 5*SkillLV ^000000",
@@ -5518,7 +5334,6 @@ SKILL_DESCRIPT = {
 	[SKID.BA_APPLEIDUN] = {
 
 		"The Apple of Idun",
-		"Required For:^777777 A Drum on the Battlefield (L10 Bard/Dancer) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 35 + 5*SkillLV ^000000",
@@ -5544,7 +5359,6 @@ SKILL_DESCRIPT = {
 	[SKID.DC_DANCINGLESSON] = {
 
 		"Dancing Lesson",
-		"Required For:^777777 Throw Arrow (L3), Ugly Dance (L1), Moonlit Water Mill (L7 Clown/Gypsy), Marionette Control (L5 Clown & Gypsy), Longing for Freedom (L10 Clown & Gypsy), Wand of Hermode (L10 Clown & Gypsy). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increases whip type weapon damage and effectiveness of dancing skills by 3 per SkillLV. This skill also partially counters the walking speed reduction while performing. ^000000",
@@ -5563,7 +5377,6 @@ SKILL_DESCRIPT = {
 	[SKID.DC_THROWARROW] = {
 
 		"Throw Arrow",
-		"Required For:^777777 Arrow Vulcan (L1 Clown & Gypsy) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 2*SkillLV - 1 ^000000",
@@ -5583,7 +5396,6 @@ SKILL_DESCRIPT = {
 	[SKID.DC_UGLYDANCE] = {
 
 		"Ugly Dance",
-		"Required For:^777777 Humming (L3), Please Don't Forget Me (L3), Fortune's Kiss (L3), Service for You (L3), Tarot Card of Fate (L3 Clown & Gypsy) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 20 + 3*SkillLV ^000000",
@@ -5623,7 +5435,6 @@ SKILL_DESCRIPT = {
 	[SKID.DC_HUMMING] = {
 
 		"Humming",
-		"Required For:^777777 Lullaby (L10 Bard/Dancer) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 20 + 2*SkillLV ^000000",
@@ -5650,7 +5461,6 @@ SKILL_DESCRIPT = {
 	[SKID.DC_DONTFORGETME] = {
 
 		"Please Don't Forget Me",
-		"Required For:^777777 Loki's Veil (L10 Bard/Dancer) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 25 + 3*SkillLV ^000000",
@@ -5678,7 +5488,6 @@ SKILL_DESCRIPT = {
 	[SKID.DC_FORTUNEKISS] = {
 
 		"Fortune's Kiss",
-		"Required For:^777777 Invulnerable Siegfried (L10 Bard/Dancer) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 40 + 3*SkillLV ^000000",
@@ -5705,7 +5514,6 @@ SKILL_DESCRIPT = {
 	[SKID.DC_SERVICEFORYOU] = {
 
 		"Service for You",
-		"Required For:^777777 A Drum on the Battlefield (L10 Bard/Dancer) ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 35 + 5*SkillLV ^000000",
@@ -5938,7 +5746,6 @@ SKILL_DESCRIPT = {
 	[SKID.HW_MAGICCRASHER] = {
 
 		"Magic Crasher",
-		"Required For:^777777 Gravitation Field ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 8 ^000000",
@@ -5954,7 +5761,6 @@ SKILL_DESCRIPT = {
 	[SKID.HW_MAGICPOWER] = {
 
 		"Amplify Magic Power",
-		"Required For:^777777 Gravitation Field (L10). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Supportive ^000000",
 		"SP Cost:^777777 10 + 4*SkillLV ^000000",
@@ -6081,7 +5887,6 @@ SKILL_DESCRIPT = {
 	[SKID.CH_TIGERFIST] = {
 
 		"Tiger Knuckle Fist",
-		"Required For:^777777 Chain Crush Combo (L2) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 2 + 2*SkillLV ^000000",
@@ -6161,7 +5966,6 @@ SKILL_DESCRIPT = {
 	[SKID.PF_SOULBURN] = {
 
 		"Soul Burn",
-		"Required For:^777777 Mind Breaker (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 70 + 10*SkillLV ^000000",
@@ -6206,7 +6010,6 @@ SKILL_DESCRIPT = {
 	[SKID.ASC_BREAKER] = {
 
 		"Soul Breaker",
-		"Required For:^777777 Metor Assault (L1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 LV 1-5 20SP",
@@ -6349,7 +6152,6 @@ SKILL_DESCRIPT = {
 	[SKID.WS_CARTBOOST] = {
 
 		"Cart Boost",
-		"Required For:^777777 Cart Termination ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Supportive ^000000",
 		"SP Cost:^777777 20 ^000000",
@@ -6358,7 +6160,6 @@ SKILL_DESCRIPT = {
 		"Cool Down:^777777 None ^000000",
 		"Duration:^777777 60 sec ^000000",
 		"Effect:^777777 This skill makes your movement speed 20% faster for 60 seconds. It does not stack with other speed changing spells whether beneficial or harmful.",
-		"Using this skill when you are under such an effect will cancel that effect if it is beneficial but won't give you the boost, a second usage is required for that.",
 		"It will not work at all if the effect is harmful (e.g. Curse, AGI Down). You need to have a cart in order to use this skill. ^000000",
 	},
 
@@ -6498,7 +6299,6 @@ SKILL_DESCRIPT = {
 	[SKID.CG_MARIONETTE] = {
 
 		"Marionette Control",
-		"Required For:^777777 Longing for Freedom (Clown & Gypsy) ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Supportive ^000000",
 		"SP Cost:^777777 100 ^000000",
@@ -6538,7 +6338,6 @@ SKILL_DESCRIPT = {
 	[SKID.LK_HEADCRUSH] = {
 
 		"Head Crush",
-		"Required For:^777777 Joint Beat (L3) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 23 ^000000",
@@ -6708,7 +6507,6 @@ SKILL_DESCRIPT = {
 	[SKID.ASC_CDP] = {
 
 		"Create Deadly Poison",
-		"Required For:^777777 Enchant Deadly Poison ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 50 ^000000",
@@ -6783,7 +6581,6 @@ SKILL_DESCRIPT = {
 	[SKID.TK_STORMKICK] = {
 
 		"Whirlwind Kick",
-		"Required For:^777777 Prepare Whirlwind Kick (L1). ^000000",
 		"Max Level:^777777 7 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 16 - 2*SkillLV ^000000",
@@ -6820,7 +6617,6 @@ SKILL_DESCRIPT = {
 	[SKID.TK_DOWNKICK] = {
 
 		"Axe Kick",
-		"Required For:^777777 Prepare Axe Kick (L1). ^000000",
 		"Max Level:^777777 7 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 16 - 2*SkillLV ^000000",
@@ -6856,7 +6652,6 @@ SKILL_DESCRIPT = {
 	[SKID.TK_TURNKICK] = {
 
 		"Round Kick",
-		"Required For:^777777 Prepare Round Kick (L1). ^000000",
 		"Max Level:^777777 7 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"Type:^000099 Passive ^000000",
@@ -6895,7 +6690,6 @@ SKILL_DESCRIPT = {
 	[SKID.TK_COUNTER] = {
 
 		"Counter Kick",
-		"Required For:^777777 Prepare Counter Kick (L1). ^000000",
 		"Max Level:^777777 7 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 16 - 2*SkillLV ^000000",
@@ -6932,7 +6726,6 @@ SKILL_DESCRIPT = {
 	[SKID.TK_JUMPKICK] = {
 
 		"Flying Side Kick",
-		"Required For:^777777 Break Fall (L7). ^000000",
 		"Max Level:^777777 7 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 80 - 10*SkillLV ^000000",
@@ -6960,7 +6753,6 @@ SKILL_DESCRIPT = {
 	[SKID.TK_HPTIME] = {
 
 		"Peaceful Rest",
-		"Required For:^777777 Warm Wind (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 If there is another TaeKwon, Star Gladiator or Soul Linker sitting next to you while sitting, this skill activates, allowing you to regenerate HP.",
@@ -6980,7 +6772,6 @@ SKILL_DESCRIPT = {
 	[SKID.TK_SPTIME] = {
 
 		"Enjoyable Rest",
-		"Required For:^777777 Warm Wind (L5), Kaina (L1 Soul Linker). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 If there is another TaeKwon, Star Gladiator or Soul Linker sitting next to you while sitting, this skill activates, allowing you to regenerate SP.",
@@ -7003,7 +6794,6 @@ SKILL_DESCRIPT = {
 	[SKID.TK_POWER] = {
 
 		"Fighting Chant",
-		"Required For:^777777 Warm Wind (L5), TaeKwon Mission (L5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 It increases your ATK (2*SkillLV)% per party member on the same map.",
@@ -7059,7 +6849,6 @@ SKILL_DESCRIPT = {
 	[SKID.SG_FEEL] = {
 
 		"Feeling of the Sun, Moon and Stars",
-		"Required For:^777777 Warmth of the Sun (L1), Warmth of the Moon (L2), Warmth of the Stars (L3), Comfort of the Sun (L1), Comfort of the Moon (L2), Comfort of the Stars (L3),",
 		"Blessing of the Sun (L1), Blessing of the Moon (L2), Blessing of the Stars (L3). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^33cc00 Active ^000000",
@@ -7191,7 +6980,6 @@ SKILL_DESCRIPT = {
 	[SKID.SG_HATE] = {
 
 		"Hatred of the Sun, Moon, and Stars",
-		"Required For:^777777 Anger of the Sun (L1), Anger of the Moon (L2), Anger of the Stars (L3), Blessing of the Sun (L1), Blessing of the Moon (L2), Blessing of the Stars (L3). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 100 ^000000",
@@ -7315,7 +7103,6 @@ SKILL_DESCRIPT = {
 	[SKID.SG_KNOWLEDGE] = {
 
 		"Knowledge of the Sun, Moon and Stars",
-		"Required For:^777777 Union of the Sun, Moon, and Stars (L9 -SoulLinked). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 When you login the game on a map (only login, NOT by walking/teleporting) that is designated as Place of the Sun, or Moon, or Stars, this passive skill grants you increased weight capacity at +(10*SkillLV)%.",
@@ -7350,7 +7137,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_ALCHEMIST] = {
 
 		"Alchemist Spirit",
-		"Required For:^777777 Blacksmith Spirit (L1) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 560 - 100*SkillLV ^000000",
@@ -7385,7 +7171,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_MONK] = {
 
 		"Monk Spirit",
-		"Required For:^777777 Priest Spirit (L1), Eska (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 560 - 100*SkillLV ^000000",
@@ -7403,7 +7188,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_STAR] = {
 
 		"Star Gladiator Spirit",
-		"Required For:^777777 Soul Linker Spirit (L1) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 560 - 100*SkillLV ^000000",
@@ -7418,7 +7202,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_SAGE] = {
 
 		"Sage Spirit",
-		"Required For:^777777 Wizard Spirit (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 560 - 100*SkillLV ^000000",
@@ -7433,7 +7216,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_CRUSADER] = {
 
 		"Crusader Spirit",
-		"Required For:^777777 Knight Spirit (L1), Kaahi (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 560 - 100*SkillLV ^000000",
@@ -7448,7 +7230,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_SUPERNOVICE] = {
 
 		"Super Novice Spirit",
-		"Required For:^777777 Rebirth Spirit (L1) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 560 - 100*SkillLV ^000000",
@@ -7466,7 +7247,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_KNIGHT] = {
 
 		"Knight Spirit",
-		"Required For:^777777 Eske (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 560 - 100*SkillLV ^000000",
@@ -7481,7 +7261,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_WIZARD] = {
 
 		"Wizard Spirit",
-		"Required For:^777777 Kaite (L1), Estin (L1), Estun (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 560 - 100*SkillLV ^000000",
@@ -7497,7 +7276,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_PRIEST] = {
 
 		"Priest Spirit",
-		"Required For:^777777 Kaizel (L1), Kaahi (L1), Eswoo (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 560 - 100*SkillLV ^000000",
@@ -7512,7 +7290,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_BARDDANCER] = {
 
 		"Bard and Dancer Spirits",
-		"Required For:^777777 Hunter Spirit (L1) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 560 - 100*SkillLV ^000000",
@@ -7534,7 +7311,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_ROGUE] = {
 
 		"Rogue Spirit",
-		"Required For:^777777 Kaupe (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 560 - 100*SkillLV ^000000",
@@ -7552,7 +7328,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_ASSASIN] = {
 
 		"Assassin Spirit",
-		"Required For:^777777 Rogue Spirit (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 560 - 100*SkillLV ^000000",
@@ -7729,7 +7504,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_STIN] = {
 
 		"Estin",
-		"Required For:^777777 Esma (L7). ^000000",
 		"Max Level:^777777 7 ^000000",
 		"Type:^777777 Offensive ^000000^777777, Es- Type ^000000",
 		"SP Cost:^777777 16 + 2*SkillLV ^000000",
@@ -7753,7 +7527,6 @@ SKILL_DESCRIPT = {
 	[SKID.SL_STUN] = {
 
 		"Estun",
-		"Required For:^777777 Esma (L7). ^000000",
 		"Max Level:^777777 7 ^000000",
 		"Type:^777777 Offensive ^000000^777777, Es- Type ^000000",
 		"SP Cost:^777777 16 + 2*SkillLV ^000000",
@@ -8320,7 +8093,6 @@ SKILL_DESCRIPT = {
 	[SKID.GS_GLITTERING] = {
 
 		"Flip the Coin",
-		"Required For:^777777 Fling (L1), Magical Bullet (L1), Cracker (L1), Triple Action (L1), Bull's Eye (L5),",
 		"Madness Canceller (L4), Adjustment (L4), Increasing Accuracy (L2). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
@@ -8457,7 +8229,6 @@ SKILL_DESCRIPT = {
 	[SKID.GS_SINGLEACTION] = {
 
 		"Single Action",
-		"Required For:^777777 Chain Action (L1), Tracking (L5), Dust (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Target:^777777 Self ^000000",
@@ -8477,7 +8248,6 @@ SKILL_DESCRIPT = {
 	[SKID.GS_SNAKEEYE] = {
 
 		"Snake's Eye",
-		"Required For:^777777 Increasing Accuracy (L10). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Target:^777777 Self ^000000",
@@ -8497,7 +8267,6 @@ SKILL_DESCRIPT = {
 	[SKID.GS_CHAINACTION] = {
 
 		"Chain Action",
-		"Required For:^777777 Rapid Shower (L3). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Target:^777777 Self ^000000",
@@ -8507,7 +8276,6 @@ SKILL_DESCRIPT = {
 	[SKID.GS_TRACKING] = {
 
 		"Tracking",
-		"Required For:^777777 Piercing Shot (L5), Disarm (L7), Bull's Eye (L10). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Active / Ranged Single Target Physical Attack ^000000",
 		"SP Cost:^777777 10 + 5*SkillLV ^000000",
@@ -8533,7 +8301,6 @@ SKILL_DESCRIPT = {
 	[SKID.GS_DISARM] = {
 
 		"Disarm",
-		"Required For:^777777 Adjustment (L5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 10 + 5*SkillLV ^000000",
@@ -8570,7 +8337,6 @@ SKILL_DESCRIPT = {
 	[SKID.GS_RAPIDSHOWER] = {
 
 		"Rapid Shower",
-		"Required For:^777777 Desperado (L5), Gatling Fever (L7). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 20 + 2*SkillLV ^000000",
@@ -8596,7 +8362,6 @@ SKILL_DESCRIPT = {
 	[SKID.GS_DESPERADO] = {
 
 		"Desperado",
-		"Required For:^777777 Gatling Fever (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 30 + 2*SkillLV ^000000",
@@ -8622,7 +8387,6 @@ SKILL_DESCRIPT = {
 	[SKID.GS_GATLINGFEVER] = {
 
 		"Gatling Fever",
-		"Required For:^777777 Madness Canceller (L10). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 28 + 2*SkillLV ^000000",
@@ -8647,7 +8411,6 @@ SKILL_DESCRIPT = {
 	[SKID.GS_DUST] = {
 
 		"Dust",
-		"Required For:^777777 Full Buster (L3). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 3*SkillLV ^000000",
@@ -8673,7 +8436,6 @@ SKILL_DESCRIPT = {
 	[SKID.GS_FULLBUSTER] = {
 
 		"Full Buster",
-		"Required For:^777777 Spread Attack (L5), Ground Drift (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 15 + 5*SkillLV ^000000",
@@ -8700,7 +8462,6 @@ SKILL_DESCRIPT = {
 	[SKID.GS_SPREADATTACK] = {
 
 		"Spread Attack",
-		"Required For:^777777 Ground Drift (L7). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 10 + 5*SkillLV ^000000",
@@ -8752,7 +8513,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_TOBIDOUGU] = {
 
 		"Throwing Mastery",
-		"Required For:^777777 Throw Shuriken (L1), Throw Huuma Shuriken (L5), Issen (L7), Throw Zeny (L10). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Increase Throw Shuriken skill damage by +3*SkillLV.",
@@ -8772,7 +8532,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_SYURIKEN] = {
 
 		"Throw Shuriken",
-		"Required For:^777777 Throw Kunai (L5), Throw Huuma Shuriken (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 2 ^000000",
@@ -8799,7 +8558,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_KUNAI] = {
 
 		"Throw Kunai",
-		"Required For:^777777 Throwing Mastery (L1), Throw Huuma Shuriken (L5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 35 - 5*SkillLV ^000000",
@@ -8817,7 +8575,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_HUUMA] = {
 
 		"Throw Huuma Shuriken",
-		"Required For:^777777 Throw Zeny (L5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 15 + 5*SkillLV ^000000",
@@ -8864,7 +8621,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_TATAMIGAESHI] = {
 
 		"Reverse Tatami",
-		"Required For:^777777 Shadow Jump (L1), Shadow Slash (L1), Mist Slash (L1), Cast-off Ciceda Shell (L1), Illusionary Shadow (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 15 ^000000",
@@ -8886,7 +8642,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_KASUMIKIRI] = {
 
 		"Mist Slash",
-		"Required For:^777777 Shadow Slash (L5), Illusionary Shadow (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 8 + 2*SkillLV ^000000",
@@ -8913,7 +8668,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_SHADOWJUMP] = {
 
 		"Shadow Jump",
-		"Required For:^777777 Shadow Slash (L1), Cast-off Ciceda Shell (L5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -8936,7 +8690,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_KIRIKAGE] = {
 
 		"Shadow Slash",
-		"Required For:^777777 Bunshin no Jutsu (L3), Issen (L5), Illusionary Shadow (L3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 12 + 2*SkillLV ^000000",
@@ -8957,7 +8710,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_UTSUSEMI] = {
 
 		"Cast-off Ciceda Shell",
-		"Required For:^777777 Illusionary Shadow (L4). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 9 + 3*SkillLv ^000000",
@@ -9000,7 +8752,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_NINPOU] = {
 
 		"Ninpou Training",
-		"Required For:^777777 Crimson Fire Blossom (L1), Crimson Fire Formation (L1), Lightning Spear of Ice (L1), Wind Blade (L1), Soul (L5), Dragon Fire Formation (L10), Falling Ice Pillar (L10), North Wind (L10), Lightning Crash (L1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 Recovers (Maximum SP/500 + 3)*SkillLV SP per 10 full seconds when standing still and increases the efficiency of SP recovering items by +2% per SkillLV. ^000000",
@@ -9019,7 +8770,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_KOUENKA] = {
 
 		"Crimson Fire Blossom",
-		"Required For:^777777 Crimson Fire Formation (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 16 + 2*SkillLV ^000000",
@@ -9044,7 +8794,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_KAENSIN] = {
 
 		"Crimson Fire Formation",
-		"Required For:^777777 Dragon Fire Formation (L7). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 25 ^000000",
@@ -9090,7 +8839,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_HYOUSENSOU] = {
 
 		"Lightning Spear of Ice",
-		"Required For:^777777 Water Escape Technique (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 12 + 3*SkillLV ^000000",
@@ -9105,7 +8853,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_SUITON] = {
 
 		"Water Escape Technique",
-		"Required For:^777777 Falling Ice Pillar (L7). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 12 + 3*SkillLV ^000000",
@@ -9152,7 +8899,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_HUUJIN] = {
 
 		"Wind Blade",
-		"Required For:^777777 Lightning Crash (L5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 10 + 2*SkillLV ^000000",
@@ -9177,7 +8923,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_RAIGEKISAI] = {
 
 		"Lightning Crash",
-		"Required For:^777777 North Wind (L5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 12 + 4*SkillLV ^000000",
@@ -9218,7 +8963,6 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_NEN] = {
 
 		"Soul",
-		"Required For:^777777 Final Strike (L1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 10 + 10*SkillLV ^000000",
@@ -9251,631 +8995,505 @@ SKILL_DESCRIPT = {
 
 	[SKID.MB_FIGHTING] = {
 
-
 	},
 
 	[SKID.MB_NEUTRAL] = {
-
 
 	},
 
 	[SKID.MB_TAIMING_PUTI] = {
 
-
 	},
 
 	[SKID.MB_WHITEPOTION] = {
-
 
 	},
 
 	[SKID.MB_MENTAL] = {
 
-
 	},
 
 	[SKID.MB_CARDPITCHER] = {
-
 
 	},
 
 	[SKID.MB_PETPITCHER] = {
 
-
 	},
 
 	[SKID.MB_BODYSTUDY] = {
-
 
 	},
 
 	[SKID.MB_BODYALTER] = {
 
-
 	},
 
 	[SKID.MB_PETMEMORY] = {
-
 
 	},
 
 	[SKID.MB_M_TELEPORT] = {
 
-
 	},
 
 	[SKID.MB_B_GAIN] = {
-
 
 	},
 
 	[SKID.MB_M_GAIN] = {
 
-
 	},
 
 	[SKID.MB_MISSION] = {
-
 
 	},
 
 	[SKID.MB_MUNAKKNOWLEDGE] = {
 
-
 	},
 
 	[SKID.MB_MUNAKBALL] = {
-
 
 	},
 
 	[SKID.MB_SCROLL] = {
 
-
 	},
 
 	[SKID.MB_B_GATHERING] = {
-
 
 	},
 
 	[SKID.MB_M_GATHERING] = {
 
-
 	},
 
 	[SKID.MB_B_EXCLUDE] = {
-
 
 	},
 
 	[SKID.MB_B_DRIFT] = {
 
-
 	},
 
 	[SKID.MB_B_WALLRUSH] = {
-
 
 	},
 
 	[SKID.MB_M_WALLRUSH] = {
 
-
 	},
 
 	[SKID.MB_B_WALLSHIFT] = {
-
 
 	},
 
 	[SKID.MB_M_WALLCRASH] = {
 
-
 	},
 
 	[SKID.MB_M_REINCARNATION] = {
-
 
 	},
 
 	[SKID.MB_B_EQUIP] = {
 
-
 	},
 
 	[SKID.SL_DEATHKNIGHT] = {
-
 
 	},
 
 	[SKID.SL_COLLECTOR] = {
 
-
 	},
 
 	[SKID.SL_NINJA] = {
-
 
 	},
 
 	[SKID.SL_GUNNER] = {
 
-
 	},
 
 	[SKID.AM_TWILIGHT4] = {
-
 
 	},
 
 	[SKID.DE_BERSERKAIZER] = {
 
-
 	},
 
 	[SKID.DA_DARKPOWER] = {
-
 
 	},
 
 	[SKID.DE_PASSIVE] = {
 
-
 	},
 
 	[SKID.DE_PATTACK] = {
-
 
 	},
 
 	[SKID.DE_PSPEED] = {
 
-
 	},
 
 	[SKID.DE_PDEFENSE] = {
-
 
 	},
 
 	[SKID.DE_PCRITICAL] = {
 
-
 	},
 
 	[SKID.DE_PHP] = {
-
 
 	},
 
 	[SKID.DE_PSP] = {
 
-
 	},
 
 	[SKID.DE_RESET] = {
-
 
 	},
 
 	[SKID.DE_RANKING] = {
 
-
 	},
 
 	[SKID.DE_PTRIPLE] = {
-
 
 	},
 
 	[SKID.DE_ENERGY] = {
 
-
 	},
 
 	[SKID.DE_NIGHTMARE] = {
-
 
 	},
 
 	[SKID.DE_SLASH] = {
 
-
 	},
 
 	[SKID.DE_COIL] = {
-
 
 	},
 
 	[SKID.DE_WAVE] = {
 
-
 	},
 
 	[SKID.DE_REBIRTH] = {
-
 
 	},
 
 	[SKID.DE_AURA] = {
 
-
 	},
 
 	[SKID.DE_FREEZER] = {
-
 
 	},
 
 	[SKID.DE_CHANGEATTACK] = {
 
-
 	},
 
 	[SKID.DE_PUNISH] = {
-
 
 	},
 
 	[SKID.DE_POISON] = {
 
-
 	},
 
 	[SKID.DE_INSTANT] = {
-
 
 	},
 
 	[SKID.DE_WARNING] = {
 
-
 	},
 
 	[SKID.DE_RANKEDKNIFE] = {
-
 
 	},
 
 	[SKID.DE_RANKEDGRADIUS] = {
 
-
 	},
 
 	[SKID.DE_GAUGE] = {
-
 
 	},
 
 	[SKID.DE_GTIME] = {
 
-
 	},
 
 	[SKID.DE_GPAIN] = {
-
 
 	},
 
 	[SKID.DE_GSKILL] = {
 
-
 	},
 
 	[SKID.DE_GKILL] = {
-
 
 	},
 
 	[SKID.DE_ACCEL] = {
 
-
 	},
 
 	[SKID.DE_BLOCKDOUBLE] = {
-
 
 	},
 
 	[SKID.DE_BLOCKMELEE] = {
 
-
 	},
 
 	[SKID.DE_BLOCKFAR] = {
-
 
 	},
 
 	[SKID.DE_FRONTATTACK] = {
 
-
 	},
 
 	[SKID.DE_DANGERATTACK] = {
-
 
 	},
 
 	[SKID.DE_TWINATTACK] = {
 
-
 	},
 
 	[SKID.DE_WINDATTACK] = {
-
 
 	},
 
 	[SKID.DE_WATERATTACK] = {
 
-
 	},
 
 	[SKID.DA_ENERGY] = {
-
 
 	},
 
 	[SKID.DA_CLOUD] = {
 
-
 	},
 
 	[SKID.DA_FIRSTSLOT] = {
-
 
 	},
 
 	[SKID.DA_HEADDEF] = {
 
-
 	},
 
 	[SKID.DA_SPACE] = {
-
 
 	},
 
 	[SKID.DA_TRANSFORM] = {
 
-
 	},
 
 	[SKID.DA_EXPLOSION] = {
-
 
 	},
 
 	[SKID.DA_REWARD] = {
 
-
 	},
 
 	[SKID.DA_CRUSH] = {
-
 
 	},
 
 	[SKID.DA_ITEMREBUILD] = {
 
-
 	},
 
 	[SKID.DA_ILLUSION] = {
-
 
 	},
 
 	[SKID.DA_NUETRALIZE] = {
 
-
 	},
 
 	[SKID.DA_RUNNER] = {
-
 
 	},
 
 	[SKID.DA_TRANSFER] = {
 
-
 	},
 
 	[SKID.DA_WALL] = {
-
 
 	},
 
 	[SKID.DA_REVENGE] = {
 
-
 	},
 
 	[SKID.DA_EARPLUG] = {
-
 
 	},
 
 	[SKID.DA_CONTRACT] = {
 
-
 	},
 
 	[SKID.DA_BLACK] = {
-
 
 	},
 
 	[SKID.DA_DREAM] = {
 
-
 	},
 
 	[SKID.DA_MAGICCART] = {
-
 
 	},
 
 	[SKID.DA_COPY] = {
 
-
 	},
 
 	[SKID.DA_CRYSTAL] = {
-
 
 	},
 
 	[SKID.DA_EXP] = {
 
-
 	},
 
 	[SKID.DA_CARTSWING] = {
-
 
 	},
 
 	[SKID.DA_REBUILD] = {
 
-
 	},
 
 	[SKID.DA_JOBCHANGE] = {
-
 
 	},
 
 	[SKID.DA_EDARKNESS] = {
 
-
 	},
 
 	[SKID.DA_EGUARDIAN] = {
-
 
 	},
 
 	[SKID.DA_TIMEOUT] = {
 
-
 	},
 
 	[SKID.ALL_TIMEIN] = {
-
 
 	},
 
 	[SKID.DA_ZENYRANK] = {
 
-
 	},
 
 	[SKID.DA_ACCESSORYMIX] = {
-
 
 	},
 
 	[SKID.NPC_EARTHQUAKE] = {
 
-
 	},
 
 	[SKID.NPC_DRAGONFEAR] = {
-
 
 	},
 
 	[SKID.NPC_PULSESTRIKE] = {
 
-
 	},
 
 	[SKID.NPC_HELLJUDGEMENT] = {
-
 
 	},
 
 	[SKID.NPC_WIDESILENCE] = {
 
-
 	},
 
 	[SKID.NPC_WIDEFREEZE] = {
-
 
 	},
 
 	[SKID.NPC_WIDEBLEEDING] = {
 
-
 	},
 
 	[SKID.NPC_WIDESTONE] = {
-
 
 	},
 
 	[SKID.NPC_WIDECONFUSE] = {
 
-
 	},
 
 	[SKID.NPC_WIDESLEEP] = {
-
 
 	},
 
 	[SKID.NPC_EVILLAND] = {
 
-
 	},
 
 	[SKID.NPC_MAGICMIRROR] = {
-
 
 	},
 
 	[SKID.NPC_SLOWCAST] = {
 
-
 	},
 
 	[SKID.NPC_CRITICALWOUND] = {
-
 
 	},
 
 	[SKID.NPC_STONESKIN] = {
 
-
 	},
 
 	[SKID.NPC_ANTIMAGIC] = {
-
 
 	},
 
 	[SKID.NPC_WIDECURSE] = {
 
-
 	},
 
 	[SKID.NPC_WIDESTUN] = {
-
 
 	},
 
 	[SKID.NPC_VAMPIRE_GIFT] = {
 
-
 	},
 
 	[SKID.NPC_WIDESOULDRAIN] = {
-
 
 	},
 
@@ -9899,11 +9517,9 @@ SKILL_DESCRIPT = {
 
 	[SKID.NPC_HELLPOWER] = {
 
-
 	},
 
 	[SKID.NPC_ALLHEAL] = {
-
 
 	},
 
@@ -9938,7 +9554,6 @@ SKILL_DESCRIPT = {
 	},
 
 	[SKID.ALL_REVERSEORCISH] = {
-
 
 	},
 
@@ -10229,7 +9844,6 @@ SKILL_DESCRIPT = {
 	[SKID.RK_ENCHANTBLADE] = {
 
 		"Enchant Blade",
-		"Required For:^777777 Rune Mastery (LV2). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 35 + 5*SkillLV ^000000",
@@ -10247,7 +9861,6 @@ SKILL_DESCRIPT = {
 	[SKID.RK_SONICWAVE] = {
 
 		"Sonic Wave",
-		"Required For:^777777 Enchant Blade (LV3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 25 + 5*SkillLV ^000000",
@@ -10266,7 +9879,6 @@ SKILL_DESCRIPT = {
 	[SKID.RK_DEATHBOUND] = {
 
 		"Death Bound",
-		"Required For:^777777 Auto Counter (LV1), Enchant Blade (L2). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 50 LV1, 60+5*SkillLV LV2+ ^000000",
@@ -10280,7 +9892,6 @@ SKILL_DESCRIPT = {
 	[SKID.RK_HUNDREDSPEAR] = {
 
 		"Hundred Spear",
-		"Required For:^777777 Phantom Trust (LV3). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 60 ^000000",
@@ -10302,7 +9913,6 @@ SKILL_DESCRIPT = {
 	[SKID.RK_WINDCUTTER] = {
 
 		"Wind Cutter",
-		"Required For:^777777 Enchant Blade (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 16+4*SkillLV ^000000",
@@ -10319,7 +9929,6 @@ SKILL_DESCRIPT = {
 	[SKID.RK_IGNITIONBREAK] = {
 
 		"Ignition Break",
-		"Required For:^777777 Sonic Wave (LV2), Wind Cutter (LV3), Death Bound (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 30+5*SkillLV ^000000",
@@ -10338,7 +9947,6 @@ SKILL_DESCRIPT = {
 	[SKID.RK_DRAGONTRAINING] = {
 
 		"Dragon Training",
-		"Required For:^777777 Cavalier Mastery (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Passive ^000000",
 		"Effect:^777777 Allows the user to use a dragon mount. Increasing the skill level recovers your lost attack speed when using the mount, and also slightly increases the damage of dragon breath. ",
@@ -10351,7 +9959,6 @@ SKILL_DESCRIPT = {
 	[SKID.RK_DRAGONBREATH] = {
 
 		"Dragon Breath",
-		"Required For:^777777 Dragon Training (LV2). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 0+5*SkillLV ^000000",
@@ -10364,7 +9971,6 @@ SKILL_DESCRIPT = {
 	[SKID.RK_DRAGONHOWLING] = {
 
 		"Dragon Howling",
-		"Required For:^777777 Dragon Training (LV2). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 30+5*SkillLV ^000000",
@@ -10398,53 +10004,43 @@ SKILL_DESCRIPT = {
 
 	[SKID.RK_MILLENNIUMSHIELD] = {
 
-
 	},
 
 	[SKID.RK_CRUSHSTRIKE] = {
-
 
 	},
 
 	[SKID.RK_REFRESH] = {
 
-
 	},
 
 	[SKID.RK_GIANTGROWTH] = {
-
 
 	},
 
 	[SKID.RK_STONEHARDSKIN] = {
 
-
 	},
 
 	[SKID.RK_VITALITYACTIVATION] = {
-
 
 	},
 
 	[SKID.RK_STORMBLAST] = {
 
-
 	},
 
 	[SKID.RK_FIGHTINGSPIRIT] = {
 
-
 	},
 
 	[SKID.RK_ABUNDANCE] = {
-
 
 	},
 
 	[SKID.RK_PHANTOMTHRUST] = {
 
 		"Phantom Thrust",
-		"Required For:^777777 Brandish Spear (LV2). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 15+3*SkillLV ^000000",
@@ -10461,7 +10057,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_VENOMIMPRESS] = {
 
 		"Venom Impress",
-		"Required For:^777777 Enchant Poison (LV3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 8+4*SkillLV ^000000",
@@ -10478,7 +10073,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_CROSSIMPACT] = {
 
 		"Cross Impact",
-		"Required For:^777777 Sonic Blow (LV10). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 ??+??*SkillLV ^000000",
@@ -10495,7 +10089,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_DARKILLUSION] = {
 
 		"Dark Illusion",
-		"Required For:^777777 Cross Impact (LV3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 40 ^000000",
@@ -10535,7 +10128,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_CREATENEWPOISON] = {
 
 		"Create New Poison",
-		"Required For:^777777 Research New Poison (LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 ?? ^000000",
@@ -10546,7 +10138,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_ANTIDOTE] = {
 
 		"Antidote",
-		"Required For:^777777 Research New Poison (LV5). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 10 ^000000",
@@ -10557,7 +10148,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_POISONINGWEAPON] = {
 
 		"Poisoning Weapon",
-		"Required For:^777777 Create New Poison (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 16+4*SkillLV ^000000",
@@ -10576,7 +10166,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_WEAPONBLOCKING] = {
 
 		"Weapon Blocking",
-		"Required For:^777777 Left Hand Mastery (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active / Buff ^000000",
 		"SP Cost:^777777 44-4*SkillLV ^000000",
@@ -10595,7 +10184,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_COUNTERSLASH] = {
 
 		"Counter Slash",
-		"Required For:^777777 Weapon Blocking (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active / Buff ^000000",
 		"SP Cost:^777777 2+3*SkillLV ^000000",
@@ -10613,7 +10201,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_WEAPONCRUSH] = {
 
 		"Weapon Crush",
-		"Required For:^777777 Weapon Blocking (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 2+3*SkillLV ^000000",
@@ -10626,7 +10213,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_VENOMPRESSURE] = {
 
 		"Venom Pressure",
-		"Required For:^777777 Weapon Blocking (LV1), Poisoning Weapon (LV3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active / Buff ^000000",
 		"SP Cost:^777777 ??+??*SkillLV ^000000",
@@ -10644,7 +10230,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_POISONSMOKE] = {
 
 		"Poison Smoke",
-		"Required For:^777777 Venom Pressure (LV5), Poisoning Weapon (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active / Buff ^000000",
 		"SP Cost:^777777 ??+??*SkillLV ^000000",
@@ -10657,7 +10242,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_CLOAKINGEXCEED] = {
 
 		"Cloaking Exceed",
-		"Required For:^777777 Cloacking (LV3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 9-1*SkillLV ^000000",
@@ -10676,7 +10260,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_PHANTOMMENACE] = {
 
 		"Phantom Menace",
-		"Required For:^777777 Dark Illusion (LV5), Cloaking Exceed (LV5). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 30 ^000000",
@@ -10689,7 +10272,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_HALLUCINATIONWALK] = {
 
 		"Hallucination Walk",
-		"Required For:^777777 Phantom Menace (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 ??-??*SkillLV ^000000",
@@ -10708,7 +10290,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_ROLLINGCUTTER] = {
 
 		"Rolling Cutter",
-		"Required For:^777777 Sonic Blow (LV10). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 ??-??*SkillLV ^000000",
@@ -10726,7 +10307,6 @@ SKILL_DESCRIPT = {
 	[SKID.GC_CROSSRIPPERSLASHER] = {
 
 		"Cross Ripper Slasher",
-		"Required For:^777777 Rolling Cutter (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 16+4*SkillLV ^000000",
@@ -10744,7 +10324,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_JUDEX] = {
 
 		"Judex",
-		"Required For:^777777 Turn Undead (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 27+3*SkillLV ^000000",
@@ -10761,7 +10340,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_ANCILLA] = {
 
 		"Ancilla",
-		"Required For:^777777 Clementia (LV3). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 30% MaxSP ^000000",
@@ -10774,7 +10352,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_ADORAMUS] = {
 
 		"Adoramus",
-		"Required For:^777777 Judex (LV5), Ancilla (LV1), Magnus Exorcismus (LV1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 16+4*SkillLV ^000000",
@@ -10798,7 +10375,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_CLEMENTIA] = {
 
 		"Clementia",
-		"Required For:^777777 Blessing (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 180+20*SkillLV ^000000",
@@ -10813,7 +10389,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_CANTO] = {
 
 		"Canto Candidus",
-		"Required For:^777777 Increase Agility (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 130+15*SkillLV ^000000",
@@ -10828,7 +10403,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_CHEAL] = {
 
 		"Coluceo Heal",
-		"Required For:^777777 Heal (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 115+15*SkillLV ^000000",
@@ -10843,7 +10417,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_EPICLESIS] = {
 
 		"Epiclesis",
-		"Required For:^777777 Ancilla (LV1), Highness Heal (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Summon ^000000",
 		"SP Cost:^777777 300 ^000000",
@@ -10860,7 +10433,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_PRAEFATIO] = {
 
 		"Praefatio",
-		"Required For:^777777 Kyrie Eleison (LV1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 ??+??*SkillLV ^000000",
@@ -10882,7 +10454,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_ORATIO] = {
 
 		"Oratio",
-		"Required For:^777777 Praefatio (LV5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 ??+??*SkillLV ^000000",
@@ -10904,7 +10475,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_LAUDAAGNUS] = {
 
 		"Lauda Agnus",
-		"Required For:^777777 Status Recovery (LV1). ^000000",
 		"Max Level:^777777 4 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 40+10*SkillLV ^000000",
@@ -10920,7 +10490,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_LAUDARAMUS] = {
 
 		"Lauda Ramus",
-		"Required For:^777777 Lauda Agnus (LV2). ^000000",
 		"Max Level:^777777 4 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 40+10*SkillLV ^000000",
@@ -10936,7 +10505,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_EUCHARISTICA] = {
 
 		"Eucharistica",
-		"Required For:^777777 Epiclesis (LV1), Expiatio (LV1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Passive ^000000",
 		"SP Cost:^777777 ?? ^000000",
@@ -10958,7 +10526,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_RENOVATIO] = {
 
 		"Renovatio",
-		"Required For:^777777 Coluceo Heal (LV3). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 ??+??*SkillLV ^000000",
@@ -10971,7 +10538,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_HIGHNESSHEAL] = {
 
 		"Higness Heal",
-		"Required For:^777777 Renovatio (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 40+20*SkillLV ^000000",
@@ -10988,7 +10554,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_CLEARANCE] = {
 
 		"Clearance",
-		"Required For:^777777 Lauda Ramus (LV2). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support / Offensive ^000000",
 		"SP Cost:^777777 48+6*SkillLV ^000000",
@@ -11005,7 +10570,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_EXPIATIO] = {
 
 		"Expiatio",
-		"Required For:^777777 Oratio (LV5), Duple Light (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 30+5*SkillLV ^000000",
@@ -11023,7 +10587,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_DUPLELIGHT] = {
 
 		"Duple Light",
-		"Required For:^777777 Aspersio (LV1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 50+5*SkillLV ^000000",
@@ -11045,18 +10608,15 @@ SKILL_DESCRIPT = {
 
 	[SKID.AB_DUPLELIGHT_MELEE] = {
 
-
 	},
 
 	[SKID.AB_DUPLELIGHT_MAGIC] = {
-
 
 	},
 
 	[SKID.AB_SILENTIUM] = {
 
 		"Silentium",
-		"Required For:^777777 Clearance (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 20+4*SkillLV ^000000",
@@ -11074,7 +10634,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_WHITEIMPRISON] = {
 
 		"White Imprison",
-		"Required For:^777777 Soul Expansion (LV3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support / Offensive ^000000",
 		"SP Cost:^777777 45+5*SkillLV ^000000",
@@ -11094,7 +10653,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_SOULEXPANSION] = {
 
 		"Soul Expansion",
-		"Required For:^777777 Drain Life (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 25+5*SkillLV ^000000",
@@ -11112,7 +10670,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_FROSTMISTY] = {
 
 		"Frost Misty",
-		"Required For:^777777 Summon Water Ball (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Debuff ^000000",
 		"SP Cost:^777777 32+8*SkillLV ^000000",
@@ -11131,7 +10688,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_JACKFROST] = {
 
 		"Jack Frost",
-		"Required For:^777777 Frost Misty (LV2). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 20+10*SkillLV ^000000",
@@ -11148,7 +10704,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_MARSHOFABYSS] = {
 
 		"Marsh Of Abyss",
-		"Required For:^777777 Quagmire (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Debuff ^000000",
 		"SP Cost:^777777 38+2*SkillLV ^000000",
@@ -11166,7 +10721,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_RECOGNIZEDSPELL] = {
 
 		"Recognize Spell",
-		"Required For:^777777 Release (LV2), Stasis (LV1), White Imprison (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Special Status ^000000",
 		"SP Cost:^777777 40+10*SkillLV ^000000",
@@ -11184,7 +10738,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_SIENNAEXECRATE] = {
 
 		"Sienna Execrate",
-		"Required For:^777777 Summon Stone (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 30+2*SkillLV ^000000",
@@ -11213,7 +10766,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_STASIS] = {
 
 		"Stasis",
-		"Required For:^777777 Drain Life (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 50+20*SkillLV ^000000",
@@ -11232,7 +10784,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_DRAINLIFE] = {
 
 		"Drain Life",
-		"Required For:^777777 Radius (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive / Support ^000000",
 		"SP Cost:^777777 16+4*SkillLV ^000000",
@@ -11250,7 +10801,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_CRIMSONROCK] = {
 
 		"Crimson Rock",
-		"Required For:^777777 Summon Fire Ball (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 50+10*SkillLV ^000000",
@@ -11268,7 +10818,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_HELLINFERNO] = {
 
 		"Hell Inferno",
-		"Required For:^777777 Crimson Rock (LV2). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 30+5*SkillLV ^000000",
@@ -11286,7 +10835,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_COMET] = {
 
 		"Comet",
-		"Required For:^777777 Hell Inferno (LV3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 200+40*SkillLV ^000000",
@@ -11306,7 +10854,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_CHAINLIGHTNING] = {
 
 		"Chain Lightning",
-		"Required For:^777777 Summon Lightning Ball (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 70+10*SkillLV ^000000",
@@ -11325,7 +10872,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_EARTHSTRAIN] = {
 
 		"Earth Strain",
-		"Required For:^777777 Sienna Execrate (LV2). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 62+8*SkillLV ^000000",
@@ -11343,7 +10889,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_TETRAVORTEX] = {
 
 		"Tetra Vortex",
-		"Required For:^777777 Jack Frost (LV5), Chain Lightning (LV5), Earth Strain (LV5), Hell Inferno (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 90+30*SkillLV ^000000",
@@ -11362,7 +10907,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_SUMMONFB] = {
 
 		"Summon Fire Ball",
-		"Required For:^777777 Meteor Storm (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 8+2*SkillLV ^000000",
@@ -11380,7 +10924,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_SUMMONBL] = {
 
 		"Summon Lightning Ball",
-		"Required For:^777777 Lord Of Vermilion (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 8+2*SkillLV ^000000",
@@ -11398,7 +10941,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_SUMMONWB] = {
 
 		"Summon Water Ball",
-		"Required For:^777777 Storm Gust (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 8+2*SkillLV ^000000",
@@ -11416,7 +10958,6 @@ SKILL_DESCRIPT = {
 	[SKID.WL_SUMMONSTONE] = {
 
 		"Summon Stone",
-		"Required For:^777777 Heaven's Drive (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 8+2*SkillLV ^000000",
@@ -11468,7 +11009,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_ARROWSTORM] = {
 
 		"Arrow Storm",
-		"Required For:^777777 Aimed Bolt (LV5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 28+2*SkillLV ^000000",
@@ -11491,7 +11031,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_FEARBREEZE] = {
 
 		"Fear Breeze",
-		"Required For:^777777 Camouflage (LV1), Arrow Storm (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 32+4*SkillLV ^000000",
@@ -11529,7 +11068,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_AIMEDBOLT] = {
 
 		"Aimed Bolt",
-		"Required For:^777777 Ankle Snare (LV5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 28+2*SkillLV ^000000",
@@ -11553,7 +11091,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_DETONATOR] = {
 
 		"Detonator",
-		"Required For:^777777 Cluster Bomb (LV3). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Passive ^000000",
 		"Target:^777777 Enemy ^000000",
@@ -11566,7 +11103,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_ELECTRICSHOCKER] = {
 
 		"Electric Shocker",
-		"Required For:^777777 Shockwave Trap (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 35 ^000000",
@@ -11584,7 +11120,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_CLUSTERBOMB] = {
 
 		"Cluster Bomb",
-		"Required For:^777777 Research Trap (LV3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 20 ^000000",
@@ -11614,7 +11149,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_WUGRIDER] = {
 
 		"Warg Rider",
-		"Required For:^777777 Warg Mastery (LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 20 ^000000",
@@ -11626,7 +11160,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_WUGDASH] = {
 
 		"Warg Dash",
-		"Required For:^777777 Warg Rider (LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 40 ^000000",
@@ -11638,7 +11171,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_WUGSTRIKE] = {
 
 		"Warg Strike",
-		"Required For:^777777 Tooth Of Warg (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 28+2*SkillLV ^000000",
@@ -11656,7 +11188,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_WUGBITE] = {
 
 		"Warg Bite",
-		"Required For:^777777 Warg Mastery (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 36+4*SkillLV ^000000",
@@ -11674,7 +11205,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_TOOTHOFWUG] = {
 
 		"Tooth Of Warg",
-		"Required For:^777777 Warg Mastery (LV1). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Passive ^000000",
 		"Cast Time:^777777 ?? ^000000",
@@ -11694,7 +11224,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_SENSITIVEKEEN] = {
 
 		"Sensitive Keen",
-		"Required For:^777777 Tooth Of Warg (LV3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 24 ^000000",
@@ -11711,7 +11240,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_CAMOUFLAGE] = {
 
 		"Camouflage",
-		"Required For:^777777 Ranger Main (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 7-(1*SkillLV) ^000000",
@@ -11732,7 +11260,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_RESEARCHTRAP] = {
 
 		"Research Trap",
-		"Required For:^777777 Claymore Trap (LV1), Remove Trap (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Passive ^000000",
 		"SP Cost:^777777 100 + 10*SkillLV ^000000",
@@ -11749,7 +11276,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_MAGENTATRAP] = {
 
 		"Magenta Trap",
-		"Required For:^777777 Research Trap (LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 15 ^000000",
@@ -11761,7 +11287,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_COBALTTRAP] = {
 
 		"Cobalt Trap",
-		"Required For:^777777 Research Trap (LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 15 ^000000",
@@ -11773,7 +11298,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_MAIZETRAP] = {
 
 		"Maize Trap",
-		"Required For:^777777 Research Trap (LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 ??+??*SkillLV ^000000",
@@ -11785,7 +11309,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_VERDURETRAP] = {
 
 		"Verdure Trap",
-		"Required For:^777777 Research Trap (LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 15 ^000000",
@@ -11797,7 +11320,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_FIRINGTRAP] = {
 
 		"Firing Trap",
-		"Required For:^777777 Detonator (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 15 ^000000",
@@ -11814,7 +11336,6 @@ SKILL_DESCRIPT = {
 	[SKID.RA_ICEBOUNDTRAP] = {
 
 		"Ice Bound Trap",
-		"Required For:^777777 Detonator (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 25 ^000000",
@@ -11844,7 +11365,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_BOOSTKNUCKLE] = {
 
 		"Boost Knuckle",
-		"Required For:^777777 Magic Gear License (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 5+5*SkillLV ^000000",
@@ -11860,7 +11380,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_PILEBUNKER] = {
 
 		"Pile Bunker",
-		"Required For:^777777 Boost Knuckle (LV2). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 50 ^000000",
@@ -11874,7 +11393,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_VULCANARM] = {
 
 		"Vulcan Arm",
-		"Required For:^777777 Boost Knuckle (LV2). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 2 ^000000",
@@ -11889,7 +11407,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_FLAMELAUNCHER] = {
 
 		"Flame Launcher",
-		"Required For:^777777 Vulcan Arm (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 40 ^000000",
@@ -11903,7 +11420,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_COLDSLOWER] = {
 
 		"Cold Slower",
-		"Required For:^777777 Vulcan Arm (LV3). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 40 ^000000",
@@ -11918,7 +11434,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_ARMSCANNON] = {
 
 		"Arms Cannon",
-		"Required For:^777777 Flame Launcher (LV2), Cold Slower (LV2). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 50 ^000000",
@@ -11929,8 +11444,7 @@ SKILL_DESCRIPT = {
 		"[LV 2]^777777 1000~800~600% ATK, Area 5x5 ^000000",
 		"[LV 3]^777777 1200~1000~800% ATK, Area 3x3 ^000000",
 
-		"Cannon Ball Descriptions:",
-
+		"Cannon Ball Descriptions:",
 		"- Cannon Ball = Attribute 'None', ATK 100, Weight 1, Price 100z",
 		"- Holy Cannon Ball = Attribute 'Holy', ATK 120, Weight 1, Price 200z",
 		"- Iron Cannon Ball = Attribute 'Neutral', ATK 250, Weight 1, Price 200z",
@@ -11941,7 +11455,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_ACCELERATION] = {
 
 		"Acceleration",
-		"Required For:^777777 Magic Gear License (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 0+20*SkillLV ^000000",
@@ -11953,7 +11466,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_HOVERING] = {
 
 		"Hovering",
-		"Required For:^777777 Acceleration (LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 ??+??*SkillLV ^000000",
@@ -11966,7 +11478,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_F_SIDESLIDE] = {
 
 		"Front Side Slide",
-		"Required For:^777777 Hovering (LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 ??+??*SkillLV ^000000",
@@ -11978,7 +11489,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_B_SIDESLIDE] = {
 
 		"Back Side Slide",
-		"Required For:^777777 Hovering (LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 ??+??*SkillLV ^000000",
@@ -11990,7 +11500,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_MAINFRAME] = {
 
 		"Mainframe Restructure",
-		"Required For:^777777 Magic Gear License (LV4). ^000000",
 		"Max Level:^777777 4 ^000000",
 		"Type:^777777 Passive ^000000",
 		"Effect:^777777 Restructures the magic gear body to be more defensive and add over-heat limit. Overheating causes the Magic Gear to take continuous damage over time. Overheat limit increases the point at which the gear will Overheat. ^000000",
@@ -12003,7 +11512,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_SELFDESTRUCTION] = {
 
 		"Self Destruction",
-		"Required For:^777777 Mainframe Restructure (LV2). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 200 ^000000",
@@ -12017,7 +11525,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_SHAPESHIFT] = {
 
 		"Shape Shift",
-		"Required For:^777777 Mainframe Restructure (LV2). ^000000",
 		"Max Level:^777777 4 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 100 ^000000",
@@ -12033,33 +11540,28 @@ SKILL_DESCRIPT = {
 	[SKID.NC_EMERGENCYCOOL] = {
 
 		"Emergency Cool",
-		"Required For:^777777 Self Destruction (LV2). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 ??+??*SkillLV ^000000",
 		"Cast Time:^777777 ?? ^000000",
 		"Catalyst:^777777 2 Magic Gear Fuel ^000000",
 		"Effect:^777777 Rapidly cools the magic gear removing overheat status. Requires the magic gear equipment Cooling System equipped. ^000000",
-
 	},
 
 	[SKID.NC_INFRAREDSCAN] = {
 
 		"Infrared Scan",
-		"Required For:^777777 Shape Shift (LV2). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 ??+??*SkillLV^000000",
 		"Cast Time:^777777 ?? ^000000",
 		"Cool Down:^777777 15 sec ^000000",
 		"Effect:^777777 Detects all targets in a 15 x 15 targets around you and has a 50% chance to drop their evasion rate. ^000000",
-
 	},
 
 	[SKID.NC_ANALYZE] = {
 
 		"Analyze",
-		"Required For:^777777 Infrared Scan (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 ??+??*SkillLV ^000000",
@@ -12075,7 +11577,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_MAGNETICFIELD] = {
 
 		"Magnetic Field",
-		"Required For:^777777 Emergency Cool (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 90+14+3*SkillLV^000000",
@@ -12092,7 +11593,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_NEUTRALBARRIER] = {
 
 		"Neutral Barrier",
-		"Required For:^777777 Magnetic Field (LV2). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 90 ^000000",
@@ -12110,7 +11610,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_STEALTHFIELD] = {
 
 		"Stealth Field",
-		"Required For:^777777 Analyse (LV3), Neutral Barrier (LV2). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 50+50*SkillLV ^000000",
@@ -12126,7 +11625,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_REPAIR] = {
 
 		"Repair",
-		"Required For:^777777 Magic Gear License (LV2). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active / Support ^000000",
 		"SP Cost:^777777 20+5*SkillLV ^000000",
@@ -12176,7 +11674,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_AXEBOOMERANG] = {
 
 		"Axe Boomerang",
-		"Required For:^777777 Axe Training (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 25+4*SkillLV ^000000",
@@ -12195,7 +11692,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_POWERSWING] = {
 
 		"Power Swing",
-		"Required For:^777777 Axe Boomerang (LV3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 17+3*SkillLV ^000000",
@@ -12213,7 +11709,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_AXETORNADO] = {
 
 		"Axe Tornado",
-		"Required For:^777777 Axe Training (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 26+6*SkillLV ^000000",
@@ -12231,7 +11726,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_SILVERSNIPER] = {
 
 		"FAW - Silver Sniper",
-		"Required For:^777777 Research Fire / Earth (LV2). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active / FAW Construction ^000000",
 		"SP Cost:^777777 20+5*SkillLV ^000000",
@@ -12248,7 +11742,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_MAGICDECOY] = {
 
 		"FAW - Magic Decoy",
-		"Required For:^777777 FAW - Silver Sniper (LV2). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active / FAW Construction ^000000",
 		"SP Cost:^777777 35+5*SkillLV ^000000",
@@ -12265,7 +11758,6 @@ SKILL_DESCRIPT = {
 	[SKID.NC_DISJOINT] = {
 
 		"FAW - Removal",
-		"Required For:^777777 FAW - Silver Sniper (LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Active / FAW Construction ^000000",
 		"SP Cost:^777777 35+5*SkillLV ^000000",
@@ -12276,7 +11768,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_FATALMENACE] = {
 
 		"Fatal Menace",
-		"Required For:^777777 Intimidate (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active / Attack ^000000",
 		"SP Cost:^777777 35 + 5*SkillLV ^000000",
@@ -12293,7 +11784,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_REPRODUCE] = {
 
 		"Reproduce",
-		"Required For:^777777 Plagiarism (LV5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 35 + 5*SkillLV ^000000",
@@ -12306,7 +11796,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_AUTOSHADOWSPELL] = {
 
 		"Auto Shadow Spell",
-		"Required For:^777777 Reproduce (LV5). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 35 + 5*SkillLV ^000000",
@@ -12327,7 +11816,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_SHADOWFORM] = {
 
 		"Shadow Form",
-		"Required For:^777777 Tunnel Drive (LV3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active / Debuff ^000000",
 		"SP Cost:^777777 30 + 10*SkillLV ^000000",
@@ -12345,7 +11833,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_TRIANGLESHOT] = {
 
 		"Triangle Slot",
-		"Required For:^777777 Double Strafing (LV7). ^000000",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 20 + 2*SkillLV ^000000",
@@ -12381,7 +11868,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_INVISIBILITY] = {
 
 		"Invisibility",
-		"Required For:^777777 Auto Shadow Spell (LV7), Deadly Infect (LV5), Masquerade - Unlucky (LV3). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active / Buff ^000000",
 		"SP Cost:^777777 100 ^000000",
@@ -12398,7 +11884,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_DEADLYINFECT] = {
 
 		"Deadly Infect",
-		"Required For:^777777 Shadow Form (LV3), Auto Shadow Spell (LV5). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active / Buff ^000000",
 		"SP Cost:^777777 36 + 4*SkillLV ^000000",
@@ -12414,7 +11899,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_ENERVATION] = {
 
 		"Masquerade - Enervation",
-		"Required For:^777777 Body Painting (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active / Debuff ^000000",
 		"SP Cost:^777777 20 + 10*SkillLV ^000000",
@@ -12430,7 +11914,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_GROOMY] = {
 
 		"Masquerade - Gloomy",
-		"Required For:^777777 Body Painting (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active / Debuff ^000000",
 		"SP Cost:^777777 20 + 10*SkillLV ^000000",
@@ -12446,7 +11929,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_IGNORANCE] = {
 
 		"Masquerade - Ignorance",
-		"Required For:^777777 Body Painting (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active / Debuff ^000000",
 		"SP Cost:^777777 20 + 10*SkillLV ^000000",
@@ -12462,7 +11944,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_LAZINESS] = {
 
 		"Masquerade - Laziness",
-		"Required For:^777777 Masquerade - Enervation (LV1), Masquerade - Gloomy (LV1), Masquerade - Ignorance (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active / Debuff ^000000",
 		"SP Cost:^777777 20 + 10*SkillLV ^000000",
@@ -12478,7 +11959,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_UNLUCKY] = {
 
 		"Masquerade - Unlucky",
-		"Required For:^777777 Masquerade - Laziness (LV1), Masquerade - Weakness (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active / Debuff ^000000",
 		"SP Cost:^777777 20 + 10*SkillLV ^000000",
@@ -12495,7 +11975,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_WEAKNESS] = {
 
 		"Masquerade - Weakness",
-		"Required For:^777777 Masquerade - Enervation (LV1), Masquerade - Gloomy (LV1), Masquerade - Ignorance (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active / Debuff ^000000",
 		"SP Cost:^777777 20 + 10*SkillLV ^000000",
@@ -12511,7 +11990,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_STRIPACCESSARY] = {
 
 		"Strip Accessory ",
-		"Required For:^777777 Strip Weapon (LV1). ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Active / Debuff ^000000",
 		"SP Cost:^777777 12 + 3*SkillLV ^000000",
@@ -12528,7 +12006,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_MANHOLE] = {
 
 		"Man Hole",
-		"Required For:^777777 Flag Grafitti (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active / Ground ^000000",
 		"SP Cost:^777777 15 + 5*SkillLV ^000000",
@@ -12544,7 +12021,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_DIMENSIONDOOR] = {
 
 		"Dimension Door",
-		"Required For:^777777 Man Hole (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active / Ground ^000000",
 		"SP Cost:^777777 24 + 6*SkillLV ^000000",
@@ -12560,7 +12036,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_CHAOSPANIC] = {
 
 		"Chaos Panic",
-		"Required For:^777777 Man Hole (LV1). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active / Ground ^000000",
 		"SP Cost:^777777 24 + 6*SkillLV ^000000",
@@ -12576,7 +12051,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_MAELSTROM] = {
 
 		"Maelstrom",
-		"Required For:^777777 Chaos Panic (LV3), Masquerade - Unlucky (LV3). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active / Ground ^000000",
 		"SP Cost:^777777 45 + 5*SkillLV ^000000",
@@ -12592,7 +12066,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_BLOODYLUST] = {
 
 		"Bloody Lust",
-		"Required For:^777777 Dimension Door (LV3). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active / Ground ^000000",
 		"SP Cost:^777777 50 + 10*SkillLV ^000000",
@@ -12608,7 +12081,6 @@ SKILL_DESCRIPT = {
 	[SKID.SC_FEINTBOMB] = {
 
 		"Feint Bomb",
-		"Required For:^777777 Dimension Door (LV3). ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active / Ground ^000000",
 		"SP Cost:^777777 20 + 4*SkillLV ^000000",
@@ -12957,7 +12429,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_EARTHSHAKER] = {
 
 		"Earth Shaker",
-		"Required For:^777777 Dragon Combo (L1), Cursed Circle (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13520,7 +12991,7 @@ SKILL_DESCRIPT = {
 		"SP Cost:^777777 Unknown^000000",
 		"Cast Time:^777777 Unknown^000000",
 		"Effect:^777777 Invokes one random Magician or Wizard abililty. Ignores any catalyst required for casting.^000000",
-		"[LV 1]^777777 Uses a random Level 5 magic skill^000000",
+		"[LV 1]^777777 Uses a random Level 5 magic skill^000000",
 		"[LV 2]^777777 Uses a random Level 6 magic skill^000000",
 		"[LV 3]^777777 Uses a random Level 7 magic skill^000000",
 		"[LV 4]^777777 Uses a random Level 8 magic skill^000000",
@@ -14031,211 +13502,169 @@ SKILL_DESCRIPT = {
 
 	[SKID.EL_AQUAPLAY] = {
 
-
 	},
 
 	[SKID.EL_BLAST] = {
-
 
 	},
 
 	[SKID.EL_CHILLY_AIR] = {
 
-
 	},
 
 	[SKID.EL_CIRCLE_OF_FIRE] = {
-
 
 	},
 
 	[SKID.EL_COOLER] = {
 
-
 	},
 
 	[SKID.EL_CURSED_SOIL] = {
-
 
 	},
 
 	[SKID.EL_FIRE_ARROW] = {
 
-
 	},
 
 	[SKID.EL_FIRE_BOMB] = {
-
 
 	},
 
 	[SKID.EL_FIRE_BOMB_ATK] = {
 
-
 	},
 
 	[SKID.EL_FIRE_CLOAK] = {
-
 
 	},
 
 	[SKID.EL_FIRE_MANTLE] = {
 
-
 	},
 
 	[SKID.EL_FIRE_WAVE] = {
-
 
 	},
 
 	[SKID.EL_FIRE_WAVE_ATK] = {
 
-
 	},
 
 	[SKID.EL_GUST] = {
-
 
 	},
 
 	[SKID.EL_HEATER] = {
 
-
 	},
 
 	[SKID.EL_HURRICANE] = {
-
 
 	},
 
 	[SKID.EL_HURRICANE_ATK] = {
 
-
 	},
 
 	[SKID.EL_ICE_NEEDLE] = {
-
 
 	},
 
 	[SKID.EL_PETROLOGY] = {
 
-
 	},
 
 	[SKID.EL_POWER_OF_GAIA] = {
-
 
 	},
 
 	[SKID.EL_PYROTECHNIC] = {
 
-
 	},
 
 	[SKID.EL_ROCK_CRUSHER] = {
-
 
 	},
 
 	[SKID.EL_ROCK_CRUSHER_ATK] = {
 
-
 	},
 
 	[SKID.EL_SOLID_SKIN] = {
-
 
 	},
 
 	[SKID.EL_STONE_HAMMER] = {
 
-
 	},
 
 	[SKID.EL_STONE_RAIN] = {
-
 
 	},
 
 	[SKID.EL_STONE_SHIELD] = {
 
-
 	},
 
 	[SKID.EL_TIDAL_WEAPON] = {
-
 
 	},
 
 	[SKID.EL_TROPIC] = {
 
-
 	},
 
 	[SKID.EL_TYPOON_MIS] = {
-
 
 	},
 
 	[SKID.EL_TYPOON_MIS_ATK] = {
 
-
 	},
 
 	[SKID.EL_UPHEAVAL] = {
-
 
 	},
 
 	[SKID.EL_WATER_BARRIER] = {
 
-
 	},
 
 	[SKID.EL_WATER_DROP] = {
-
 
 	},
 
 	[SKID.EL_WATER_SCREEN] = {
 
-
 	},
 
 	[SKID.EL_WATER_SCREW] = {
-
 
 	},
 
 	[SKID.EL_WATER_SCREW_ATK] = {
 
-
 	},
 
 	[SKID.EL_WILD_STORM] = {
-
 
 	},
 
 	[SKID.EL_WIND_CURTAIN] = {
 
-
 	},
 
 	[SKID.EL_WIND_SLASH] = {
-
 
 	},
 
 	[SKID.EL_WIND_STEP] = {
 
-
 	},
 
 	[SKID.EL_ZEPHYR] = {
-
 
 	},
 
@@ -14571,7 +14000,6 @@ SKILL_DESCRIPT = {
 	},
 
 	[SKID.ALL_ODINS_RECALL] = {
-
 
 	},
 
@@ -15135,7 +14563,6 @@ SKILL_DESCRIPT = {
 	[SKID.MA_REMOVETRAP] = {
 
 		"Remove Trap",
-		"Required For:^777777 Research Trap (LV1). ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 5 ^000000",
@@ -15674,10 +15101,8 @@ SKILL_DESCRIPT = {
 		"Max Level:^777777 1 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Target:^777777 The Guild ^000000",
-		"Required For:^777777 Kafra Contract, Guardian Research, Battle Orders ^000000",
 		"Effect:^777777 Certification as an official guild of the Rune Midgard Kingdom. Members of official guilds are authorized to attack the Emperium inside guild territories.",
 		"^ff0000Without this skill all attacks on the Emperium will miss!!^777777 To disband a guild use the command ^00ffff/breakguild \"guildname\". ^000000",
-
 	},
 
 	[SKID.GD_KAFRACONTRACT] = {
@@ -15695,9 +15120,7 @@ SKILL_DESCRIPT = {
 		"Max Level:^777777 1 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Target:^777777 The Guild ^000000",
-		"Required For:^777777 Emergency Call ^000000",
 		"Effect:^777777 Study the Guardian technology. Allows the guild to hire Guardians for their territory. ^000000",
-
 	},
 
 	[SKID.GD_GUARDUP] = {
@@ -15738,13 +15161,11 @@ SKILL_DESCRIPT = {
 		"2. Emblems must be 24x24 pixels in BMP format using 256 colors",
 		"3. Create a folder named Emblem inside the Ragnarok Online folder (i.e. C:\Program Files\Gravity\RO) and copy the emblem file there.",
 		"If you are the guild master, you must place the emblem inside the Emblem folder in the game directory (i.e. C:\Program Files\Gravity\RO\Emblem). ^000000",
-
 	},
 
 	[SKID.GD_LEADERSHIP] = {
 
 		"Great Leadership",
-		"Required For:^777777 Sharp Hawk Eyes (L1) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 All guild members in a 5x5 area around the Guild Leader will receive a +1*SkillLV STR bonus. Can only be used during guild sieges. ^000000",
@@ -15753,11 +15174,9 @@ SKILL_DESCRIPT = {
 	[SKID.GD_GLORYWOUNDS] = {
 
 		"Wounds of Glory",
-		"Required For:^777777 Soul of Cold (L1) ^000000",
 		"Max Level:^777777 5 ^000000",
 		"Type:^000099 Passive ^000000",
 		"Effect:^777777 All guild members in a 5x5 area around the Guild Leader will receive a +1*SkillLV VIT bonus. Can only be used during guild sieges. ^000000",
-
 	},
 
 	[SKID.GD_SOULCOLD] = {
@@ -15779,7 +15198,6 @@ SKILL_DESCRIPT = {
 	[SKID.GD_BATTLEORDER] = {
 
 		"Battle Orders",
-		"Required For:^777777 Regeneration ^000000",
 		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Support, Guild Master only ^000000",
 		"SP Cost:^777777 Unknown ^000000",
@@ -15794,7 +15212,6 @@ SKILL_DESCRIPT = {
 	[SKID.GD_REGENERATION] = {
 
 		"Regeneration",
-		"Required For:^777777 Emergency Call (L1), Restore (L1) ^000000",
 		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Support, Guild Master only ^000000",
 		"SP Cost:^777777 Unknown ^000000",
@@ -15846,7 +15263,6 @@ SKILL_DESCRIPT = {
 	},
 
 	[SKID.GD_ITEMEMERGENCYCALL] = {
-
 
 	},
 

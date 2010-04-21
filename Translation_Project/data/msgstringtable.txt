@@ -1705,7 +1705,7 @@ No Message 140#
 No Message 141#
 No Message 142#
 No Message 143#
-User customized key set [%s\%s] is saved.#
+User customized key is saved to [%s\%s]#
 No Message 145#
 No Message 146#
 No Message 147#
@@ -1753,12 +1753,22 @@ No Message 188#
 No Message 189#
 No Message 190#
 No Message 191#
-No Message 192#
-No Message 193#
-No Message 194#
-No Message 195#
-No Message 196#
-No Message 197#
-No Message 198#
-No Message 199#
-No Message 200#
+Roles#
+1st Jobs#
+2nd Jobs#
+3-1 Classes#
+3-2 Classes#
+1st Job High#
+2nd Jobs High#
+Other Jobs#
+Recruit#
+Open party recruitment window.#
+Searching - #
+Select All#
+No Message 204#
+You have to select atleast 1 or more jobs.#
+You have selected %d Jobs. You can only select up to 6 different jobs.#
+No Message 207#
+Please enter levels between 1~150.#
+No Message 209#
+No Message 210#

@@ -374,6 +374,11 @@ SKILL_INFO_LIST = {
 		MaxLv = 10,
 		_NeedSkillList = {
 			{ SKID.AC_OWL,3 }
+		},
+		NeedSkillList = {
+			[JOBID.JT_ROGUE] = {
+			
+			}
 		}
 	},
 
@@ -3692,9 +3697,15 @@ SKILL_INFO_LIST = {
 		"CG_TAROTCARD";
 		SkillName = "Tarot Card of Fate",
 		MaxLv = 5,
-		_NeedSkillList = {
-			{ SKID.AC_CONCENTRATION,10 },
-			{ SKID.BA_DISSONANCE,3 }
+		NeedSkillList = {
+			[JOBID.JT_BARD_H] = {
+				{ SKID.AC_CONCENTRATION,10 },
+				{ SKID.BA_DISSONANCE,3 }
+			},
+			[JOBID.JT_DANCER_H] = {
+				{ SKID.AC_CONCENTRATION,10 },
+				{ SKID.DC_UGLYDANCE,3 }
+			}
 		}
 	},
 
@@ -6899,8 +6910,13 @@ SKILL_INFO_LIST = {
 		SkillName = "Reverberation",
 		MaxLv = 5,
 		SpAmount = { 28, 32, 38, 42, 48 },
-		_NeedSkillList = {
-			{ SKID.DC_UGLYDANCE,5 }
+		NeedSkillList = {
+			[JOBID.JT_MINSTREL] = {
+				{ SKID.BA_DISSONANCE,5 }
+			},
+			[JOBID.JT_WANDERER] = {
+				{ SKID.DC_UGLYDANCE,5 }
+			}
 		}
 	},
 
