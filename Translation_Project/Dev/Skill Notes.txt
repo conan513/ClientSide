@@ -1,0 +1,67 @@
+##########################
+Template:
+
+Required For:^777777 (L).^000000
+Max Level:^777777 ^000000
+Type:^777777 Offensive^000000
+Type:^000099 Passive^000000
+Type:^33cc00 Active^000000
+SP Cost:^777777 +10*SkillLV^000000
+Target:^777777 Enemy^000000
+Range:^777777 4 cells^000000
+Cast Time:^777777 3 sec^000000
+Cool Down:^777777 15 sec^000000
+Duration:^777777 Instant^000000
+Catalyst:^0000ff 1 Blue Gemstone^000000
+Catalyst:^ee0000 1 Red Gemstone^000000
+Catalyst:^ffff00 1 Yellow Gemstone^000000
+Effect:^777777 ^000000
+[LV 1]^777777 ^000000
+[LV 2]^777777 ^000000
+[LV 3]^777777 ^000000
+[LV 4]^777777 ^000000
+[LV 5]^777777 ^000000
+[LV 6]^777777 ^000000
+[LV 7]^777777 ^000000
+[LV 8]^777777 ^000000
+[LV 9]^777777 ^000000
+[LV 10]^777777 ^000000
+KRO Name:^777777 ^000000
+IRO Name:^777777 ^000000
+
+
+#############################
+
+be careful with the skill descriptions if a text line is too long it crashes the client
+
+#############################
+
+Required For: (L#/Job if not current). "Bard & Dancer"= skill shared by both, that can be used independently; "Bard/Dancer"= ensemble skill.
+Type: Offensive=directly dealing damage (magnum brake); Active=does not deal damage, but requires activation (heal, summon spirit sphere); Passive=passive
+Target: Enemy;Party;Ally;Player;Monster;Guild;Self
+Range: in cells (1 is the cell next to you)
+
+#############################
+
+- Swordman -
+* Fatal blow
+  As your level goes up, chance of causing Stun with Bash increases. -By how much??
+
+
+- Knight -
+* Bowling Bash
+  There will now be additional number of chain damage happening as monsters smack each other. -Numbers??
+
+
+- Wizard -
+* Earth Spike
+  Reduced cast / after-cast delay noticeably. -Numbers?? maybe got it well already?
+
+* Quagmire
+  At LV 5, the maximum number of AGI/DEX decrease from Quagmire is set to 50 points.
+  Against players, it will only reduce up to 25 stat points from both. -does it decrease points in stead of % now?
+
+
+- Thief -
+* Steal
+  can anyone confirm the steal formula?

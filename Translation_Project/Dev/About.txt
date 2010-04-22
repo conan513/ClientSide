@@ -1,0 +1,94 @@
+A complete English translation for the Ragnarok Online kRO Client!
+===============================================================
+
+This is a translation pack for the Korean Ragnarok Online game client that includes
+everything you need to fully translate the entire game client into English.
+
+The item and skill descriptions are based on iRO translations and have had many
+corrections and additions suggested by members of the Ragnarok fan community, as well
+as the work done by the authors of the two individual translation packs. So far the item
+names and descriptions as well as the patch client and in-game buttons/dialogs have
+been compiled by Me, with the skill names and descriptions having been compiled by midas.
+
+Both of these projects have been merged into an SVN repository generously supplied by
+iKKe, which allows other members of the community to help Poki#3 and midas in the huge
+task of keeping it all up to date.
+
+Please note that there are NO custom items in this translation pack!
+
+
+Downloads
+You can download the latest RAR releases from http://mrmagoo.psiblade.net/translation/.
+See below for installation help.
+
+You can find the translation project SVN repository at
+http://opensvn.csie.org/EnglishTranslation/, you might want to check
+http://subversion.tigris.org for an SVN client and information on how to use SVN.
+
+
+Installing the translation pack
+--------------------------------
+The easiest way to install the translation pack is using the RAR releases, these are split
+into three sections to make updates easier and downloads smaller. Installing them is as
+simple as extracting the RAR file to your Ragnarok Online directory using WinRAR or 7-Zip.
+
+Each pack has a v?? at the beginning which is the version number of that pack, the
+version number will only increase when something in that section needs updating.
+The version number of the BMPs and Texture packs will always be much lower that the Text
+pack as the Text section is updated very frequently, the BMPs and Texture folder do not
+change very often and so they require fewer releases.
+
+Always make sure you have the latest version of each pack to stay up to date, the Patcher pack is optional,
+if you are not sure which you need then install all (having backed up your old data folder/clients!).
+
+
+Tips for people having problems
+----------------------------------
+If this is the first time you are using the translation pack then it is recommended you
+rename your old data folder and rebuild it using the these translation packs so no old
+files are left behind to cause problems. You can then copy in any custom items or bits you
+need that are not part of the translation packs from your old data folder.
+
+If you hex your own sakexe using the diff patcher then make sure you select
+"[Data](7) Use Plain Text Descriptions" when making your exe or your item descriptions will
+appear as gibberish in the game! If you can't change your sakexe for whatever reason and
+these descriptions still show up as gibberish then grab a copy of ragtxtpr from
+http://eamirror.skamfroj.net. Use ragtxtpr to encode num2itemdesctable.txt and
+idnum2itemdesctable.txt and it should fix the problem.
+
+If any of the following files exist in your data folder, and you don't use any custom
+items, then it is recommended you remove them...
+bookitemnametable.txt, carditemnametable.txt, fogparametertable.txt,
+indoorrswtable.txt, itemparamtable.txt, itemslotcounttable.txt, itemslottable.txt,
+leveluseskillspamount.txt, mapobjlighttable.txt, metalprocessitemtable.txt,
+mp3nametable.txt, num2cardillustnametable.txt, resnametable.txt
+
+These files do not need translating and are best read directly from the sdata.grf, as long
+as you keep kRO Sakray updated you will be 100% sure that you wont get any error's
+due to old files. If you want these files for custom items then extract them yourself,
+we will not provide them!
+
+
+What do the packs contain?
+-----------------------------
+Text Files - v??-Text.rar
+English Items, Skill Files, Cards, Map Names, Game Messages, Monster & Pet Talks, Bards Frost Joke & Dancers Scream Skill.
+
+Texture Folder - V??-Texture.rar
+Files that go into the Data/texture folder, translates in-game + login buttons & Windows.
+
+Tip Of The Day, Skin and Patcher Pack - v??-BMPs.rar
+English Tip Of The Day, Default RO Skin (+ euRO Skin ^^) and translations of kRO's Patch Client Buttons.
+
+Hexed KRO patcher clients - v??-Patcher.rar
+They are hexed to display the english messages contained in the IRO patcher, instead of the original korean messages.
+
+!WARNING! The kRO *resnametables are NOT recommended unless you use custom items and you KNOW what the resnametables do.
+That's why they are not provided anymore, you must extract them from your sdata.grf yourself.
+
+------------
+If you find any errors, typos, or think you can help with the translations,please post your suggestions
+at the eAthena forum (http://www.eathena.ws/board/index.php?showtopic=65431) or PM Poki#3 or mrmagoo!
+
+Happy Downloading ^^
+Enjoy an English Korean Ragnarok Online Game Client ^^

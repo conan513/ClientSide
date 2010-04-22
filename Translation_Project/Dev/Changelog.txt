@@ -1,0 +1,1172 @@
+====================================
+= English Translation by $ephiroth =
+====================================
+
+Revision	Date
+======================
+Revision 127
+2010-02-06
+	* Fixed desc 5760.
+
+Revision 126
+2010-02-05
+	* Updates the latest kro patch 2010-02-03.
+	* Fixed some desc and names.
+
+Revision 125
+2010-01-30
+	* Updates the latest kro patch 2010-01-27.
+
+Revision 124
+2010-01-11
+	* Updates mapnametable.txt
+	* Updates the descriptions.
+
+Revision 123
+2009-12-29
+	* Updates mapnametable.txt
+	* Updates the descriptions.
+
+Revision 122
+2009-12-24
+	* Updates the latest kro patch 2009-12-23.
+
+Revision 121
+2009-12-20
+	* Updates the latest kro patch 2009-12-16.
+
+Revision 120
+2009-12-12
+	* Updates the latest kro patch 2009-12-09.
+
+Revision 119
+2009-12-06
+	* Updates some desc & names.
+
+Revision 118
+2009-12-02
+	* Updates the latest kro patch 2009-11-25.
+	* Added some desc & names.
+	* Updated msgstringtable.txt
+	* Corected some desc & weight.
+
+Revision 117
+2009-11-15
+	* Updated book reading system 11018, 11019.
+	* Updated desc episode 13.2.
+
+Revision 116
+2009-10-06
+	* Updates the latest kro patch 2009-09-30.
+	* Updated skillnametable.txt
+	* cardprefixnametable.txt
+
+Revision 115
+2009-08-29
+	* Removed duplicate skillnames.
+
+Revision 114
+2009-08-27
+	* Updates the latest kro patch 2009-08-26.
+	* Updated skillnametable.txt
+
+Revision 113
+2009-08-26
+	* Updated skilltreeview.txt
+
+Revision 112
+2009-08-24
+	* Updates the latest kro patch 2009-08-19.
+
+Revision 111
+2009-08-23
+	* Updated skillnametable.txt
+
+Revision 110
+2009-08-19
+	* Updated msgstringtable.txt
+
+Revision 109
+2009-08-18
+	* Updates the latest kro patch 2009-08-12.
+
+Revision 108
+2009-07-19
+	* Updated desc 5586, 5587.
+
+Revision 107
+2009-07-17
+	* Updates the latest kro patch 2009-07-15.
+
+Revision 106
+2009-07-14
+	* Added some desc.
+
+Revision 105
+2009-07-09
+	* Updates the latest kro patch 2009-07-08.
+	* Added some desc.
+	* Corrected some desc.
+
+Revision 104
+2009-07-08
+	* Updates the latest kro patch 2009-07-01.
+
+Revision 103
+2009-07-01
+	* Updates mapnametable.txt
+	* Updates skilltreeview.txt
+	* Added desc 6220.
+
+Revision 102
+2009-06-24
+	* Updates the latest kro patch 2009-06-25.
+	* Updates names of Ragnarok DS Items.
+	* Corrected some desc.
+	* Added desc 16250.
+
+Revision 101
+2009-06-23
+	* Updated desc & names 5451, 5452, 5453.
+	* Added desc 5581, 5582.
+
+Revision 100
+2009-06-18
+	* Added desc 5574, 5579.
+
+Revision 99
+2009-06-17
+	* Updates the latest kro patch 2009-06-17.
+	- Updates some desc.
+
+Revision 98
+2009-06-11
+	* Updates the latest kro patch 2009-06-10.
+	* Updates usable jobs.
+	* Updates skilltreeview.txt
+	
+Revision 97
+2009-06-08
+	* Updates the latest kro patch 2009-06-03.
+	* Corrected some desc.
+	* Updated questid2display.txt
+
+Revision 96
+2009-06-03
+	* Updated questid2display.txt
+
+Revision 95
+2009-05-29
+	* Updates the latest kro patch 2009-05-27.
+	* Fixed some descriptions.
+
+Revision 94
+2009-05-25
+	* Added desc 14588, 14589, 14590.
+	* Updates descriptions.
+
+Revision 93
+2009-05-23
+	* Updates the latest kro patch 2009-05-20.
+	- Added jRO items.
+	* Fixed some names.
+	* Added some descriptions.
+
+Revision 92
+2009-05-04
+	* Corrected some desc.
+	* Corrected some usable jobs.
+	* Added skilldesctable.
+
+Revision 91
+2009-05-03
+	* Corrected desc 2753-2762, 14242-14261.
+	* Corrected desc 5485,9041,5367,7623,13960.
+	* Added rental items 14242-14261.
+	* Added desc 5431.
+	* Fixed some typos desc.
+	* Fixed Warlock skill item names.
+	
+Revision 90
+2009-05-01
+	* Updates the latest kro patch 2009-04-29.
+	* Corrected weight and typos desc.
+	* Updates skillnametable.txt by Au{R}oN & Rytech.
+
+Revision 89
+2009-04-24
+	* Fixed msgstringtable line 152.
+	* Applied skilldesctable & skillnametable by Au{R}oN and Me.
+
+Revision 88
+2009-04-23
+	* Updates the latest kro patch 2009-04-22.
+
+Revision 87
+2009-04-22
+	* Added book reading system.
+
+Revision 86
+2009-04-20
+	* Added Rune Knight desc <12725-12733>.
+
+Revision 85
+2009-04-19
+	* Added Guillotine Cross item names.
+
+Revision 84
+2009-04-18
+	* Added some names.
+	* Updates some desc.
+
+Revision 83
+2009-04-16
+	* Updates the latest kro patch 2009-04-15.
+	- Updates some desc.
+	* Added some desc.
+
+Revision 82
+2009-04-15	
+	* Added desc 6009,12310,12311,6188,5547,5545,5546,5549,5550.
+	* Fixed some names.
+
+Revision 81
+2009-04-12
+	* Added desc & names 12342,12343,12344,12345,12348,12349.
+
+Revision 80
+2009-04-11
+	* Updated weight desc 2743.
+	* Added some names.
+	* Changed Ids 14466 to 12745.
+	* Corrected some desc.
+
+Revision 79
+2009-04-10
+	* Added desc 6121.
+	* Added/fixed names 6120,6121,6122.
+	* Updates mapnametable.txt
+
+Revision 78
+2009-04-08
+	* Updates desc 2141-2144,2451-2558,2811-2814,5540-5543.
+	* Updates desc 15003-15006,16196-16219,6020-6023.
+
+Revision 77
+2009-04-05
+	* Corrected Required Level 2374,2375.
+	* Fixed weight 5347,2128.
+	* Added some desc.
+
+Revision 76
+2009-04-04
+	* Corrected some missing names.
+	* Removed duplicate names.
+
+Revision 75
+2009-04-03
+	* SOrry. Added some missing desc. 
+
+Revision 74
+2009-04-03
+	* Added some iRO items.
+
+Revision 73
+2009-04-02
+	* Updates the latest kro patch 2009-04-01.
+	* Added some desc & names Episode 13.
+	* Updates mapnametable.txt
+	* Updates names 16220-16225.
+	* Fixed desc 5146,5304.
+	* Updates desc 5406,5407,5383,5366,5388,5304,5536,6010.	
+
+Revision 72
+2009-04-01
+	* Updates russian scarf names plus descriptions.
+	* Added desc & names 1383,12350,12351,14375,14376,14377,12375,5491.
+	* Fix some typos.
+
+Revision 71
+2009-03-31
+	* Changed Ids Spiritual ring to 2786.	
+
+Revision 70
+2009-03-30
+	* Added desc & names 5540-5543,12381,12382,16212-16215.
+	* Added desc 2141-2144,2451-2454,2555-2558,2811-2814,15003-15006.
+		
+Revision 69
+2009-03-29
+	* Added desc 14407,14408,16220-16225,16156-16184,6157-6185,1537,6129-6143.
+	* Updates desc & names 5436-5449.
+	* Updates names 14488,14489.
+
+Revision 68
+2009-03-28
+	- Updates Equipment Episode 13.2  
+	* Update desc & names item 1284,1285,1311,1646,2004,2005,13421,13046,13047.
+	* Added desc 1387,1647,1648,1745,1925,16000,16001.
+	* Fixed names 1741.
+	- Updates bRO items by xienne15.  
+	* Fixed desc & names 5537,5538,5539.
+	* Added desc 14397-14406,14412-14421,14470-14484.
+	
+Revision 67
+2009-03-27
+	* Updates the latest kro patch 2009-03-25.
+	* Added translation bRO Items by Striding. Thank's.
+
+Revision 66
+2009-03-25
+	Added desc 12396, 12397.
+
+Revision 65
+2009-03-24
+	* Added some names and descriptions.
+
+Revision 64
+2009-03-19
+	* Updates the latest kro patch 2009-03-18.
+
+Revision 63
+2009-03-17
+	* Updates the latest kro patch 2009-03-11.
+	* Added some desc.
+
+Revision 62
+2009-03-09
+	* Added pet status effects.
+	* Added some descriptions.
+	* Added missing weight.
+
+Revision 61
+2009-03-01
+	* Updates the latest kro patch 2009-02-25.
+
+Revision 60
+2009-02-27
+	* Added jRO desc 5466 - 5471.
+
+Revision 59
+2009-02-26
+	* Updates desc 12297,12188,12190,12259,6127,5385,5518,14317,5359.
+	* Added names 6127,5518.
+	* Fixed names 12188.
+	* Added iRO desc and names.
+
+Revision 58
+2009-02-24	 
+	* Removed event bonus desc 5435, 5486, 5415, 5384.
+
+Revision 57
+2009-02-21
+	* Updates the latest kro patch.
+	* Added desc and names Episode 13.2.
+
+Revision 56
+2009-02-14
+	* Fixed msgstringtable line 1379,1380 -> DiabloGM
+
+Revision 55
+2009-02-12
+	* Added recent kro item desc patch 2009-02-10.
+
+Revision 54
+2009-02-10
+	* Added some desc and item names. Credits to ChaosofRuin.
+	* Uncommented duplicate IDs in questid2display.txt
+	* Fixed a typos.
+
+Revision 53
+2009-02-07
+	* Added recent kro item desc patch 2009-02-03.
+	* Fixed skilltreeview.txt
+	* Added some desc.
+
+Revision 52
+2009-02-03
+	* Added recent kro item desc patch 2009-01-29.
+	* Added some desc.
+	* Fixed some desc.
+
+Revision 51
+2009-01-24
+	* Added recent kro item desc patch 2009-01-21.
+
+Revision 50
+2009-01-17
+	* Updated questid2display.txt
+
+Revision 49
+2009-01-08
+	* Added recent kro item desc patch 2009-01-07.
+
+Revision 48
+2009-01-07
+	* Fixed names.
+	
+Revision 47
+2009-01-05
+	* Removed bonus desc 2628.
+
+Revision 46
+2008-12-28
+	* Added desc and item names.
+
+Revision 45
+2008-12-25
+	* Added recent kro item desc patch 2008-12-24.
+	* Updated mapnametable.txt
+	
+Revision 44
+2008-12-24
+	* Added recent kro item desc patch 2008-12-17.
+	- Updated skilltreeview.txt & jobinheritlist.txt
+	* Updated questid2display.txt	
+
+Revision 43
+2008-12-11
+	* Fixed names 5435.
+
+Revision 42
+2008-12-06
+	* Added recent kro item desc patch 2008-12-03.
+	* Fixed questid2display.txt
+
+Revision 41
+2008-11-28
+	* Added recent kro item desc patch 2008-11-26.
+	* Updated questid2display.txt	
+
+Revision 40
+2008-11-25
+	* Fixed weight desc 5438.
+	* Added item names 5445.
+
+Revision 39
+2008-11-24
+	* Fixed format txt TOTD in Unicode to Ansi.
+	- To prevent next button stuck when click it. 
+
+Revision 38
+2008-11-20
+	* Added recent kro item desc patch 2008-11-19.
+
+Revision 37
+2008-11-19
+	* Added some desc from pRO.
+	
+Revision 36
+2008-11-18
+	* Added desc 6000.
+	* Fixed some typos description.
+
+Revision 35
+2008-11-16
+	* Updated item name 5813.
+
+Revision 34
+2008-11-13
+	* Added recent kro item desc patch 2008-11-12.
+
+Revision 33
+2008-11-11
+	* Corrected some missing names.
+
+Revision 32
+2008-11-08
+	* Corected req. level desc 1181.
+	* Corrected ATK, weight, req.level desc 1182.
+	* Corrected Weapon Level desc 13034.
+
+Revision 31
+2008-11-06
+	* Added recent kro item desc patch 2008-10-29.
+
+Revision 30
+2008-10-30
+	* Fixed msgstringtable line 366.
+	* Updates desc 2426.
+	* Updates DEF desc 5182.
+
+Revision 29
+2008-10-29
+	* Added recent kro item desc patch 2008-10-29.
+	- Updated desc 5254.
+
+Revision 28
+2008-10-24
+	* Mapnametable : Added event map.
+	* Updates desc 5460, 5461.
+
+Revision 27
+2008-10-23
+	* Added recent kro item desc patch 2008-10-22.
+	- Updated names 2709, 13763.
+	- Updates DEF desc 5391.
+	* Added jRO items.
+	* Updates desc 7941.
+
+Revision 26
+2008-10-21
+	* Corrected bonus desc 2677. Thx to timexy.  
+
+Revision 25
+2008-10-16
+	* Added recent kro item desc patch 2008-10-14.
+
+Revision 24
+2008-10-14
+	* Fixed some typos desc and names.
+
+Revision 23
+2008-10-09
+	* Added recent kro item desc patch 2008-10-08.
+	- Updated weight desc 6037 to "0".
+
+Revision 22
+2008-10-03
+	* Updated questid2display.txt
+	
+Revision 21
+2008-10-02
+	* Added desc 14283, 6026, 7922.	
+
+Revision 20
+2008-09-30
+	* Fixed a typos desc.
+
+Revision 19
+2008-09-25
+	* Added recent kro item desc patch 2008-09-24.
+	- Updated weight 5336,5337,5338,5339,5346 (70 to 0).
+	- Updated bonus stat desc 5459.
+	- Updates desc 5225, Holy Marcher Hat.
+	* Updates desc 1305, Cleaver.
+	* Updated msgstringtable line 1395 & 1396.
+
+Revision 18
+2008-09-18
+	* Added recent kro item desc patch 2008-09-17.
+	- Fixed desc Muscipular Card.
+	- Fixed desc Flame Skull Card.
+
+Revision 17
+2008-09-13
+	* Added recent kro item desc patch 2008-09-10.
+	- Fixed Ids 5385 to 5458.
+	- Fixed bonus desc 5305.
+
+Revision 16
+2008-09-05
+	* Fixed msgstringtable line 1187.
+
+Revision 15
+2008-09-04
+	* Added recent kro item desc patch 2008-09-03.
+	- Added some desc and names.
+	- Updated names 12334.
+	* Updated names 5385.
+
+Revision 14
+2008-09-03
+	* Added some desc & names.
+	* Fixed some names.
+	* jobinheritlist - Fixed job high magician skill problems.
+	* Corrected desc 5454 again.
+
+Revision 13
+2008-08-30
+	* Fixed desc 5454.
+
+Revision 12
+2008-08-28
+	* Added recent kro item desc patch 2008-08-27.
+	* Added some new item desc.
+	* Fixed some desc & names.
+	* Fixed msgstringtable line 1185.
+
+Revision 11
+2008-08-14
+	* Reorganized the following of changelog.
+	* Added recent kro item desc patch 2008-08-06.
+	- Updated desc 13763, 2709.
+	- Updated desc 5318 (Def=0 , Weight=0).
+	- Updated names 13763, 2709.
+	- Added mercenary desc and skill names.
+	* Fixed desc 5254,2681,5362,1565. 
+	* Added desc 5371.
+	* Added names 5427.
+	* Removed desc Guild Charisma of skilldesctable.
+	* Added recent kro item desc patch 2008-08-13.
+	- Changed weight 6024 (50 to 1).
+	- Updates some rental items desc.
+	* Fixed desc 7773,12300,12301,12302.
+	* Fixed names 12300,12301,12302,12246.
+	* Updates some rusian desc and names.
+	* Added desc 6004 and fix names.
+	* Added desc 6001-6003.
+	* Updated msgstringtable line 1384-1394.
+	* Added questid2display.txt.
+	* Added new headgear.
+	* Added book reading system.
+	
+Revision 10
+2008-08-13
+	* Added recent kro item desc patch 2008-08-13.
+	- Changed weight 6024 (50 to 1).
+	* Fixed questid2display.txt 
+	* Fixed desc 7773,12300,12301,12302.
+	* Fixed names 12300,12301,12302.
+	
+Revision 09
+2008-08-12
+	* Updates mercenary range skill desc.
+	* Fixed names 12246.
+	* Updated msgstringtable line 1384-1394.
+	* Fixed some rusian desc and names.
+	* Added desc 6004 and fix names.
+	* Added desc 6001-6003.
+	* Updates some desc & names.
+	* Modified questid2display according to eA script. 
+
+Revision 08
+2008-08-07
+	* Added recent kro item desc patch 2008-08-06.
+	- Updated desc 13763, 2709.
+	- Updated desc 5318 (Def=0 , Weight=0).
+	- Updated names 13763, 2709. 
+	- Added mercenary skill descriptions.
+	- Updated mercenary skill names.
+	* Added names 5427.
+	* Added & fixed some names.
+	* skilldesctable2 - Removed unnecessary skill Guild Charisma from skill desc.
+
+Revision 07
+2008-08-05
+	* Updates desc 5362, 1565.
+	* Added desc 5371. 
+
+Revision 06
+2008-08-04
+	* Fixed desc 5254, 2681.
+
+Revision 05
+2008-08-03
+	* Fixed desc 5325 (ATK & MATK 2%).
+	* Removed bonus desc 5147.
+	* Update bonus desc 5191 (INT + 1).
+	* Update bonus desc 5210 (INT + 1, AGI + 1).
+	* Update bonus desc 5211.
+	* Update bonus desc 5214 (DEX + 2).
+	
+Revision 04
+2008-08-02
+	* Fixed equip 5243.
+
+Revision 03
+2008-08-01
+	* Fixed a typos names of 7416.
+	* Fixed desc & names 5403.
+	* Fixed a typos.
+	
+Revision 02
+2008-07-31
+	* Added recent kro item desc 2008-07-30.
+	* Changed weight 5391, Crunch Toast (10 to 0).
+	
+Revision 01
+2008-07-27
+	* The Latest updated Rev - 688.
+	* Merged some translation.
+	- Updated recent kro patch 2008-07-23.
+	- Added desc 7921, Essence Of Dragon.
+	- Rename skilldesctable to skilldesctable2 for support
+	  New Skill Tree in English.
+	- Added some monster ring names from tRO.
+	- Updated some monster ring descriptions.
+	- Fixed Applicable Job 2131, Book Of Charms.
+	- Removed Required Level 5361, 5362, 5389.
+	- Updates desc 5389, Angel Of Ghost.
+	- Solved the problems Jobinheritlist Super novice by Adrilindozao.
+	- Updates jobinheritlist.
+	- Updated desc 7923, Krathong.
+	- Fixed some typos names 13755, 13852. 
+	- Fixed names 7829, 13108, 7798, 7799.
+	- Adjusted mapnametable to kro.
+	- Fixed desc 5423, I Love China.
+	
+// -------------- Revision Started ------------
+
+//===============
+// OLD CHANGELOG 
+//===============
+
+2008-07-27
+	* Fixed format desc of 5423.
+
+2008-07-26
+	* Fixed missing Ids.
+	
+2008-07-25
+	* Adjusted mapnametable to kro.
+
+2008-07-24
+	* Solved the problems Jobinheritlist Super novice by Adrilindozao.
+	* Updates jobinheritlist.
+	* Updated desc 7923, Krathong.
+	* Fixed some typos names 13755, 13852. 
+	* Fixed names 7829, 13108, 7798, 7799.	
+
+2008-07-23
+	* Added recent kro patch 2008-07-23.
+	* Added some monster ring names from tRO.
+	* Updated some descriptions.
+	* Fixed missing Ids 5419.	
+	* Fixed Applicable Job 2131, Book Of Charms.
+	* Removed Required Level 5361, 5362, 5389.
+	* Updates desc 5389, Angel Of Ghost.
+	
+2008-07-20
+	* Fixed skilltreeview.
+	- Fix Crimson Fire Blossom skill level 5 to 10.
+
+2008-07-19
+	* Fixed skilltreeview.
+	- Fix Wind Blade skill level 5 to 10.
+	- Fix Throw Zeny skill level 5 to 10.
+	* Rename skilldesctable to skilldesctable2 for support
+	  New Skill Tree in English.
+
+2008-07-17
+	* Added desc 7921, Essence Of Dragon.
+
+2008-07-16
+	* Added some names.
+	- 12319, Strawberry Cake.
+	- 12321, Sandwich Dessert.
+	* Updates mapnametable.
+	* Updates desc 12221, Megaphone. 
+	* Updates desc 12220, Level 5 Adrenaline Rush Scroll.
+	* Updates desc 2742, Lucky Clip.
+	* Updates desc 13969, Lucky Clip Box.
+	* Fixed desc 12219, Level 10 Wind Walk Scroll.
+
+2008-07-15 
+	* Corrected description of 2767 by Argatlahm.
+
+2008-07-12
+	* Added recent kro patch 2008-07-09.
+	* Changed some weight. 
+	- Desc 12322, Chocolate Pie (30 to 5).
+	- Desc 7820, Piece Of Morocc Skin (1 to 0).
+	- Desc 7826, Continental Guard Certificate (1 to 0).
+	* Added desc 2438, Cat's Paw.
+	* Added desc 5405, Filir Hat.
+	* Added desc 5306, Freya's Crown.
+	* Added desc 5387, Nekomimi Kafra Headband.
+	* Added desc 5389, Angel Of Ghost.
+	* Added some desc & names.
+	* Fixed some desc & names.
+	* Updates msgstringtable.
+	* Fixes some typos.
+
+2008-07-02
+	* Updated new item desc & names from pRO.
+	* Fixed some colour tags.
+	
+2008-07-02
+	* Added recent kro patch 2008-07-01.
+	* Fixed desc 13177, Glorious_Gatling_Gun.
+	* Fixed mapnametable & names.
+	* Updates some names.
+	- 13416, Glorious_Blade_(A) to Glorious_Flamberge.
+	- 13417, Glorious_Blade_(B) to Glorious_Rapier.
+	- 13418, Glorious_Blade_(C) to Glorious_Avenger
+	- 1310, Glorious_Battle_Axe_(A) to Glorious_Cleaver.
+	- 1576, Glorious_Book_(A) to Glorious_Tablet.
+	- 1577, Glorious_Book_(B) to Glorious_Apocalipse.
+	- 1826, Glorious_Knuckle_(A) to Glorious_Claw.
+	- 1827, Glorious_Knuckle_(B) to Glorious_Fist.
+	- 1187, Glorious_Katzbalger to Glorious_Claymore.
+	- 1281, Glorious_Katar_(A) to Glorious_Roar.
+	- 1282, Glorious_Katar_(B) to Glorious_Jamadhar.
+	- 1382, Glorious_Battle_Axe_(B) to Glorious_Axe.
+	- 1743, Glorious_Bow to Glorious_Hunter_Bow.
+
+2008-07-01
+	* Updates by Adrilindozao.
+	- jobinheritlist + skilltreeview fix.
+
+// ------ July 2008 ------ \\
+
+2008-06-30
+	* Updates desc 13307.
+	* Fixed desc Diablos Ring.
+	* Fixed desc Diablos Boots. 
+	* Fixed a typos desc & names. 
+
+2008-06-28
+	* Updates the latest kro patch 2008-06-25.
+	* Updates mapnametable.
+	* Updates desc 5413, 5414, 14296, 5417, 1186, 6011 - 6019. 
+	* Added desc 5407, 2751, 5401, 5402, 5403.
+	* Added names 5417, 2750. 
+	* Fixed desc 13036, Assassin Damascus.
+	* Fixed some desc and names.
+
+2008-06-24
+	* Fixed desc 1980, Rope Of Unbalance.
+	* Fixed desc 1925, Chello.
+
+2008-06-23
+	* Fixed a typos 2764, Small Fishing Rods.
+	* Updates some descriptions.
+	* Added some missing ID and # by [Au{R}oN].
+
+2008-06-21
+	* Updates some ring descriptions.
+	- 2765, 2766, 2767, 2768, 2769, 2770, 2771.
+	* Updates some boxes desc according to kro.
+	* Fixed desc 14593, Amplify Magic Power lvl 10. 
+	
+2008-06-19
+	* Added recent kro patch 2008-06-17.
+	* Added desc & names from idRO.
+	- 14293, Mercenary Contract Box.
+	- 14294, Mercenary Contract Box(5).
+	- 14295, Mercenary Contract Box(10).
+	- 6050, Mercenary Contract.
+	* Added desc & names from pRO.
+	- 5415, Poring Cake Hat.
+	- 5416, Beer Hat.
+	* Fixed Equip Set 2133, Tournament Shield.
+	* Fixed desc 5286 (bonus + aspd 5%).
+	* Updated some desc & names (Six Kinds Of Fonts).
+	* Fixed some card descriptions.
+	- 4175, Poisonous Toad Card.
+	- 4253, Alice Card.
+	- 4254, Tirfing Card.
+	* Fixed and added some ring desc & names.
+		
+2008-06-17
+	* Fixed jobinheritlist + skilltreeview.
+	- Fixed Job Mage problems.
+	* Fixed desc 5403.
+
+2008-06-16
+	* Fixed 13500 (duration to 60 minutes).
+	* Fixed 2367 (bonus +1 crit per 10 luk). 
+	* Fixed 1564 (bonus +1 crit per 5 luk).
+	* Fixed desc 5298. 
+	* Fixed some names.
+
+2008-06-14
+	* Updated desc 5140.
+	* Fixed names 5106,5201,13960,7623,13940,14591.
+	* Added translation 13940,14591,13960,7623 by David Boy.
+	* Fixed 5286 (Attack speed - 5%).
+	* Added unofficial desc about mercenary contract (idRO).
+	* Fixed skilltreeview.
+	* Fixed some typos desc & names. 
+
+2008-06-12
+	* Fixed typos korean desc.
+	* Changed weight desc 2621-2626 (10->20).
+	* Update desc 2644.
+
+2008-06-11
+	* Added recent kro patch 2008-06-11.
+	* Update some descriptions.
+	* Fixed some desc according to jAthena database.
+	* Fixed desc 2124 (attack speed + 10%).
+	* fixed desc 5365 (stun chances + 5%).
+	* Update desc 5404, 5384, 13413.
+	* Fixed some typos desc. 
+
+2008-06-10
+	* Update jobinheritlist + skilltreeview by Adrilindozao.
+	* Corrected some descriptions.
+	* Corrected some names.
+	* Added some descriptions.
+	* Corrected missing weight desc 2542.
+	* Fixed req lvl desc 2542.
+	* Fixed desc 5370 without req lvl.
+	* Fixed weight desc 7059, 7060, 7061 to "0" according to kro.
+
+2008-06-09
+	* Updated desc 1378, 13834, 13835, 14581, 12304 - 12309, 13975 - 13986.
+	* Updated desc 14262, 14263, 14264, 14265, 14266, 14267.
+	* Updated desc 14268, 14269, 14270, 14271, 14272, 14273.
+	* Added names 13981, 13982, 13983.
+
+2008-06-08
+	* Updated desc 14593, 14594, 1638, 2137, 14285, 14282, 2742, 13825.
+	* Corrected desc 4354, 4367, 2515.
+
+2008-06-07
+	* Changed Ids 12314 to 14231.
+	* Fixed metalprocessitemlist.txt.
+	* Corrected weight 663 in num2itemdesc.
+
+2008-06-05
+	* Added recent kro items.
+	* Added some item names.
+	* Fixed some typos.
+	* Fixed mapnametable.
+	* Fixed desc 7919 according to iRO.
+	* Corrected weight 663.
+	* Updated desc 5360,1229,4373,1373,1130,1131,1138,11505,5411 & names 5411.
+	* Updated desc 2415,1913,1162,1525,1140,1160.
+	* Added desc 12323,12324,12325,2393,13415,1639,13040,13041,1545,1742,1381.
+	* Fixed desc 11505,5044,2343,1145,1241.
+		
+2008-06-03
+	* Corrected desc 11505 in num2itemdesc.
+	* Updated again msgstringtable.
+	* Fixed Isilla card desc.
+	* Fixed Magmaring card desc.
+	* Fixed Shinobi Sash desc.
+	* Applied skilldesctable by Brainstorm.
+	- Fixed Pressure description stating it works against Emperium.
+	- Corrected range of Assumptio.
+	- Removed comment about a /join comment on novice basic skill.
+	- Fixed AM_CREATECREATURE saying you need a Embryo Creation Book.
+	- Corrected Ganbantein skill range to 9 cells.
+	- Fixed Napalm Cast time to fixed 0.7 sec at all levels and have no cast delay.
+
+2008-06-02
+	* Update some recent kro items desc & names.
+	* Fixed name item of 2620.
+	* Updated desc 2620. 
+	* Fixed msgstringtable.
+
+2008-06-01
+	* Added recent kro items.
+	* Added translation by Yommy + Adrilindozao.
+	- jobinheritlist and skilltreeview.
+	* Updated msgstringtable.
+	* Updated mapnametable.
+
+2008-05-31
+	* Fixed desc 2614, 2620, 5409, 5410.
+
+2008-05-26
+	* Updated desc 5271, 5261.
+	* Added desc 5800, 5260. 
+	* Fixed desc 5262.
+
+2008-05-24
+	* Added recent kro items.
+	* Added desc 12314, 14229, 7918, 7917.
+	* Fixes desc Chinese Freya Set according to kRO.
+	* Fixed a typos korean desc.
+
+2008-05-14
+	* Updated desc 5262, 5801. 
+
+2008-05-11
+	* Corrected names of pRO headgears. 
+	* Corrected new pet egg, taming and food names and descriptions.
+	* Change description of item 12260 to a proper translation.
+	* Corrected names of WoE 2.0 related items according to iRO.
+
+2008-05-08
+	* Added recent kro items.
+	* Fixes a typos.
+
+2008-05-01
+	* Added recent kro items.
+	* Added item names 7917, 7918, 14229.
+
+2008-04-27
+	* Corrected desc 5372,13918,13954,13955,13956,13957,13958.
+	* Fixed Field Manual desc.
+	* Added desc 14529.
+	* Added recent kro items.
+
+2008-04-21
+	* Updated mercenary skilldesctable.
+
+2008-04-16
+	* Fixed item names 2546.
+	* Added desc and item names 13994 - 13999, 14000 - 14003.
+	* Added desc 11503 - 11504, 12246, 2441, 2546. 
+
+2008-04-14
+	* Updated msgstringtable line 1375.
+	* Added desc 12716.
+	* Fixed item names 12716.
+
+2008-04-12
+	* Added desc & item names 13991 - 13993, 5363 - 5367.
+
+2008-04-10
+	* Added desc 14569 - 14574, 7821 - 7824, 13821 - 13824.
+
+2008-04-05
+	* Added desc 13990, 14592, 12312, 7622.
+	* Added temp. desc.
+
+2008-04-04
+	* Added recent kro item.
+	- Added desc 13987 - 13989, 5400.
+	- Added item names 12304 - 12306, 13975 - 13977, 12310, 6010, 13987 - 13989.
+	- Added item names 5400, 2441, 2546, 12716, 5402, 5404, 13990, 14592, 12312. 
+
+2008-03-28
+	* Fixed item names 5812.
+	* Updated msgstringtable line 1355.
+
+2008-03-26
+	* Corrected DEF desc 2719.
+
+2008-03-19
+	* Added desc & item names 5395, 5396, 5397, 12303, 13974.
+	* Corrected desc 5372, 5375.	
+
+2008-03-18
+	* Fixed msgstringtable.txt
+	* Updated msgstringtable.txt
+	* Added book reading system 7127 - 7133, 7144, 7434, 7755.
+		
+2008-03-13
+	* Fixed item names 7730 - 7741.
+	* Updated desc 7915, 7916, 12715, 14534 - 14537.
+	* Import missing desc 13722 - 13725 to num2itemdesc.
+
+2008-03-12
+	* Added desc & item names 7915, 7916, 12715, 12300 - 12302.
+	* Added desc & item names 12276 - 12278, 13896 - 13901.
+
+2008-03-09
+	* Added desc 7722 - 7726, 7751 - 7755,
+	* Fixed desc 7730 - 7741,7756. 
+	* Import missing Ids desc 7751 - 7754 to idnum2itemdesctable.
+
+2008-03-06
+	* Fixed Applicable job desc 2376.
+
+2008-03-05
+	* Added desc & item names 6008, 5812, 5394, 2742, 13968 - 13973.
+
+2008-02-28
+	* Corrected Required lvl desc 2730,2731.
+
+2008-02-27
+	* Fixed item names 13036, 13037.
+	* Updated desc 13036, 13037.
+	* Fixes desc 5340 - 5345.
+	* Added desc & item names 7914, 12714, 13962 - 13967.
+
+2008-02-24
+	* Added desc 5272,5296,5298,5299,7706,7707,7708,7709,
+	  13821,13822,13823,13824.
+	* Added desc 7805,7806,7807,7808,7809,7810,7812,7813,7814,7815,7816,7817,2709.	
+	* Fixed desc 7881,7811.
+
+2008-02-23
+	* Added desc 5385.
+	* Fixed item names 2540, 2437. 
+	* Fixed desc 2381, 2382, 2538, 2539.
+	* Fixed Required Level desc 2728.
+
+2008-02-22
+	* Added desc 7603.
+
+2008-02-21
+	* Added desc 7710,1274.
+
+2008-02-20
+	* Added recent kro item.
+	* Added desc & item names 13915,13916,13917,12287,12288,12289.
+	* Added missing desc & item names 13942,13943,13944.
+	* Fixed desc and names 5392.
+	* Fixed names of 5393.
+	* Added desc & names 13961,13109,13175,2741,2384,2385,2132,2543,2439,5391.
+	* Added desc & names 13951 - 13959.
+
+2008-02-18
+	* Added some desc and item names.
+	* Fixed missing weight desc 13937,13938,13939.
+	* Fixed a typos.
+	* Fixed item names 2435.
+	* Fixed bugs report.
+	
+2008-02-11
+	* Added desc 5340 - 5345.
+
+2008-02-10
+	* Corrected desc 13945, 13948.
+
+2008-02-09
+	* Added desc 2614, 7857, 5307.
+
+2008-02-08
+	* Corrected desc 13937, 13938, 13939.
+
+2008-02-04
+	* Fixed desc 2378 by Skotlex.
+
+2008-02-02
+	* Updates thanks.
+	- Added desc 13909, 12294 - 12297, 13836 - 13841, 13861, 13862, 13866 - 13869, 14530, 14531
+	  13734 - 13737,13864,13865.	
+	- Updated desc 13949, 13910, 12701.
+	- Added item names 5383.
+
+2008-02-01
+	* Updates thanks. 
+	- Added temp desc and item names 5392,5393 from idRO.
+	- Added item name 2438.
+	- Fixed effect 2438.
+	- Fixed item names 13945, 13946.
+	- Updated desc 7623, 12299, 13945 - 13950.
+
+2008-01-30
+	* Updates thanks.
+	- Fixed required weapon level 13167.
+	- Update desc and item names 13945 - 13950 ,12298, 12299, 13960, 7623.
+	- Fixed desc and item name 9038.
+	- Updated pettalktable.xml
+
+2008-01-27
+	* Updates.
+	- Latest update kro item 2008-1-23.
+	- Added desc 7830 - 7840, 9038, etc.  
+	- Fixed some item names.
+	- Updated msgstringtable.
+
+2008-01-23
+	* Fixed desc 4420, 5187, 5313 and added some new items.
+
+2008-01-16
+	* Updates.
+
+2007-12-29
+	* Updated with the latest kRO patch.
+
+2007-12-11
+	* Added some item names 2733, 2734, 2735, 2714, 7900, 7901, 7902, 7903, 7904, 7840, 13863, 13864, 13865
+	  13866, 13867, 13868, 13869, 7839, 7830, 7831, 7832, 7833, 7834, 7835, 7836, 7837, 7838, 12269, 12270
+	  12271, 12272, 12273, 13859, 13860, 12274, 12275.
+
+2007-12-08
+	* Updated desc and item names 13871 - 13894.
+	* Fixed item names 7802.
+	* Added desc and item names 12713.
+	* Added item name 5371.
+	* Fixed desc and item names 5811, 7908 - 7911.
+	* Corrected some missing desc and item names.
+
+2007-12-06
+	* Fixed some typo and added new items desc.
+
+2007-12-04
+	* Updated recent kro items.
+	* Fixed some desc. 
+	* Fixed skilldesctable.
+	* Updated mapnametable.
+
+// ------ Document : Kro - English Translation by $ephiroth -------
+// ------ Thank's to My friend -o-, mrmagoo, Lupus, NLZ, Au{R}oN, Argatlahm ----

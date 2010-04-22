@@ -1,0 +1,29 @@
+English Translation by $ephiroth
+Mainly kRO Translations.
+
+Translator :
+BabelFish - http://babelfish.altavista.com/
+Google Translator - http://translate.google.com/translate_t
+
+ANY SKILL mentioned in the item descriptions use "KRO NAMES".
+This is specially important in Intimidate (Snatch in IRO)
+and Berserker (Frenzy in IRO) cases, to avoid confusions.
+
+<<== Other Notes ==>>
+
+--- Bard's Frost Joke:
+There are 2 versions of Frost Joke.
+If you don't want the standard one, simply revome the current "ba_frostjoke.txt"
+and rename "[alternative]ba_frostjoke.txt" to "ba_frostjoke.txt". Done.
+
+--- Monster Talking:
+If you want some monsters to talk when fighting players rename "[custom]monstertalktable.xml"
+to "monstertalktable.xml". Do note, only the <attack> tags work and there's nothing you can do
+about it, because this feature is broken even in Gravity's AEGIS servers with no further development.
+
+--- Skill Files:
+Currently there are 3 options to choose. The default files are based on kRO skill names, with iRO name
+at the bottom of description to avoid confusions. The "-iRO" files follow iRO skill names, with kRO name
+at the bottom of description too. The "-hybrid" files are a mix of the kRO and iRO skill names, based on
+a subjective selection of "best" names. You can check the respective skillnametables and choose the pair
+you like the most. You only have to rename them to "skillnametable.txt" and "skilldesctable.txt".

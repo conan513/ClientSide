@@ -1,0 +1,157 @@
+  ======================
+       Main Template
+  ======================
+
+<description>
+<stats/abilities> (e.g. INT + 1, MATK + 15%, MaxHP + 10%)
+<combos/sets> (e.g. [^000088Cramp Card Combo^000000] or [^000088+ Bigfoot^000000] /
+[^000088+ Wing Staff^000000] or [^000088Undershirt & Pantie Equip Set^000000])
+Class :^777777 Sword^000000
+Attack :^777777 150^000000
+Defense :^777777 3^000000
+Equipped on :^777777 Upper, Mid, Lower^000000  (headgears only)
+Compound on :^777777 Weapon^000000  (cards only)
+Weight :^777777 120^000000
+Property :^777777 Holy^000000
+Weapon Level :^777777 4^000000  (weapons only)
+Required Level :^777777 40^000000
+Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class^000000
+Applicable Pet :^777777 Baphomet Jr.^000000  (cute pet armors only)
+
+
+  =========================
+      Collectable Items
+  =========================
+
+<description>
+^ffffff_^000000
+Weight :^777777 1^000000
+
+
+  ========================
+            Jobs
+  ========================
+
+Female Only, Male Only,
+Every Job, Every Job Except Novice, Every Rebirth Job except High Novice,
+Swordman Class, Merchant Class, Thief Class, Mage Class, Archer Class, Acolyte Class, TaeKwon Class
+2nd Class or above, Rebirth 2nd Class or above,
+Novice, Knight, Crusader, Alchemist, Assassin, Priest, Sage,
+Monk, Bard, Dancer, Thief, Rouge, Hunter, Mage, Wizard, Blacksmith,
+Soul Linker, TaeKwon, Star Gladiator, Gunslinger, Ninja,
+Lord Knight, Paladin, Creator, Assasin Cross, High Priest, Professor,
+Champion, Clown, Gypsy, Stalker, Sniper, High Wizard, Whitesmith,
+Every Job Except Novice (Parental Advisory Needed), // LOOOOOOOOOL xDDD
+All except Acolyte, Priest, Bard and Dancer
+
+  ========================
+        Item Classes
+  ========================
+
+weapons: Sword, Two-Handed Sword, Dagger, Katar, Axe, Spear, Mace, Book, Rod, Claw,
+         Musical Instrument, Whip, Bow, Revolver, Rifle, Shotgun, Gatling Gun, Grenade Launcher
+         Huuma (Huuma Shuriken?)
+
+ammos: Arrow, Throwing Dagger (Shurikens & Kunais?), Bullet
+armors: Shield, Footgear, Garment, Headgear, Accessory, Armor, Shoes (should we change it to Footgear?)
+etc: Card, Taming Item, Monster Egg, Cute Pet Armor
+
+
+  ========================
+        Properties
+  ========================
+
+Neutral, Water, Fire, Wind, Earth, Holy, Shadow, Ghost, Undead, Poison
+
+
+  ========================
+      Standard phrases
+  ========================
+
+Increases resistance to ??? property attacks by ??.
+
+Increases damage from ??? property attacks by ??.
+
+Increases damage against ??? property by ??.
+
+Increases damage inflicted on ??? enemies by ??.
+
+Increases damage from on ??? enemies by ??.
+
+Increases resistance to ??? status by ??.
+
+Reduces damage from ??? enemies by ??.
+
+Indestructible (except in upgrade attempts).
+
+Impossible to refine this item.
+
+??? chance of causing ^880000 ???^000000 effect on enemies.
+
+Receive ?? more Experience Points from ??? monsters.
+
+?? chance of automatically casting ^008800 ???^000000 (on ???|when ???).
+
+?? chance of finding ??? when you kill a ??? monster.
+
+?? chance of causing ^880000 ???^000000 effect (on/to ???|when ???).
+
+Enables use of ^008800 ???^000000.
+
+Regain ??? for each attack on a ??? enemy.
+
+Consumes ?? with each ???.
+
+Enables use of ^008800Level ?? ???^000000.
+
+Gain immunity to the ^880000 ???^000000 status.
+
+Reduce Casting Time by ??.
+
+Reduce SP Consumption of skills by ??.
+
+??? chance of inflicting the ^880000Silence^000000 status on enemies.
+
+Gain ??? (each time an enemy is killed by a|on each) ??? attack.
+
+
+  =========================
+      Stats & Abilities
+  =========================
+
+STR + n(%)
+AGI + n(%)
+VIT + n(%)
+INT + n(%)
+DEX + n(%)
+LUK + n(%)
+All Stats + n(%)
+MaxHP + n(%) (or Maximum HP)
+MaxSP + n(%) (or Maximum SP)
+ATK + n(%)
+MATK + n(%)
+DEF + n(%)
+HIT + n(%)
+Critical + n(%) (on ??? enemies)  (or Critical Rate, CRIT? Maybe Critical is enought.)
+FLEE + n(%)  (or Flee Rate)
+Lucky Flee + (n%)
+Movement Speed + n(%)
+Attack Speed + n(%)
+Perfect Dodge + n(%)
+Range + n(%)
+
+
+  ===================
+      Colour Tags
+  ===================
+
+^880000 ???^000000 // Effects (stun, blind etc.)
+^996600 ???^000000 // Elements/properties (should we remove the specified color tags from fire/earth/wind/water?)
+^008800 ???^000000 // Autocast ability names / Class Specific Bonus
+^000088 ???^000000 // Card Combo
+^000088 ???^000000 // Heal effect
+^FF0000 ???^000000 // Red - Fire Property
+^777777 ???^000000 // Gray - Holy, Shadow, Neutral, Ghost, & Undead Property 
+^009900 ???^000000 // Green - Wind Property
+^996600 ???^000000 // Brown - Earth Property
+^0000FF ???^000000 // Blue - Water Property

@@ -530,7 +530,7 @@ https://pay.ragnarok.co.kr (Billing Web)#
 IP capacity of this Internet Cafe is full. Would you like to pay the personal base?#
 You are out of available paid playing time. Game will be shut down automatically.#
 Name is too long. Please enter a name no greater than 23 english characters.#
-#
+Character will be deleted in %d seconds.#
 You paid with the personal regular base.#
 You paid with the personal regular base. Available time is xx hrs xx mins xx secs.#
 You are free!#
