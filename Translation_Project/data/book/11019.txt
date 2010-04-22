@@ -1,0 +1,25 @@
+%f5f5dc
+^000088Manuk Selling Item^000000
+
+You can purchse following items with Manuk Coins.
+
+^008040[Manuk's_Opportunity]^000000
+An aid made by Manuk Lab and officially recommended to minsers. When used, it increases melee attack damages inflicted on monsters in Manuk field areas by 10% for 10 mins
+^000088(Nepenthes, Centipede, Centipede Larva, Hilsrion, Tatacho, Hardrock Mammoth)^000000
+^ffffff_^000000
+Weight : ^7777775^000000
+
+
+^008040[Manuk's_Courage]^000000
+A nutrient made by Manuk Lab and officially recommended to minsers.
+When used, it decreases melee and magical damages inflicted on its users from monsters in Manuk fields by 10% for 10 mins.
+^000088(Nepenthes, Centipede, Centipede Larva, Hilsrion, Tatacho, Hardrock Mammoth)^000000
+^ffffff_^000000
+Weight : ^7777775^000000
+
+
+^008040[Manuk's_Faith]^000000
+An aid made by Manuk Lab and officially recommended to minsers. When used, it increase magic attack damages inflicted on monsters in Manuk field areas by 10% for 10 mins
+^000088(Nepenthes, Centipede, Centipede Larva, Hilsrion, Tatacho, Hardrock Mammoth)^000000
+^ffffff_^000000
+Weight : ^7777775^000000

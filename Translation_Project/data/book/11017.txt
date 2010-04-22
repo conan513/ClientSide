@@ -1,0 +1,352 @@
+%f5f5dc
+^000088Kreiger Von Midgard Reward Items!!^000000
+
+Kreiger Von Midgard Reward Items are as follows.
+Additional options are enchanted according to the upgrade.
+^ff0000[Slaughter]^000000 - Increase the physical attack power
+^fa8072[Destruction]^000000 - Increase the spell power
+^0000ff[Bless]^000000 - Increase the restoration of heal skill
+
+
+^ff0000[Dagger]^000000
+^008040Glorius Gradius^000000
+75% increase in Physical Attack against Demihuman monsters. Ignore 20% of Physical Defense of Demihuman monsters.
+When users attack with it, they have some chance of autocasting the spell [Lex Divina] Lv 1. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring physical defense of Demi-human monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : When users use the skill [Raid], they have some chance of inflicting [Bleeding] in the area of 5*5.
+Type : ^777777Dagger^000000    Attack : ^777777120^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Novice Class/Swordman Class/Mage Class/Archer Class/Merchant Class/Thief Class/Ninja Class^000000
+
+^ff0000[Onehand Sword]^000000
+^008040Glorious Flamberge^000000
+75% increase in Physical Attack against Demihuman monsters.
+Ignore 20% of Physical Defense of Demihuman monsters. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring physical defense of Demi-human monsters, ^ff0000[Slaughter]^000000 Lv 1
++7 Upgrade : Attack Speed 10% Increase
++9 Upgrade : When using [Bash], Auto-spell [Fatal Wound] Lv. 2 activates at a certain rate
+Type : ^777777Onehand Sword^000000    Attack : ^777777130^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Novice Class/Swordman Class/Merchant Class/Thief Class Class^000000
+
+^008040Glorious Rapier^000000
+INT + 6, MATK + 10%, Indestructible.
+* Additional Weapon Refining Level Option : +(Upgrade - 5) Increase INT.
++6 Upgrade : Decrease SP cost by 10 %.
++9 Upgrade : INT + 5
+Type : ^777777Onehand Sword^000000    Attack : ^777777130^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Novice Class/Swordman Class/Merchant Class/Thief Class Class^000000
+
+^008040Glorious Holy Avenger^000000
+INT + 6, MATK + 10%, Indestructible
+* Additional Weapon Refining Level Option : +(Upgrade - 5) Increase INT
++6 Upgrade : Decrease SP cost by 10 % 
++9 Upgrade : When using [Pressure] skill, auto-spell [Lex Aeterna] Lv.1 is activated.
++10 Upgrade : Int + 5
+Type : ^777777Onehand Sword^000000    Attack : ^777777130^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Swordman Class/Merchant Class^000000
+
+^ff0000[Onehand Spear]^000000
+^008040Glorious Spear^000000
+Increases Physical Attack Strength to Demihuman monster by 95%.
+Ignore 20% of Physical Defense of Demihuman monsters. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring physical defense of Demi-human monsters, 5% increase in Attack Speed , ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : Knight Class: When using [Pierce] skill, inflicts [Fatal Wound] Lv.2 to the enemy at a certain rate,
+             Crusader Class: When attacking normally, inflicts an auto-spell of [Pressure] at a certain rate, 5% increase in Attack Speed  
+Type : ^777777Onehand Spear^000000    Attack : ^777777130^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Swordman Class^000000
+
+^ff0000[Onehand Staff]^000000
+^008040Glorious Arc Wand^000000
+Matk+ 15%, Increases Magical Attack Strength to Demihuman monster by 15%
+Ignores Magical defense from Demihuman monster by 25%. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring Magical Defense of Demihuman monster
++9 Upgrade : Matk 5% increase, Casting Time reduces by 5%, Cast delay reduces by 5%
+Type : ^777777Staff^000000  Attack : ^77777770^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Mage Class/Acolyte Class^000000
+
+^008040Glorious Cure Wand^000000
+MATK + 15%, 14% increase in the amount of recovery when using [Heal] and [Sanctuary].
+Delay reduces by 10% after using skills. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in the amount of Recovery, ^0000ff[Bless]^000000 Lv 1
++9 Upgrade : When using [Heal] skill, inflicts and auto-spell of [Heal] Lv.10 to the enemy at a certain rate.
++10 Upgrade : 10% increase in the amount of Recovery
+Type : ^777777Staff^000000  Attack : ^77777770^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Mage Class/Acolyte Class^000000
+
+^ff0000[Mace]^000000
+^008040Glorious Morning Star^000000
+75% increase in Physical Attack against Demihuman monsters.
+Ignore 20% of Physical Defense of Demihuman monsters. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring physical defense of Demi-human monsters, 5% increase in Attack Speed , ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : Inflicts Stun at a certain rate when normally attack, 5% increase in Attack Speed 
+Type : ^777777Mace^000000    Attack : ^777777130^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Novice Class/Swordman Class/Acolyte Class/Merchant Class^000000
+
+^ff0000[Onehand Axe]^000000
+^008040Glorious Cleaver^000000
+75% increase in Physical Attack against Demihuman monsters. Ignore 20% of Physical Defense of Demihuman monsters. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in Attack Speed , 5% increase in ignoring physical defense of Demi-human monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : Inflicts [Fatal Wound] by 5% chance, 5% increase in Attack Speed ,
+             When using [Mammonite] skill, inflicts [Fatal Wound] Lv.2 to the enemy at a certain rate.
+Type : ^777777Onehand Axe^000000    Attack : ^777777130^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Swordman Class/Merchant Class^000000
+
+^ff0000[Musical Instrument]^000000
+^008040Glorious Guitar^000000
+Increases Physical Attack Strength to Demihuman monster by 95%.
+Ignores physical defense from Demihuman monster by 20%. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring Physical Attack Defense of Demihuman monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : When using [Arrow Vulcan] skill, inflicts an auto-spell of [Tarot Card of Fate] Lv.5 to the enemy at a certain rate
+Type : ^777777Musical Instrument^000000  Attack : ^77777750^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Bard^000000
+
+^ff0000[Whip]^000000
+^008040Glorious Lariat^000000
+Increases Physical Attack Strength to Demihuman monster by 95%.
+Ignores physical defense from Demihuman monster by 20%. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring physical defense of Demi-human monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : When using [Arrow Vulcan] skill, inflicts an auto-spell of [Tarot Card of Fate] Lv.5 to the enemy at a certain rate
+Type : ^777777Whip^000000  Attack : ^77777750^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Dancer^000000
+
+^ff0000[Book]^000000
+^008040Glorius Tablet^000000
+MATK + 15%, Increases Physical Attack Strength to Demihuman monster by 80%.
+Ignores Physical defense from Demihuman monster by 25%. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring Magical Defense of Demihuman monster, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : Increase ATK by 200 for 3 sec. when attacking and synchronizing the weapon at a certain rate
+Type : ^777777Book^000000    Attack : ^77777790^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Priest/Sage/Star^000000
+
+^008040Glorius Apocalypse^000000
+MATK + 15%, Increases Physical Attack Strength to Demihuman monster by 80%.
+Ignores Magical defense from Demihuman monster by 25%. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring Magical Defense of Demihuman monster
++9 Upgrade : Matk 5% increase, Casting Time reduces by 5%, Cast delay reduces by 5%
+Type : ^777777Book^000000    Attack : ^77777790^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Priest/Sage/Star^000000
+
+^ff0000[Knuckle]^000000
+^008040Glorius Claw^000000
+Increases Physical Attack Strength to Demihuman monster by 95%.
+Ignores Physical defense from Demihuman monster by 25%. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring Defense of Demihuman monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : When attacking, inflicts [Investigate] at a certain rate, 
+             When attacking, inflicts [Decrease agility] Lv.1 at a certain rate.
+Type : ^777777Claw^000000  Attack : ^77777730^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Priest/Monk^000000
+
+^008040Glorius Fist^000000
+Increases Physical Attack Strength to Demihuman monster by 95%.
+Ignore 20% of Physical Defense of Demihuman monsters. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring Defense of Demihuman monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : When using [Explosion of Spirit], inflicts an auto-spell of [Zen].
+Type : ^777777Claw^000000  Attack : ^77777730^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Priest/Monk^000000
+
+^ff0000[Twohand Sword]^000000
+^008040Glorius Claymore^000000
+Increases Physical Attack Strength to Demihuman monster by 70%. Ignores Physical defense from Demihuman monster by 25%. Indestructible.
+* Additional Weapon Refining Level Option 
++6 Upgrade : 5% increase in ignoring Physical Attack Defense of Demihuman monsters, ^ff0000[Slaughter]^000000 Lv 2
++9 Upgrade : When physically attacking, inflicts an auto-spell of [Concentration] Lv.1 and [Aura Blade] Lv.1 at a certain rate
+             If higher level of Aura Blade has been learned, corresponding level is activated
+Type : ^777777Twohand Sword^000000   Attack : ^777777220^000000   Weight : ^7777770^000000   Weapon Lv : ^7777774^000000   Required Lv : ^77777780^000000
+Job : ^777777Swordman Class^000000
+
+^ff0000[Twohand Spear]^000000
+^008040Glorius Lance^000000
+Increases Physical Attack Strength to Demihuman monster by 70%. Ignores Physical defense from Demihuman monster by 25%. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring Physical Attact Defense of Demihuman monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : When Crusader and Paladin Class attack, auto-spell of [Pressure] is activated at a certain rate,
+             When Knight and Lord Knight Class use [Pierce], [Fatal Wound] Lv.2 is activated  to enemies at a certain rate.
+Type : ^777777Twohand Spear^000000    Attack : ^777777220^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Swordman Class^000000
+
+^ff0000[Twohand Staff]^000000
+^008040Glorius Destruction Staff^000000
+Matk+ 15%, Ignores physical defense from Demihuman monster by 25%.
+Ignores Magical defense from Demihuman monster by 25%. Indestructible.
+* Additional Weapon Refining Level Option : Matk increases per Refining degree
++6 Upgrade : Matk 5% increase, ^fa8072[Destruction]^000000 Lv 1
++9 Upgrade : When using [Lord of Vermilion] Lv.10, [Meteor Storm] Lv.10 or [Storm Gust] Lv.10, inflicts itself an auto-spell of [Safety wall] Lv.10 at a certain rate
+Type : ^777777Twohand Staff^000000  Attack : ^77777770^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Mage Class/Acolyte Class^000000
+
+^ff0000[Katar]^000000
+^008040Glorius Bloody Roar^000000
+Increases Physical Attack Strength to Demihuman monster by 70%. Ignore 20% of Physical Defense of Demihuman monsters. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring physical defense of Demi-human monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : 100% increase in Attack Speed for 3 sec. when physically attacking and syncronizing the weapon at a certain rate
+Type : ^777777Katar^000000   Attack : ^777777140^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000   Job : ^777777어세신^000000
+
+^008040Glorius Jamadar^000000
+Increases Physical Attack Strength to Demihuman monster by 70%.
+Increases Critical Attack Strength to Demihuman monster by 20%. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in chance of Critical Attack to Demihuman monster, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : 100% increase in Attack Speed for 3 sec. when physically attacking and syncronizing the weapon at a certain rate
+Type : ^777777Katar^000000   Attack : ^777777140^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000   Job : ^777777어세신^000000
+
+^ff0000[Twohand Axe]^000000
+^008040Glorius Twohand Axe^000000
+Increases Physical Attack Strength to Demihuman monster by 70%. Ignores Physical defense from Demihuman monster by 25%. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring physical defense of Demi-human monsters, ^ff0000[Slaughter]^000000 Lv 2
+             When attacking, inflicts [Fatal Wound] by 5% chance
++9 Upgrade : When attacking, the chance of inflicting [Fatal Wound] increases by 10%
+             When using [Mammonite] skill, inflicts [Fatal Wound] Lv.2 to the enemy at a certain rate
+             [Cart Termination] skill, inflicts [Fatal Wound] Lv.2 to the enemy at a certain rate
+Type : ^777777Twohand Axe^000000    Attack : ^777777220^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Swordman Class/Merchant Class^000000
+
+^ff0000[Huuma Shuriken]^000000
+^008040Glorius Huuma Shuriken^000000
+MATK + 15%, Increases Physical Attack Strength to Demihuman monster by 95%
+Ignore 20% of Physical Defense of Demihuman monsters. Indestructible.
+Increase damage by 100% of [Throw Huuma Shuriken] and [Killing Strike] for 10 sec. when attacking and synchronizing the weapon by 5%
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring Defense of Demihuman monsters, ^ff0000[Slaughter]^000000 Lv 2
++9 Upgrade : When using [Killing Strike], auto-spell [Heal] Lv.10 is activated to itself
+             When using [Throw Huuma Shuriken], [Fatal Wound] Lv.2 is inflicted to the enemay at a certain rate
+Type : ^777777Huuma^000000    Attack : ^77777755^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000   Job : ^777777Ninja^000000
+
+^ff0000[Bow]^000000
+^008040Glorius Hunter Bow^000000
+Increases Physical Attack Strength to Demihuman monster by 55%. Ignore 20% of Physical Defense of Demihuman monsters. Indestructible.
+* Additional Weapon Refining Level Option : (Refining degree * 2)% additional Critical Damage
++6 Upgrade : 5% increase in ignoring physical defense of Demi-human monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : 20% increase in damage of [Double Strafing]
+Type : ^777777Bow^000000    Attack : ^777777100^000000    Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000
+Job : ^777777Archer Class/Thief/Rogue^000000
+
+^ff0000[Revolver]^000000
+^008040Glorius Pistol^000000
+Increases Physical Attack Strength to Demihuman monster by 55%. Ignore 20% of Physical Defense of Demihuman monsters. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring physical defense of Demi-human monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : When using [Rapid Shower]skill, auto-spell [Flip] is activated, 
+             Damage increases as much as the value of [Rapid Shower] skill's weapon Refining Degree X 2% 
+Type : ^777777Revolver^000000   Attack : ^77777780^000000   Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000   Job : ^777777Gunslinger^000000
+
+
+^ff0000[Rifle]^000000
+^008040Glorius Rifle^000000
+75% increase in Physical Attack against Demihuman monsters. Ignore 20% of Physical Defense of Demihuman monsters.
+30% increase in damage of [Triple Action]. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring physical defense of Demi-human monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : 25% increase in casting time of [Tracking] skill, 
+             [Tracking] skill's attack strength increases as much as the value of weapon refining degree X 3%
+Type : ^777777Rifle^000000   Attack : ^77777790^000000   Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000   Job : ^777777Gunslinger^000000
+
+^ff0000[Gatling Gun]^000000
+^008040Glorius Gatling Gun^000000
+Increases Physical Attack Strength to Demihuman monster by 35%. Ignore 20% of Physical Defense of Demihuman monsters.
+30% increase in damage of [Triple Action]. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring Defense of Demihuman monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : Attack strength increases depending on the percentage of Weapon Refining Degree
+Type : ^777777Gatling Gun^000000   Attack : ^77777790^000000   Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000   Job : ^777777Gunslinger^000000
+
+^ff0000[Shotgun]^000000
+^008040Glorius Shotgun^000000
+Increases Physical Attack Strength to Demihuman monster by 55%. Ignore 20% of Physical Defense of Demihuman monsters. 
+30% increase in damage of [Triple Action]. Splash Attack. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring physical defense of Demi-human monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : [Spread Attack] skill's attack strength increases as much as the value of weapon refining degree X 2%
+             Stunning effect to the enemy at a certain rate when using Spread Attack skill
+Type : ^777777Shotgun^000000   Attack : ^777777110^000000   Weight : ^7777770^000000   Weapon Lv : ^7777774^000000    Required Lv : ^77777780^000000   Job : ^777777Gunslinger^000000
+
+^ff0000[Grenade Launcher]^000000
+^008040Glorius Grenade Launcher^000000
+Increases Physical Attack Strength to Demihuman monster by 35%. Ignore 20% of Physical Defense of Demihuman monsters.
+30% increase in damage of [Triple Action]. Indestructible.
+* Additional Weapon Refining Level Option
++6 Upgrade : 5% increase in ignoring physical defense of Demi-human monsters, ^ff0000[Slaughter]^000000 Lv 1
++9 Upgrade : [Ground Drift] skill's attack strength increases as much as the value of weapon refining degree X 2%
+             20% increase in Attack Speed for 20 seconds when attacking and synchronizing the weapon by a certain rate
+Type : ^777777Grenade Launcher^000000   Attack : ^777777330^000000   Weight : ^7777770^000000   Weapon Lv : ^7777774^000000   Required Lv : ^77777780^000000
+Job : ^777777Gunslinger^000000
+
+
+^ff0000[Garment]^000000
+^008040Glorius Muffler^000000
+HP + 5%
+4% additional resistance to the attack from Demi-Human monsters
+Type : ^777777Garment^000000    Defense : ^7777770^000000   Weight : ^7777770^000000    Required Lv : ^77777781^000000
+Job : ^777777All excpet Novice Class^000000
+
+^ff0000[Shoes]^000000
+^008040Glorius Shoes^000000
+HP + 10%
+4% additional resistance to the attack from Demi-Human monsters
+When attacked, Moving Speed increases at a certain rate
+Type : ^777777Shoes^000000    Defense : ^7777770^000000   Weight : ^7777770^000000    Required Lv : ^77777781^000000
+Job : ^777777All excpet Novice Class^000000
+
+
+^008040Glorious Public Shoes^000000
+HP, SP + 5%
+Type : ^777777Shoes^000000    Defense : ^7777770^000000   Weight : ^7777770^000000    Required Lv : ^77777761^000000
+Job : ^777777All excpet Novice Class^000000
+
+
+^008040Glorius Supplied Shoes^000000
+HP + 5%
+Type : ^777777Shoes^000000    Defense : ^7777770^000000   Weight : ^7777770^000000
+Job : ^777777All excpet Novice Class^000000
+
+^ff0000[Armor]^000000
+^008040Glorius Suit^000000
+HP + 20%
+7% additional resistance to the attack from Demi-Human monsters
+When equipped with Glorious Shoes and Glorious Muffler, attack strength to all enemies increase by 5%, MATK +5%, and gives 3% increase in the recovery amount of using Heal, Potion Pitcher, Sanctuary. Never gets freezed.
+Type : ^777777Armor^000000    Defense : ^7777770^000000   Weight : ^7777770^000000    Required Lv : ^77777781^000000
+Job : ^777777All excpet Novice Class^000000
+
+^008040Glorious Public Suit^000000
+HP + 600, SP Recovery rate increases by 10%
+Type : ^777777Armor^000000    Defense : ^7777770^000000   Weight : ^7777770^000000    Required Lv : ^77777761^000000
+Job : ^777777All excpet Novice Class^000000
+
+
+^008040Glorius Supplied Suit^000000
+HP + 500
+Type : ^777777Armor^000000    Defense : ^7777770^000000   Weight : ^7777770^000000
+Job : ^777777All excpet Novice Class^000000
+
+^ff0000[Accessory]^000000
+^008040Glorius Ring^000000
+Increase in resistance to the attack with Water, Wind, Earth, Fire property by 10%. HP + 300.
+Attack Speed increase by 5%. Casting Speed increase by 3%
+Increase in recovering amount of Heal, Sanctuary, Potion pitcher by 5% 
+When equipped with Battle Accessories, 5% increase in Attack power against all enemies, MATK + 3%, 
+5% increase in the recovery amount of Heal, Potion Pitcher, Sanctuary.
+Type : ^777777Accessory^000000   Defense : ^7777770^000000      Weight : ^7777770^000000   Required Lv : ^77777781^000000
+Job : ^777777All excpet Novice Class^000000
+
+^008040Glorious Public Ring^000000
+All status + 2
+Type : ^777777Accessory^000000    Defense : ^7777770^000000     Weight : ^7777770^000000    Required Lv : ^77777761^000000
+Job : ^777777All excpet Novice Class^000000
+
+^008040Glorious Supplied Ring^000000
+All status + 1
+Type : ^777777Accessory^000000   Defense : ^7777770^000000      Weight : ^7777770^000000
+Job : ^777777All excpet Novice Class^000000
