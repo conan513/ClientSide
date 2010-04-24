@@ -1454,8 +1454,6 @@ byte_[Fix]_Disable_Encryption_in_Login_Packet_0x2b0_(Recommended):204FAB:255:144
 byte_[Fix]_Multi_Language_Support:1287D8:117:144
 byte_[Fix]_Multi_Language_Support:1287D9:6:144
 
-byte_[Fix]_Disable_Captcha:20671D:5:22
-
 byte_[Data]_Load_Lua_Before_Lub:36B157:97:98
 byte_[Data]_Load_Lua_Before_Lub:36B15F:98:97
 
