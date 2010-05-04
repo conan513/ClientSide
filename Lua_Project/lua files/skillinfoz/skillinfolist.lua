@@ -1120,7 +1120,7 @@ SKILL_INFO_LIST = {
 		},
 		NeedSkillList = {
 			[JOBID.JT_ROGUE] = {
-				{ SKID.AC_DOUBLE,10 }
+				{ SKID.AC_DOUBLE,5 }
 			}
 		}
 	},
@@ -6388,7 +6388,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 3,
 		SpAmount = { 20, 25, 30 },
 		_NeedSkillList = {
-			{ SKID.RG_GRAFFITI,1 }
+			{ SKID.RG_FLAGGRAFFITI,1 }
 		}
 	},
 

@@ -690,8 +690,8 @@ Simplified effects have been deactivated.#
 Required Fee#
 If you wish to drop an item, you must first open your Item Window (alt+e).#
 Internet Cafe Time Plan has been ended. Would you like to continue the game with your personal play time?#
-No Msg#
-No Msg#
+#
+#
 Your lack of zeny or your zeny limit have prevented you from performing this action.#
 Your character has fainted.  Push the ESC key to restart.#
  - %d obtained.#
@@ -1404,8 +1404,8 @@ This skill requires other skills to be used.#
 This map is not a chat.#
 3 hours have passed since.#
 5 hours have passed since.#
-No MSG 11#
-No MSG 12#
+~게임가드 초기화 에러 또는 구버전의 게임가드 파일입니다. 게임가드 셋업파일을 다시 설치하고 게임을 실행해 보시기 바랍니다.#
+~ini 파일이 없거나 변조되었습니다. 게임가드 셋업파일을 설치하면 해결 할 수 있습니다.#
 Security program has been identified that there is a conflict with the game.#
 The client is not normal. Please connect a normal client.#
 Thank you to accept mobile authentication.#
@@ -1419,14 +1419,14 @@ Cannot use your skill.#
 You have exceeded the maximum amount of possession of another item.#
 No administrative privileges. Must first run the program with administrator privileges.#
 nProtect KeyCrypt Tarimasen the driver version. After the system restarts, please run a new will.#
-No MSG 26#
+~WindowXP 호환성 모드를 사용하고 계십니다. 현재 프로그램에서 호환성 모드를 제거하였습니다. 프로그램을 새로 시작해 주십시오.#
 PS/2 keyloggers exist.#
 USB Keylogging attempt was detected.#
 HHD monitoring tool has been detected.#
 Book requires a painting.#
 Paint is required.#
 Use the skills that are not at the specified location.#
-No MSG 33#
+도우미의 SP가 부족합니다.#
 Character %d is character selection window cannot connect to the game that exceeds the total. Please remove unwanted characters.#
 Throat Lozenge is required.#
 Painful Tears is required.#
@@ -1470,7 +1470,7 @@ Weapons#
 Ammo#
 Cards#
 Etc.#
-No MSG 77#
+Guitar#
 No MSG 78#
 The skill requires a spellbook.#
 You are asleep due to diffuclty in reading spellbook.#
@@ -1626,7 +1626,7 @@ Battlefield Message Display#
  [%s] to casting skills.#
 Activate lock function.#
 Deactivate lock function.#
-King of Midgard: Citizens of Midgard, Lady Luck shines upon [%s] !! '%s' has rewarded the player with [%s] !!#
+#
 Swordman#
 Magician#
 Archer#
@@ -1688,71 +1688,71 @@ Star Gladiator#
 Soul Linker#
 Party Recruitment#
 Party Booking List#
-No Message 128#
-No Message 129#
-No Message 130#
-No Message 131#
+~Party recruiting#
+[Bow] must be equipped.#
+[Musical Instrument/Whip] must be equipped.#
+Only alphanumeric characters is allowed.#
 Message#
-No Message 132#
-No Message 133#
+~상점 정보가 정확하지 않아 아이템 구매가 실패하였습니다.#
+~소지 아이템 창에서 버릴 수 있습니다.#
 Time#
 Map#
 You cannot unequip while in trade.#
-No Message 137#
-No Message 138#
-No Message 139#
-No Message 140#
-No Message 141#
-No Message 142#
-No Message 143#
+~미지정값#
+/stateinfo : Shows the description of status icons. On Off#
+Status Information On : Status icon description is enabled. #
+Status Information Off: Status icon description is disabled.#
+~같은 아이템은 한번에 %d개 이상은 살 수 없습니다.#
+~같은 아이템은 한번에 %d개 이상은 팔 수 없습니다.#
+~해당 아이템의 총 구매 가능 개수는 %d개 입니다.#
 User customized key is saved to [%s\%s]#
-No Message 145#
-No Message 146#
-No Message 147#
-No Message 148#
+[%s] 님은 현재 교환 신청을 받을 수 없는 상태입니다.#
+RO_HELP#
+Anvil does not exist.#
+Novice below level 10 is not allowed to whisper.#
 Attack#
 Defense#
 Recovery#
 Support#
-No Message 153#
-No Message 154#
-No Message 155#
-No Message 156#
-No Message 157#
-No Message 158#
-No Message 159#
-No Message 160#
-No Message 161#
-No Message 162#
-No Message 163#
-No Message 164#
-No Message 165#
-No Message 166#
-No Message 167#
-No Message 168#
-No Message 169#
-No Message 170#
-No Message 171#
-No Message 172#
-No Message 173#
-No Message 174#
-No Message 175#
-No Message 176#
-No Message 177#
-No Message 178#
-No Message 179#
-No Message 180#
-No Message 181#
-No Message 182#
-No Message 183#
-No Message 184#
-No Message 185#
-No Message 186#
-No Message 187#
-No Message 188#
-No Message 189#
-No Message 190#
-No Message 191#
+Party recruitment related command#
+~길드 동맹신청이 불가능합니다#
+~길드 적대신청이 불가능합니다#
+~아지트맵에서는 친구추가가 불가능합니다#
+~구매노점 개설#
+~구매가 :#
+~소지액 : #
+~구매 한도액#
+~구매할 아이템을 등록하지 않았습니다. 구매하실 아이템을 등록해 주세요#
+~%s 아이템의 가격을 입력해 주세요.#
+~%s 아이템의 가격을 9999만 Zeny이하로 입력해 주세요.#
+~%s 아이템의 구매수량을 입력해 주세요.#
+~%s 아이템의 소지수량과 구매수량의 합이 9999개 이상입니다. 9999개 이하의 수량을 입력해 주세요.#
+~중복된 아이템이 존재합니다.#
+~제한 금액을 입력해 주세요#
+~입력한 제한금액이 소지금액을 초과합니다. 다시 설정해 주세요#
+#
+~구매 가능한 아이템 목록#
+~나의 구매노점#
+~제한금액 : %d Zeny#
+~%s %s Zeny 1819635240 개#
+~구매 노점#
+~판매 가능한 아이템 목록#
+~해당 아이템의 총 판매 가능 개수는 %d개 입니다.#
+~구매자의 잔액이 부족하니 다시 설정해 주세요#
+~구매상점 개설에 실패했습니다.#
+~아이템의 총 무게가 %d 만큼 소지 한계량을 초과합니다. 다시 설정해 주세요.#
+~제한금액만큼의 아이템을 모두 구매하였습니다.#
+~아이템을 모두 구매했습니다.#
+~구매자의 잔액이 부족하여 거래가 실패하였습니다.#
+~%s %d개를 1819635240z에 판매하였습니다.#
+~%s 아이템은 희망 구매갯수보다 수량이 많아 판매하지 못하였습니다#
+~소환된 정령이 없습니다.#
+~서버연합대전 제약사항 입니다.#
+OTP password is 6 digits long.#
+OTP information is unavailable. Please contact your administrator.#
+OTP authentication failed.#
+Party ad has been added.#
+Recruit party members#
 Roles#
 1st Jobs#
 2nd Jobs#
@@ -1765,10 +1765,27 @@ Recruit#
 Open party recruitment window.#
 Searching - #
 Select All#
-No Message 204#
+~Recruitment of at least one job must be running.#
 You have to select atleast 1 or more jobs.#
 You have selected %d Jobs. You can only select up to 6 different jobs.#
-No Message 207#
+Only numeric characters are allowed.#
 Please enter levels between 1~150.#
-No Message 209#
-No Message 210#
+~1774
+~1775
+~1776
+~1777
+~1778
+~1779
+~1780
+~1781
+~1782
+~1783
+~1784
+~1785
+~1786
+~1787
+~1788
+~1789
+~1790
+~1791
+~1792

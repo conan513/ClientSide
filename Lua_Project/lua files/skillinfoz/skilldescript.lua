@@ -9564,6 +9564,15 @@ SKILL_DESCRIPT = {
 		"Effect:^777777 Sing along with the Singing Crystal's tune:",
 		"We wish you a Merry Christmas, and a Happy New Year! ^000000",
 	},
+	
+	[SKID.ALL_BUYING_STORE] = {
+
+		"Buying Store",
+		"Type : Active",
+		"Target:^777777 Self ^000000",
+		"Catalyst:^777777 1 Purchase License ^000000",
+		"Effect : ^777777Enables the ability to open a purchase stall to buy various kinds of items. Must have atleast 1 item you are buying.^000000",
+	},
 
 	[SKID.KN_CHARGEATK] = {
 

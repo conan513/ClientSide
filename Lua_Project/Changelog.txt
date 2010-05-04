@@ -1,3 +1,6 @@
+rev32 - [2010-05-04]
+ - Updated lua files + lub files to kRO Patch(2010-04-28)
+
 rev28 - [2010-04-21]
  - Updated lua files + lub files to kRO Patch(2010-04-21)
 
