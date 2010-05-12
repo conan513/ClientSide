@@ -9944,8 +9944,7 @@ SKILL_DESCRIPT = {
 		"Target:^777777 Enemy ^000000",
 		"Cast Time:^777777 2 sec ^000000",
 		"Cool Down:^777777 5 sec ^000000",
-		"Effect:^777777 Two Handed Sword exclusive skill. The rune knight makes their sword incredibly hot, triggering an explosion that deals fire element damage to all targets nearby.",
-		"Targets closer to the player receive higher damage. Deal more damage if your weapon is endowed with fire element. ^000000",
+		"Effect:^777777 The Rune Knight makes their sword incredibly hot, triggering an explosion that deals damage to all targets nearby. Targets closer to the player receive higher damage. Deal 1.5x more damage if your weapon is endowed with fire element. ^000000",
 		"[LV 1]^777777 400%-200%-200% ATK ^000000",
 		"[LV 2]^777777 600%-400%-300% ATK ^000000",
 		"[LV 3]^777777 800%-600%-400% ATK ^000000",
@@ -12683,11 +12682,11 @@ SKILL_DESCRIPT = {
 		"Target:^777777 Self^000000",
 		"Cast Time:^777777 Unknown^000000",
 		"Effect:^777777 Using pressure points on your own body you can improve your fighting spirit, allowing you to gain spirit spheres when you deal and receive physical damage. The skill consumes some HP when initially cast. This skill cannot be used in combination with Pressure Point: Change and Presure Point: Revitalize.^000000",
-		"[LV 1]^777777 HP Cost 1%, Chance to get a spirit sphere 15%, Duration 60 sec^000000",
-		"[LV 2]^777777 HP Cost 2%, Chance to get a spirit sphere 20%, Duration 120 sec^000000",
-		"[LV 3]^777777 HP Cost 3%, Chance to get a spirit sphere 25%, Duration 180 sec^000000",
-		"[LV 4]^777777 HP Cost 4%, Chance to get a spirit sphere 30%, Duration 240 sec^000000",
-		"[LV 5]^777777 HP Cost 5%, Chance to get a spirit sphere 35%, Duration 300 sec^000000",
+		"[LV 1]^777777 HP Cost 1%, Chance to get a spirit sphere 15% ^000000",
+		"[LV 2]^777777 HP Cost 2%, Chance to get a spirit sphere 20% ^000000",
+		"[LV 3]^777777 HP Cost 3%, Chance to get a spirit sphere 25% ^000000",
+		"[LV 4]^777777 HP Cost 4%, Chance to get a spirit sphere 30% ^000000",
+		"[LV 5]^777777 HP Cost 5%, Chance to get a spirit sphere 35% ^000000",
 	},
 
 	[SKID.SR_GENTLETOUCH_CHANGE] = {
@@ -12700,11 +12699,11 @@ SKILL_DESCRIPT = {
 		"Target:^777777 Self^000000",
 		"Cast Time:^777777 Unknown^000000",
 		"Effect:^777777 Using special presure points you take your own physical and magical defense and instead turns it into attack power and attack speed. Casting the skill takes 2 spirit spheres and drains some HP. Cannot be used in combination with Pressure Point: Energy Gain and Pressure Point: Revitalize.^000000",
-		"[LV 1]^777777 HP Cost 1%, Duration 60s^000000",
-		"[LV 2]^777777 HP Cost 2%, Duration 120s^000000",
-		"[LV 3]^777777 HP Cost 3%, Duration 180s^000000",
-		"[LV 4]^777777 HP Cost 4%, Duration 240s^000000",
-		"[LV 5]^777777 HP Cost 5%, Duration 300s^000000",
+		"[LV 1]^777777 HP Cost 1% ^000000",
+		"[LV 2]^777777 HP Cost 2% ^000000",
+		"[LV 3]^777777 HP Cost 3% ^000000",
+		"[LV 4]^777777 HP Cost 4% ^000000",
+		"[LV 5]^777777 HP Cost 5% ^000000",
 	},
 
 	[SKID.SR_GENTLETOUCH_REVITALIZE] = {
@@ -13357,6 +13356,54 @@ SKILL_DESCRIPT = {
 		"[LV 5]^777777 7x7 cells^000000",
 	},
 
+	[SKID.SO_SUMMON_AGNI] = {
+
+		"Summon Agni",
+		"Prerequisites:^777777 Spirit Control (L1), Warmer (L3)^000000",
+		"Max Level: ^777777 3^000000",
+		"Type:^777777 Active^000000",
+		"Effect:^777777 Summons a spirit of Thor, Agni. Summoning costs [3 Red Blood / 6 Red Blood / 1 Flame Heart] depending on skill level.^000000",
+		"[LV 1]^777777 Duration 600s / Every 10s drains 5 SP^000000",
+		"[LV 2]^777777 Duration 900s / Every 10s drains 8 SP^000000",
+		"[LV 3]^777777 Duration 1200s / Every 10s drains 11 SP^000000",
+	},
+
+	[SKID.SO_SUMMON_AQUA] = {
+
+		"Summon Aqua",
+		"Prerequisites:^777777 Spirit Control (L1), Diamond Dust (L3)^000000",
+		"Max Level: ^777777 3^000000",
+		"Type:^777777 Active^000000",
+		"Effect:^777777 Summons a spirit of water, Aqua. Summoning costs [3 Crystal Blue / 6 Crystal Blue / 1 Mystic Frozen] depending on skill level.^000000",
+		"[LV 1]^777777 Duration 600s / Every 10s drains 5 SP^000000",
+		"[LV 2]^777777 Duration 900s / Every 10s drains 8 SP^000000",
+		"[LV 3]^777777 Duration 1200s / Every 10s drains 11 SP^000000",
+	},
+
+	[SKID.SO_SUMMON_VENTUS] = {
+
+		"Summon Ventus",
+		"Prerequisites:^777777 Spirit Control (L1), Vartyr Spear (L3)^000000",
+		"Max Level: ^777777 3^000000",
+		"Type:^777777 Active^000000",
+		"Effect:^777777 Summons Ventus, a spirit of wind. Summoning costs [3 Wind of Verdure / 6 Wind of Verdure / 1 Rough Wind] depending on skill level.^000000",
+		"[LV 1]^777777 Duration 600s / Every 10s drains 5 SP^000000",
+		"[LV 2]^777777 Duration 900s / Every 10s drains 8 SP^000000",
+		"[LV 3]^777777 Duration 1200s / Every 10s drains 11 SP^000000",
+	},
+
+	[SKID.SO_SUMMON_TERA] = {
+
+		"Summon Tera",
+		"Prerequisites:^777777 Spirit Control (L1), Earth Grave (L3)^000000",
+		"Max Level: ^777777 3^000000",
+		"Type:^777777 Active^000000",
+		"Effect:^777777 Summons Tera, spirit of Earth. Summoning costs [3 Green Live / 6 Green Live / 1 Great Nature] depending on skill level.^000000",
+		"[LV 1]^777777 Duration 600s / Every 10s drains 5 SP^000000",
+		"[LV 2]^777777 Duration 900s / Every 10s drains 8 SP^000000",
+		"[LV 3]^777777 Duration 1200s / Every 10s drains 11 SP^000000",
+	},
+	
 	[SKID.SO_EL_CONTROL] = {
 
 		"Spirit Control",
@@ -13369,55 +13416,7 @@ SKILL_DESCRIPT = {
 		"[LV 3]^777777 Change the Spirit to Offensive Mode^000000",
 		"[LV 4]^777777 Cancles the currently Summoned Spirit^000000",
 	},
-
-	[SKID.SO_SUMMON_AGNI] = {
-
-		"Summon Fire Spirit 'Agni'",
-		"Prerequisites:^777777 Spirit Control (L1), Warmer (L3)^000000",
-		"Max Level: ^777777 3^000000",
-		"Type:^777777 Active^000000",
-		"Effect:^777777 Summons a spirit of Thor, Agni. Summoning costs [3 Red Blood / 6 Red Blood / 1 Flame Heart] depending on skill level.^000000",
-		"[LV 1]^777777 Duration 600s / Every 10s drains 5 SP^000000",
-		"[LV 2]^777777 Duration 900s / Every 10s drains 8 SP^000000",
-		"[LV 3]^777777 Duration 1200s / Every 10s drains 11 SP^000000",
-	},
-
-	[SKID.SO_SUMMON_AQUA] = {
-
-		"Summon Water Spirit 'Aqua'",
-		"Prerequisites:^777777 Spirit Control (L1), Diamond Dust (L3)^000000",
-		"Max Level: ^777777 3^000000",
-		"Type:^777777 Active^000000",
-		"Effect:^777777 Summons a spirit of water, Aqua. Summoning costs [3 Crystal Blue / 6 Crystal Blue / 1 Mystic Frozen] depending on skill level.^000000",
-		"[LV 1]^777777 Duration 600s / Every 10s drains 5 SP^000000",
-		"[LV 2]^777777 Duration 900s / Every 10s drains 8 SP^000000",
-		"[LV 3]^777777 Duration 1200s / Every 10s drains 11 SP^000000",
-	},
-
-	[SKID.SO_SUMMON_VENTUS] = {
-
-		"Summon Wind Spirit 'Ventus'",
-		"Prerequisites:^777777 Spirit Control (L1), Vartyr Spear (L3)^000000",
-		"Max Level: ^777777 3^000000",
-		"Type:^777777 Active^000000",
-		"Effect:^777777 Summons Ventus, a spirit of wind. Summoning costs [3 Wind of Verdure / 6 Wind of Verdure / 1 Rough Wind] depending on skill level.^000000",
-		"[LV 1]^777777 Duration 600s / Every 10s drains 5 SP^000000",
-		"[LV 2]^777777 Duration 900s / Every 10s drains 8 SP^000000",
-		"[LV 3]^777777 Duration 1200s / Every 10s drains 11 SP^000000",
-	},
-
-	[SKID.SO_SUMMON_TERA] = {
-
-		"Summon Wind Spirit 'Tera'",
-		"Prerequisites:^777777 Spirit Control (L1), Earth Grave (L3)^000000",
-		"Max Level: ^777777 3^000000",
-		"Type:^777777 Active^000000",
-		"Effect:^777777 Summons Tera, spirit of Earth. Summoning costs [3 Green Live / 6 Green Live / 1 Great Nature] depending on skill level.^000000",
-		"[LV 1]^777777 Duration 600s / Every 10s drains 5 SP^000000",
-		"[LV 2]^777777 Duration 900s / Every 10s drains 8 SP^000000",
-		"[LV 3]^777777 Duration 1200s / Every 10s drains 11 SP^000000",
-	},
-
+	
 	[SKID.SO_EL_ACTION] = {
 
 		"Elemental Action",
@@ -13445,11 +13444,11 @@ SKILL_DESCRIPT = {
 		"Max Level: ^777777 5^000000",
 		"Type:^777777 Passive^000000",
 		"Effect:^777777 Increases the HP, SP, and attack power of elemental spirits you summon, as well as decrease the SP cost of summoning those spirits.^000000",
-		"[LV 1]^777777 HP +500, SP + 50 / Attack + 25 / Summoning Cost -10%^000000",
-		"[LV 2]^777777 HP +1000, SP + 100 / Attack + 50 / Summoning Cost -15%^000000",
-		"[LV 3]^777777 HP +1500, SP + 150 / Attack + 75 / Summoning Cost -20%^000000",
-		"[LV 4]^777777 HP +2000, SP + 200 / Attack + 100 / Summoning Cost -25%^000000",
-		"[LV 5]^777777 HP +2500, SP + 250 / Attack + 125 / Summoning Cost -30%^000000",
+		"[LV 1]^777777 HP +5%, SP +5% / Attack + 25 / Summoning Cost -10%^000000",
+		"[LV 2]^777777 HP +10%, SP +10% / Attack + 50 / Summoning Cost -15%^000000",
+		"[LV 3]^777777 HP +15%, SP +15% / Attack + 75 / Summoning Cost -20%^000000",
+		"[LV 4]^777777 HP +20%, SP +20% / Attack + 100 / Summoning Cost -25%^000000",
+		"[LV 5]^777777 HP +25%, SP +25% / Attack + 125 / Summoning Cost -30%^000000",
 	},
 
 	[SKID.SO_EL_CURE] = {

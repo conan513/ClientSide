@@ -962,11 +962,11 @@ Sage#
 Rouge#
 Alchemist#
 Bard#
-Crusader_W#
-Monk_W#
-Sage_W#
-Rouge_W#
-Alchemist_W#
+Crusader#
+Monk#
+Sage#
+Rouge#
+Alchemist#
 Dancer#
 High Novice#
 High Swordman#
@@ -975,36 +975,36 @@ High Archer#
 High Acolyte#
 High Merchant#
 High Thief#
-High_W Novice#
-High_W Swordman#
-High_W Mage#
-High_W Archer#
-High_W Acolyte#
-High_W Merchant#
-High_W Thief#
+High Novice#
+High Swordman#
+High Mage#
+High Archer#
+High Acolyte#
+High Merchant#
+High Thief#
 Lord Knight#
 High Priest#
 High Wizard#
 MasterSmith#
 Sniper#
 Assassin Cross#
-Lord Knight_W#
-High Priest_W#
-High Wizard_W#
-MasterSmith_W#
-Sniper_W#
-Assassin Cross_W#
+Lord Knight#
+High Priest#
+High Wizard#
+MasterSmith#
+Sniper#
+Assassin Cross#
 Paladin#
 Champion#
 Scholar#
 Stalker#
 Biochemist#
 Minstrel#
-Paladin_W#
-Champion_W#
-Scholar_W#
-Stalker_W#
-Biochemist_W#
+Paladin#
+Champion#
+Scholar#
+Stalker#
+Biochemist#
 Gypsy#
 You have not set a password yet. Would you like to create one now?#
 You have incorrectly entered the password 3 times. Please try again later.#
