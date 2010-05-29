@@ -10448,7 +10448,7 @@ SKILL_DESCRIPT = {
 		"Cast Time:^777777 ?? ^000000",
 		"Effect:^777777 All party members receive the protection of the skill 'Kyrie Eleison' from the caster. ^000000",
 		"[LV 1]^777777 Hit Blocked 7 ^000000",
-		"[LV 2]^777777 Hit Blocked 8 000000",
+		"[LV 2]^777777 Hit Blocked 8 ^000000",
 		"[LV 3]^777777 Hit Blocked 9 ^000000",
 		"[LV 4]^777777 Hit Blocked 10 ^000000",
 		"[LV 5]^777777 Hit Blocked 11 ^000000",
@@ -11809,16 +11809,16 @@ SKILL_DESCRIPT = {
 		"SP Cost:^777777 35 + 5*SkillLV ^000000",
 		"Cast Time:^777777 ?? ^000000",
 		"Effect:^777777 Magic skills learned through intimidate and reproduce can be cast through Auto Shadow Spell. ^000000",
-		"[Level 1]^777777 Probability 30% / Skill Level 1 / Duration 60 sec ^000000",
-		"[Level 2]^777777 Probability 28% / Skill Level 1 / Duration 80 sec ^000000",
-		"[Level 3]^777777 Probability 26% / Skill Level 2 / Duration 100 sec ^000000",
-		"[Level 4]^777777 Probability 24% / Skill Level 2 / Duration 120 sec ^000000",
-		"[Level 5]^777777 Probability 22% / Skill Level 3 / Duration 140 sec ^000000",
-		"[Level 6]^777777 Probability 20% / Skill Level 3 / Duration 160 sec ^000000",
-		"[Level 7]^777777 Probability 18% / Skill Level 4 / Duration 180 sec ^000000",
-		"[Level 8]^777777 Probability 16% / Skill Level 4 / Duration 200 sec ^000000",
-		"[Level 9]^777777 Probability 14% / Skill Level 5 / Duration 220 sec ^000000",
-		"[Level 10]^777777 Probability 12% / Skill Level 5 / Duration 240 sec ^000000",
+		"[Level 1]^777777 Probability 28% / Skill Level 1 / Duration 60 sec ^000000",
+		"[Level 2]^777777 Probability 26% / Skill Level 1 / Duration 80 sec ^000000",
+		"[Level 3]^777777 Probability 24% / Skill Level 2 / Duration 100 sec ^000000",
+		"[Level 4]^777777 Probability 22% / Skill Level 2 / Duration 120 sec ^000000",
+		"[Level 5]^777777 Probability 20% / Skill Level 3 / Duration 140 sec ^000000",
+		"[Level 6]^777777 Probability 18% / Skill Level 3 / Duration 160 sec ^000000",
+		"[Level 7]^777777 Probability 16% / Skill Level 4 / Duration 180 sec ^000000",
+		"[Level 8]^777777 Probability 14% / Skill Level 4 / Duration 200 sec ^000000",
+		"[Level 9]^777777 Probability 12% / Skill Level 5 / Duration 220 sec ^000000",
+		"[Level 10]^777777 Probability 15% / Skill Level 5 / Duration 300 sec ^000000",
 	},
 
 	[SKID.SC_SHADOWFORM] = {
@@ -11845,17 +11845,17 @@ SKILL_DESCRIPT = {
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 20 + 2*SkillLV ^000000",
 		"Cast Time:^777777 ?? ^000000",
-		"Effect:^777777 Send 3 arrows flying towards your target. Consumes 3 arrows per use. There is a low chance to knock back the enemy. ^000000",
-		"[Level 1]^777777 Damage 300% / Range 7 / Knock back 2% ^000000",
-		"[Level 2]^777777 Damage 330% / Range 7 / Knock back 3% ^000000",
-		"[Level 3]^777777 Damage 360% / Range 7 / Knock back 4% ^000000",
-		"[Level 4]^777777 Damage 390% / Range 9 / Knock back 5% ^000000",
-		"[Level 5]^777777 Damage 420% / Range 9 / Knock back 6% ^000000",
-		"[Level 6]^777777 Damage 450% / Range 9 / Knock back 7% ^000000",
-		"[Level 7]^777777 Damage 480% / Range 9 / Knock back 8% ^000000",
-		"[Level 8]^777777 Damage 510% / Range 11 / Knock back 9% ^000000",
-		"[Level 9]^777777 Damage 540% / Range 11 / Knock back 10% ^000000",
-		"[Level 10]^777777 Damage 570% / Range 11 / Knock back 11% ^000000",
+		"Effect:^777777 Send 3 arrows flying towards your target. Damage increases based on AGI.Consumes 3 arrows per use. There is a low chance to knock back the enemy. ^000000",
+		"[Level 1]^777777 Range 7 / Knock back 2% ^000000",
+		"[Level 2]^777777 Range 7 / Knock back 3% ^000000",
+		"[Level 3]^777777 Range 7 / Knock back 4% ^000000",
+		"[Level 4]^777777 Range 9 / Knock back 5% ^000000",
+		"[Level 5]^777777 Range 9 / Knock back 6% ^000000",
+		"[Level 6]^777777 Range 9 / Knock back 7% ^000000",
+		"[Level 7]^777777 Range 9 / Knock back 8% ^000000",
+		"[Level 8]^777777 Range 11 / Knock back 9% ^000000",
+		"[Level 9]^777777 Range 11 / Knock back 10% ^000000",
+		"[Level 10]^777777 Range 11 / Knock back 11% ^000000",
 	},
 
 	[SKID.SC_BODYPAINT] = {
@@ -11866,11 +11866,11 @@ SKILL_DESCRIPT = {
 		"SP Cost:^777777 5 + 5*SkillLV ^000000",
 		"Cast Time:^777777 ?? ^000000",
 		"Effect:^777777 Spray paint all around you, revealing any hidden enemies while reducing their ASPD at the same time. Has a chance to inflict Blind on enemies. ^000000",
-		"[Level 1]^777777  5% Blind / ASPD -5% / Duration 5 sec ^000000",
-		"[Level 2]^777777  7% Blind / ASPD -10% / Duration 7 sec ^000000",
-		"[Level 3]^777777  9% Blind / ASPD -15% / Duration 9 sec ^000000",
-		"[Level 4]^777777 11% Blind / ASPD -20% / Duration 11 sec ^000000",
-		"[Level 5]^777777 13% Blind / ASPD -25% / Duration 13 sec ^000000",
+		"[Level 1]^777777  55% Blind / ASPD -5% / Duration 25 sec ^000000",
+		"[Level 2]^777777  57% Blind / ASPD -10% / Duration 30 sec ^000000",
+		"[Level 3]^777777  59% Blind / ASPD -15% / Duration 35 sec ^000000",
+		"[Level 4]^777777 61% Blind / ASPD -20% / Duration 40 sec ^000000",
+		"[Level 5]^777777 63% Blind / ASPD -25% / Duration 45 sec ^000000",
 	},
 
 	[SKID.SC_INVISIBILITY] = {
@@ -11882,11 +11882,11 @@ SKILL_DESCRIPT = {
 		"Cast Time:^777777 ?? ^000000",
 		"Effect:^777777 Completely conceal yourself. In this status, all your attacks become Ghost property Level 1.",
 		"Cannot use skills or items for the duration, and ASPD is reduced. Will continually drain SP, and cancel if SP reaches 0. ^000000",
-		"[Level 1] : ^777777 Critical Rate +20% / ASPD Penalty 40% / SP Cost per sec 9% ^000000",
-		"[Level 2] : ^777777 Critical Rate +40% / ASPD Penalty 30% / SP Cost per sec 8% ^000000",
-		"[Level 3] : ^777777 Critical Rate +60% / ASPD Penalty 20% / SP Cost per sec 7% ^000000",
-		"[Level 4] : ^777777 Critical Rate +80% / ASPD Penalty 10% / SP Cost per sec 6% ^000000",
-		"[Level 5] : ^777777 Critical Rate +100% / None / SP Cost per sec 5% ^000000",
+		"[Level 1] : ^777777 Critical Rate +20% / ASPD Penalty 40% / SP Cost per sec 5% ^000000",
+		"[Level 2] : ^777777 Critical Rate +40% / ASPD Penalty 30% / SP Cost per sec 4% ^000000",
+		"[Level 3] : ^777777 Critical Rate +60% / ASPD Penalty 20% / SP Cost per sec 5% ^000000",
+		"[Level 4] : ^777777 Critical Rate +80% / ASPD Penalty 10% / SP Cost per sec 2% ^000000",
+		"[Level 5] : ^777777 Critical Rate +100% / None / SP Cost per sec 1% ^000000",
 	},
 
 	[SKID.SC_DEADLYINFECT] = {
@@ -12094,17 +12094,17 @@ SKILL_DESCRIPT = {
 		"SP Cost:^777777 20 + 4*SkillLV ^000000",
 		"Target:^777777 Enemy ^000000",
 		"Cast Time:^777777 ?? ^000000",
-		"Effect:^777777 Paint a figure on the ground that looks exactly like yourself, and Backslide 6 cells.",
-		"A moment later, the painted figure will explode, dealing damage to all enemies around it. Consumes 1 Can of Paint and 1 Paintbrush. ^000000",
-		"[Level 1]^777777 Attack Power 300% ^000000",
-		"[Level 2]^777777 Attack Power 400% ^000000",
-		"[Level 3]^777777 Attack Power 500% ^000000",
+		"Effect:^777777 Paint a figure on the ground that looks exactly like yourself.",
+		"A moment later, the painted figure will explode, dealing damage to all enemies around it. Consumes 1 Can of Paint and 1 Paintbrush.",
+		"Damage increases based on DEX. ^000000",
+		"[Level 1]^777777 3 cells Backslide ^000000",
+		"[Level 2]^777777 6 cells Backslide ^000000",
+		"[Level 3]^777777 9 cells Backslide ^000000",
 	},
 
 	[SKID.LG_CANNONSPEAR] = {
 
 		"Cannon Spear",
-		"Prerequisites:^777777 Pinpoint Attack (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12120,7 +12120,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_BANISHINGPOINT] = {
 
 		"Banishing Point",
-		"Prerequisites:^777777 Spear Quicken (L1)^000000",
 		"Max Level:^777777 10^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12154,7 +12153,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_SHIELDPRESS] = {
 
 		"Shield Press",
-		"Prerequisites:^777777 Shield Charge (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12170,7 +12168,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_REFLECTDAMAGE] = {
 
 		"Reflect Damage",
-		"Prerequisites:^777777 Reflect Shield (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Self Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12187,7 +12184,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_PINPOINTATTACK] = {
 
 		"Pinpoint Attack",
-		"Prerequisites:^777777 Banishing Point (L5)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12218,7 +12214,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_RAGEBURST] = {
 
 		"Rage Burst",
-		"Prerequisites:^777777 Force of Vanguard (L1)^000000",
 		"Max Level:^777777 1^000000",
 		"Type:^777777 Active / Attack^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12229,7 +12224,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_SHIELDSPELL] = {
 
 		"Shield Spell",
-		"Prerequisites:^777777 Shield Press (L3), Earth Drive (L2)^000000",
 		"Max Level:^777777 3^000000",
 		"Type:^777777 Active / Special^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12243,7 +12237,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_EXEEDBREAK] = {
 
 		"Exceed Break",
-		"Prerequisites:^777777 Banishing Point (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Self Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12259,7 +12252,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_OVERBRAND] = {
 
 		"Over Brand",
-		"Prerequisites:^777777 Moon Slasher (L3), Pinpoint Attack (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12275,7 +12267,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_PRESTIGE] = {
 
 		"Prestige",
-		"Prerequisites:^777777 Trample (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Self Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12291,7 +12282,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_BANDING] = {
 
 		"Banding",
-		"Prerequisites:^777777 Pinpoint Attack (L3), Rage Burst Attack (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Self Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12302,7 +12292,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_MOONSLASHER] = {
 
 		"Moon Slasher",
-		"Prerequisites:^777777 Spear Quicken (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12318,7 +12307,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_RAYOFGENESIS] = {
 
 		"Ray of Genesis",
-		"Prerequisites:^777777 Grand Cross (L10)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12334,7 +12322,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_PIETY] = {
 
 		"Piety",
-		"Prerequisites:^777777 Faith (L10)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12350,7 +12337,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_EARTHDRIVE] = {
 
 		"Earth Drive",
-		"Prerequisites:^777777 Reflect Damage (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12366,7 +12352,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_HESPERUSLIT] = {
 
 		"Hesperus Lit",
-		"Prerequisites:^777777 Prestige (L3), Banding (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12382,7 +12367,6 @@ SKILL_DESCRIPT = {
 	[SKID.LG_INSPIRATION] = {
 
 		"Inspiration",
-		"Prerequisites:^777777 Shield Spell (L3), Ray of Genesis (L1), Piety (L5)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Self Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12398,7 +12382,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_DRAGONCOMBO] = {
 
 		"Dragon Combo (Twin Dragon)",
-		"Prerequisites:^777777 Triple Attack (L5)^000000",
 		"Max Level:^777777 10^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12420,7 +12403,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_SKYNETBLOW] = {
 
 		"Sky Net Blow",
-		"Prerequisites:^777777 Dragon Combo (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12453,7 +12435,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_FALLENEMPIRE] = {
 
 		"Fallen Empire",
-		"Prerequisites:^777777 Dragon Combo (L5)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12470,7 +12451,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_TIGERCANNON] = {
 
 		"Tiger Cannon",
-		"Prerequisites:^777777 Fallen Empire (L5)^000000",
 		"Max Level:^777777 10^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12492,7 +12472,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_RAMPAGEBLASTER] = {
 
 		"Rampage Blaster (Explosive Spirit Shot)",
-		"Prerequisites:^777777 Earthshaker (L2)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12509,7 +12488,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_CRESCENTELBOW] = {
 
 		"Crescent Elbow",
-		"Prerequisites:^777777 Sky Net Blow (L5)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Counter^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12525,7 +12503,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_CURSEDCIRCLE] = {
 
 		"Cursed Circle",
-		"Prerequisites:^777777 Stop Blade (L2), Pressure Point - Silence (L2)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Special^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12542,7 +12519,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_LIGHTNINGWALK] = {
 
 		"Lightning Walk",
-		"Prerequisites:^777777 Windmill (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active Toggle / Special^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12559,7 +12535,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_KNUCKLEARROW] = {
 
 		"Knuckle Arrow (Shura Body Bullet)",
-		"Prerequisites:^777777 Lightning Walk (L3), Rampage Blaster (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12576,7 +12551,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_WINDMILL] = {
 
 		"Windmill",
-		"Prerequisites:^777777 Cursed Circle (LV1)^000000",
 		"Max Level:^777777 1^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12588,7 +12562,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_RAISINGDRAGON] = {
 
 		"Rising Dragon",
-		"Prerequisites:^777777 Rampage Blaster (L3), Pressure Point - Energy Gain (L3)^000000",
 		"Max Level:^777777 10^000000",
 		"Type:^777777 Active / Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12610,7 +12583,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_ASSIMILATEPOWER] = {
 
 		"Assimilate Power",
-		"Prerequisites:^777777 Vigor Absorption (L1), Power Velocity (L1)^000000",
 		"Max Level:^777777 1^000000",
 		"Type:^777777 Active / Special^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12622,7 +12594,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_POWERVELOCITY] = {
 
 		"Power Velocity (All Spirit Injection)",
-		"Prerequisites:^777777 Vigor Condensation (L5)^000000",
 		"Max Level:^777777 1^000000",
 		"Type:^777777 Active / Special^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12634,7 +12605,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_GATEOFHELL] = {
 
 		"Gate of Hell (Rakshasa Phoenix Destruction Fist)",
-		"Prerequisites:^777777 Rising Dragon (L5), Tiger Cannon (L5)^000000 ",
 		"Max Level:^777777 10^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12646,7 +12616,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_GENTLETOUCH_QUIET] = {
 
 		"Gentle Touch - Quiet (Pressure Point: Silence)",
-		"Prerequisites:^777777 Power Velocity (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage / Debuff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12663,7 +12632,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_GENTLETOUCH_CURE] = {
 
 		"Gentle Touch - Cure (Presure Point: Recovery)",
-		"Prerequisites:^777777 Power Velocity (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Recovery / Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12675,7 +12643,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_GENTLETOUCH_ENERGYGAIN] = {
 
 		"Gentle Touch - Energy Gain (Pressure Point: Energy Gain)",
-		"Prerequisites:^777777 Pressure Point: Silence (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Self Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12692,7 +12659,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_GENTLETOUCH_CHANGE] = {
 
 		"Gentle Touch - Change (Pressure Point: Change)",
-		"Prerequisites:^777777 Pressure Point: Silence (L4)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Self Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12709,7 +12675,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_GENTLETOUCH_REVITALIZE] = {
 
 		"Gentle Touch - Revitalize (Pressure Point: Revitalize)",
-		"Prerequisites^777777 Presure Point: Change (L5)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Self Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12726,7 +12691,6 @@ SKILL_DESCRIPT = {
 	[SKID.WA_SWING_DANCE] = {
 
 		"Swing Dance",
-		"Prerequisites:^777777 Deep Sleep Lullaby (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12743,7 +12707,6 @@ SKILL_DESCRIPT = {
 	[SKID.WA_SYMPHONY_OF_LOVER] = {
 
 		"Symphony of Lover",
-		"Prerequisites:^777777 Deep Sleep Lullaby (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12760,7 +12723,6 @@ SKILL_DESCRIPT = {
 	[SKID.WA_MOONLIT_SERENADE] = {
 
 		"Moonlit Serenade",
-		"Prerequisites:^777777 Deep Sleep Lullaby (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12777,7 +12739,6 @@ SKILL_DESCRIPT = {
 	[SKID.MI_RUSH_WINDMILL] = {
 
 		"Windmill Rush Attack",
-		"Prerequisites:^777777 Deep Sleep Lullaby (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12794,7 +12755,6 @@ SKILL_DESCRIPT = {
 	[SKID.MI_ECHOSONG] = {
 
 		"Echo Song",
-		"Prerequisites:^777777 Deep Sleep Lullaby (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12811,7 +12771,6 @@ SKILL_DESCRIPT = {
 	[SKID.MI_HARMONIZE] = {
 
 		"Harmonize",
-		"Prerequisites:^777777 Deep Sleep Lullaby (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12849,7 +12808,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_METALICSOUND] = {
 
 		"Metallic Sound",
-		"Prerequisites:^777777 Dominion Impulse (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12866,7 +12824,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_REVERBERATION] = {
 
 		"Reverberation",
-		"Prerequisites:^777777 Unchained Serenate (L5) or Hip Shaker (L5)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12883,7 +12840,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_DOMINION_IMPULSE] = {
 
 		"Dominion Impulse",
-		"Prerequisites:^777777 Reverberation (L1)^000000",
 		"Max Level:^777777 1^000000",
 		"Type:^777777 Active / Special^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12895,7 +12851,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_SEVERE_RAINSTORM] = {
 
 		"Severe Rainstorm",
-		"Prerequisites:^777777 Slinging Arrow (L5) or Melody Strike (L5)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12911,7 +12866,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_POEMOFNETHERWORLD] = {
 
 		"Poem of the Netherworld",
-		"Prerequisites:^777777 Lesson (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Debuff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12927,7 +12881,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_VOICEOFSIREN] = {
 
 		"Voice of Siren",
-		"Prerequisites:^777777 Poem of the Netherworld (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Debuff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12944,7 +12897,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_DEADHILLHERE] = {
 
 		"Valley of Death",
-		"Prerequisites:^777777 Circle of Nature's Sound (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Recovery^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12960,7 +12912,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_LULLABY_DEEPSLEEP] = {
 
 		"Deep Sleep Lullaby",
-		"Prerequisites:^777777 Lesson (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Debuff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12976,7 +12927,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_SIRCLEOFNATURE] = {
 
 		"Circle of Nature's Sound",
-		"Prerequisites:^777777 Lesson (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Recovery^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -12993,7 +12943,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_RANDOMIZESPELL] = {
 
 		"Improvised Song",
-		"Prerequisites:^777777 Poem of the Netherworld (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Special^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13009,7 +12958,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_GLOOMYDAY] = {
 
 		"Gloomy Day",
-		"Prerequisites:^777777 Improvised Song (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff or Debuff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13025,7 +12973,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_GREAT_ECHO] = {
 
 		"Great Echo",
-		"Prerequisites:^777777 Metallic Sound (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage / Chorus^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13041,7 +12988,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_SONG_OF_MANA] = {
 
 		"Song of Mana",
-		"Prerequisites:^777777 Swing Dance (L1) or Harmonize (L1), Symphony of Lover (L1) or Windmill Rush Attack (L1), Moonlit Serenade (L1) or Echo Song (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff / Chorus^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13053,7 +12999,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_DANCE_WITH_WUG] = {
 
 		"Dance With Warg",
-		"Prerequisites:^777777 Swing Dance (L1) or Harmonize (L1), Symphony of Lover (L1) or Windmill Rush Attack (L1), Moonlit Serenade (L1) or Echo Song (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff / Chorus^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13065,7 +13010,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_SOUND_OF_DESTRUCTION] = {
 
 		"Sound of Destruction",
-		"Prerequisites:^777777 Saturday Night Fever (L3), Melody of Sink (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Unique / Chorus^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13081,7 +13025,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_SATURDAY_NIGHT_FEVER] = {
 
 		"Saturday Night Fever",
-		"Prerequisites:^777777 Dance With Warg (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Unique / Chorus^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13097,7 +13040,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_LERADS_DEW] = {
 
 		"Lerad's Dew",
-		"Prerequisites:^777777 Swing Dance (L1) or Harmonize (L1), Symphony of Lover (L1) or Windmill Rush Attack (L1), Moonlit Serenade (L1) or Echo Song (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff / Chorus^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13114,7 +13056,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_MELODYOFSINK] = {
 
 		"Melody of Sink",
-		"Prerequisites:^777777 Song of Mana (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff / Chorus^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13131,7 +13072,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_BEYOND_OF_WARCRY] = {
 
 		"Warcry of Beyond",
-		"Prerequisites:^777777 Lerad's Dew (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff / Chorus^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13148,7 +13088,6 @@ SKILL_DESCRIPT = {
 	[SKID.WM_UNLIMITED_HUMMING_VOICE] = {
 
 		"Unlimited Humming Voice",
-		"Prerequisites:^777777 Sound of Destruction (L1), Warcry of Beyond (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff / Chorus^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13160,7 +13099,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_FIREWALK] = {
 
 		"Fire Walk",
-		"Prerequisites:^777777 Volcano (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Special / Damage^000000",
 		"SP Cost:^777777 26+4*SkillLV^000000",
@@ -13177,7 +13115,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_ELECTRICWALK] = {
 
 		"Electric Walk",
-		"Prerequisites:^777777 Whirlwind (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Special / Damage^000000",
 		"SP Cost:^777777 26+4*SkillLV^000000",
@@ -13194,7 +13131,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_SPELLFIST] = {
 
 		"Spell Fist",
-		"Prerequisites:^777777 Hindsight (L4)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Special / Damage^000000",
 		"SP Cost:^777777 36+4*SkillLV^000000",
@@ -13211,7 +13147,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EARTHGRAVE] = {
 
 		"Earth Grave",
-		"Prerequisites:^777777 Earth Spike (L5)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13227,7 +13162,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_DIAMONDDUST] = {
 
 		"Diamond Dust",
-		"Prerequisites:^777777 Deluge (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13243,7 +13177,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_POISON_BUSTER] = {
 
 		"Poison Buster",
-		"Prerequisites:^777777 Cloud Kill (L2)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 50+20*SkillLV^000000",
@@ -13254,7 +13187,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_PSYCHIC_WAVE] = {
 
 		"Psychic Wave",
-		"Prerequisites:^777777 Dispell (L2)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"Cast Time:^777777 Unknown^000000",
@@ -13269,7 +13201,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_CLOUD_KILL] = {
 
 		"Cloud Kill",
-		"Prerequisites:^777777 Heaven's Drive (L5)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"Cast Time:^777777 Unknown^000000",
@@ -13285,7 +13216,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_STRIKING] = {
 
 		"Striking",
-		"Prerequisites:^777777 Flame Launcher (L1), Frost Weapon (L1), Lightning Loader (L1), Seismic Weapon (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13302,7 +13232,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_WARMER] = {
 
 		"Warmer",
-		"Prerequisites:^777777 Volcano (L1), Whirlwind (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13314,7 +13243,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_VACUUM_EXTREME] = {
 
 		"Vacuum Extreme",
-		"Prerequisites:^777777 Land Protector (L2)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Special^000000",
 		"SP Cost:^777777 60+4*SkillLV^000000",
@@ -13326,7 +13254,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_VARETYR_SPEAR] = {
 
 		"Varetyr Spear",
-		"Prerequisites:^777777 Whirlwind (L4), Seismic Weapon (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13342,7 +13269,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_ARRULLO] = {
 
 		"Arrullo",
-		"Prerequisites:^777777 Warmer (L2)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Special^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13359,7 +13285,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_SUMMON_AGNI] = {
 
 		"Summon Agni",
-		"Prerequisites:^777777 Spirit Control (L1), Warmer (L3)^000000",
 		"Max Level: ^777777 3^000000",
 		"Type:^777777 Active^000000",
 		"Effect:^777777 Summons a spirit of Thor, Agni. Summoning costs [3 Red Blood / 6 Red Blood / 1 Flame Heart] depending on skill level.^000000",
@@ -13371,7 +13296,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_SUMMON_AQUA] = {
 
 		"Summon Aqua",
-		"Prerequisites:^777777 Spirit Control (L1), Diamond Dust (L3)^000000",
 		"Max Level: ^777777 3^000000",
 		"Type:^777777 Active^000000",
 		"Effect:^777777 Summons a spirit of water, Aqua. Summoning costs [3 Crystal Blue / 6 Crystal Blue / 1 Mystic Frozen] depending on skill level.^000000",
@@ -13383,7 +13307,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_SUMMON_VENTUS] = {
 
 		"Summon Ventus",
-		"Prerequisites:^777777 Spirit Control (L1), Vartyr Spear (L3)^000000",
 		"Max Level: ^777777 3^000000",
 		"Type:^777777 Active^000000",
 		"Effect:^777777 Summons Ventus, a spirit of wind. Summoning costs [3 Wind of Verdure / 6 Wind of Verdure / 1 Rough Wind] depending on skill level.^000000",
@@ -13395,7 +13318,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_SUMMON_TERA] = {
 
 		"Summon Tera",
-		"Prerequisites:^777777 Spirit Control (L1), Earth Grave (L3)^000000",
 		"Max Level: ^777777 3^000000",
 		"Type:^777777 Active^000000",
 		"Effect:^777777 Summons Tera, spirit of Earth. Summoning costs [3 Green Live / 6 Green Live / 1 Great Nature] depending on skill level.^000000",
@@ -13407,7 +13329,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EL_CONTROL] = {
 
 		"Spirit Control",
-		"Prerequisites:^777777 Four Element Analysis (L1)^000000",
 		"Max Level: ^777777 4^000000",
 		"Type:^777777 Active^000000",
 		"Effect:^777777 Switches your summoned spirit from Standby Mode to passive (buff) mode, defensive mode, and offensive mode. Using the skill again returns the spirit to standby mode. While in standby, the spirit will recover HP and SP faster.^000000",
@@ -13420,7 +13341,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EL_ACTION] = {
 
 		"Elemental Action",
-		"Prerequisites:^777777 Spirit Control (L3)^000000",
 		"Max Level: ^777777 1^000000",
 		"Type:^777777 Active^000000",
 		"Effect:^777777 Instantly switches your spirit to offensive mode.^000000",
@@ -13429,7 +13349,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EL_ANALYSIS] = {
 
 		"Four Spirit Analysis",
-		"Prerequisites:^777777 Flame Launcher (L1), Frost Weapon (L1), Lightning Loader (L1), Seismic Weapon (L1)^000000",
 		"Max Level: ^777777 2^000000",
 		"Type:^777777 Active^000000",
 		"Effect:^777777 Allows you to synthesize elemental stones into kinds needed for summoning elemental spirits.^000000",
@@ -13440,7 +13359,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EL_SYMPATHY] = {
 
 		"Spirit Sympathy",
-		"Prerequisites:^777777 Elemental Control (L3)^000000",
 		"Max Level: ^777777 5^000000",
 		"Type:^777777 Passive^000000",
 		"Effect:^777777 Increases the HP, SP, and attack power of elemental spirits you summon, as well as decrease the SP cost of summoning those spirits.^000000",
@@ -13454,7 +13372,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EL_CURE] = {
 
 		"Spirit Recovery",
-		"Prerequisites:^777777 Spirit Sympathy (L1)^000000",
 		"Max Level: ^777777 1^000000",
 		"Type:^777777 Active / Recovery^000000",
 		"Effect:^777777 Consumes your own HP and SP and uses it to recover the HP and SP of a spirit.^000000",
@@ -13463,7 +13380,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_FIRE_INSIGNIA] = {
 
 		"Fire Insignia",
-		"Prerequisites:^777777 Summon Fire Spirit Agni (L3)^000000",
 		"Max Level: ^777777 3^000000",
 		"Type:^777777 Active / Ground Magic^000000",
 		"Effect:^777777 Creates a 3x3 fire crest on the ground, which recovers 1% HP every 5 seconds for fire monsters and players with fire attribute armor. Targets of the opposite element Earth will lose 1% HP every 5 seconds. When in range water element attacks deal 1.5 times damage. The skill consumes [1/2/3 Scarlet Point] depending on the skill level.^000000",
@@ -13475,7 +13391,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_WATER_INSIGNIA] = {
 
 		"Water Insignia",
-		"Prerequisites:^777777 Summon Fire Spirit Aqua (L3)^000000",
 		"Max Level: ^777777 3^000000",
 		"Type:^777777 Active / Ground Magic^000000",
 		"Effect:^777777 Creates a 3x3 water crest on the ground, which recovers 1% HP every 5 seconds for water monsters and players with water attribute armor. Targets of the opposite element fire will lose 1% HP every 5 seconds. When in range wind element attacks deal 1.5 times damage. The skill consumes [1/2/3 Indigo Point] depending on the skill level.^000000",
@@ -13487,7 +13402,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_WIND_INSIGNIA] = {
 
 		"Wind Insignia",
-		"Prerequisites:^777777 Summon Fire Spirit Ventus (L3)^000000",
 		"Max Level: ^777777 3^000000",
 		"Type:^777777 Active / Ground Magic^000000",
 		"Effect:^777777 Creates a 3x3 wind crest on the ground, which recovers 1% HP every 5 seconds for wind monsters and players with wind attribute armor. Targets of the opposite element water will lose 1% HP every 5 seconds. When in range earth element attacks deal 1.5 times damage. The skill consumes [1/2/3 Yellow Wish Point] depending on the skill level.^000000",
@@ -13499,7 +13413,6 @@ SKILL_DESCRIPT = {
 	[SKID.SO_EARTH_INSIGNIA] = {
 
 		"Earth Insignia",
-		"Prerequisites:^777777 Summon Fire Spirit Tera (L3)^000000",
 		"Max Level: ^777777 3^000000",
 		"Type:^777777 Active / Ground Magic^000000",
 		"Effect:^777777 Creates a 3x3 earth crest on the ground, which recovers 1% HP every 5 seconds for earth monsters and players with earth attribute armor. Targets of the opposite element wind will lose 1% HP every 5 seconds. When in range fire element attacks deal 1.5 times damage. The skill consumes [1/2/3 Lime Green Point] depending on the skill level.^000000",
@@ -13709,7 +13622,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_CART_TORNADO] = {
 
 		"Cart Tornado",
-		"Prerequisites:^777777 Cart Remodeling (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13725,7 +13637,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_CARTCANNON] = {
 
 		"Cart Cannon",
-		"Prerequisites:^777777 Cart Remodeling (L2)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13741,7 +13652,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_CARTBOOST] = {
 
 		"Cart Boost",
-		"Prerequisites:^777777 Cart Remodeling (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Self Buff^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13757,7 +13667,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_THORNS_TRAP] = {
 
 		"Thorn Trap",
-		"Prerequisites:^777777 Special Pharmacy (L2)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Special / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13773,7 +13682,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_BLOOD_SUCKER] = {
 
 		"Blood Sucker",
-		"Prerequisites:^777777 Special Pharmacy (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Special / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13789,7 +13697,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_SPORE_EXPLOSION] = {
 
 		"Spore Explosion",
-		"Prerequisites:^777777 Special Pharmacy (L4)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Special / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13805,7 +13712,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_WALLOFTHORN] = {
 
 		"Wall Of Thorns",
-		"Prerequisites:^777777 Special Pharmacy (L4)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Special / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13821,7 +13727,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_CRAZYWEED] = {
 
 		"Crazy Weed",
-		"Prerequisites:^777777 Thorn Trap (L3)^000000",
 		"Max Level:^777777 10^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13842,7 +13747,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_DEMONIC_FIRE] = {
 
 		"Demonic Fire",
-		"Prerequisites:^777777 Spore Explosion (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13858,7 +13762,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_FIRE_EXPANSION] = {
 
 		"Fire Expansion",
-		"Prerequisites:^777777 Demonic Fire (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Special / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13874,7 +13777,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_HELLS_PLANT] = {
 
 		"Hell's Plant",
-		"Prerequisites:^777777 Blood Sucker (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Special / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13890,7 +13792,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_MANDRAGORA] = {
 
 		"Howling of Mandragora",
-		"Prerequisites:^777777 Hell's Plant (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Special / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13906,7 +13807,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_SLINGITEM] = {
 
 		"Sling Item",
-		"Prerequisites:^777777 Change Material (L1)^000000",
 		"Max Level:^777777 1^000000",
 		"Type:^777777 Active^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13937,7 +13837,6 @@ SKILL_DESCRIPT = {
 	[SKID.GN_MAKEBOMB] = {
 
 		"Create Bomb",
-		"Prerequisites:^777777 Mix Cooking (L1)^000000",
 		"Max Level:^777777 2^000000",
 		"Type:^777777 Active^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13958,7 +13857,6 @@ SKILL_DESCRIPT = {
 	[SKID.AB_SECRAMENT] = {
 
 		"Sacrament",
-		"Prerequisites:^777777 Epiclesis (L1), Expiatio (L1)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Support^000000",
 		"SP Cost:^777777 80+20*SkillLV^000000",
@@ -13976,7 +13874,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_HOWLINGOFLION] = {
 
 		"Howling of Lion",
-		"Prerequisites:^777777 Assimilate Power (L1), Ride In Lightening (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage (Special)^000000",
 		"SP Cost:^777777 Unknown^000000",
@@ -13993,7 +13890,6 @@ SKILL_DESCRIPT = {
 	[SKID.SR_RIDEINLIGHTNING] = {
 
 		"Ride In Lightening (Lightening Shot)",
-		"Prerequisites:^777777 Finger Offensive (L3)^000000",
 		"Max Level:^777777 5^000000",
 		"Type:^777777 Active / Damage^000000",
 		"SP Cost:^777777 Unknown^000000",

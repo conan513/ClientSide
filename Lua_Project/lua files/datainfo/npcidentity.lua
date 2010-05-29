@@ -1125,7 +1125,12 @@ jobtbl = {
 	["JT_EL_TERA_S"] = 2123,
 	["JT_EL_TERA_M"] = 2124,
 	["JT_EL_TERA_L"] = 2125,
-	["JT_MONSTER_LAST"] = 2126,
+	["JT_M_ANOPHELES"] = 2126,
+	["JT_M_HORNET"] = 2127,
+	["JT_M_HORNET2"] = 2128,
+	["JT_M_LUCIOLA_VESPA"] = 2129,
+	["JT_M_LUCIOLA_VESPA2"] = 2130,
+	["JT_MONSTER_LAST"] = 2131,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
@@ -1668,5 +1673,7 @@ jobtbl = {
 	["JT_4_F_JP_CHROME"] = 503,
 	["JT_4_F_JP_RINNE"] = 504,
 	["JT_4_WHITETIGER"] = 505,
-	["JT_4_VENDING_MACHINE"] = 506
+	["JT_4_VENDING_MACHINE"] = 506,
+	["JT_4_MISTY"] = 507,
+	["JT_4_NECORING"] = 508,
 }

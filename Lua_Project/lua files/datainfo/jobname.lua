@@ -1662,5 +1662,7 @@ JobNameTable = {
 	[jobtbl.JT_MER_SERA] = "MER_SERA",
 	[jobtbl.JT_MER_DIETER] = "MER_DIETER",
 	[jobtbl.JT_MER_ELEANOR] = "MER_ELEANOR",
-	[jobtbl.JT_4_VENDING_MACHINE] = "4_VENDING_MACHINE"
+	[jobtbl.JT_4_VENDING_MACHINE] = "4_VENDING_MACHINE",
+	[jobtbl.JT_4_MISTY] = "4_MISTY",
+	[jobtbl.JT_4_NECORING] = "4_NECORING",
 }
