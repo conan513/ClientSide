@@ -49,7 +49,11 @@ GetStateIconDescript = function(EFST_ID, idx)
       if StateIconList ~= nil and StateIconList[EFST_ID] ~= nil then
          v = StateIconList[EFST_ID].descript
          if v ~= nil and v[idx] ~= nil then
-            desInfo = defaultInfo(v[idx][1], v[idx][2], v[idx][3], v[idx][4])
+            if v[idx][2] ~= nil then
+               desInfo = defaultInfo(v[idx][1], v[idx][2][1], v[idx][2][2], v[idx][2][3])
+            else
+               desInfo = defaultInfo(v[idx][1], nil, nil, nil)
+            end
             resultDesInfos[key] = desInfo
          end
       end
