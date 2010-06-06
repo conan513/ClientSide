@@ -1770,22 +1770,24 @@ You have to select atleast 1 or more jobs.#
 You have selected %d Jobs. You can only select up to 6 different jobs.#
 Only numeric characters are allowed.#
 Please enter levels between 1~150.#
-~1774
-~1775
-~1776
-~1777
-~1778
-~1779
-~1780
-~1781
-~1782
-~1783
-~1784
-~1785
-~1786
-~1787
-~1788
-~1789
-~1790
-~1791
-~1792
+ 해당 맵에서는 의상 장비가 보이지 않습니다.#
+아이템을 착용할 수 있는 레벨이 아닙니다.#
+아이템을 사용할 수 있는 레벨이 아닙니다.#
+  Enable Battlemode#
+탭사이즈 크기가 초과되어 추가할 수 없습니다.#
+ Display Info#
+~1778#
+~1779#
+~1780#
+~1781#
+~1782#
+~1783#
+~1784#
+~1785#
+~1786#
+~1787#
+~1788#
+~1789#
+~1790#
+~1791#
+~1792#
