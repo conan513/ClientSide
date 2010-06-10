@@ -570,9 +570,13 @@ EFST_IDs = {
 	EFST_WATER_INSIGNIA = 568,
 	EFST_WIND_INSIGNIA = 569,
 	EFST_EARTH_INSIGNIA = 570,
+	EFST_EQUIPED_FLOOR = 571,
+	EFST_GUARDIAN_RECALL = 572,
+	EFST_MORA_BUFF = 573,
 	__newindex = function()   error("unknown state") end
 }
 setmetatable(EFST_IDs, EFST_IDs)
+--[[
 GetEFST = function(EFSTID)
    for j, k in pairs(EFST_IDs) do
       if k == EFSTID then
@@ -591,3 +595,4 @@ GetEFSTID = function(EFSTID)
    end
    return 0
 end
+]]--

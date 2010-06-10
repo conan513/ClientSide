@@ -1776,15 +1776,15 @@ Please enter levels between 1~150.#
   Enable Battlemode#
 탭사이즈 크기가 초과되어 추가할 수 없습니다.#
  Display Info#
-~1778#
-~1779#
-~1780#
-~1781#
-~1782#
-~1783#
-~1784#
-~1785#
-~1786#
+Sale#
+Buy#
+Search Stalls#
+Store Name#
+Quantity#
+Price#
+Too many results. Please enter a detailed input.#
+Would you like to open a stall?#
+SSO Authentication failed.#
 ~1787#
 ~1788#
 ~1789#

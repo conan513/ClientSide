@@ -1812,3 +1812,11 @@ StateIconList[EFST_IDs.EFST_POPECOOKIE] = {
 		{"Increases Resistance to all property."}
 	}
 }
+StateIconList[EFST_IDs.EFST_MORA_BUFF] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Mora Berry", COLOR_TITLE_BUFF}, --google translated
+		{"%s", COLOR_TIME}, 
+		{"Increases Resistance to specific monsters"},
+		{"in the fields near the town of Mora."}
+	}
+}
