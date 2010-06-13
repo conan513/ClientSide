@@ -7695,7 +7695,7 @@ SKILL_INFO_LIST = {
 	[SKID.GN_CRAZYWEED] = {
 		"GN_CRAZYWEED";
 		SkillName = "Crazy Weed",
-		MaxLv = 5,
+		MaxLv = 10,
 		SpAmount = { 24, 28, 32, 36, 40, 44, 48, 52, 56, 60 },
 		_NeedSkillList = {
 			{ SKID.GN_WALLOFTHORN,3 }
