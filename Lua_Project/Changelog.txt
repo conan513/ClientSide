@@ -1,3 +1,9 @@
+rev47 - [2010-06-17]
+ - Updated lua files + lub files to kRO Patch(2010-06-15)
+
+rev46 - [2010-06-14]
+ - Fixed GN_CRAZYWEED level to 10
+ 
 rev45 - [2010-06-10]
  - Updated lua files + lub files to kRO Patch(2010-06-09)
 

@@ -9565,6 +9565,12 @@ SKILL_DESCRIPT = {
 		"We wish you a Merry Christmas, and a Happy New Year! ^000000",
 	},
 	
+	[SKID.ALL_GUARDIAN_RECALL] = {
+
+		"Guardian Recall",
+		"Description : ^777777Warps you to the Town of Mora. 3 seconds fixed-casting time. Skill cooldown is 5 minutes.^000000",
+	},
+	
 	[SKID.ALL_BUYING_STORE] = {
 
 		"Buying Store",

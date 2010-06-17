@@ -1804,6 +1804,14 @@ StateIconList[EFST_IDs.EFST_ANGEL_PROTECT] = {
 		{"No EXP loss upon death"}
 	}
 }
+StateIconList[EFST_IDs.EFST_MORA_BUFF] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Mora Berry", COLOR_TITLE_BUFF}, --google translated
+		{"%s", COLOR_TIME}, 
+		{"Increases Resistance to every monsters"},
+		{"in the fields near the town of Mora."}
+	}
+}
 StateIconList[EFST_IDs.EFST_POPECOOKIE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Pope Cookie", COLOR_TITLE_BUFF}, 
@@ -1812,11 +1820,19 @@ StateIconList[EFST_IDs.EFST_POPECOOKIE] = {
 		{"Increases Resistance to all property."}
 	}
 }
-StateIconList[EFST_IDs.EFST_MORA_BUFF] = {
+StateIconList[EFST_IDs.EFST_VITALIZE_POTION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Mora Berry", COLOR_TITLE_BUFF}, --google translated
+		{"Vitalize Potion", COLOR_TITLE_BUFF}, --Google says "Activation Potion"
 		{"%s", COLOR_TIME}, 
-		{"Increases Resistance to specific monsters"},
-		{"in the fields near the town of Mora."}
+		{"Increases ATK and MATK"}, 
+		{"힐과 아이템의 회복효능 증가"}
+	}
+}
+StateIconList[EFST_IDs.EFST_G_LIFEPOTION] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Rapid Life-giving Water", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"Recovers HP every 3 seconds"}, 
+		{"No effect if Berserk State is active"}
 	}
 }

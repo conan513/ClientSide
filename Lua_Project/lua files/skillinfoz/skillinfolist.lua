@@ -7825,6 +7825,11 @@ SKILL_INFO_LIST = {
 		"RETURN_TO_ELDICASTES";
 		SkillName = "Return to Eldicastes",
 	},
+	
+	[SKID.ALL_GUARDIAN_RECALL] = {
+		"ALL_GUARDIAN_RECALL";
+		SkillName = "Guardian Recall",
+	},
 
 	[SKID.HLIF_HEAL] = {
 		"HLIF_HEAL";
