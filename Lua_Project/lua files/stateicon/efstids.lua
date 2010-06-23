@@ -579,6 +579,10 @@ EFST_IDs = {
 	EFST_PAIN_KILLER = 577,
 	EFST_G_LIFEPOTION = 578,
 	EFST_VITALIZE_POTION = 579,
+	EFST_LIGHT_OF_REGENE = 580,
+	EFST_OVERED_BOOST = 581,
+	EFST_SILENT_BREEZE = 582,
+	EFST_ODINS_POWER = 583,
 	__newindex = function()   error("unknown state") end
 }
 setmetatable(EFST_IDs, EFST_IDs)

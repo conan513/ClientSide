@@ -1836,3 +1836,11 @@ StateIconList[EFST_IDs.EFST_G_LIFEPOTION] = {
 		{"No effect if Berserk State is active"}
 	}
 }
+StateIconList[EFST_IDs.EFST_ODINS_POWER] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Odin's Power", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"Increases ATK and MATK"}, 
+		{"Decreases DEF and MDEF"}
+	}
+}

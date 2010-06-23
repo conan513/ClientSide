@@ -7825,10 +7825,15 @@ SKILL_INFO_LIST = {
 		"RETURN_TO_ELDICASTES";
 		SkillName = "Return to Eldicastes",
 	},
-	
+
 	[SKID.ALL_GUARDIAN_RECALL] = {
 		"ALL_GUARDIAN_RECALL";
 		SkillName = "Guardian Recall",
+	},
+
+	[SKID.ALL_ODINS_POWER] = {
+		"ALL_ODINS_POWER";
+		SkillName = "Odin's Power",
 	},
 
 	[SKID.HLIF_HEAL] = {
@@ -7921,6 +7926,51 @@ SKILL_INFO_LIST = {
 		"HVAN_EXPLOSION";
 		SkillName = "Bio Explosion",
 		SpAmount = { 1, 1, 1 }
+	},
+
+	[SKID.MH_SUMMON_LEGION] = {
+		"MH_SUMMON_LEGION";
+		SkillName = "Summon Legion",
+	},
+
+	[SKID.MH_NEEDLE_OF_PARALYZE] = {
+		"MH_NEEDLE_OF_PARALYZE";
+		SkillName = "Paralyze Needle",
+	},
+
+	[SKID.MH_POISON_MIST] = {
+		"MH_POISON_MIST";
+		SkillName = "Poison Mist",
+	},
+
+	[SKID.MH_PAIN_KILLER] = {
+		"MH_PAIN_KILLER";
+		SkillName = "Pain Killer",
+	},
+
+	[SKID.MH_LIGHT_OF_REGENE] = {
+		"MH_LIGHT_OF_REGENE";
+		SkillName = "Light of Regene",
+	},
+
+	[SKID.MH_OVERED_BOOST] = {
+		"MH_OVERED_BOOST";
+		SkillName = "Overed Boost",
+	},
+
+	[SKID.MH_ERASER_CUTTER] = {
+		"MH_ERASER_CUTTER";
+		SkillName = "Eraser Cutter",
+	},
+
+	[SKID.MH_XENO_SLASHER] = {
+		"MH_XENO_SLASHER";
+		SkillName = "Xeno Slasher",
+	},
+
+	[SKID.MH_SILENT_BREEZE] = {
+		"MH_SILENT_BREEZE";
+		SkillName = "Silent Breeze",
 	},
 
 	[SKID.MS_BASH] = {

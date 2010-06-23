@@ -1145,7 +1145,8 @@ jobtbl = {
 	["JT_NYDHOG_MEMORY3_2"] = 2143,
 	["JT_G_ANTLER_SCARABA"] = 2144,
 	["JT_G_RAKE_SCARABA"] = 2145,
-	["JT_MONSTER_LAST"] = 2146,
+	["JT_G_S_NYDHOG"] = 2146,
+	["JT_MONSTER_LAST"] = 2147,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
@@ -1708,4 +1709,6 @@ jobtbl = {
 	["JT_4_F_RAFLE_YE"] = 523,
 	["JT_4_M_RAFLE_VI"] = 524,
 	["JT_4_F_RAFLE_VI"] = 525,
+	["JT_4_M_ARDHA"] = 526,
+	["JT_4_CREEPER"] = 527,
 }

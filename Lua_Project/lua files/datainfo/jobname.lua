@@ -1626,6 +1626,7 @@ JobNameTable = {
 	[jobtbl.JT_NYDHOG_MEMORY3_2] = "NYDHOG_MEMORY1_2",
 	[jobtbl.JT_G_ANTLER_SCARABA] = "ANTLER_SCARABA",
 	[jobtbl.JT_G_RAKE_SCARABA] = "RAKE_SCARABA",
+	[jobtbl.JT_G_S_NYDHOG] = "S_NYDHOG",
 	[jobtbl.JT_MER_LIF] = "LIF",
 	[jobtbl.JT_MER_AMISTR] = "AMISTR",
 	[jobtbl.JT_MER_FILIR] = "FILIR",
@@ -1697,4 +1698,6 @@ JobNameTable = {
 	[jobtbl.JT_4_F_RAFLE_YE] = "4_F_RAFLE_YE",
 	[jobtbl.JT_4_M_RAFLE_VI] = "4_M_RAFLE_VI",
 	[jobtbl.JT_4_F_RAFLE_VI] = "4_F_RAFLE_VI",
+	[jobtbl.JT_4_M_ARDHA] = "4_M_ARDHA",
+	[jobtbl.JT_4_CREEPER] = "4_CREEPER",
 }
