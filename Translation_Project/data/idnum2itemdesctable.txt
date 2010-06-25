@@ -8074,7 +8074,6 @@ Increase Movement Speed.
 Maximum HP and SP + 20%
 SP Recovery + 15%, MDEF + 10
 Impossible to refine this item.
-Indestructible.
 Class :^777777 Footgear^000000
 Defense :^777777 5^000000
 Weight :^777777 350^000000
