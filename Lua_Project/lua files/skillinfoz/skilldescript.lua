@@ -9582,7 +9582,7 @@ SKILL_DESCRIPT = {
 		"Description : ^777777Warps you to the Town of Mora. 3 seconds fixed-casting time. Skill cooldown is 5 minutes.^000000",
 	},
 
-	[SKID.ALL_GUARDIAN_RECALL] = { --im sure this is wrong should be ALL_ODINS_RECALL
+	[SKID.ALL_ODINS_POWER] = {
 
 		"Odin's Power",
 		"Description : ^777777Increases for 60 seconds Attack and Magic Attack power by 70, but lowers Defense and Magic Defense by 20.^000000",

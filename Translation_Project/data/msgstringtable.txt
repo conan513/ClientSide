@@ -1793,9 +1793,19 @@ The account does not exist.#
 ~본 게임은 12세 이용가입니다.#
 ~계정도용 조사를 위한 블럭상태입니다.#
 ~버그조사를 위한 블럭상태입니다.#
-~1795#
-~1796#
-~1797#
-~1798#
-~1799#
-~1800#
+~몬스터 사냥을 통해 얻을 수 있는 Base, Job 경험치가 30분간 75증가합니다.#
+~몬스터 사냥을 통해 얻을 수 있는 Base, Job 경험치가 30분간 50증가합니다.#
+Shop information is incorrect and cannot be opened.#
+You cannot search anymore.#
+Search failed.#
+You cannot search yet.#
+Card names, prefixes and suffixes#
+Number of searches : %d#
+Stalls are retrieved.#
+Item price range is not valid.#
+General Equipment#
+Costumes Equipment#
+~1807#
+~1808#
+~1809#
+~1810#

@@ -1,3 +1,7 @@
+rev51
+ - Updated lua files + lub files to kRO Patch(2010-06-30)
+ - Advanced update to msgstring_kr.lub (thanks rytech)
+
 rev49 - [2010-06-23]
  - Updated lua files + lub files to kRO Patch(2010-06-23)
 
