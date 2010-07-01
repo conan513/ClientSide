@@ -1,6 +1,9 @@
-rev51
+rev52 - [2010-07-01]
+ - Fixed syntax errors in msgstring_kr.lua
+
+rev51 - [2010-07-01]
  - Updated lua files + lub files to kRO Patch(2010-06-30)
- - Advanced update to msgstring_kr.lub (thanks rytech)
+ - Advanced update to msgstring_kr.lua (thanks rytech)
 
 rev49 - [2010-06-23]
  - Updated lua files + lub files to kRO Patch(2010-06-23)
