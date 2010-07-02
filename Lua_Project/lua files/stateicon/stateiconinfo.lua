@@ -569,8 +569,8 @@ StateIconList[EFST_IDs.EFST_ENDURE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Endure", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME}, 
-		{"공격당해도 이동이나 공격 가능"}, 
-		{"일정 횟수 이상 공격 당할 경우 상태 해제"}
+		{"Enables attacking and movement"}, 
+		{"while receiving damage"}
 	}
 }
 StateIconList[EFST_IDs.EFST_TURNKICK_ON] = {
