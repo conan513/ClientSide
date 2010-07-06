@@ -4096,6 +4096,17 @@
 4439#Flame_Skull_Card#
 4440#Necromancer_Card#
 4441#Fallen_Bishop_Hibram_Card#
+4442#Tatacho_Card#
+4443#Aqua_Elemental_Card#
+4444#Draco_Card#
+4445#Luciola_Vespa_Card#
+4447#Centipede_Card#
+4448#Cornus_Card#
+4449#Dark_Shadow_Card#
+4450#Banshee_Master_Card#
+4451#Entweihen_Card#
+4452#Centipede_Larva_Card#
+4453#Hillsrion_Card#
 
 // ----- 20070806 Indonesian Cash Items -----
 13758#Field_Manual_300%_Box#

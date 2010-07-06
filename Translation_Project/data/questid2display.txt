@@ -948,6 +948,10 @@ It's going to take a little while. Talk to him again a bit later.#
 "Eeh~Yeah~Eeh~Hooom, Maaaaarrraaa Neeey~ Yippee Yippee Yai Yocaiyay~ Take this to Miller, the Black Fox."#
 #
 
+6025#KVM Approval#SG_FEEL#QUE_NOIMAGE#
+KVM participation is approved. Participation will receive approval in 5 minutes. Wait 5 minutes to get re-authorization.#
+Approval takes 5 minutes for re-authorization.#
+
 //-------댄서전직 부분---------------
 
 7000#Job Changes to Dancer! Fill out the Application!#SG_FEEL#QUE_NOIMAGE#
@@ -2205,6 +2209,10 @@ How come those people of Utan all wear masks?#
 10056#Learning Utan Language#SG_FEEL#QUE_NOIMAGE#
 You'll be able to learn Utan language if you bring certain materials.#
 10 Oil Paper, 5 Slick Paper, 1 Squid Ink, 1 Feather of Birds#
+
+10076#Turn an alien to human#SG_FEEL#QUE_NOIMAGE#
+One who makes laws, complete their reports.#
+Go back to Chapter Three Kingdom's Alliance...#
 
 // ----------오딘신전, 생체연구, 도서관, 돌줍는노인
 11000#Inspection of Odin Shrine#SG_FEEL#QUE_NOIMAGE#
