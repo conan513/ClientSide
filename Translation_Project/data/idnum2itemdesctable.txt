@@ -27062,6 +27062,79 @@ Class :^777777 Card^000000
 Compound on :^777777 Footgear^000000
 Weight :^777777 1^000000
 #
+4442#
+Decreases damage from Earth Element Monsters by 20%.
+Increases damage dealing to Earth element monsters by 5%.
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4443#
+Decreases damage from Water Element Monsters by 20%.
+Increases damage dealing to Water element monsters by 5%.
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4444#
+Decreases damage from Fire Element Monsters by 20%.
+Increases damage dealing to Fire element monsters by 5%.
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4445#
+Decreases damage from Wind Element Monsters by 20%.
+Increases damage dealing to Wind element monsters by 5%.
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4447#
+Decreases damage from Poison Element Monsters by 20%.
+Increases damage dealing to Poison element monsters by 5%.
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4448#
+Decreases damage from Holy Element Monsters by 20%.
+Increases damage dealing to Holy element monsters by 5%.
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4449#
+Decreases damage from Shadow Element Monsters by 20%.
+Increases damage dealing to Shadow element monsters by 5%.
+Class :^777777 Card^000000
+Compound on :^777777 Shield^000000
+Weight :^777777 1^000000
+#
+4450#
+INT + 1, MATK + 10.
+Class :^777777 Card^000000
+Compound on :^777777 Armor^000000
+Weight :^777777 1^000000
+#
+4451#
+MATK + 100.
+Class :^777777 Card^000000
+Compound on :^777777 Armor^000000
+Weight :^777777 1^000000
+#
+4452#
+INT + 1, MATK + 3.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4453#
+ATK + 25.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
 
 // -------------------- 20070806 Indonesian Cash Items --------------------
 13758#
@@ -31489,7 +31562,7 @@ Class :^777777 Garment^000000
 Defense :^777777 4^000000
 Weight :^777777 70^000000
 Required Level :^777777 70^000000
-Applicable Job :^777777 Every Jobs except Novice^000000
+Applicable Job :^777777 Every Rebirth Job except High Novice^000000
 #
 
 // -------- Constitution Day Event Items ------------
