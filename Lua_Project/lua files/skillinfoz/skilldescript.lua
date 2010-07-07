@@ -9984,7 +9984,7 @@ SKILL_DESCRIPT = {
 		"Dragon Breath",
 		"Max Level:^777777 10 ^000000",
 		"Type:^777777 Offensive ^000000",
-		"SP Cost:^777777 0+5*SkillLV ^000000",
+		"SP Cost:^777777 30+5*SkillLV ^000000",
 		"Target:^777777 Enemy ^000000",
 		"Cast Time:^777777 3 sec ^000000",
 		"Cool Down:^777777 2 sec ^000000",
