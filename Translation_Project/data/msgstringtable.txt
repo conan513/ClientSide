@@ -1405,7 +1405,7 @@ This map is not a chat.#
 3 hours have passed since.#
 5 hours have passed since.#
 ~게임가드 초기화 에러 또는 구버전의 게임가드 파일입니다. 게임가드 셋업파일을 다시 설치하고 게임을 실행해 보시기 바랍니다.#
-~ini 파일이 없거나 변조되었습니다. 게임가드 셋업파일을 설치하면 해결 할 수 있습니다.#
+ini file is missing or has been altered. To resolve the issue please reinstall gameguard.#
 Security program has been identified that there is a conflict with the game.#
 The client is not normal. Please connect a normal client.#
 Thank you to accept mobile authentication.#
@@ -1626,7 +1626,7 @@ Battlefield Message Display#
  [%s] to casting skills.#
 Activate lock function.#
 Deactivate lock function.#
-#
+[%s] has won [%s] from '%s'.#
 Swordman#
 Magician#
 Archer#
@@ -1693,20 +1693,20 @@ Party Booking List#
 [Musical Instrument/Whip] must be equipped.#
 Only alphanumeric characters is allowed.#
 Message#
-~상점 정보가 정확하지 않아 아이템 구매가 실패하였습니다.#
-~소지 아이템 창에서 버릴 수 있습니다.#
+Because the store information was incorrect the item was not purchased.#
+Item can be discarded from the window.#
 Time#
 Map#
 You cannot unequip while in trade.#
-~미지정값#
+Unspecified value#
 /stateinfo : Shows the description of status icons. On Off#
 Status Information On : Status icon description is enabled. #
 Status Information Off: Status icon description is disabled.#
-~같은 아이템은 한번에 %d개 이상은 살 수 없습니다.#
-~같은 아이템은 한번에 %d개 이상은 팔 수 없습니다.#
-~해당 아이템의 총 구매 가능 개수는 %d개 입니다.#
+It is not possible to purchase the same item more than %d pieces at a time#
+It is not possible to purchase the same item more than %d pieces at a time#
+Can purchase upto %d pieces of the same item at a time.#
 User customized key is saved to [%s\%s]#
-[%s] 님은 현재 교환 신청을 받을 수 없는 상태입니다.#
+[%s] is currently on trade and cannot accept the request.#
 RO_HELP#
 Anvil does not exist.#
 Novice below level 10 is not allowed to whisper.#
@@ -1715,38 +1715,38 @@ Defense#
 Recovery#
 Support#
 Party recruitment related command#
-~길드 동맹신청이 불가능합니다#
-~길드 적대신청이 불가능합니다#
-~아지트맵에서는 친구추가가 불가능합니다#
-~구매노점 개설#
-~구매가 :#
-~소지액 : #
-~구매 한도액#
-~구매할 아이템을 등록하지 않았습니다. 구매하실 아이템을 등록해 주세요#
-~%s 아이템의 가격을 입력해 주세요.#
-~%s 아이템의 가격을 9999만 Zeny이하로 입력해 주세요.#
-~%s 아이템의 구매수량을 입력해 주세요.#
-~%s 아이템의 소지수량과 구매수량의 합이 9999개 이상입니다. 9999개 이하의 수량을 입력해 주세요.#
-~중복된 아이템이 존재합니다.#
-~제한 금액을 입력해 주세요#
-~입력한 제한금액이 소지금액을 초과합니다. 다시 설정해 주세요#
-#
-~구매 가능한 아이템 목록#
-~나의 구매노점#
-~제한금액 : %d Zeny#
-~%s %s Zeny 1819635240 개#
-~구매 노점#
+Guild alliance application is not possible..#
+Guild hostility application is not possible.#
+Adding friends is not possible in this map.#
+Buying Store Window#
+Price :#
+Money : #
+Purchase Limit#
+Did not enter any items. Please register your items to purchase.#
+Please enter the price of [%s] item.#
+Please enter the [%s] item with less than 99,999,000 zeny.#
+Please enter the purchase quantity of the item [%s]#
+%s item has more than 9999 purchase quantity. Please enter the quantity less than 9999.#
+There are duplicate items.#
+Please enter the restricted amount of money.#
+The purchase limit you entered exceeds your current money. Please reconfigure.#
+%s : %s Zeny => %s EA#
+List of available items for purchase.#
+My Purchasing Store#
+Limit Amount : %d Zeny#
+%s Zeny %d Items#
+Purchasing Store#
 ~판매 가능한 아이템 목록#
 ~해당 아이템의 총 판매 가능 개수는 %d개 입니다.#
-~구매자의 잔액이 부족하니 다시 설정해 주세요#
-~구매상점 개설에 실패했습니다.#
-~아이템의 총 무게가 %d 만큼 소지 한계량을 초과합니다. 다시 설정해 주세요.#
+No more balance left. Please reconfigure.#
+Failed to open Purchasing Store.#
+The total weight of the item is %d and exceeds your weight limit. Please reconfigure.#
 ~제한금액만큼의 아이템을 모두 구매하였습니다.#
-~아이템을 모두 구매했습니다.#
+All items were purchased.#
 ~구매자의 잔액이 부족하여 거래가 실패하였습니다.#
-~%s %d개를 1819635240z에 판매하였습니다.#
-~%s 아이템은 희망 구매갯수보다 수량이 많아 판매하지 못하였습니다#
-~소환된 정령이 없습니다.#
+%s %d pieces has been sold for %dz.#
+%s cannot sell more than the desired amount of purchase.#
+The spirit was not summoned.#
 ~서버연합대전 제약사항 입니다.#
 OTP password is 6 digits long.#
 OTP information is unavailable. Please contact your administrator.#
@@ -1770,11 +1770,11 @@ You have to select atleast 1 or more jobs.#
 You have selected %d Jobs. You can only select up to 6 different jobs.#
 Only numeric characters are allowed.#
 Please enter levels between 1~150.#
-~ 해당 맵에서는 의상 장비가 보이지 않습니다.#
-~아이템을 착용할 수 있는 레벨이 아닙니다.#
-~아이템을 사용할 수 있는 레벨이 아닙니다.#
+The equipment is not visible to the appropriate map.#
+Your level is not enough to wear the equipment.#
+Your level is not enough to use the item.#
   Enable Battlemode#
-~탭사이즈 크기가 초과되어 추가할 수 없습니다.#
+Tab size has exceeded and cannot be added.#
  Display Info#
 Sale#
 Buy#
