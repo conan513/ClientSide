@@ -5993,7 +5993,7 @@ SKILL_INFO_LIST = {
 
 	[SKID.NC_FLAMELAUNCHER] = {
 		"NC_FLAMELAUNCHER";
-		SkillName = "Flame Launcher",
+		SkillName = "Flare Launcher",
 		MaxLv = 3,
 		SpAmount = { 20, 20, 20 },
 		_NeedSkillList = {

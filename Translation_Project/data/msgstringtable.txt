@@ -1805,7 +1805,12 @@ Stalls are retrieved.#
 Item price range is not valid.#
 General Equipment#
 Costumes Equipment#
-~1807#
-~1808#
-~1809#
-~1810#
+mins #
+secs#
+아이템 명을 입력해 주세요.#
+That item does not exist.#
+~1811#
+~1812#
+~1813#
+~1814#
+~1815#

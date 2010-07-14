@@ -4694,7 +4694,7 @@ SKILL_DESCRIPT = {
 
 	[SKID.SA_FLAMELAUNCHER] = {
 
-		"Flame Launcher",
+		"Flare Launcher",
 		"Max Level:^777777 5 ^000000",
 		"Type:^33cc00 Active ^000000",
 		"SP Cost:^777777 40 ^000000",

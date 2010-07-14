@@ -1,3 +1,6 @@
+rev60 - [2010-07-14]
+ - Updated lua files + lub files to kRO Patch(2010-07-14)
+
 rev57 - [2010-07-07]
  - Updated lua files + lub files to kRO Patch(2010-07-07)
  - Updated stateiconinfo.lub with endure translation from 2010-05-26 to 2010-06-30
