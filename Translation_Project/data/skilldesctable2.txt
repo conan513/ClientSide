@@ -10873,7 +10873,7 @@ Re-using the skill returns the Warg to the wild.^000000
 RA_WUGRIDER#
 Warg Rider
 Prerequisites:^777777 Warg Mastery (L1)^000000
-Max Level:^777777 1^000000
+Max Level:^777777 3^000000
 Type:^777777 Active^000000
 SP Cost:^777777 20^000000
 Cast Time:^777777 Instant^000000

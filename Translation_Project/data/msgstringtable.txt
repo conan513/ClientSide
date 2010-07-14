@@ -254,12 +254,12 @@ Dexerity#
 Luck#
 Hit Point#
 Defense Rate#
-Acccuracy Rate#
+Accuracy Rate#
 Critical Attack#
 Assigned Guild#
 Value needed for Level Up#
 Magical Hit Point#
-Magical Defense #
+Magical Defense#
 Flee Rate#
 Attack Speed#
 Server is jammed due to over population. Please try again shortly.#
@@ -363,7 +363,7 @@ Open 1:1 Chat not between Friends#
 Alarm when you recieve a 1 on 1 Chat#
 Are you sure that you want to expel?#
 %s has withdrawn from the guild.#
-Secession Reason : %s#
+Secession Reason: %s#
 You have failed to disband the guild.#
 Disband Reason: %s#
 This ID has been removed.#
@@ -427,9 +427,9 @@ Item List you can craft#
  Create#
 's materials#
  item creation failed.#
- item created sucessfully.#
+ item created successfully.#
  item creation failed.#
- item created sucessfully.#
+ item created successfully.#
 You are not the required lvl.#
 Too high lvl for this job.#
 Not the suitable job for this type of work.#
@@ -461,25 +461,25 @@ Very Strong #
 Very Very Strong #
 Very Very Very Strong #
 The Reason of Expulsion#
- Attack Speed is up.#
- Attack Speed is down.#
- Weapon Damage is improved.#
- Weapon Damage is reduced.#
- Cast Delay is reduced.#
- Cast Delay has returned to normal.#
- Weapon is temporarily enchanted with Poison.#
- Weapon is temporarily enchanted with an elemental property.#
- Weapon has changed back to normal.#
- Armor has been enchanted with the Holy Ghost.#
- Armor has changed back to normal.#
- Barrier Formed.#
- Barrier Canceled.#
- Weapon Perfection Initiated.#
- Weapon perfection Canceled.#
- Power-Thrust Initiated.#
- Power-Thrust Canceled.#
- Maximize-Power Initiated.#
- Maximize-Power Canceled.#
+Attack Speed is up.#
+Attack Speed is down.#
+Weapon Damage is improved.#
+Weapon Damage is reduced.#
+Cast Delay is reduced.#
+Cast Delay has returned to normal.#
+Weapon is temporarily enchanted with Poison.#
+Weapon is temporarily enchanted with an elemental property.#
+Weapon has changed back to normal.#
+Armor has been enchanted with the Holy Ghost.#
+Armor has changed back to normal.#
+Barrier Formed.#
+Barrier Canceled.#
+Weapon Perfection Initiated.#
+Weapon perfection Canceled.#
+Power-Thrust Initiated.#
+Power-Thrust Canceled.#
+Maximize-Power Initiated.#
+Maximize-Power Canceled.#
 [New Server]#
 (%d)#
 (On the maintenance)#
@@ -489,14 +489,14 @@ You got %s Base EXP.#
 You got %s Job EXP.#
 You left the guild.#
 You have been expelled from the Guild.#
-Item Appraisal has completed sucessfully.#
-Item appraisal has failed.#
-Compounding has completed sucessfully.#
+Item Appraisal has completed successfully.#
+Item Appraisal has failed.#
+Compounding has completed successfully.#
 Compounding has failed.#
 Antagonist has been set.#
 Guild has too many Antagonists.#
 Already set as an Antagonist#
-Upgrade has been completed sucessfully.#
+Upgrade has been completed successfully.#
 Upgrade has failed.#
 Unavailable Area to Teleport#
 Unavailable Area to Teleport#
@@ -536,7 +536,7 @@ You paid with the personal regular base. Available time is xx hrs xx mins xx sec
 You are free!#
 You are free for the test, your available time is xx hrs xx mins xx secs.#
 You paid with the Internet Cafe regular base. Available time is xx hrs xx mins xx secs.#
-You paid with the Time Limit for Internet Cafe. Availabe time is xx hrs xx mins xx secs.#
+You paid with the Time Limit for Internet Cafe. Available time is xx hrs xx mins xx secs.#
 You are free for the test of Internet Cafe version .#
 You are free for the Internet Cafe version.#
 You paid on the Time Limit Website.#
@@ -594,7 +594,7 @@ Feed Pet#
 Performance#
 Return to Egg Shell#
 Unequip Accessory#
-Check the Pet Status#
+Check Pet Status#
 Accessory#
 Equipped#
 Pet List#
@@ -608,52 +608,52 @@ N/A#
 N/A#
 Character in the same account already joined.#
 (%d ppl) - over the age 18#
- Provoke initiated.#
- Provoke canceled.#
- Endure initiated.#
- Endure canceled.#
- Improve Concentration initiated.#
- Improve Concentration canceled.#
- Hiding Initiated.#
- Hiding Canceled.#
- Cloaking initiated.#
- Cloaking canceled.#
- Poison React initiated.#
- Poison React canceled.#
- Speed reduced.#
- Quagmire canceled.#
- Defense increased.#
- Angelus canceled.#
- Blessing aligned.#
- Blessing canceled.#
- Signum Crusis initiated.#
- Signum Crusis canceled.#
- Slow Poison initiated.#
- Slow Poison Canceled.#
- HP/SP recovery increased.#
- Magnificat canceled.#
- Luck increased.#
- Gloria canceled.#
- You will received double damage from all attacking opponents.#
- Lex Eterna canceled.#
- Attack Speed increased.#
- Attack Speed reduced.#
+Provoke initiated.#
+Provoke canceled.#
+Endure initiated.#
+Endure canceled.#
+Improve Concentration initiated.#
+Improve Concentration canceled.#
+Hiding Initiated.#
+Hiding Canceled.#
+Cloaking initiated.#
+Cloaking canceled.#
+Poison React initiated.#
+Poison React canceled.#
+Speed reduced.#
+Quagmire canceled.#
+Defense increased.#
+Angelus canceled.#
+Blessing aligned.#
+Blessing canceled.#
+Signum Crusis initiated.#
+Signum Crusis canceled.#
+Slow Poison initiated.#
+Slow Poison Canceled.#
+HP/SP recovery increased.#
+Magnificat canceled.#
+Luck increased.#
+Gloria canceled.#
+You will received double damage from all attacking opponents.#
+Lex Eterna canceled.#
+Attack Speed increased.#
+Attack Speed reduced.#
 You've just been on a Peco Peco.#
 You've just got off of a Peco Peco.#
 You've just carried a Falcon with.#
 You've just released a Falcon.#
- Play Dead initiated.#
- Play Dead canceled.#
- STR improved.#
- STR turned back to normal.#
- Energy Coat initiated.#
- Energy Coat canceled.#
- Armor destroyed.#
- Armor has just been released from destroyed status.#
- Weapon destroyed.#
- Weapon has just been released from destroyed status.#
- Invisibility initiated.#
- Invisibility canceled.#
+Play Dead initiated.#
+Play Dead canceled.#
+STR improved.#
+STR turned back to normal.#
+Energy Coat initiated.#
+Energy Coat canceled.#
+Armor destroyed.#
+Armor has just been released from destroyed status.#
+Weapon destroyed.#
+Weapon has just been released from destroyed status.#
+Invisibility initiated.#
+Invisibility canceled.#
 N/A#
 You must unequip arrows first.#
 Arrow List#
@@ -676,7 +676,7 @@ Cordial#
 Loyal#
 Unknown#
 Your account has play time of %day %dhour %dminute.#
-Your account already connected other account server.#
+Your account is already connected to account server.#
 Your account has play time of %dhour %dminute.#
 Your account is a free account.#
 This account can't connect the Sakray server.#
@@ -684,7 +684,7 @@ Your pet name must be 23 characters or less.#
 You may change your pet's name only once. Your pet's name will be changed to ^0000ff^0000ff %s^000000^000000.  Do you wish to continue?#
 /font#
 Your guild lacks the funds to pay for this venture.#
-Your guild zeny limit prevents you from peforming this action.#
+Your guild zeny limit prevents you from performing this action.#
 Simplified effects have been activated.#
 Simplified effects have been deactivated.#
 Required Fee#
@@ -693,7 +693,7 @@ Internet Cafe Time Plan has been ended. Would you like to continue the game with
 #
 #
 Your lack of zeny or your zeny limit have prevented you from performing this action.#
-Your character has fainted.  Push the ESC key to restart.#
+Your character has fainted. Push the ESC key to restart.#
  - %d obtained.#
 Spell List#
 /minimize#
@@ -724,7 +724,7 @@ Normal Font Displayed. [showname type 1]#
 Font will be thin and party name will be shown [showname type 2]#
 /doridori: Shake head#
 Internet room is paying now.#
-Prepaid voucher validate untill %ddays %d hours %dminutes later.\nTime limit voucher validate untill %d hours %dminutes later.#
+Prepaid voucher validate until %ddays %d hours %dminutes later.\nTime limit voucher validate untill %d hours %dminutes later.#
 /bingbing: Rotates player counter clockwise.#
 /bangbang: Rotates player clockwise.#
 /skillfail: Display red font message when skill fails. On | Off#
@@ -819,7 +819,7 @@ System process disabled [GM mode] [/sc OFF]#
 (%s) wishes to be friends with you. Would you like to accept?#
 Your Friend List is full.#
 (%s)'s Friend List is full.#
-You have become friends with (%s). #
+You have become friends with (%s).#
 (%s) does not want to be friends with you.#
 This character will be blocked to use until %s.#
 Price will be fixed at 10,000,000 zeny, even if you enter higher price.#
@@ -908,7 +908,7 @@ Help me out~ Please~ T_T#
 /notalkmsg2: Hides chat messages(including guild chat). On Off#
 Show chat messages. [/nm2 ON]#
 Hide chat messages(including guild chat) [/nm2 OFF]#
-Upgradable Weapons#
+Upgradeable Weapons#
 Weapons upgraded: %s#
 Weapons upgraded: %s#
 You cannot upgrade %s until you level up your Upgrade Weapon skill.#
@@ -937,7 +937,7 @@ Failed to load the scan module of virus and hacking tool. It's caused by lack of
 Homunculus Info#
 Homunculus Skill List#
 Please give your Homunculus a name no longer than 23 letters.#
-You can name a Homunculus only once. You have entered the name, ^0000ff^0000ff %s^000000^000000. Would you like to continue?#
+You can name a Homunculus only once. You have entered the name, ^0000ff %s^000000. Would you like to continue?#
 (Away)#
 [Automated Message]#
 Send an automated message while you are away.#
@@ -959,13 +959,13 @@ Do not save Homunculus status as a file.#
 Crusader#
 Monk#
 Sage#
-Rouge#
+Rogue#
 Alchemist#
 Bard#
 Crusader#
 Monk#
 Sage#
-Rouge#
+Rogue#
 Alchemist#
 Dancer#
 High Novice#
@@ -985,26 +985,26 @@ High Thief#
 Lord Knight#
 High Priest#
 High Wizard#
-MasterSmith#
+WhiteSmith#
 Sniper#
 Assassin Cross#
 Lord Knight#
 High Priest#
 High Wizard#
-MasterSmith#
+WhiteSmith#
 Sniper#
 Assassin Cross#
 Paladin#
 Champion#
-Scholar#
+Professor#
 Stalker#
-Biochemist#
-Minstrel#
+Creator#
+Clown#
 Paladin#
 Champion#
-Scholar#
+Professor#
 Stalker#
-Biochemist#
+Creator#
 Gypsy#
 You have not set a password yet. Would you like to create one now?#
 You have incorrectly entered the password 3 times. Please try again later.#
@@ -1043,7 +1043,7 @@ You have equipped throwing daggers.#
 %s has logged out.#
 /loginout: Shows guildsmen and friends online status. On Off#
 Display online status of friends in Chat Window. [/li ON]#
-Do not display online status of friends in Chat Window.  [/li OFF]#
+Do not display online status of friends in Chat Window. [/li OFF]#
 It is already running.#
 Use of Macro program has been detected.#
 Use of Speed hack has been detected.#
@@ -1051,7 +1051,7 @@ API Hooking has been detected.#
 Message Hooking has been detected.#
 Module has been modified or damaged or its version does not match.#
 (Thailand) You have logged in game with PC cafe payment.#
-Previous#
+Prev#
 Next#
 Auction#
 Product List#
@@ -1059,12 +1059,12 @@ Register#
 Sale Status#
 Purchase Status#
 Item#
-Item Name#
-Current Bid / Max Bid#
+Name#
+Current Bid / Buyout#
 Seller#
 Buyer#
-Auction End Time#
-%m/%d, %H00 PST#
+End Time#
+%m %d %H#
 Time (Hr)#
 Fee#
 No items found in auction search.#
@@ -1092,7 +1092,7 @@ You do not have enough zeny.#
 Armor#
 Card#
 Misc.#
-Bid Number#
+Bid#
 Search#
 You have ended the auction.#
 You cannot end the auction.#
@@ -1125,7 +1125,7 @@ Please check the connection, more than 2 accounts are connected with Internet Ca
 Your account is using monthly payment. (Remaining day: %d day)#
 Your account is using time limited. (Remaining time : %d hour % minute % second)#
 This item cannot be mailed.#
-You cannot accept any more items. Please again try later.#
+You cannot accept any more items. Please try again later.#
 Male#
 Female#
 New User.#
@@ -1255,8 +1255,8 @@ Do you really want to purchase '%s' item? %d points will be deducted from your t
  You do not have enough Kafra Credit Points.#
  ^ff0000Expiration Date: %s^000000#
  The '%s' item will disappear in %d minutes.#
-%s' item will be deleted from the Inventory in 1 minute.#
- '%s' item has been deleted from the Inventory.#
+'%s' item will be deleted from the Inventory in 1 minute.#
+'%s' item has been deleted from the Inventory.#
 Input Number#
 %m/%d %H:%M#
 Boss Monster '%s' will appear within 1 minute.#
@@ -1270,7 +1270,7 @@ You have released the mercenary.#
 The mercenary has run away.#
  The '%s' item will disappear in %d seconds.#
 IP Bonus: EXP/JEXP %d%%, Death Penalty %d%%, Item Drop %d%%#
-Please try again after 24 hours.#
+Symbols in Character Names are forbidden.#
 Mercenary Soldier will follow custom AI.#
 Mercenary Soldier will follow basic AI.#
  %s's#
@@ -1359,7 +1359,7 @@ This character's equipment information is not open to the public.#
 Equipment information not open to the public.#
 Equipment information open to the public.#
 Check %s's Equipment Info#
-%s's Equipment#
+'%s's Equipment#
 Show Equip#
 This service is only available for premium users.#
 Free Trial users can only hold up to 50,000 zeny.#
@@ -1368,12 +1368,12 @@ Battlefield Chat has been deactivated.#
 Mercenary Info - Monster Type#
 World Map#
 The Memorial Dungeon is now closed.#
-^ff0000^ff0000Deleting a Mercenary Soldier^000000^000000 will also delete his growth history. Do you really want to proceed with the deletion?#
+^ff0000Deleting a Mercenary Soldier^000000 will also delete his growth history. Do you really want to proceed with the deletion?#
 The Memorial Dungeon is now open.#
 This account has not been confirmed by connecting to the safe communication key. Please connect to the key first, and then log into the game.#
 The number of accounts connected to this IP has exceeded the limit.#
 You have received a new quest.#
-^777777Acquirement conditions : #
+^777777Acquirement conditions:#
 View Skill Info.#
 Used skill point is unavailable to revert. Would you like to use the skill point?#
 Nov. 1st#

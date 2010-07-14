@@ -11172,7 +11172,7 @@ SKILL_DESCRIPT = {
 	[SKID.RA_WUGRIDER] = {
 
 		"Warg Rider",
-		"Max Level:^777777 1 ^000000",
+		"Max Level:^777777 3 ^000000",
 		"Type:^777777 Active ^000000",
 		"SP Cost:^777777 20 ^000000",
 		"Cast Time:^777777 Instant ^000000",
