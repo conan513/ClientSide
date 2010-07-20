@@ -10185,7 +10185,7 @@ Max Level:^777777 5^000000
 Type:^777777 Summon^000000
 SP Cost:^777777 300^000000
 Cast Time:^777777 ??^000000
-Catalyst:^777777 1 Ancilla Stone^000000
+Catalyst:^777777 1 Ancilla Stone, 1 Holy Water^000000
 Effect:^777777 Summons a holy tree of life for a short period of time, resurrecting the dead and recovering HP/SP of all players nearby. Undead and Demon monsters that approach the tree receive holy damage. Consumes 300 SP regardless of level, one Ancilla stone and one Holy Water.^000000
 [LV 1]^777777Increase in Max HP 5% - HP Regen/second 3% - SP Regen/second 2 %^000000
 [LV 2]^777777Increase in Max HP 10% - HP Regen/second 3% - SP Regen/second 2 %^000000
@@ -11518,13 +11518,13 @@ Effect:^777777 Using the magic gears basic equipment, supercools a target area, 
 #
 NC_ARMSCANNON#
 Arms Cannon
-Prerequisites:^777777 Flame Launcher (L2), Cold Slower (L2)^000000
+Prerequisites:^777777 Flare Launcher (L2), Cold Slower (L2)^000000
 Max Level:^777777 3^000000
 Type:^777777 Offensive^000000
 SP Cost:^777777 50^000000
 Target:^777777 Ground^000000
 Cast Time:^777777 1.2+0.2*SkillLV sec^000000
-Catalyst:^777777 1 Magic Gear Fuel and 1 Cannon Ball.^000000
+Catalyst:^777777 1 Magic Gear Fuel, 1 Cannon Ball.^000000
 Effect:^777777 Using the magic gears basic equipment, fires a large cannon ball dealing blast damage around the target. Deals lower damage on larger targets. Uses the attribute of the cannon ball equipped. Using the skill consumes 1 Magic Gear Fuel and 1 Cannon Ball.^000000
 [LV 1]^777777 700~600~500% ATK, Area 7x7^000000
 [LV 2]^777777 1200~1000~800% ATK, Area 5x5^000000

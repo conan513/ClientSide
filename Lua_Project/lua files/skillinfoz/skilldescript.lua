@@ -10444,7 +10444,7 @@ SKILL_DESCRIPT = {
 		"Type:^777777 Summon ^000000",
 		"SP Cost:^777777 300 ^000000",
 		"Cast Time:^777777 ?? ^000000",
-		"Catalyst:^777777 1 Ancilla Stone ^000000",
+		"Catalyst:^777777 1 Ancilla Stone, 1 Holy Water ^000000",
 		"Effect:^777777 Summons a holy tree of life for a short period of time, resurrecting the dead and recovering HP/SP of all players nearby. Undead and Demon monsters that approach the tree receive holy damage. ^000000",
 		"[LV 1]^777777 Holy Tree Stats: MAX HP +5%, HP Regen 300/s, SP Regen 2/s ^000000",
 		"[LV 2]^777777 Holy Tree Stats: MAX HP +10%, HP Regen 350/s, SP Regen 3/s ^000000",
@@ -11457,11 +11457,10 @@ SKILL_DESCRIPT = {
 	[SKID.NC_ARMSCANNON] = {
 
 		"Arms Cannon",
-		"Max Level:^777777 3 ^000000",
-		"Type:^777777 Offensive ^000000",
+		"Max Level:^777777 3 ^000000",		"Type:^777777 Offensive ^000000",
 		"SP Cost:^777777 50 ^000000",
 		"Cast Time:^777777 ?? ^000000",
-		"Catalyst:^777777 1 Magic Gear Fuel and 1 Cannon Ball. ^000000",
+		"Catalyst:^777777 1 Magic Gear Fuel, 1 Cannon Ball ^000000",
 		"Effect:^777777 Using the magic gears basic equipment, fires a large cannon ball dealing blast damage around the target. Deals lower damage on larger targets. Uses the attribute of the cannon ball equipped. ^000000",
 		"[LV 1]^777777 800~600~400% ATK, Area 7x7 ^000000",
 		"[LV 2]^777777 1000~800~600% ATK, Area 5x5 ^000000",
@@ -11552,7 +11551,7 @@ SKILL_DESCRIPT = {
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 100 ^000000",
 		"Cast Time:^777777 ?? ^000000",
-		"Catalyst:^777777 2 Magic Gear Fuel, 1 Elemental Stone (Depending on SkillLV. ^000000",
+		"Catalyst:^777777 2 Magic Gear Fuel, 1 Elemental Stone (Depending on SkillLV) ^000000",
 		"Effect:^777777 Changes the armor element of the magic gear. Requires the magic gear equipment Shapeshift equipped. ^000000",
 		"[LV 1]^777777 Attribute Change Fire, Consume 1 Flame Heart ^000000",
 		"[LV 2]^777777 Attribute Change Earth, Consume 1 Great Nature ^000000",
@@ -11574,7 +11573,7 @@ SKILL_DESCRIPT = {
 	[SKID.NC_INFRAREDSCAN] = {
 
 		"Infrared Scan",
-		"Max Level:^777777 3 ^000000",
+		"Max Level:^777777 1 ^000000",
 		"Type:^777777 Support ^000000",
 		"SP Cost:^777777 ??+??*SkillLV^000000",
 		"Cast Time:^777777 ?? ^000000",
