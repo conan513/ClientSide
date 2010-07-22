@@ -10664,13 +10664,13 @@ SKILL_DESCRIPT = {
 		"Cast Time:^777777 Instant ^000000",
 		"Cool Down:^777777 10 sec ^000000",
 		"Duration:^777777 15 sec, -20% sec if selfcasted ^000000",
-		"Effect:^777777 Imprisons the target temporarily behind a white magic curtain, preventing them from moving. While in this state you cannot take damage other than ghost property attacks.",
-		"When White Imprison ends the target takes 2000 damage. You can cast this skill on yourself but it will last 20% shorter and take 2000 damage when it ends. ^000000",
-		"[LV 1]^777777 Success Rate 50% ^000000",
-		"[LV 2]^777777 Success Rate 60% ^000000",
-		"[LV 3]^777777 Success Rate 70% ^000000",
-		"[LV 4]^777777 Success Rate 80% ^000000",
-		"[LV 5]^777777 Success Rate 90% ^000000",
+		"Effect:^777777 Imprisons the target temporarily behind a white magic curtain, preventing them from moving. While in this state you cannot take damage other than ghost property attacks or attacks with fixed damage (examples: Gravitation Field, Gloria Domini).",
+		"When White Imprison ends, the target takes a fixed amount of damage according to the skill level. You can cast this skill on yourself, but it will last only 5 seconds. The success rate is influenced by the user's job level. ^000000",
+		"[LV 1]^777777 Success Rate 53%, Damage 400 ^000000",
+		"[LV 2]^777777 Success Rate 56%, Damage 800 ^000000",
+		"[LV 3]^777777 Success Rate 59%, Damage 1200 ^000000",
+		"[LV 4]^777777 Success Rate 62%, Damage 1600 ^000000",
+		"[LV 5]^777777 Success Rate 65%, Damage 2000 ^000000",
 	},
 
 	[SKID.WL_SOULEXPANSION] = {
@@ -10743,7 +10743,7 @@ SKILL_DESCRIPT = {
 
 	[SKID.WL_RECOGNIZEDSPELL] = {
 
-		"Recognize Spell",
+		"Recognized Spell",
 		"Max Level:^777777 5 ^000000",
 		"Type:^777777 Special Status ^000000",
 		"SP Cost:^777777 40+10*SkillLV ^000000",
@@ -10752,7 +10752,7 @@ SKILL_DESCRIPT = {
 		"Duration:^777777 10 + 10*SkillLV sec ^000000",
 		"Effect:^777777 By gaining a greater understanding of your magic, you can make all of your magic skills deal max damage. However, skills consume 25% more SP. ^000000",
 		"[LV 1]^777777 Duration 20 sec ^000000",
-		"[LV 2]^777777 Duration 30 secs ^000000",
+		"[LV 2]^777777 Duration 30 sec ^000000",
 		"[LV 3]^777777 Duration 40 sec ^000000",
 		"[LV 4]^777777 Duration 50 sec ^000000",
 		"[LV 5]^777777 Duration 60 sec ^000000",
