@@ -5633,14 +5633,14 @@ Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class^000000
 2314#
 Heavy mail made entirely of polished, metal chain links.
 Class :^777777 Armor^000000
-Defense :^777777 55^000000
+Defense :^777777 8^000000
 Weight :^777777 330^000000
 Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class^000000
 #
 2315#
 Heavy mail made entirely of polished, metal chain links.
 Class :^777777 Armor^000000
-Defense :^777777 55^000000
+Defense :^777777 8^000000
 Weight :^777777 330^000000
 Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class^000000
 #
