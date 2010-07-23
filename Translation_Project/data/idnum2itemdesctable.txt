@@ -24133,12 +24133,11 @@ Applicable Job :^777777 Every Job^000000
 #
 5286#
 Headgear with Pecopeco's wings on it. It makes wearer to move as fas as Pecopeco.
-Increases movement speed by 5% when equipped.
-Increases Attack Speed by 5%. Reduce Casting Time by 5%.
+Increases movement speed by 25%, but decreases Attack Speed by 10% and increases Casting Time by 25%.
 Class :^777777 Headgear^000000
 Defense :^777777 3^000000
 Equipped on :^777777 Upper^000000
-Weight :^777777 10^000000
+Weight :^777777 0^000000
 Applicable Job :^777777 Every Job^000000
 #
 5287#
