@@ -1809,8 +1809,8 @@ mins #
 secs#
 아이템 명을 입력해 주세요.#
 That item does not exist.#
-~1811#
-~1812#
+Unable to warp to the map. The map does not exist.#
+The card name or a prefix(suffix) does not exist.#
 ~1813#
 ~1814#
 ~1815#

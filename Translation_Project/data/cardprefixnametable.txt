@@ -452,3 +452,27 @@
 4451#of Axis#
 4452#Magical#
 4453#Violent#
+
+// - Episode 14.1 Cards - \\
+4456#Spell Master#
+4457#Psychic#
+4458#of Illusion#
+4459#of Fast#
+4460#of Healing#
+4461#of Sharp#
+4462#Prime Defense#
+4463#Prime Offense#
+4464#of Fatal#
+4465#Sweeping#
+4466#Straight Shooting#
+4467#Heavy#
+4468#Polution#
+4469#Marine#
+4470#Botany#
+4471#Draco#
+4472#Carnivore#
+4473#Undead#
+4474#Mortal#
+4475#Intangible#
+4476#Entomic#
+4477#Demonic#

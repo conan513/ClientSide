@@ -7946,6 +7946,30 @@
 5744#Capricon_Crown#
 5745#Capricon_Diadem#
 
+// - Episode 14.1 Cards - \\
+4456#Nidhoggur Shadow Card#
+4457#Naght Seiger Card#
+4458#Duneyrr Card#
+4459#Rata Card#
+4460#Ryncho Card#
+4461#Phyllia Card#
+4462#Hardrock Mammoth Card#
+4463#Tendrillion Card#
+4464#Aunoe Card#
+4465#Fanat Card#
+4466#Beholder Master Card#
+4467#Heavy Metaling Card#
+4468#Dark Pinguicula Card#
+4469#Naga Card#
+4470#Nephenthes Card#
+4471#Dragon Egg Card#
+4472#Bradium Golem Card#
+4473#Ancient Tree Card#
+4474#Zakudam Card#
+4475#Cobalt Mineral Card#
+4476#Pinguicula Card#
+4477#Hell Appocalypse Card#
+
 // ----- Aegis DB Only Items -----
 5095#Helmet_of_Orc_Hero#
 542#Festival_Cookie#

@@ -5647,7 +5647,7 @@ Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class^000000
 2316#
 Heavy, solid armor made of durable plates of impenetrable metal.
 Class :^777777 Armor^000000
-Defense :^777777 70^000000
+Defense :^777777 10^000000
 Weight :^777777 450^000000
 Required Level :^777777 40^000000
 Applicable Job :^777777 Swordman Class^000000
@@ -5655,7 +5655,7 @@ Applicable Job :^777777 Swordman Class^000000
 2317#
 Heavy, solid armor made of durable plates of impenetrable metal.
 Class :^777777 Armor^000000
-Defense :^777777 70^000000
+Defense :^777777 10^000000
 Weight :^777777 450^000000
 Required Level :^777777 40^000000
 Applicable Job :^777777 Swordman Class^000000
@@ -50783,4 +50783,148 @@ Defense :^777777 0^000000
 Weight :^777777 10^000000
 Required Level :^777777 80^000000
 Applicable Job :^777777 Every Job Except Novice^000000
+#
+
+// - Episode 14.1 Cards - \\
+4456#
+INT + 5
+When equipped by a High Wizard or Warlock Jobs,
+Fixed cast of all skills -50%.
+Class :^777777 Card^000000
+Compound on :^777777 Armor^000000
+Weight :^777777 1^000000
+#
+4457#
+Increases damage of all ghost element magic attacks by 30%.
+Class :^777777 Card^000000
+Compound on :^777777 Armor^000000
+Weight :^777777 1^000000
+#
+4458#
+ATK + 20.
+When dealing physical damage, there's a chance that for 4 seconds your perfect dodge will increase by 10.
+Class :^777777 Card^000000
+Compound on :^777777 Headgear^000000
+Weight :^777777 1^000000
+#
+4459#
+When dealing magic damage, there's a chance that for 4 seconds your fixed cast time will be reduced by 50%.
+Class :^777777 Card^000000
+Compound on :^777777 Headgear^000000
+Weight :^777777 1^000000
+#
+4460#
+Heal Skill Recovery + 3%.
+Increases SP cost of skills by 5%.
+Class :^777777 Card^000000
+Compound on :^777777 Headgear^000000
+Weight :^777777 1^000000
+#
+4461#
+Dex + 1, Agi + 1.
+When dealing physical damage, there's a chance that for 4 seconds you will recieve CRIT + 20.
+Class :^777777 Card^000000
+Compound on :^777777 Headgear^000000
+Weight :^777777 1^000000
+#
+4462#
+DEF + 5.
+If the armor is refined to +12 or higher, DEF + 20, MaxHP + 12%.
+Class :^777777 Card^000000
+Compound on :^777777 Armor^000000
+Weight :^777777 1^000000
+#
+4463#
+CRIT + 5.
+If the weapon is refined to +12 or higher, CRIT + 10, ATK + 35.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4464#
+Critical Attack Damage + 20%.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4465#
+ATK + 10.
+If compounded on a two hand sword, at +10 refine or higher grants ASPD +1, at +14 refine or higher grants an additional ASPD + 1.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4466#
+Ranged Attack Damage + 3%.
+If compounded on a bow, at +10 refine or higher crants ASPD + 1, at +14 refine or higher grants an additional ASPD + 1.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4467#
+STR + 2.
+If equipped by a merchant job, increases cart revolution damage by 50%, but increases its SP cost by 12.
+Class :^777777 Card^000000
+Compound on :^777777 Shoes^000000
+Weight :^777777 1^000000
+#
+4468#
+ATK + 10. When killing a monster, adds a chance to have a poisonous herb drop.
+Class :^777777 Card^000000
+Compound on :^777777 Headgear^000000
+Weight :^777777 1^000000
+#
+4469#
+Increases magic damage against fish type monsters by 10%.
+Class :^777777 Card^000000
+Compound on :^777777 Headgear^000000
+Weight :^777777 1^000000
+#
+4470#
+Increases magic damage on plant type monsters by 10%.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4471#
+Increases magic damage on dragon type monsters by 10%.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4472#
+Increases magic damage on brute type monsters by 10%.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4473#
+Increases magic damage on undead type monsters by 10%.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4474#
+Increases magic damage on demihuman type monsters by 10%.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4475#
+Increases magic damage on formless type monsters by 10%.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4476#
+Increases magic damage on insect type monsters by 10%.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
+#
+4477#
+Increases magic damage on demon type monsters by 10%.
+Class :^777777 Card^000000
+Compound on :^777777 Weapon^000000
+Weight :^777777 1^000000
 #
