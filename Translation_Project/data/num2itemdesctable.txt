@@ -29474,7 +29474,6 @@ Weight :^777777 40^000000
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 75^000000
 #
-#
 2785#
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 10^000000
@@ -29487,7 +29486,6 @@ Weight :^777777 10^000000
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 50^000000
 #
-
 14381#
 A box containing 1 "Staff Of Piercing" inside.
 ^ffffff_^000000
@@ -30670,6 +30668,7 @@ Weight :^777777 1^000000
 #
 
 // ------ 2009-01-21 »ÙÅ©¼×²µ,Ä«°ìµ·ÀÌ,Ä¼²Ã --------
+14462#
 A box that contains 1 "Dark Randgris Helm" inside.
 ^ffffff_^000000
 A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better.
@@ -37669,6 +37668,7 @@ Weight :^777777 30^000000
 5745#
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 30^000000
+#
 
 // -------------------- Aegis DB Only Items --------------------
 5095#

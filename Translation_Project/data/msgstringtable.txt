@@ -1694,7 +1694,7 @@ Party Booking List#
 Only alphanumeric characters is allowed.#
 Message#
 Because the store information was incorrect the item was not purchased.#
-Item can be discarded from the window.#
+Item cannot be discarded from the window.#
 Time#
 Map#
 You cannot unequip while in trade.#
@@ -1811,6 +1811,12 @@ secs#
 That item does not exist.#
 Unable to warp to the map. The map does not exist.#
 The card name or a prefix(suffix) does not exist.#
-~1813#
-~1814#
+~한번에 구매 가능 종류는 10개입니다.#
+~일부 아이템의 구매가 실패하였습니다.#
 ~1815#
+~1816#
+~1817#
+~1818#
+~1819#
+~1820#
+~1821#

@@ -1146,7 +1146,11 @@ jobtbl = {
 	["JT_G_ANTLER_SCARABA"] = 2144,
 	["JT_G_RAKE_SCARABA"] = 2145,
 	["JT_G_S_NYDHOG"] = 2146,
-	["JT_MONSTER_LAST"] = 2147,
+	["JT_E_WHITE_PLANT"] = 2147,
+	["JT_E_BLUE_PLANT"] = 2148,
+	["JT_E_SAVAGE_BABE"] = 2149,
+	["JT_WATERMELON"] = 2150,	
+	["JT_MONSTER_LAST"] = 2151,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
@@ -1711,4 +1715,10 @@ jobtbl = {
 	["JT_4_F_RAFLE_VI"] = 525,
 	["JT_4_M_ARDHA"] = 526,
 	["JT_4_CREEPER"] = 527,
+	["JT_JP_RUFAKU"] = 528,
+	["JT_JP_SUPIKA"] = 529,
+	["JT_JP_SABIKU"] = 530,
+	["JT_JP_ARUGORU"] = 531,
+	["JT_JP_ARUNA"] = 532,
+	["JT_JP_AIRI"] = 533,	
 }
