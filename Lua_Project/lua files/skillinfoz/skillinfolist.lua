@@ -5848,7 +5848,7 @@ SKILL_INFO_LIST = {
 		"RA_WUGSTRIKE";
 		SkillName = "Warg Strike",
 		MaxLv = 5,
-		SpAmount = { 30, 32, 34, 36, 38 },
+		SpAmount = { 20, 22, 24, 26, 28 },
 		_NeedSkillList = {
 			{ SKID.RA_TOOTHOFWUG,1 }
 		}
@@ -7935,7 +7935,7 @@ SKILL_INFO_LIST = {
 
 	[SKID.MH_NEEDLE_OF_PARALYZE] = {
 		"MH_NEEDLE_OF_PARALYZE";
-		SkillName = "Paralyze Needle",
+		SkillName = "Needle of Paralyze",
 	},
 
 	[SKID.MH_POISON_MIST] = {
@@ -7973,6 +7973,91 @@ SKILL_INFO_LIST = {
 		SkillName = "Silent Breeze",
 	},
 
+	[SKID.MH_STYLE_CHANGE] = {
+		"MH_STYLE_CHANGE";
+		SkillName = "Style Change",
+	},	
+
+	[SKID.MH_SONIC_CRAW] = {
+		"MH_SONIC_CRAW";
+		SkillName = "Sonic Claw",
+	},
+
+	[SKID.MH_SILVERVEIN_RUSH] = {
+		"MH_SILVERVEIN_RUSH";
+		SkillName = "Silver Bain Rush",
+	},
+
+	[SKID.MH_MIDNIGHT_FRENZY] = {
+		"MH_MIDNIGHT_FRENZY";
+		SkillName = "Midnight Frenzy",
+	},
+
+	[SKID.MH_STAHL_HORN] = {
+		"MH_STAHL_HORN";
+		SkillName = "Steel's Horn",
+	},
+
+	[SKID.MH_GOLDENE_FERSE] = {
+		"MH_GOLDENE_FERSE";
+		SkillName = "Golden Heel",
+	},
+
+	[SKID.MH_STEINWAND] = {
+		"MH_STEINWAND";
+		SkillName = "Stone Wall",
+	},
+
+	[SKID.MH_HEILIGE_STANGE] = {
+		"MH_HEILIGE_STANGE";
+		SkillName = "Holy Pole",
+	},
+
+	[SKID.MH_ANGRIFFS_MODUS] = {
+		"MH_ANGRIFFS_MODUS";
+		SkillName = "Attack Mode",
+	},
+
+	[SKID.MH_TINDER_BREAKER] = {
+		"MH_TINDER_BREAKER";
+		SkillName = "Tinder Breaker",
+	},
+
+	[SKID.MH_CBC] = {
+		"MH_CBC";
+		SkillName = "Continual Break Combo",
+	},
+
+	[SKID.MH_EQC] = {
+		"MH_EQC";
+		SkillName = "Eternal Quick Combo",
+	},
+
+	[SKID.MH_MAGMA_FLOW] = {
+		"MH_MAGMA_FLOW";
+		SkillName = "Magma Flow",
+	},
+
+	[SKID.MH_GRANITIC_ARMOR] = {
+		"MH_GRANITIC_ARMOR";
+		SkillName = "Granitic Armor",
+	},
+
+	[SKID.MH_LAVA_SLIDE] = {
+		"MH_LAVA_SLIDE";
+		SkillName = "Lava Slide",
+	},
+
+	[SKID.MH_PYROCLASTIC] = {
+		"MH_PYROCLASTIC";
+		SkillName = "Pyroclastic",
+	},
+
+	[SKID.MH_VOLCANIC_ASH] = {
+		"MH_VOLCANIC_ASH";
+		SkillName = "Volcanic Ash",
+	},
+	
 	[SKID.MS_BASH] = {
 		"MS_BASH";
 		SkillName = "Bash",

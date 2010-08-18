@@ -1,3 +1,9 @@
+rev70 - [2010-08-19]
+ - Updated lua files + lub files to kRO Patch(2010-08-18)
+ - Updated skilldescript.lua to the latest kRO skill descriptions (Thanks Rikter for major updates :D)
+   * New descriptions are partly translated
+ - Added decompiled Patch Client lub files
+
 rev68 - [2010-08-11]
  - Updated lua files + lub files to kRO Patch(2010-08-11)
 

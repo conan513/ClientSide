@@ -99,7 +99,7 @@ StateIconList[EFST_IDs.EFST_GS_ACCURACY] = {
 StateIconList[EFST_IDs.EFST_FOOD_STR] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME},
-		{"Improves STR"}
+		{"Increases STR"}
 	}
 }
 StateIconList[EFST_IDs.EFST_HALLUCINATIONWALK] = {
@@ -337,7 +337,7 @@ StateIconList[EFST_IDs.EFST_SHIELDSPELL_REF] = {
 StateIconList[EFST_IDs.EFST_FOOD_INT_CASH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
-		{"Improves INT"}
+		{"Increases INT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_NOEQUIPSHIELD] = {
@@ -384,7 +384,7 @@ StateIconList[EFST_IDs.EFST_CR_SHRINK] = {
 StateIconList[EFST_IDs.EFST_FOOD_VIT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
-		{"Improves VIT"}
+		{"Increases VIT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PARRYING] = {
@@ -404,7 +404,7 @@ StateIconList[EFST_IDs.EFST_PROTECTWEAPON] = {
 StateIconList[EFST_IDs.EFST_FOOD_AGI] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
-		{"Improves AGI"}
+		{"Increases AGI"}
 	}
 }
 StateIconList[EFST_IDs.EFST_INC_AGI] = {
@@ -607,7 +607,8 @@ StateIconList[EFST_IDs.EFST_ONEHANDQUICKEN] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"One-hand Quicken", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
-		{"Increases ASPD when using one-handed weapons"}
+		{"Using One-handed Weapon"},
+		{"Increases ASPD"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SPEARQUICKEN] = {
@@ -777,7 +778,7 @@ StateIconList[EFST_IDs.EFST_FIGHTINGSPIRIT] = {
 StateIconList[EFST_IDs.EFST_FOOD_VIT_CASH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
-		{"Improves VIT"}
+		{"Increases VIT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SATURDAY_NIGHT_FEVER] = {
@@ -970,7 +971,7 @@ StateIconList[EFST_IDs.EFST_GIANTGROWTH] = {
 StateIconList[EFST_IDs.EFST_STR_SCROLL] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
-		{"Improves STR"}
+		{"Increases STR"}
 	}
 }
 StateIconList[EFST_IDs.EFST_AB_SECRAMENT] = {
@@ -1017,7 +1018,7 @@ StateIconList[EFST_IDs.EFST_OVERHEAT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"Over Heat", COLOR_TITLE_BUFF}, 
 		{"Heating caused by skill use"}, 
-		{"A certain amount of HP is lost every second"}
+		{"Drains HP every second"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SPL_MATK] = {
@@ -1082,7 +1083,7 @@ StateIconList[EFST_IDs.EFST_S_LIFEPOTION] = {
 StateIconList[EFST_IDs.EFST_FOOD_LUK] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
-		{"Improves LUK"}
+		{"Increases LUK"}
 	}
 }
 StateIconList[EFST_IDs.EFST_BLOODING] = {
@@ -1105,7 +1106,7 @@ StateIconList[EFST_IDs.EFST_REFRESH] = {
 StateIconList[EFST_IDs.EFST_FOOD_LUK_CASH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME},
-		{"Improves LUK"}
+		{"Increases LUK"}
 	}
 }
 StateIconList[EFST_IDs.EFST_BROKENARMOR] = {
@@ -1233,7 +1234,7 @@ StateIconList[EFST_IDs.EFST_CHASEWALK2] = {
 StateIconList[EFST_IDs.EFST_FOOD_STR_CASH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME},
-		{"Improves STR"}
+		{"Increases STR"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CLOAKINGEXCEED] = {
@@ -1307,7 +1308,7 @@ StateIconList[EFST_IDs.EFST_UNLIMITED_HUMMING_VOICE] = {
 StateIconList[EFST_IDs.EFST_FOOD_DEX] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
-		{"Improves DEX"}
+		{"Increases DEX"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ANALYZE] = {
@@ -1432,7 +1433,7 @@ StateIconList[EFST_IDs.EFST_FOOD_BASICHIT] = {
 StateIconList[EFST_IDs.EFST_FOOD_AGI_CASH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
-		{"Improves AGI"}
+		{"Increases AGI"}
 	}
 }
 StateIconList[EFST_IDs.EFST_SHADOWFORM] = {
@@ -1508,7 +1509,7 @@ StateIconList[EFST_IDs.EFST_INFRAREDSCAN] = {
 StateIconList[EFST_IDs.EFST_INT_SCROLL] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
-		{"Improves INT"}
+		{"Increases INT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_ASPERSIO] = {
@@ -1533,7 +1534,7 @@ StateIconList[EFST_IDs.EFST_LERADS_DEW] = {
 StateIconList[EFST_IDs.EFST_FOOD_INT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
-		{"Improves INT"}
+		{"Increases INT"}
 	}
 }
 StateIconList[EFST_IDs.EFST_VENOMBLEED] = {
@@ -1632,7 +1633,7 @@ StateIconList[EFST_IDs.EFST_PRESTIGE] = {
 StateIconList[EFST_IDs.EFST_FOOD_DEX_CASH] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
-		{"Improves DEX"}
+		{"Increases DEX"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CARTBOOST] = {
@@ -1842,5 +1843,15 @@ StateIconList[EFST_IDs.EFST_ODINS_POWER] = {
 		{"%s", COLOR_TIME}, 
 		{"Increases ATK and MATK"}, 
 		{"Decreases DEF and MDEF"}
+	}
+}
+StateIconList[EFST_IDs.EFST_MAGIC_CANDY] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Magic Candy", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"Increases MATK"}, 
+		{"Reduced Fixed Casting"},
+		{"Casting cannot be interrupted."},
+		{"Drains SP every 10 seconds"}
 	}
 }
