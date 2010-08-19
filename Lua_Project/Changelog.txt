@@ -1,3 +1,6 @@
+rev72 - [2010-08-19]
+ - Some updates in skilldescript.lua (new skill translations from doddler)
+
 rev70 - [2010-08-19]
  - Updated lua files + lub files to kRO Patch(2010-08-18)
  - Updated skilldescript.lua to the latest kRO skill descriptions (Thanks Rikter for major updates :D)
