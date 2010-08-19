@@ -18378,7 +18378,7 @@ Weight :^777777 1^000000
 4451#
 MATK + 100.
 Class :^777777 Card^000000
-Compound on :^777777 Weapon^000000
+Compound on :^777777 Armor^000000
 Weight :^777777 1^000000
 #
 4452#
