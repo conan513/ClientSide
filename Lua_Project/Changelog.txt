@@ -1,3 +1,8 @@
+rev73 - [2010-08-20]
+ - Updated new skill description (credits: doddler)
+ - Patch Client lua translation.
+ - 2010-08-18 Lub files v2
+
 rev72 - [2010-08-19]
  - Some updates in skilldescript.lua (new skill translations from doddler)
 

@@ -20021,12 +20021,12 @@ A jar of Gulaman made from strawberry flavored gelatin.
 Weight :^777777 1^000000
 #
 7744#
-A jar of “Leche Flan?made from creamy eggs and milk.
+A jar of "Leche Flan" made from creamy eggs and milk.
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
 7745#
-A jar of “Ube?made from yummy sweet purple yams.
+A jar of "Ube" made from yummy sweet purple yams.
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
@@ -20036,22 +20036,22 @@ A jar of Sago made of Tapioca cooked in brown sugar.
 Weight :^777777 1^000000
 #
 7747#
-A jar of “Langka?made of sweetened Jackfruit.
+A jar of "Langka" made of sweetened Jackfruit.
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
 7748#
-A jar of “Sweet Beans?made of sweetened Kidney beans.
+A jar of "Sweet Beans" made of sweetened Kidney beans.
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
 7749#
-A jar of “Sweet bananas?made of firm and ripe bananas cooked in sugar syrup.
+A jar of "Sweet bananas" made of firm and ripe bananas cooked in sugar syrup.
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
 7750#
-A jar of “Macapuno?made from young coconut meat cooked in sugar syrup.
+A jar of "Macapuno" made from young coconut meat cooked in sugar syrup.
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
@@ -23615,7 +23615,7 @@ When used, grants armor attribute for 5 minutes Holy attribute to convert.
 Weight : ^777777 1^000000
 #
 12281#
-A box contains treasure box?This contains a huge treasure cases maybe not ...
+A box contains treasure box. This contains a huge treasure cases maybe not ...
 ^ffffff_^000000
 Weight : ^777777 15^000000
 #
