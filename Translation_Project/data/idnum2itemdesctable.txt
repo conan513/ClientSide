@@ -6816,7 +6816,7 @@ Weight :^777777 50^000000
 Property :^777777 Neutral^000000
 Weapon Level :^777777 3^000000
 Required Level :^777777 50^000000
-Applicable Job :^777777 Mage Class, Soul Linker^000000
+Applicable Job :^777777 Mage Class^000000
 #
 1631#
 A holy stick which is made of Rune of Odin, speciallized for exorcism.
