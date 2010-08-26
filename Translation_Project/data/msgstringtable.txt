@@ -1610,7 +1610,7 @@ Anyone#
 You dropped %s (%d).#
 [%s] The Quest [%s] Shimashita monsters. (%d/%d)#
 The Quest %s has been removed.#
-[%s] is like#
+[%s] is#
  '%d' the Value of Experience#
  '%d' the Value of Job Experience#
  gained.#
@@ -1622,8 +1622,8 @@ Experience Message Display#
 Party Experience Message Display#
 Quest Info Message Display#
 Battlefield Message Display#
-[%s] to#
- [%s] to casting skills.#
+[%s] is#
+casting [%s].#
 Activate lock function.#
 Deactivate lock function.#
 [%s] has won [%s] from '%s'.#
