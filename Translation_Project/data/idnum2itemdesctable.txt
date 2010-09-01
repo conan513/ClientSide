@@ -3298,6 +3298,17 @@ Weapon Level :^777777 3^000000
 Required Level :^777777 110^000000
 Applicable Job :^777777 Trans Swordman Class, Trans Merchant Class^000000
 #
+1197#
+A two hand sword created by the Paradise Group.
+The sword is suitable for advanced users.
+Impossible to refine this item.
+Class :^777777 Two-handed Sword^000000
+Attack :^777777 200^000000
+Weight : ^777777 0^000000
+Weapon Level : ^777777 3^000000
+Required Level : ^777777 60^000000
+Applicable Job :^777777 Swordman Class^000000
+#
 
 1201#
 A simple knife.
@@ -4123,7 +4134,7 @@ Particularly modified Katar created for battles against humanoids. It makes to f
 STR + 1, Dex + 1, Luk + 1
 Increases physical attack against Demi human monster by 70%.
 Increases critical damage by 20%.
-Attac speed + 5%.
+Attack speed + 5%.
 Indestructible (except in upgrade attempts).
 Class :^777777 Katar^000000
 Attack :^777777 130^000000
@@ -4227,6 +4238,16 @@ Attack :^777777 145^000000
 Weight :^777777 0^000000
 Weapon Level :^777777 4^000000
 Required Level :^777777 1^000000
+Applicable Job :^777777 Assassin^000000
+#
+1289#
+...
+Impossible to refine this item.
+Class :^777777 Katar^000000
+Attack :^777777 155^000000
+Weight : ^777777 0^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 60^000000
 Applicable Job :^777777 Assassin^000000
 #
 
@@ -4816,6 +4837,17 @@ Required Level :^777777 1^000000
 Applicable Job :^777777 Swordman Class, Merchant Class^000000
 #
 
+1391#
+...
+Impossible to refine this item.
+Class :^777777 Two Handed Axe^000000
+Attack : ^777777 195^000000
+Weight : ^777777 0^000000
+Weapon Level : ^777777 3^000000
+Required Level : ^777777 60^000000
+Applicable Job :^777777 Swordman Class, Merchant Class^000000
+#
+
 1401#
 A light spear that can be thrown in an attack. It'll probably be safer to keep holding on to it, though.
 Class :^777777 Spear^000000
@@ -5164,6 +5196,16 @@ Weight :^777777 180^000000
 Weapon Level :^777777 3^000000
 Required Level :^777777 102^000000
 Applicable Job :^777777 Royal Guard Only^000000
+#
+1434#
+...
+Impossible to refine this item.
+Class :^777777 Spear^000000
+Attack : ^777777 165^000000
+Weight : ^777777 0^000000
+Weapon Level : ^777777 3^000000
+Required Level : ^777777 60^000000
+Applicable Job :^777777 Swordman Class^000000
 #
 
 1451#
@@ -6475,6 +6517,18 @@ Required Level :^777777 0^000000
 Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
 #
 
+1583#
+...
+MATK + 110
+Impossible to refine this item.
+Class :^777777 Book^000000
+Attack : ^777777 135^000000
+Weight : ^777777 0^000000
+Weapon Level : ^777777 3^000000
+Required Level : ^777777 60^000000
+Applicable Job :^777777 Priest, Sage, Star Gladiator^000000
+#
+
 1599#
 "^339999The Real Holy Cross^000000"
 #
@@ -7136,6 +7190,7 @@ Weapon Level :^777777 3^000000
 Required Level :^777777 102^000000
 Applicable Job :^777777 Sorcerer^000000
 #
+
 1657#
 A staff that radiates a lovely light.
 MATK + 160, INT + 2.
@@ -7150,6 +7205,17 @@ Property :^777777 Holy^000000
 Weapon Level :^777777 3^000000
 Required Level :^777777 100^000000
 Applicable Job :^777777 Arch Bishop^000000
+#
+1658#
+...
+INT + 4, MATK + 170
+Impossible to refine this item.
+Class :^777777 Staff^000000
+Attack : ^777777 60^000000
+Weight : ^777777 0^000000
+Weapon Level : ^777777 3^000000
+Required Level : ^777777 60^000000
+Applicable Job :^777777 Mage Class, Acolyte Class, Soul Linker^000000
 #
 
 1701#
@@ -8181,6 +8247,16 @@ Weapon Level :^777777 3^000000
 Required Level :^777777 102^000000
 Applicable Job :^777777 Sura Only^000000
 #
+1831#
+...
+Impossble to refine this item.
+Class :^777777 Claw^000000
+Attack : ^777777 120^000000
+Weight : ^777777 0^000000
+Weapon Level : ^777777 3^000000
+Required Level : ^777777 60^000000
+Applicable Job :^777777 Priest, Monk^000000
+#
 
 1901#
 The classical stringed instrument favored by Rocker, the grasshopper monster who'd rather play music than do actual work.
@@ -8501,6 +8577,16 @@ Weight :^777777 80^000000
 Weapon Level :^777777 3^000000
 Required Level :^777777 102^000000
 Applicable Job :^777777 Minstrel Only^000000
+#
+1931#
+...
+Impossible to refine this item.
+Class :^777777 Musical Instrument^000000
+Attack : ^777777125^000000
+Weight : ^7777770^000000
+Weapon Level : ^7777773^000000
+Required Level : ^77777760^000000
+Applicable Job :^777777 Bard^000000
 #
 
 1950#
@@ -8884,6 +8970,16 @@ Weight :^777777 100^000000
 Weapon Level :^777777 4^000000
 Required Level :^777777 110^000000
 Applicable Job :^777777 Wanderer Only^000000
+#
+1986#
+...
+Impossible to refine this item.
+Class :^777777 Whip^000000
+Attack : ^777777 125^000000
+Weight : ^777777 0^000000
+Weapon Level : ^777777 3^000000
+Required Level : ^777777 60^000000
+Applicable Job :^777777 Dancer^000000
 #
 
 2000#
@@ -12086,6 +12182,18 @@ Weight :^777777 30^000000
 Required Level :^777777 100^000000
 Applicable Job :^777777 Arch Bishop^000000
 #
+2473#
+...
+VIT + 1, AGI + 1.
+Increases HP recovery rate by 28%.
+Increases SP recovery rate by 12%.
+Impossible to refine this item.
+Class :^777777 Footgear^000000
+Defense : ^777777 20^000000
+Weight : ^777777 0^000000
+Required Level : ^777777 60^000000
+Applicable Job :^777777 Every Job^000000
+#
 
 2501#
 A simple, soft garment that covers the head and neck.
@@ -12782,6 +12890,17 @@ Defense :^777777 12^000000
 Weight :^777777 40^000000
 Required Level :^777777 100^000000
 Applicable Job :^777777 Arch Bishop^000000
+#
+2571#
+...
+FLEE + 12.
+Increase resistance to ^777777Neutral^000000 Property attacks by 10%.
+Impossible to refine this item.
+Class :^777777 Garment^000000
+Defense : ^777777 18^000000
+Weight : ^777777 0^000000
+Required Level : ^777777 60^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 2601#
@@ -18948,6 +19067,10 @@ Reduces the SP cost of Coluceo Heal by 30.
 #
 4805#
 Increases heal quantity by 3%.
+#
+4806#
+MATK + 3%
+¿íÁ¤ Ä¼²µÆÃ ²Ã¿£ 1% ¿¨³Ò.
 #
 
 5001#
@@ -28216,6 +28339,52 @@ Weight :^777777 1^000000
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
+6397#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6398#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6399#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6400#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+
+6411#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6412#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6413#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6414#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6415#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
 
 7001#
 A handful of soft, powdery mould that is strangely silken to the touch.
@@ -31956,36 +32125,55 @@ Weight :^777777 0^000000
 #
 
 7625#
-¶«±ğ¿¡ Æ¯µ¿ÇÑ µ·´ó¿ú ¾¼È¯ ¿¡»É ÇÏ»Ù¿í ÇÑ»Ù. ·¶ÀÌ ·ğÀ´ ³ö¸Ï ÁÁ»Ù.
-Weight : ^7777770^000000
+...
+^ffffff_^000000
+Weight :^777777 0^000000
 #
 7626#
-µÎºå¸¯°î ´¡¿£ ½­. ±îºò¿¡¸Î ¿¡Á®¿¡·é »õ ·ÚÁø ¿Íºé¿ú ¾¼È¯ÇÒ ³ö ÀÖ»Ù¿í ÇÑ»Ù.
-Weight : ^7777771^000000
+...
+^ffffff_^000000
+Weight :^777777 1^000000
 #
 7627#
-»ëÁö±ß°ì ´óÀÚ·¦ °­ ³ö ÀÖ»Â °­³è.
-²Åµñ¸Î°î »À¼¦À´ ÁØ»Ù.
-Weight : ^7777770^000000
+...
+^ffffff_^000000
+Weight :^777777 0^000000
 #
 7628#
-»ëÁö±ß°ì ´óÀÚ·¦ °­ ³ö ÀÖ»Â °­³è.
-²Åµñ¸Î°î »À¼¦À´ ÁØ»Ù.
-Weight : ^7777770^000000
+...
+^ffffff_^000000
+Weight :^777777 0^000000
 #
 7629#
-°©³µºéÀÌ ÁÁ±Æ ÇÒ ºí µ·ÀÌ»Â °¶´Û ´óÀÚ
-Weight : ^7777770^000000
+...
+^ffffff_^000000
+Weight :^777777 0^000000
 #
 7630#
-Çâ¾ßÇÑ ±Ë¸Î°¡ Çâ¾â¿¡ Ç¼¾â»Â µøÀÚ¸ç.
-»õ¸¯°î ±½¸¶¾âºéÀ´ Ã´³ÒÇÏ»Â º¥ ÀûÇÕÇØ µ·ÀÎ»Ù.
-Weight : ^7777770^000000
+...
+^ffffff_^000000
+Weight :^777777 0^000000
 #
 7631#
-±ÇÃë¿¡ ²ÉÇÏ¿Ô Ç¼¾â»Â ±½¸¶¾âÀÇ ÀÜ°©¶¿.
-´¡·® Ä¡°ö¶ö·®ºº¸Ï ÇÏÀÚ.
-Weight : ^7777770^000000
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+
+7637#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+7638#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+7639#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
 #
 
 7701#
@@ -37036,12 +37224,14 @@ Weight : ^7777772^000000
 Required Level : ^777777120^000000
 #
 12575#
-°¤ÇÁÀÇ È­´ìÀÌ 500¿¼ »ã¿ÜÁø È­´ìÅë.
-Weight : ^77777725^000000
-°ä¾·¸¶µ§ : ^777777100^000000
+A quiver which contains 500 Elven Arrows.
+^ffffff_^000000
+Weight :^777777 25^000000
+Required Level :^777777 100^000000
 #
 12576#
-´ç¼É°ë È­´ìÀÌ 500¿¼ »ã¿ÜÁø È­´ìÅë.
+A quiver which contains 500 Hunting Arrows.
+^ffffff_^000000
 Weight : ^77777725^000000
 #
 12577#
@@ -37059,6 +37249,116 @@ Weight : ^7777771^000000
 ¶ßÅ¿·®ÀÇ ¶İÁö¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 4ÀÏ¿£ ´ç°ë ¿¡»É.
 Weight : ^7777770^000000
+#
+12580#
+¿ÔÆæ ·¹¶ıÇĞÈ·ÀÇ °À¸£ °¬¾··¦ ÅëÇÑ È·²ÉÀÇ ²ÃÇèÀÛ.
+'¼ëÁ¡°¡³­ ÆÇ·Å, ¾·ÀÔ ÁßÀÎ ±ÆÀÌÅÛÀ´ ¿Ë´öÇÒ ³ö ÀÖ»Â' ·¹¶ıÀÌ »ã¾ä ÁÖ¶®³­¸Î, ¿Ë´öºÈ ¼ëÁ¡ÀÇ À§Ä¡·¦ ±Ë ³ö ÀÖ»Ù.
+^000088´ç°ëÀÚ¿¡ ³­ ÀÖ»Â ·Ê°¡ °­¸ÁÀÖ»Â ¼ëÁ¡·· ¿Ë´öÇÕ»Ï»Ù.^000000
+¶«¿Ô : ^7777771^000000
+#
+12581#
+¿ÔÆæ ·¹¶ıÇĞÈ·ÀÇ »õ°í ÁøÈ­ÇÑ °¬¾· ³µ¿ú!
+'¼ëÁ¡°¡³­ ÆÇ·Å, ¾·ÀÔ ÁßÀÎ ±ÆÀÌÅÛÀ´ ¿Ë´öÇÒ ³ö ÀÖ»Â' ·¹¶ıÀÌ »ã¾ä ²µÅ©¸Ñ¸Î, ¿Ë´öºÈ ·ºÅ©·¦ ÅëÇØ ¶¿¿ÇÀ´ Á÷Á¢ ¾··ÅÇÏ¿Å¼ª ÆÇ·Åºº ¿¡»ÉÇÏ»Ù!
+^000088´ç°ëÀÚ¿¡ ³­ ÀÖ»Â ·Ê°¡ °­¸ÁÀÖ»Â ¼ëÁ¡·· ¿Ë´öÇÕ»Ï»Ù.^000000
+¶«¿Ô : ^7777771^000000
+#
+12582#
+¿ø³µÀü°¡ ÇÊ°äÇÑ °©¸¯¿¡Áö ³Ò·ğÇ¿ÀÌ ºé±îÀÖ»Â ´óÀÚ.
+¶«¿Ô : ^77777710^000000
+#
+12583#
+È«µ·ÆÀÀÌ ¾ôÂ¦ ÀÌµ¥Æ®¸Î ÁØµñÇÑ ÀÛÀµ ´óÀÚ.
+¶«¿Ô : ^7777771^000000
+#
+12584#
+¿¼¶ßÆÀÀÌ ¿í²ÉÇÏ·ç °­²ÉÈ÷ ÁØµñÇÑ ÀÛÀµ ´óÀÚ.
+¶«¿Ô : ^7777771^000000
+#
+12585#
+·¹ÄÉÆÃÆÀÀÌ »«Ä¡µ·»Ù ²²¾×·Ó»Ï ÁØµñÇÑ ÀÛÀµ ´óÀÚ.
+¶«¿Ô : ^7777771^000000
+#
+12586#
+°î°ºÆÀÀÌ µÎ½ô¸»¿í ¿¡²°¹¼·®¿Ô ÁØµñÇÑ ÀÛÀµ ´óÀÚ.
+¶«¿Ô : ^7777771^000000
+#
+12587#
+"Áö¾İ ¹ó¾×¼ª¸ÎÅ©·¦ Áñ¾â¿í ÀÖ»Â »ç²Å°¡¿Ô  ±î»À¼¯ ¿©ÀÚ¾â ÇÏ»Ã°¡³­ ³¾¶¿ÀÌ ¹¼±îÁö»Âº¥...!" ÀÛÀµ ¾Û±±¸Î ÀüÇüÀûÀÎ °ºÈ­ Æ®¸¶ÀÏ¸¯ ¾¤¿í¶®¾· ¿¿Àµ ¿ÍÀÌ ÀûÇôÀÖ»Ù.
+¶«¿Ô : ^7777771^000000
+#
+12588#
+"Áö¾İ ¹ó¾×¼ª¸ÎÅ©·¦ Áñ¾â¿í ÀÖ»Â »ç²Å°¡¿Ô  ±î»À¼¯ ¿©ÀÚ¾â ÇÏ»Ã°¡³­ ³¾¶¿ÀÌ ¹¼±îÁö»Âº¥...!" ÀÛÀµ ¾Û±±¸Î ÀüÇüÀûÀÎ °ºÈ­ Æ®¸¶ÀÏ¸¯ ¾¤¿í¶®¾· ¿¿Àµ ¿ÍÀÌ ÀûÇôÀÖ»Ù.
+¶«¿Ô : ^7777771^000000
+#
+12589#
+"Áö¾İ ¹ó¾×¼ª¸ÎÅ©·¦ Áñ¾â¿í ÀÖ»Â »ç²Å°¡¿Ô  ±î»À¼¯ ¿©ÀÚ¾â ÇÏ»Ã°¡³­ ³¾¶¿ÀÌ ¹¼±îÁö»Âº¥...!" ÀÛÀµ ¾Û±±¸Î ÀüÇüÀûÀÎ °ºÈ­ Æ®¸¶ÀÏ¸¯ ¾¤¿í¶®¾· ¿¿Àµ ¿ÍÀÌ ÀûÇôÀÖ»Ù.
+¶«¿Ô : ^7777771^000000
+#
+
+12591#
+¿ÔÆæ ·¹¶ıÇĞÈ·ÀÇ »õ°í ÁøÈ­ÇÑ °¬¾· ³µ¿ú!
+'¼ëÁ¡°¡³­ ÆÇ·Å, ¾·ÀÔ ÁßÀÎ ±ÆÀÌÅÛÀ´ ¿Ë´öÇÒ ³ö ÀÖ»Â' ·¹¶ıÀÌ »ã¾ä ²µÅ©¸Ñ¸Î, ¿Ë´öºÈ ·ºÅ©·¦ ÅëÇØ ¶¿¿ÇÀ´ Á÷Á¢ ¾··ÅÇÏ¿Å¼ª ÆÇ·Åºº ¿¡»ÉÇÏ»Ù!
+^000088´ç°ëÀÚ¿¡ ³­ ÀÖ»Â ·Ê°¡ °­¸ÁÀÖ»Â ¼ëÁ¡·· ¿Ë´öÇÕ»Ï»Ù. ÀÌ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ÀÌ Á±¸áºÇ·é ´èÁ¦ºË»Ï»Ù.^000000
+¶«¿Ô : ^7777771^000000
+#
+
+12595#
+...
+^ffffff_^000000
+Weight :^777777 10^000000
+#
+12596#
+For 1 minute, adds MATK + 30, reduces fixed cast time by 70%, and makes it so casting cannot be interupted.
+Drains 90SP every 10 seconds while it's active. Has a re-use delay of 3 minutes.
+If you die, the item effect is removed.
+^ffffff_^000000
+Weight :^777777 10^000000
+#
+
+12600#
+±ÆÁöÆ® µ·¶¿´óÀÚ·¦ ³ÒÈ¯ÇÒ ³ö ÀÖ»Ù.
+(·¹À´, ·¹À´ ¼´µÎ, Äù²µÆ® Àü°ë·Ê°¡³¾ ´ç°ëÀÌ µí¿¡»ÉÇÏ»Ù.)
+^uu0000ÁÖÀÇ´çÇ× : ÇØ»ç µ·¶¿´óÀÚ»Â »Ù·¥ Ä¼·¯ÅÍºº ¿ø¿İÀ´ ÇÒ³ö ÀÖÀ·»Ï, ÁÖµ¯°¡ »Ù·¥ Ä¼·¯ÅÍ¿¡ ±ø»ÂÁö
+È®ÀÎÈÄ ´ç°ëÀ´ ÇØÁÖ²Ã¾â ¶Ù¹ø»Ï»Ù.^000000
+¶«¿Ô : ^7777770^000000
+#
+12601#
+·ÀÀÖ»Â ³ö¶ÚÀ´ ¿¥±Æ³­ ··ºç Áê²µ.
+SK, HK·¦ 5% È·µ¶ÇÑ»Ù.
+¶«¿Ô : ^77777710^000000
+#
+12602#
+Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ıÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
+¶«¿Ô : ^77777710^000000
+#
+12603#
+Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ıÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
+¶«¿Ô : ^77777710^000000
+#
+12604#
+Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ıÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
+¶«¿Ô : ^77777710^000000
+#
+12605#
+Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ıÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
+¶«¿Ô : ^77777710^000000
+#
+12606#
+Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ıÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
+¶«¿Ô : ^77777710^000000
+#
+12607#
+^000088ÀÓ»ë ±ÆÀÌÅÛ^000000
+·ÀÀÖ»Â ¸Ñ·®ÆË 1¿¼¿¡ ºé±îÀÖ»Â ´óÀÚ. 3ÀÏ¿£ ´ç°ë ¿¡»ÉÇÏ»Ù.
+¶«¿Ô : ^7777771^000000
+#
+12608#
+È­¸ÁÇÑ ³ö¿øÀÌ ºÇ±îÀÖ»Â ¾İ³Ó ÀçÁúÀÇ ´óÀÚ.
+¶«¿Ô : ^77777710^000000
+#
+12609#
+¼¿¿í ÁöÀúµĞÇÑ ¾¤³® ´óÀÚ. ³Ò·®·¦ ºé±îµ·»Ï °©¸¯Á±¸ùÀÇ ¾¤³®ÀÌ ºé±îÀÖ»Â ¿Í ¿¿»Ù.
+¶«¿Ô : ^77777710^000000
 #
 
 12701#
@@ -38764,6 +39064,18 @@ Required Level :^777777 120^000000
 Applicable Job :^777777 Trans Swordman Class, Mage Class, Archer Class, Merchant Class, Thief Class^000000
 #
 
+13066#
+...
+MATK + 80
+Impossible to refine this item.
+Class :^777777 Dagger^000000
+Attack :^777777 165^000000
+Weight :^777777 0^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 60^000000
+Applicable Job :^777777 Novice, Swordman Class, Mage Class, Archer Class, Merchant Class, Thief Class, Soul Linker, Ninja^000000
+#
+
 13100#
 A six chambered revolver that is the most basic weapon for Gunslingers.
 HIT - 10
@@ -38922,6 +39234,17 @@ Attack :^777777 60^000000
 Weight :^777777 0^000000
 Weapon Level :^777777 2^000000
 Required Level :^777777 40^000000
+Applicable Job :^777777 Gunslinger^000000
+#
+13114#
+...
+HIT - 5.
+Impossible to refine this item.
+Class :^777777 Revolver^000000
+Attack :^7777777 6^000000
+Weight :^777777 0^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 60^000000
 Applicable Job :^777777 Gunslinger^000000
 #
 
@@ -39759,6 +40082,17 @@ Weight :^777777 0^000000
 Required Level :^777777 1^000000
 Applicable Job :^777777 Ninja^000000
 #
+13310#
+...
+MATK + 50
+Impossible to refine this item.
+Class :^777777 Huuma^000000
+Attack :^777777 170^000000
+Weight :^777777 0^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 60^000000
+Applicable Job :^777777 Ninja^000000
+#
 
 13400#
 An one-handed sword popularized by its use by sea adventurers.
@@ -40098,6 +40432,17 @@ Weight :^777777 220^000000
 Weapon Level :^777777 3^000000
 Required Level :^777777 110^000000
 Applicable Job :^777777 Trans Swordman Class, Merchant Class^000000
+#
+
+13434#
+...
+Impossible to refine this item.
+Class :^777777 Sword^000000
+Attack : ^777777 185^000000
+Weight : ^777777 0^000000
+Weapon Level : ^777777 3^000000
+Required Level : ^777777 60^000000
+Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class^000000
 #
 
 13500#
@@ -48436,6 +48781,17 @@ Property : ^777777 Shadow^000000
 Required Level : ^777777 100^000000
 Applicable Job : ^777777 Arch Bishop^000000
 #
+15031#
+...
+STR + 1, INT + 1, DEX + 1.
+MaxHP + 500, MaxSP  + 50, MDEF + 5.
+Impossible to refine this item.
+Class : ^777777 Armor^000000
+Defense : ^777777 58^000000
+Weight : ^777777 0^000000
+Required Level : ^777777 40^000000
+Applicable Job :^777777 Every Job^000000
+#
 
 16000#
 Crafted in the shape of the Serpent of Knowledge.
@@ -48554,6 +48910,16 @@ Weight :^777777 120^000000
 Weapon Level :^777777 3^000000
 Required Level :^777777 100^000000
 Applicable Job :^777777 Arch Bishop^000000
+#
+16014#
+...
+Impossible to refine this item.
+Class :^777777 Mace^000000
+Attack :^777777 172^000000
+Weight :^777777 0^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 60^000000
+Applicable Job :^777777 Swordman Class, Acolyte Class, Merchant Class^000000
 #
 
 16100#
@@ -51220,6 +51586,69 @@ Weight : ^7777771^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
 Weight : ^7777771^000000
 #
+16657#
+²Å³ÓÇÑ ´ı·í³ö¿¡ 10¿¼¿¡ ºé±îÀÖ»Â ´óÀÚ.
+
+¿¢Á± È·µ¶¸Â°¡ ºº°òÀÌ ºÇ»Â ²Ä¶¿ÁóÀ´ ÀÀÃàÇØ »ã±Æ¼õÀµ µ». µü·¥ ´óÃ¼ Àç´ı°¡ È°ÇèÀÌ ÀÖ»Ù¿í ÇÑ»Ù.
+µ¶°ëÇÏ·é 10µĞ¿£ 3ÃÊ·¹»Ù NSKÀÇ 6%·¦ È·µ¶ÇÑ»Ù.
+¶ö³­Å© ´óÅÂ°¡³­»Â È°¿ú¿¡ ¶ßº°ÇÏÁö ±Ê»Â»Ù.
+^000088Ä¼·¯ÅÍ¿¡ ÀüÅõµÒ»É´óÅÂ¿¡ ºÇ·é ±ÆÀÌÅÛ È°¿úºº ´ç¹óÁı»Ï»Ù.^000000
+¶«¿Ô : ^7777771^000000
+^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
+¶«¿Ô : ^7777771^000000
+#
+16658#
+²Å³ÓÇÑ ´ı·í³ö¿¡ 10¿¼¿¡ ºé±îÀÖ»Â ´óÀÚ.
+¿¢Á± È·µ¶¸Â°¡ ºº°òÀÌ ºÇ»Â ²Ä¶¿ÁóÀ´ ÀÀÃàÇØ »ã±Æ¼õÀµ µ». µü·¥ ´óÃ¼ Àç´ı°¡ È°ÇèÀÌ ÀÖ»Ù¿í ÇÑ»Ù.
+µ¶°ëÇÏ·é 10µĞ¿£ 3ÃÊ·¹»Ù NSKÀÇ 6%·¦ È·µ¶ÇÑ»Ù.
+¶ö³­Å© ´óÅÂ°¡³­»Â È°¿ú¿¡ ¶ßº°ÇÏÁö ±Ê»Â»Ù.
+^000088Ä¼·¯ÅÍ¿¡ ÀüÅõµÒ»É´óÅÂ¿¡ ºÇ·é ±ÆÀÌÅÛ È°¿úºº ´ç¹óÁı»Ï»Ù.^000000
+¶«¿Ô : ^7777771^000000
+^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
+¶«¿Ô : ^7777771^000000
+#
+
+16660#
+°ºÈ¥ÀÇ ³Û¿÷ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
+^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000¶«¿Ô : ^7777771^000000
+#
+16661#
+°ºÈ¥ÀÇ ³Û¿÷ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
+^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000¶«¿Ô : ^7777771^000000
+#
+16662#
+¶é±ç¾Ã ÇÏ»ÃÀÇ µ·¿üÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
+^uuuuuu_^000000
+¶«¿Ô : ^7777771^000000
+#
+16663#
+¶é±ç¾Ã ÇÏ»ÃÀÇ °Õ¿üÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
+^uuuuuu_^000000
+¶«¿Ô : ^7777771^000000
+#
+
+16666#
+·¹¶ıÄººğ 10¿¼°Í Çà°îÀÇ ±Ë¥¹ 1¿¼¿¡ ºé±îÀÖ»Â ´óÀÚ.
+
+ÀÔ±È°¡ ¼ÖÀ··é ÅåÅå Æ¢»Â ²Å¾âÇÑ ´çÅÁ. ·Ô¿í ¼ª³¾ ÀÌ´¡À´ ½À »Ûºº¸Ï ÇÏÀÚ.
+1µĞº°±È NZGP + 30, ¿íÁ¤ Ä¼²µÆÃ 70% ¿¨³Ò, Ä¼²µÆÃÀÌ ½÷¾âÁö ±ÊÀ². 10ÃÊ»ç HK 90±° ¿¨³Ò.
+3µĞÀÇ Àç´ç°ë »ë¾â²Ã¿£ Á·Àç.
+(¿íÁ¤ Ä¼²µÆÃÀÇ % Áõ¿¨ È°¿ú»Â ¿¡Àå Å« È°¿ú·· Àû°ëºË»Ï»Ù. Àç´ç°ë »ë¾â²Ã¿£Àµ ÅåÅåÄººğ°Í ¿øÀ¯ÇÕ»Ï»Ù.)
+Ä¼·¯ÅÍ¿¡ ÀüÅõµÒ»É´óÅÂ¿¡ ºÇ·é ±ÆÀÌÅÛ È°¿úºº ´ç¹óÁı»Ï»Ù.
+^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
+¶«¿Ô : ^7777771^000000
+#
+16667#
+·¹¶ıÄººğ 10¿¼°Í Çà°îÀÇ ±Ë¥¹ 1¿¼¿¡ ºé±îÀÖ»Â ´óÀÚ.
+
+ÀÔ±È°¡ ¼ÖÀ··é ÅåÅå Æ¢»Â ²Å¾âÇÑ ´çÅÁ. ·Ô¿í ¼ª³¾ ÀÌ´¡À´ ½À »Ûºº¸Ï ÇÏÀÚ.
+1µĞº°±È NZGP + 30, ¿íÁ¤ Ä¼²µÆÃ 70% ¿¨³Ò, Ä¼²µÆÃÀÌ ½÷¾âÁö ±ÊÀ². 10ÃÊ»ç HK 90±° ¿¨³Ò.
+3µĞÀÇ Àç´ç°ë »ë¾â²Ã¿£ Á·Àç.
+(¿íÁ¤ Ä¼²µÆÃÀÇ % Áõ¿¨ È°¿ú»Â ¿¡Àå Å« È°¿ú·· Àû°ëºË»Ï»Ù. Àç´ç°ë »ë¾â²Ã¿£Àµ ÅåÅåÄººğ°Í ¿øÀ¯ÇÕ»Ï»Ù.)
+Ä¼·¯ÅÍ¿¡ ÀüÅõµÒ»É´óÅÂ¿¡ ºÇ·é ±ÆÀÌÅÛ È°¿úºº ´ç¹óÁı»Ï»Ù.
+^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
+¶«¿Ô : ^7777771^000000
+#
 
 18000#
 Required item to use the Mechanic Magic gear skill "Arm Cannon".
@@ -51281,6 +51710,17 @@ Required Level :^777777 105^000000
 Applicable Job :^777777 3rd Job Archer Class^000000
 #
 
+18106#
+...
+Impossible to refine this item.
+Class :^777777 Bow^000000
+Attack :^777777 140^000000
+Weight :^777777 0^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 60^000000
+Applicable Job :^777777 Archer Class, Rogue^000000
+#
+
 18500#
 ^000088ÀÓ»ë ±ÆÀÌÅÛ^000000
 Á¤°­ÀûÀÎ ´¡¿£´öÀÇ ÀÀ°ø°ë ²µÄ«ÇÁ.
@@ -51329,4 +51769,28 @@ Applicable Job :^777777 Every Job^000000
 À§Ä¡ : ^777777Áß»Ü^000000    Weight : ^77777710^000000
 °ä¾·¸¶µ§ : ^77777770^000000
 ÀåÂø : ^777777¼ëµñ²µ¿è°­À´ Á¦°ÜÇÑ ÀüÁ÷±÷ ÀåÂø¿¡»É^000000
+#
+
+18513#
+¶İÂ¦¶İÂ¦ µûÀÌ¼ª¿Ô ºÈ ÇØ¶Ù¹ó¾â.
+OFP + 2.
+¶¿·® ¿ø¿İÀ´ ¶ŞÀ´ ²Ã ÀÏÁ¤È®¸ü¸Î ÀÎºà±î Oe1 ¶ßº°.
+¿è°­ : ^777777Åõ¾·^000000
+¶æ±î : ^7777770^000000
+À§Ä¡: ^777777´ó»Ü ^000000
+¶«¿Ô : ^77777730^000000
+°ä¾· ¸¶µ§ : ^7777770^000000
+ÀåÂø : ^777777¼ëµñ²µ·¦ Á¦°ÜÇÑ ÀüÁ÷±÷^000000
+#
+18514#
+A hat given only to members of the Paradise Group.
+It looks as though it was designed as part of a uniform.
+When dealing physical damage there's a high chance that for 5 seconds you will gain ATK + 10.
+When dealing magic damage there's a high chance that for 5 seconds you will gain MATK + 10.
+Class :^777777 Headgear^000000
+Defense :^777777 5^000000
+Equipped on :^777777 Upper^000000
+Weight :^777777 0^000000
+Required Level :^777777 60^000000
+Applicable Job :^777777 Every Job^000000
 #

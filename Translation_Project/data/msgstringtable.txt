@@ -1255,8 +1255,8 @@ Do you really want to purchase '%s' item? %d points will be deducted from your t
  You do not have enough Kafra Credit Points.#
  ^ff0000Expiration Date: %s^000000#
  The '%s' item will disappear in %d minutes.#
-'%s' item will be deleted from the Inventory in 1 minute.#
-'%s' item has been deleted from the Inventory.#
+ '%s' item will be deleted from the Inventory in 1 minute.#
+  '%s' item has been deleted from the Inventory.#
 Input Number#
 %m/%d %H:%M#
 Boss Monster '%s' will appear within 1 minute.#
@@ -1418,15 +1418,15 @@ This skill cannot be used to duplicate.#
 Cannot use your skill.#
 You have exceeded the maximum amount of possession of another item.#
 No administrative privileges. Must first run the program with administrator privileges.#
-nProtect KeyCrypt Tarimasen the driver version. After the system restarts, please run a new will.#
-~WindowXP 호환성 모드를 사용하고 계십니다. 현재 프로그램에서 호환성 모드를 제거하였습니다. 프로그램을 새로 시작해 주십시오.#
+nProtect KeyCrypt not the same. Please restart the program and the computer first.#
+Currently wearing WindowXP Compatibility Mode. The program now removes Compatibility Mode. Please restart the program.#
 PS/2 keyloggers exist.#
 USB Keylogging attempt was detected.#
 HHD monitoring tool has been detected.#
-Book requires a painting.#
+Paintbrush is required.#
 Paint is required.#
 Use the skills that are not at the specified location.#
-도우미의 SP가 부족합니다.#
+Not enough SP.#
 Character %d is character selection window cannot connect to the game that exceeds the total. Please remove unwanted characters.#
 Throat Lozenge is required.#
 Painful Tears is required.#
@@ -1610,9 +1610,9 @@ Anyone#
 You dropped %s (%d).#
 [%s] The Quest [%s] Shimashita monsters. (%d/%d)#
 The Quest %s has been removed.#
-[%s] is#
- '%d' the Value of Experience#
- '%d' the Value of Job Experience#
+[%s] is #
+You Acquired '%d' Experience Points#
+You Acquired '%d' Job Experience Points#
  gained.#
  has lost.#
 From [%s], '%d' coins were stolen.#
@@ -1622,7 +1622,7 @@ Experience Message Display#
 Party Experience Message Display#
 Quest Info Message Display#
 Battlefield Message Display#
-[%s] is#
+[%s] is #
 casting [%s].#
 Activate lock function.#
 Deactivate lock function.#
@@ -1691,7 +1691,7 @@ Party Booking List#
 ~Party recruiting#
 [Bow] must be equipped.#
 [Musical Instrument/Whip] must be equipped.#
-Only alphanumeric characters is allowed.#
+Only alphanumeric characters are allowed.#
 Message#
 Because the store information was incorrect the item was not purchased.#
 Item cannot be discarded from the window.#
@@ -1700,7 +1700,7 @@ Map#
 You cannot unequip while in trade.#
 Unspecified value#
 /stateinfo : Shows the description of status icons. On Off#
-Status Information On : Status icon description is enabled. #
+Status Information On : Status icon description is enabled.#
 Status Information Off: Status icon description is disabled.#
 It is not possible to purchase the same item more than %d pieces at a time#
 It is not possible to purchase the same item more than %d pieces at a time#
@@ -1773,7 +1773,7 @@ Please enter levels between 1~150.#
 The equipment is not visible to the appropriate map.#
 Your level is not enough to wear the equipment.#
 Your level is not enough to use the item.#
-  Enable Battlemode#
+ Enable Battlemode#
 Tab size has exceeded and cannot be added.#
  Display Info#
 Sale#

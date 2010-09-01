@@ -5848,7 +5848,7 @@ SKILL_INFO_LIST = {
 		"RA_WUGSTRIKE";
 		SkillName = "Warg Strike",
 		MaxLv = 5,
-		SpAmount = { 20, 22, 24, 26, 28 },
+		SpAmount = { 30, 32, 34, 36, 38 },
 		_NeedSkillList = {
 			{ SKID.RA_TOOTHOFWUG,1 }
 		}

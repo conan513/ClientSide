@@ -250,12 +250,12 @@ InsertEmotionListTable(ET_AHA, MSI_EMOTION_AHA, 6)
 InsertEmotionMsgListTable(ET_AHA,c_GetMsgString(MSI_EMOTION_AHA))
 InsertEmotionMsgListTable(ET_AHA,"/aha")
 InsertEmotionMsgListTable(ET_AHA,"/dkgk")
---Group 8 Same Table number with 9?
+--Group 8
 InsertEmotionListTable(ET_FRET, MSI_EMOTION_FRET, 7)
 InsertEmotionMsgListTable(ET_FRET,c_GetMsgString(MSI_EMOTION_FRET))
 InsertEmotionMsgListTable(ET_FRET,"/fret")
 InsertEmotionMsgListTable(ET_FRET,"/Wkwmd")
---Group 9 Same Table number with Group 8? -- Changed to 8
+--Group 9
 InsertEmotionListTable(ET_ANGER, MSI_EMOTION_ANGER, 8)
 InsertEmotionMsgListTable(ET_ANGER,c_GetMsgString(MSI_EMOTION_ANGER))
 InsertEmotionMsgListTable(ET_ANGER,"/ghk")

@@ -75,7 +75,7 @@ StateIconList[EFST_IDs.EFST_CONCENTRATION] = {
 }
 StateIconList[EFST_IDs.EFST_GRIFFON] = {
 	descript = {
-		{"Riding Griffon", COLOR_TITLE_BUFF}
+		{"Riding Griffon", COLOR_TITLE_TOGGLE}
 	}
 }
 StateIconList[EFST_IDs.EFST_GS_MADNESSCANCEL] = {
@@ -513,13 +513,6 @@ StateIconList[EFST_IDs.EFST_NOEQUIPARMOR] = {
 		{"Armor cannot be worn"}
 	}
 }
-StateIconList[EFST_IDs.EFST_ENERGYCOAT] = {
-	descript = {
-		{"Energy Coat", COLOR_TITLE_BUFF}, 
-		{"Reduces damage in proportion"}, 
-		{"to the amount of SP remaining"}
-	}
-}
 StateIconList[EFST_IDs.EFST_RENOVATIO] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Renovatio", COLOR_TITLE_BUFF}, 
@@ -561,6 +554,7 @@ StateIconList[EFST_IDs.EFST_NOEQUIPHELM] = {
 }
 StateIconList[EFST_IDs.EFST_ATTHASTE_POTION3] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+		{"Berserk Potion", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
 		{"Increases ASPD"}
 	}
@@ -1855,3 +1849,12 @@ StateIconList[EFST_IDs.EFST_MAGIC_CANDY] = {
 		{"Drains SP every 10 seconds"}
 	}
 }
+StateIconList[EFST_IDs.EFST_ENERGYCOAT] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Energy Coat", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"Reduces damage in proportion"}, 
+		{"to the amount of SP remaining"}
+	}
+}
+
