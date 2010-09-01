@@ -22196,7 +22196,7 @@ Applicable Job :^777777 Every Job^000000
 #
 5325#
 An unidentified object look like eye.It comes from space and can give out light.
-ATK + 2%, MATK + 2%, Dex + 1
+Attack Power + 2%, MATK + 2%, Dex + 1
 Class :^777777 Headgear^000000
 Defense :^777777 2^000000
 Equipped on :^777777 Mid^000000
