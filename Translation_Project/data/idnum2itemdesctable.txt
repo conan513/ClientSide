@@ -8249,7 +8249,7 @@ Applicable Job :^777777 Sura Only^000000
 #
 1831#
 ...
-Impossble to refine this item.
+Impossible to refine this item.
 Class :^777777 Claw^000000
 Attack : ^777777 120^000000
 Weight : ^777777 0^000000
@@ -21927,7 +21927,6 @@ Increases Attack Speed by 5%. Reduce Casting Time by 5%.
 Class :^777777 Headgear^000000
 Defense :^777777 6^000000
 Equipped on :^777777 Upper^000000
-Weight :^777777 10^000000
 Applicable Job :^777777 Every Job^000000
 #
 5287#

@@ -1678,7 +1678,7 @@ Stalker#
 Creator#
 Clown#
 Gypsy#
-Poring#
+Wedding#
 High Novice#
 Super Novice#
 Gunslinger#
