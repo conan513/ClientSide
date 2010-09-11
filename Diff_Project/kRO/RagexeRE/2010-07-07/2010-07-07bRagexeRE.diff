@@ -561,35 +561,6 @@ byte_[UI]_Translate_Client_In_English_(Recommended):367527:189:97
 byte_[UI]_Translate_Client_In_English_(Recommended):367528:189:108
 byte_[UI]_Translate_Client_In_English_(Recommended):367529:183:41
 byte_[UI]_Translate_Client_In_English_(Recommended):36752A:212:0
-byte_[UI]_Translate_Client_In_English_(Recommended):37A231:195:68
-byte_[UI]_Translate_Client_In_English_(Recommended):37A232:162:105
-byte_[UI]_Translate_Client_In_English_(Recommended):37A233:32:115
-byte_[UI]_Translate_Client_In_English_(Recommended):37A234:199:112
-byte_[UI]_Translate_Client_In_English_(Recommended):37A235:165:108
-byte_[UI]_Translate_Client_In_English_(Recommended):37A236:189:97
-byte_[UI]_Translate_Client_In_English_(Recommended):37A237:195:121
-byte_[UI]_Translate_Client_In_English_(Recommended):37A239:193:73
-byte_[UI]_Translate_Client_In_English_(Recommended):37A23A:164:110
-byte_[UI]_Translate_Client_In_English_(Recommended):37A23B:186:102
-byte_[UI]_Translate_Client_In_English_(Recommended):37A23C:184:111
-byte_[UI]_Translate_Client_In_English_(Recommended):37A272:195:69
-byte_[UI]_Translate_Client_In_English_(Recommended):37A273:164:110
-byte_[UI]_Translate_Client_In_English_(Recommended):37A274:198:97
-byte_[UI]_Translate_Client_In_English_(Recommended):37A275:195:98
-byte_[UI]_Translate_Client_In_English_(Recommended):37A276:184:108
-byte_[UI]_Translate_Client_In_English_(Recommended):37A277:240:101
-byte_[UI]_Translate_Client_In_English_(Recommended):37A278:181:32
-byte_[UI]_Translate_Client_In_English_(Recommended):37A279:229:66
-byte_[UI]_Translate_Client_In_English_(Recommended):37A27A:32:97
-byte_[UI]_Translate_Client_In_English_(Recommended):37A27B:79:116
-byte_[UI]_Translate_Client_In_English_(Recommended):37A27C:110:116
-byte_[UI]_Translate_Client_In_English_(Recommended):37A27D:79:108
-byte_[UI]_Translate_Client_In_English_(Recommended):37A27E:102:101
-byte_[UI]_Translate_Client_In_English_(Recommended):37A27F:102:109
-byte_[UI]_Translate_Client_In_English_(Recommended):37A280:32:111
-byte_[UI]_Translate_Client_In_English_(Recommended):37A281:200:100
-byte_[UI]_Translate_Client_In_English_(Recommended):37A282:176:101
-byte_[UI]_Translate_Client_In_English_(Recommended):37A283:188:0
 byte_[UI]_Translate_Client_In_English_(Recommended):366EC8:184:109
 byte_[UI]_Translate_Client_In_English_(Recommended):366EC9:222:101
 byte_[UI]_Translate_Client_In_English_(Recommended):366ECA:189:115
@@ -1369,9 +1340,9 @@ byte_[Data]_Use_Official_Clothes_Palettes_All_Langtypes:2C0931:0:144
 byte_[Fix](13)_Allow_Multiple_Windows:2FEDC2:15:144
 byte_[Fix](13)_Allow_Multiple_Windows:2FEDC3:132:233
 
-byte_[Fix](13)_Disable_Multiple_Windows:2FEDCB:15:232
-byte_[Fix](13)_Disable_Multiple_Windows:2FEDCC:132:90
-byte_[Fix](13)_Disable_Multiple_Windows:2FEDCD:234:0
+byte_[Fix](13)_Disable_Multiple_Windows:2FEDC2:15:233
+byte_[Fix](13)_Disable_Multiple_Windows:2FEDC3:132:82
+byte_[Fix](13)_Disable_Multiple_Windows:2FEDC4:243:0
 
 byte_[Fix]_Disable_1rag1_&_1sak1_(Recommended):2FEA03:117:235
 
