@@ -1,3 +1,6 @@
+rev83 - [2010-09-16]
+ - Updated lua files + lub files to kRO Patch(2010-09-08)
+
 rev80 - [2010-09-02]
  - Updated lua files + lub files to kRO Patch(2010-09-01)
 
