@@ -1,0 +1,5 @@
+[UI]_Show_EXP/Job_Bars_up_to_255
+[Data](7)_Enable_Multiple_GRFs
+[Fix](13)_Disable_Multiple_Windows
+[Fix]_Invalid_Email_Fix_(Recommended)
+[Fix]_Disable_Encryption_in_Login_Packet_0x2b0_(Recommended)
