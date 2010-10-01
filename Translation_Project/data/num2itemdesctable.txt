@@ -2683,6 +2683,10 @@ Weight :^777777 0^000000
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 0^000000
 #
+1194#
+Unknown Item. Can be identified by using a Magnifier.
+Weight :^777777 0^000000
+#
 
 1196#
 Unknown Item. Can be identified by using a Magnifier.
@@ -3102,6 +3106,14 @@ Weight :^777777 0^000000
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 50^000000
 #
+1314#
+Unknown Item. Can be identified by using a Magnifier.
+Weight :^777777 0^000000
+#
+1315#
+Unknown Item. Can be identified by using a Magnifier.
+Weight :^777777 0^000000
+#
 
 1351#
 Unknown Item. Can be identified by using a Magnifier.
@@ -3378,6 +3390,10 @@ Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 420^000000
 #
 1430#
+Unknown Item. Can be identified by using a Magnifier.
+Weight :^777777 0^000000
+#
+1431#
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 0^000000
 #
@@ -3861,6 +3877,10 @@ Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 100^000000
 #
 1580#
+Unknown Item. Can be identified by using a Magnifier.
+Weight :^777777 0^000000
+#
+1581#
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 0^000000
 #
@@ -7468,7 +7488,34 @@ Weight :^777777 0^000000
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 0^000000
 #
-
+2834#
+Unknown Item. Can be identified by using a Magnifier.
+Weight :^777777 0^000000
+#
+2835#
+Unknown Item. Can be identified by using a Magnifier.
+Weight :^777777 0^000000
+#
+2836#
+Unknown Item. Can be identified by using a Magnifier.
+Weight :^777777 0^000000
+#
+2837#
+Unknown Item. Can be identified by using a Magnifier.
+Weight :^777777 0^000000
+#
+2838#
+Unknown Item. Can be identified by using a Magnifier.
+Weight :^777777 0^000000
+#
+2839#
+Unknown Item. Can be identified by using a Magnifier.
+Weight :^777777 0^000000
+#
+2840#
+Unknown Item. Can be identified by using a Magnifier.
+Weight :^777777 0^000000
+#
 2841#
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 0^000000
@@ -11349,7 +11396,7 @@ Increases heal quantity by 3%.
 #
 4806#
 MATK + 3%
-¿íÁ¤ Ä¼²µÆÃ ²Ã¿£ 1% ¿¨³Ò.
+Reduce Fixed Cast Time by 1%.
 #
 
 5001#
@@ -13783,6 +13830,170 @@ Weight :^777777 10^000000
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 30^000000
 #
+5612#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777750^000000
+#
+5613#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777730^000000
+#
+5614#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777710^000000
+#
+5615#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777710^000000
+#
+5616#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777750^000000
+#
+5617#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777720^000000
+#
+5618#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777730^000000
+#
+5619#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777710^000000
+#
+5620#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777780^000000
+#
+5621#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777715^000000
+#
+5622#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777720^000000
+#
+5623#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777750^000000
+#
+5624#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777710^000000
+#
+5625#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777710^000000
+#
+5626#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777780^000000
+#
+5627#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777730^000000
+#
+5628#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777710^000000
+#
+5629#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777720^000000
+#
+5630#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777740^000000
+#
+5631#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777720^000000
+#
+5632#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^777777100^000000
+#
+5633#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777710^000000
+#
+5634#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777760^000000
+#
+5635#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777780^000000
+#
+5636#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777750^000000
+#
+5637#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777735^000000
+#
+5638#
+Unknown Item. Can be identified by using a Magnifier.
+Weight : ^77777750^000000
+#
+5639#
+Unknown Item. Can be identified by using a Magnifier.
+Weight : ^77777730^000000
+#
+5640#
+Unknown Item. Can be identified by using a Magnifier.
+Weight : ^77777730^000000
+#
+5641#
+Unknown Item. Can be identified by using a Magnifier.
+Weight : ^77777720^000000
+#
+5642#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777730^000000
+#
+5643#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^777777300^000000
+#
+5644#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777740^000000
+#
+5645#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777710^000000
+#
+5646#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^77777710^000000
+#
+5647#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
+#
+5648#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
+#
+5649#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
+#
+5650#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
+#
+5651#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
+#
+5652#
+Unknown Item. Can be identified by using a Magnifier.
+Weight : ^77777780^000000
+#
 
 5661#
 Unknown Item. Can be identified by using a Magnifier.
@@ -14205,7 +14416,14 @@ Weight : ^77777710^000000
 Unknown Item. Can be identified by using a Magnifier.
 Weight : ^7777770^000000
 #
-
+5848#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
+#
+5849#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
+#
 5850#
 Unknown Item. Can be identified by using a Magnifier.
 Weight : ^77777750^000000
@@ -14867,7 +15085,29 @@ Weight :^777777 3^000000
 ^ffffff_^000000
 Weight :^777777 0^000000
 #
-
+6125#
+A box that brings a feeling of prosperity. Every time you think about opening it you resist the temptation.
+Perhaps a professional ^00FF00"Gift Opener"^000000 could be of assistance.
+You seem to recall seeing such a gal at:
+Prontera 164 110
+Payon 162 124
+Aldebaran 124 114
+Juno 179 187
+^ffffff_^000000
+Weight: ^7777771^000000
+^FF0000Be sure to open them immediately as they will stop being sold a few hours prior to the Box Opener Girls being removed which may not be during maintenance.^000000
+#
+6126#
+The joyful color of yellow makes you feel strangely happy. Every time you think about opening it you resist the temptation. Perhaps a professional ^00FF00"Gift Opener"^000000  could be of assistance.
+You seem to recall seeing such a gal at:
+Prontera 164 110
+Payon 162 124
+Aldebaran 124 114
+Juno 179 187
+^ffffff_^000000
+Weight: ^7777771^000000
+^FF0000This item can only be opened until Aug. 25, 2009^000000
+#
 6127#
 A purity stone that can remove the aftereffect of the Endless Tower at a time. 
 You can enter the Endless Tower without any restriction with this item.
@@ -15479,7 +15719,10 @@ Weight :^777777 1^000000
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
-
+6243#
+A token that can be exchanged for cash items.
+Weight : ^7777770^000000
+#
 6244#
 A dangerous ingredient that glows with a dark light.
 It's an explosive ingredient so handle with care.
@@ -15706,7 +15949,72 @@ Concentrated Ceromain Soup : ^00008810 Test Tubes, 15 White Potions^000000
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
-
+6286#
+A Gym Pass that can be given to a special NPC to learn a skill that will increase your Maximum Weight Capacity by 200 for each skill level.
+This special skill can only be learned up to Level 10.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+6287#
+If you give this coupon to the NPC, she will dye your costume.
+^ffffff_^000000
+Weight : ^7777770^000000
+#
+6288#
+The joyful color of yellow makes you feel strangely happy. Every time you think about opening it you resist the temptation. Perhaps a professional ^00FF00"Gift Opener"^000000  could be of assistance.
+You seem to recall seeing such a gal at:
+Prontera 164 110
+Payon 162 124
+Aldebaran 124 114
+Juno 179 187
+^ffffff_^000000
+Weight: ^7777771^000000
+^FF0000This item can only be opened until Aug. 25, 2009^000000
+#
+6289#
+Various colors are mixed into this mysterious dye. It is a primary ingredient for dying certain headgears.
+Weight : ^7777771^000000
+#
+6290#
+This coupon can be exchanged, along with the required materials, to a hair dresser to change your hairstyle.
+^ffffff_^000000
+Weight : ^7777770^000000
+#
+6291#
+Concentrated Elunium that has been buried deep underground. 
+Used as a material to strengthen armors.
+Enhances a chance of successful upgrade.
+Only Suhnbi of Payon is capable of refining with this material.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+6292#
+Dense Oridecon that has been buried deep underground. 
+Used as a material to strengthen weapons.
+Enhances a chance of successful upgrade.
+Only Suhnbi of Payon is capable of refining with this material.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+6293#
+A certificate imbued with the power of the invulnerable Ziegfried which allows its bearer to overcome death.
+Revives the dead character.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+6294#
+This written oath professes undying love, loyalty, and union.
+Forever in life, and eternally beyond death.
+^ffffff_^000000
+Cannot be Dropped or Traded.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+6295#
+If you give this coupon to the NPC, she will dye your costume to its original color.
+^ffffff_^000000
+Weight : ^7777770^000000
+#
 6296#
 ...
 ^ffffff_^000000
@@ -15897,7 +16205,7 @@ Weight :^777777 1^000000
 
 6345#
 °À´öµû¾òÀÇ ´ç¹û²µ¸¾ µûÀÌ ¶¹ÃÄÁ® ÀÖ»Ù.
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 
 6347#
@@ -15905,69 +16213,69 @@ Weight :^777777 1^000000
 "^0000882010¼â ´õÇØ¿¡ ¶à±Ò²À»Ï»Ù. ¶éÈ£ÀÇ ÇØ¹ó µÒ·®»Â ··Å­ È£¹ûÀÌ ·ğ±çÀ´ ÇÑ »ëÇÑ¶Î¾¶ºº ÆÄÀÌÆÃÀÔ»Ï»Ù! Ã´¼â²Ç±÷! ´ç¹óÁ®¹ó!^000000"
 Á±ÀÌÀÇ ·Ç ±Æ¸¡ ÀÛÀµ ¾Û±±¿¡ ÀÖ»Ù.
 'ÀÌ¿ÍÀ´ ¶ß¿ßÇß»Ù·é ^000088Ç×¾··¹À´^000000¸Î!'
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 6348#
 ¶ÙÆ÷·ŞÆ® ³­¶öÀÇ ^000088»ç²ÅºéÀÇÃº¾¶^000000 ÀÌ ÀûÀµ »ö»ãÀÌ»Ù.
 "^000088¿¡Á¸¿ú ÇÔ½½ Ç×´ó ¿Ç¿­ÇÏ²Ã¿í µ¶ ·¶ÀÌ ¶ŞÀ·³³°ä. ¹ó¾×ºº »õ ±ËÂ÷¿í Ãæ²ÇÇÑ ²µÅä·®¸Î À¯Àú·¦ ·ğ±Æ °À¸§º°±È ÇÔ½½ ÇßÀ··é ÁÁ¿Ú²À»Ï»Ù.^000000"
 Á±ÀÌÀÇ ·Ç ±Æ¸¡ ÀÛÀµ ¾Û±±¿¡ ÀÖ»Ù.
 'ÀÌ¿ÍÀ´ ¶ß¿ßÇß»Ù·é ^000088Ç×¾··¹À´^000000¸Î!'
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 6349#
 ´ç¹ó ³­¶öÀÇ ºå¸¶¼ë±î¶ı´ç ¿¡ ÀûÀµ »ö»ãÀÌ»Ù.
 "^000088´õ¸Î°î 2010¼âÀÌ ²ÃÀÛºÇºíÀÌ ¹ó¾×¼ª¸ÎÅ©ºº °¶ÀüÀÇ ÁÁ±Ò»ø ¼ª´¦»ø ¾â±ïÀ´ ·ğºÎ ¶ö·®¿í ÃÊ²É°¡³­ »Ù²Ã ²ÃÀÛÇØ ·ÚÁö¿Ô µÎÈ¿ÇÏ¾â·¦!^000000"
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 6350#
 ¹õºå¾×·®²µ ³­¶öÀÇ ^000088Ãº±Ç¡£^000000ÀÌ ÀûÀµ »ö»ãÀÌ»Ù.
 "^000088´õÇØ°¡»Â ¶Ù¹ó²Ã»Â ÀÏ ½Àºé ÀÌ¸ç±îÁö¾·°ä~ »Ù²Ã ¹ó¾×¿¡ Àü³µ¾â ²ÃÀıÀÇ À§´óÀ´ Ã£»Â ÇÑÇØ¿¡ ºÇ±úÀ··é ÁÁ¿Ú¼×°ä.^000000"
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 6351#
 ¹õºå¾×·®²µ ³­¶öÀÇ ^000088¡Ù¸Î±â¾øÆĞ¡Ù^000000 ¿¡ ÀûÀµ »ö»ãÀÌ»Ù.
 "^000088¿æÀÎ¼â ¶éÈ£ÀÇ ¹ìÃ¼¸¼ ¿­ÇÏ¿í °ë·ÍÇÑ È£¹ûÀÌÀÇ ¾â°îÀ´ ¶Ş±Æ³­ Ç×´ó ¿Ç¿­ÇÏ²Ã¿í ÁÁÀµÀÏ·· ¿¡ºæÇÏ²Ã·ç ¶«ÇÑÇÑ ¶ßÀüÀ´ ¾â°øÇÕ»Ï»Ù.^000000"
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 6352#
 Å·¼ªÅä²µ ³­¶öÀÇ ^000088Q .Q^000000 ¿¡ ÀûÀµ »ö»ãÀÌ»Ù.
 "^000088¼´ ÀÎ´ıÀÇ Àı¶İÀÇ º°¶İÀÚ ! iztmzilp. ¼Ê°¡¿Ô ÁÁÀµ 2010¼âÀÌ ºÇ¾æ µó»Ù.^000000"
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 6353#
 ¶ÙÆ÷·ŞÆ® ³­¶öÀÇ ^000088ÆÄ°öÆ÷²µ¸¶ÀÎÁ®^000000 ¿¡ ÀûÀµ »ö»ãÀÌ»Ù.
 "^000088°Ã ÇÑ ÇØ ·¹¶«·® ÀßÇÏ²Ã¿í º¶±Æ°À»Â ÇØ¿¡ È£¹ûÀÌÇØÀÎ ··Å­ È£¹ûÀÌ¿¡ Á×±î³­ ¿¡Á×À´ ¼½¾âºí, ¹ó¾×¼ª¸ÎÅ©·¦! À¯Àúºé°¡ ¾â±ï³Ó°¡ °À¸¡°À¸¡ !^000000"
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 6354#
 ¹õºå¾×·®²µ ³­¶öÀÇ ^000088ºî ºÚ·¦ ÇÓ»Â ÀÚ^000000 ¿¡ ÀûÀµ »ö»ãÀÌ»Ù.
 "^000088´õÇØ°¡»Â »õ°í »õ À¯Àúºé¿ú »õµÒ±î ÇÔ½½ Çàµ¶ÇÒ ³ö ÀÖ»Â ¾×¹óµñÆ³¿¡ ºÇ²Ã¾æ ¶Ù¹ø»Ï»Ù.^000000"
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 6355#
 ¶ÙÆ÷·ŞÆ® ³­¶öÀÇ ^000088±Ş¶úÁßÀÌ²É^000000 ÀÌ ÀûÀµ »ö»ãÀÌ»Ù.
 "^000088°Ã ÇØ°¡»Â ³ÖÁ÷È÷ Àü³³¿è ¿æÁ¦´çÁ¤ÀÌ ±ÈÁÁ±Ò²À»Ï»Ù..Çã¼ª ¼´·®·¸ ¾æÀÌ ÀÖÀ··é °À·£·¸ ¾æºº ÀÖºíÀÌ ¼´¼â°¡»Â ÁÁÀµ ÀÏ·· ¿¡ºæÇÏ²Ã¾æ ¶Ù¹ø»Ï»Ù.^000000"
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 6356#
 Å·¼ªÅä²µ ³­¶öÀÇ ^000088½É¶ì ²Â³øÀÌ^000000 ¿¡ ÀûÀµ »ö»ãÀÌ»Ù.
 "^000088°ì·® ·ğºÎ 2010¼â°¡»Â ¿¼ÀÎ ¿¡Á¤ ¾¶¿¡ÀÇ ¶ø°ºÀ´ À§ÇØ ÇÑ ·ö µÒ´ç·¦ ³ö ÀÖºº¸Ï °ø¾âÃæ·· ÇßÀ··é ÁÁ¿Ú²À»Ï»Ù.^000000"
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 6357#
 Æ÷ÃáÄíÅ¿ Á¦ÀÛÀÇ 1ÀÎÀÚ¹óºº ÀÌ¸¾ ²Ç³ö·¦ ÇÒ ¹§¿¡ ÀÖ»Â ¶ıÀÌ»Ù.
 ...³öÁıÇ¿ ´óÀÎÀÌ ´çÁÙÁöºº ·ğ·¥»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 6358#
 5000°ø ¶«¸áÄ¼²Ã ÀÌ°ë¾Ç.
 ¡Ø2010¼â 3°ù 10ÀÏ ÀÌÈÄ ¹ó¾×¼ª¸ÎÅ© È¨ÆäÀÌÁö°¡³­ È®ÀÎÀÌ ¿¡»ÉÇÕ»Ï»Ù.
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 6359#
 ¿¡ÀÌºåµÏ ¾¼È¯¾Ç.
 ¡Ø2010¼â 3°ù 10ÀÏ ÀÌÈÄ ¹ó¾×¼ª¸ÎÅ© È¨ÆäÀÌÁö°¡³­ È®ÀÎÀÌ ¿¡»ÉÇÕ»Ï»Ù.
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 6360#
 ...
@@ -15990,6 +16298,14 @@ Weight :^777777 0.5^000000
 Weight :^777777 0.5^000000
 #
 
+6376#
+A badge that is provided to warriors who have brought honor on the Krieger Von Midgard field.
+This badge can be used as KVM Points and exchanged for rewards from the KVM Logistic Officer in the Battle Field Waiting Room.
+Personal KVM Points will be used before this item is used for the reward requirement.
+Speak to a Maroll Battle Recruiter in Prontera, Morocc, Aldebaran, Geffen, Payon, Lighthalzen or Rachel to be sent to the Battle Field Room.
+This item can be stored only.
+Weight : ^7777770^000000
+#
 6377#
 ...
 ^ffffff_^000000
@@ -21326,6 +21642,11 @@ A piece that illusion left.
 ^ffffff_^000000
 Weight :^777777 0^000000
 #
+7975#
+A chocolate received from Cupid's Fairy to commemorate Valentine's Day.
+Remember to give it to someone special.
+Weight: ^7777770^000000
+#
 
 9001#
 An egg in which a Poring Cute Pet rests. Can be hatched by using a ^33CC33Pet Incubator^000000.
@@ -21960,7 +22281,7 @@ Weight :^777777 5^000000
 Á¤¸ÉÇĞ °Ü¾æÀÎ´ıÀÇ ¾×! '±î²µºå ¹ó¿ï'ÀÌ Ç®±î¼² Á¤¸É³úÀÇ ²Åµñ.
 '¹ó¿ïÀÌ °©¸¯µĞ°¡¿Ô·· ±Ë¸ÁÁÖ»Â Á¤¸É³úÀÇ Æ÷ÀÎÆ® ¿ø¸«! ÇÙ²É·· ²ï²ï Â¤±î¼Â²À»Ï»Ù!'
 '»ç²Åºº ÀÌ Ã¥À´ ÆîÄ¡»Â ³ø¿£ Á¤¸É´ç ´óÀ§ 1%!!'
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 11500#
@@ -22077,52 +22398,52 @@ Weight :^777777 1^000000
 11519#
 ·ğ¹ó·¹À´ ·í¶¿ ¿£²Ä. Àß ¾·°î ºÎ ÀåÀÇ ¿í¾â ÆĞÆ³ ´çÀÌ°¡ ¿¢Á± ±ßÃ¤°Í »Ü ¿úÀÏÀÌ ´÷ºåºÇ±î ÀÖ»Ù. ·Ô¾â ÁÁºº¸Ï ¿¨²Ñ ¼ª¶ºÀÙÀ·¸Î ÀÔ¿¡²ÉÀÌ ¿¡»É!
 ^000088SK ·¦ 200 ¿¡¸® È·µ¶^000000 ²ÃÄÑ ÁØ»Ù.
-¶«¿Ô : ^7777774^000000
+Weight : ^7777774^000000
 #
 11520#
 µñÇÁ¸Î²µÆ® ÀÎ¾Ù ÀÚ°¬°¡³­ ºå¶¿¿Ô ¶ß¿ßºÇ»Â ´óÅ­ÇÑ ·ÀÀÇ ¿úÀÏ.
 ^000088HK ·¦ 50 ¿¡¸® È·µ¶^000000 ²ÃÄÑ ÁØ»Ù.
-¶«¿Ô : ^7777772^000000
+Weight : ^7777772^000000
 °ä¾· ¸¶µ§ : ^777777100^000000
 #
 11521#
 ÇÉ¾Íµ£·®ÀÇ ÁóÀ´ Åå ²î»Â ·ÀÀÇ Áê²µ°Í ³¯±î ··ºç ¿Í. ÀÇ°Ü¸Î ·ÀÀÌ ÁÁ»Ù.
 ^000088SK·¦ 400, HK ·¦ 50 ¿¡¸® È·µ¶^000000 ²ÃÄÑ ÁØ»Ù.
-¶«¿Ô : ^7777775^000000
+Weight : ^7777775^000000
 °ä¾· ¸¶µ§ : ^777777100^000000
 #
 11522#
 ¼î¹ó°î È·µ¶È°¿ú·¦ Áö»Ñ ´¡¿£ ³ö±×. Àç¸á°¡ »ëÇØ³¾ ·ğ·£»Â ÆíÀÌ ÁÁ»Ù¿í ÇÑ»Ù.
 ^000088SK·¦ 400 ¿¡¸® È·µ¶^000000 ²ÃÄÑ ÁØ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 °ä¾· ¸¶µ§ : ^777777100^000000
 Àç´ç°ë »ë¾â²Ã¿£ :  ^7777771ÃÊ^000000
 #
 11523#
 ¼î¹ó°î È·µ¶È°¿ú·¦ Áö»Ñ ¼ë¹õ ³ö±×. Àç¸á°¡ »ëÇØ³¾ ·ğ·£»Â ÆíÀÌ ÁÁ»Ù¿í ÇÑ»Ù.
 ^000088SK·¦ 600 ¿¡¸® È·µ¶^000000 ²ÃÄÑ ÁØ»Ù.
-¶«¿Ô : ^77777712^000000
+Weight : ^77777712^000000
 °ä¾· ¸¶µ§ : ^777777110^000000
 Àç´ç°ë »ë¾â²Ã¿£ :  ^7777772ÃÊ^000000
 #
 11524#
 ¼î¹ó°î È·µ¶È°¿ú·¦ Áö»Ñ ÇÏ±á ³ö±×. Àç¸á°¡ »ëÇØ³¾ ·ğ·£»Â ÆíÀÌ ÁÁ»Ù¿í ÇÑ»Ù.
 ^000088SK·¦ 800 ¿¡¸® È·µ¶^000000 ²ÃÄÑ ÁØ»Ù.
-¶«¿Ô : ^77777712^000000
+Weight : ^77777712^000000
 °ä¾· ¸¶µ§ : ^777777120^000000
 Àç´ç°ë »ë¾â²Ã¿£ :  ^7777773ÃÊ^000000
 #
 11525#
 ·ğ¹ó·¹À´°¡³­ºº ±ó·¹ ±ø»Â ¾ÍÇÑ ²Ä¶¿À´ ·´¸Á³­ °ì¸Á¼² Â÷. ÇâÀÌ ±ÆÁÖ ÁÁ»Ù.
 ^000088SK·¦ 1500 ¿¡¸® È·µ¶^000000 ²ÃÄÑ ÁØ»Ù.
-¶«¿Ô : ^77777715^000000
+Weight : ^77777715^000000
 °ä¾· ¸¶µ§ : ^777777120^000000
 Àç´ç°ë »ë¾â²Ã¿£ :  ^7777775ÃÊ^000000
 #
 11526#
 ´óÅ­ÇÑ ÇÉ¾Íµ£·®·¦ ²Ã¸», ±óÀ²¿ú ÇÔ½½ ¿¥±Æ Â÷¿©¿Ô Áñ¾â»Â À²¸á.
 ^000088HK·¦ 120 ¿¡¸® È·µ¶^000000 ²ÃÄÑ ÁØ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 °ä¾· ¸¶µ§ : ^777777120^000000
 #
 
@@ -24615,7 +24936,240 @@ Duration 500 seconds.
 ^ffffff_^000000
 Weight :^777777 5^000000
 #
-
+12438#
+An enchanted, giant wing from an ancient creatures.
+Enables instant teleportation of many people when used by a Party Master.
+^ffffff_^000000
+This item can be traded and put into storage.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12439#
+This well written, detailed manual
+explains effective battle methods.
+^000088EXP rate increases to 150% for 30 minutes.^000000
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12440#
+A life insurance certificate issued by Kafra Headquarters.
+This item loses its effect once the player receives its benefit.
+If the character dies within 30 minutes after using this item, there will be no EXP loss penalty.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12441#
+Sweet, tasty bubble gum. Item drop rate increases by 100% for 30 minutes.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12442#
+A Kafra name card issued by the Kafra Headquarters.
+Using this card will call up the Kafra Service.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12443#
+Pressing the button on this stick will flash blinding light that seems to cause memory loss.
+Resets the Skill Tree and gives the corresponding number of Skill Points.
+This item can only be used in town, and the character must carry 0 weight, and cannot be equipped with a Pushcart, Falcon, or PecoPeco.
+Cannot be used by Novice Class.
+^ffffff_^000000
+Weight: ^7777770^000000
+#
+12444#
+A teleport scroll that warps you to the Siege Areas.
+Valkyrie Realms
+Britoniah
+Greenwood Lake
+Luina
+Valfreyja
+Nidhoggur
+Cannot be dropped.
+Weight: ^7777771^000000
+#
+12445#
+A very pricey Louyang dish that tastes absolutely superb.
+STR +10, 30 minute duration.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12446#
+This scorpion dish is cooked with the heat of the desert sand, and is one of the four best dishes in Sograt Desert cuisine.
+AGI +10, 30 minute duration.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12447#
+A cocktail whose unforgettable flavor is as potent as the breath of a dragon.
+INT +10, 30 minute duration.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12448#
+This beverage is named after the legendary spring that is believed to be the source of the world's rivers, and is famous for its pure, amazing taste.
+DEX +10, 30 minute duration.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12449#
+A rare, specialty Payon dish that bestows luck to those fortunate enough to eat it.
+LUK +10, 30 minute duration.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12450#
+A funkly smelling, suspicious looking stew that really does make you feel like an immortal when you eat it.
+VIT +10, 30 minute duration.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12451#
+An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgarts Kingdom.
+Locations: "Prontera", "Geffen", "Payon", "Morroc", "Al De Baran" or "Alberta" when waved in the air.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+12452#
+An enchanted butterfly's wing that instantly sends its user to the towns of the Schwartzwalt Republic.
+Locations: "Juno", "Lighthalzen", Einbroch" or "Hugel" when waved in the air.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+12453#
+An enchanted butterfly's wing that instantly sends its user to the towns of Arunafeltz.
+Locations: "Veins" or "Rachel"
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+12454#
+An enchanted butterfly's wing that instantly sends its user to the island towns of Rune Midgard.
+Locations: "Ayothaya", "Amatsu", "Luoyang", "Kunlun" "Moscovia"
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+12455#
+A teleport scroll that warps you to the Siege Areas.
+Valkyrie Realms
+Britoniah
+Greenwood Lake
+Luina
+Valfreyja
+Nidhoggur
+Cannot be dropped.
+Weight: ^7777771^000000
+#
+12456#
+Enables a single cast of Greed.
+Caution! -Cannot be used in town. When used, only scroll gets destroyed.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+12457#
+A glass of illusion made from morning dew from an Illusion Flower.
+Drink the dew to create an illusion that will make it more difficult for enemies to hit you.
+Increases your Perfect Dodge by 20 for 1 minute.  Only one may be consumed per 5 minutes.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12458#
+An abrasive that adds sharpness to
+a weapon.
+Increases Critical Rate by 30 for 5 minutes.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12459#
+A sizeable bottle of Yggdrasil Tree Sap that is effective in healing wounds.
+Restores an amount of HP equal of 7% of your Max HP every 4 seconds for a 10 minute duration.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12460#
+A sizeable bottle of Yggdrasil Tree Sap that is effective in healing wounds.
+Restores an amount of HP equal of 7% of your Max HP every 4 seconds for a 10 minute duration.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12461#
+A magic potion made with alchemy and magic.
+A Rosary is rumored to be one of the secret ingredients in making this potion.
+Increases the HP recovery effect of some potions and the Heal skill by 20% for 30 minutes.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12462#
+A secret potion made using pixie mustache.
+Adds 3% resistance to Magical Attacks  for 3 minutes.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12463#
+A secret potion made using pixie mustache.
+Adds 3% resistance to Magical Attacks  for 1 minute.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12464#
+A secret potion made using tough dragon scales.
+Adds 3% resistance to Physical Attacks for 3 minutes.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12465#
+A secret potion made using tough dragon scales.
+Adds 3% resistance to Physical Attacks for 1 minute.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12466#
+A scroll in which a single use of Level 10 Blessing has been recorded.
+Caution-- This item won't work while your character is casting a spell or skill.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12467#
+A scroll in which a single use of Level 10 Increase AGI has been recorded.
+Caution-- This item won't work while your character is casting a spell or skill.
+This item consumes 15 HP and will be ineffective if the character has fewer than 15 HP.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12468#
+A scroll in which a single use of Level 5 Aspersio has been recorded.
+If there is no Holy Water, scroll will be damaged when used.
+Caution-- This item won't work while your character is casting a spell or skill.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12469#
+A scroll in which a single use of Level 5 Assumptio has been recorded.
+Caution-- This item won't work while your character is casting a spell or skill.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12470#
+A scroll in which a single use of Level 10 Wind Walker has been recorded.
+Caution-- This item won't work while your character is casting a spell or skill.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12471#
+A scroll in which a single use of Level 5 Adrenaline Rush has been recorded.
+If the user is not equipped with an Axe, the scroll will be when used.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+12472#
+A box containing 10 Convex Mirrors.
+Extremely fragile!
+^ffffff_^000000
+Convex Mirror - Can detect appearance of Boss Monsters for 10 minute duration.
+Effect is canceled if player logs out or leaves current map.
+Some MVP monsters cannot be detected.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
 12473#
 ...
 ...
@@ -24780,11 +25334,11 @@ Weight :^777777 10^000000
 #
 12537#
 ³Ö¸Î·¦ Å´ÃâÇÏ¾â À§ÇØ Á¤³µºé°© ÁØµñÇÑ ¶Ù¾·»Ï. ÀÌ³µ°¡¿Ô ÁÙ ³¾¶¿ºéÀÌ ¿¡ºæ »ã¿Ü ÀÖ»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12538#
 Ä°ÇÃºéÀÌ Á¤»ä¿Ô °ôÀ··ç Áñ¾æ ³ö ÀÖ¿Ô Æ÷ÀåºÈ ÆøÁ×¶Ù¾·»Ï. ¿¢Á± ÀÌµ¥Æ®·¦ ÃàÇÏÇÏ»Â ÆøÁ×ºéÀÌ ¿¡ºæ »ã¿ÜÀÖ»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12539#
 ...
@@ -24793,52 +25347,77 @@ Weight :^777777 10^000000
 #
 12540#
 ÀÌº° ÆíÀÇ·¦ À§ÇÑ ²µÅ©¸ÑÀÌ ÁØµñºÇ±î ÀÖ»Ù. ¶«±ùÀÌ ¼ª°Ã Áö»Â ±Ë ³ö ±ø»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12541#
 ³¼ÅÁ¿ú ¶öÅÍ·¦ ºë´Ò ¼Ö±î ··ºç Æ÷ÃáÄíÅ¿. ±È°¡ ·Ş³³Áö¿¡ ÀûÈù Á±ÀÌ¿¡ ºé±îÀÖÀ·»Ï ÇÑÀÔ°¡ ÅĞ±î ¼ÖÁø ·´ÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12542#
 ³¼ÅÁ¿ú ¶öÅÍ·¦ ºë´Ò ¼Ö±î ··ºç Æ÷ÃáÄíÅ¿. ±È°¡ ·Ş³³Áö¿¡ ÀûÈù Á±ÀÌ¿¡ ºé±îÀÖÀ·»Ï ÇÑÀÔ°¡ ÅĞ±î ¼ÖÁø ·´ÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12543#
 ³¼ÅÁ¿ú ¶öÅÍ·¦ ºë´Ò ¼Ö±î ··ºç Æ÷ÃáÄíÅ¿. ±È°¡ ·Ş³³Áö¿¡ ÀûÈù Á±ÀÌ¿¡ ºé±îÀÖÀ·»Ï ÇÑÀÔ°¡ ÅĞ±î ¼ÖÁø ·´ÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12544#
 ±ÆÁÖ °À¸£²Ã¿£ ÆäÀÌ°æ ²£°¡ ÀÖ±ú»ø ¿í·ñÀÇ ¼ª¶º¿¡Áö¸Î, ·¹¸ÂÀ´ Áö»Ï¿Ô ºÇ±ú»Ù»Â ³Ò¶®ÀÌ ÀÖ»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12545#
 ¾Í°¾¿Ô Àå²ÄºÈ ±Ë·ğ±ç ½Ù¸¯¶Ì. °­±îµ··é ¶«±ğ¿¡ ¼ª°Ã ¿Í ¿¿»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12546#
 ·ÔÀ··é Àı»ë ±ÈºÉ ¿Í ¿¿Àµ °ä·®.
 °ä·®¹ó¿í ·´ÇÏ¾â°¡ºº ¶Ì±ÈÇÑ ¾âµĞ¾îÁö ºç»Ù.
-¶«¿Ô : ^7777775^000000
+Weight : ^7777775^000000
 #
 
 12548#
 ¾·ÀÔ Àü°ëÀ·¸Î ¼ëÁ¡À´ °­ ³ö ÀÖºº¸Ï Çã¿¡ºÈ Áõ·í³­. ´óÀÎ¾æºåÀÇ ÀÎÀåÀÌ ³ÕÀ·¸Î ¾×·¿ ¿Í ¿¿Àµ ¾âµĞÀÌ ºç»Ù. (1È·°ë)
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12549#
 È­ÀÌÆ® ²²·½ Æ÷³Ç 100¿¼¿¡ ±ĞÃàºÇ±î ºé±îÀÖ»Â ´óÀÚ. ¿¼µÀ ²Ã ÁÖÀÇ.
-¶«¿Ô : ^7777770^000000
-"^uu0000ÁÖÀÇ - ´óÀÚ·¦ ¿¼µÀÇÒ ¹§ ¶«¿Ô¼ª ³ÒÁöÇÑ¿è ³ö¸®À´ ÃÊ¿úÇÑ ´óÅÂÀÎ ¿æ°ì, ±ÆÀÌÅÛÀÌ ³Ò²Ç ºÉ ³ö ÀÖ²À»Ï»Ù!^000000"
+Weight : ^7777770^000000
+"^uu0000ÁÖÀÇ - ´óÀÚ·¦ ¿¼µÀÇÒ ¹§ Weight¼ª ³ÒÁöÇÑ¿è ³ö¸®À´ ÃÊ¿úÇÑ ´óÅÂÀÎ ¿æ°ì, ±ÆÀÌÅÛÀÌ ³Ò²Ç ºÉ ³ö ÀÖ²À»Ï»Ù!^000000"
 #
 12550#
 º¹±àµ» 30¿¼¿¡ ±ĞÃàºÇ±î ºé±îÀÖ»Â ´óÀÚ. ¿¼µÀ ²Ã ÁÖÀÇ.
-¶«¿Ô : ^7777770^000000
-"^uu0000ÁÖÀÇ - ´óÀÚ·¦ ¿¼µÀÇÒ ¹§ ¶«¿Ô¼ª ³ÒÁöÇÑ¿è ³ö¸®À´ ÃÊ¿úÇÑ ´óÅÂÀÎ ¿æ°ì, ±ÆÀÌÅÛÀÌ ³Ò²Ç ºÉ ³ö ÀÖ²À»Ï»Ù!^000000"
+Weight : ^7777770^000000
+"^uu0000ÁÖÀÇ - ´óÀÚ·¦ ¿¼µÀÇÒ ¹§ Weight¼ª ³ÒÁöÇÑ¿è ³ö¸®À´ ÃÊ¿úÇÑ ´óÅÂÀÎ ¿æ°ì, ±ÆÀÌÅÛÀÌ ³Ò²Ç ºÉ ³ö ÀÖ²À»Ï»Ù!^000000"
+#
+
+12553#
+Contains all the parts to make a Brysingamen, it is still up to you to get the Dwarf to construct it for you.
+Weight : ^7777771^000000
+#
+12554#
+Contains all the parts to make an Asprika, it is still up to you to get the Dwarf to construct it for you.
+Weight : ^7777771^000000
+#
+12555#
+Contains all the parts to make a Brynhild, it is still up to you to get the Dwarf to construct it for you.
+Weight : ^7777771^000000
+#
+12556#
+Contains all the parts to make a Sleipnir, it is still up to you to get the Dwarf to construct it for you.
+Weight : ^7777771^000000
+#
+12557#
+Contains all the parts to make a Mjolnir, it is still up to you to get the Dwarf to construct it for you.
+Weight : ^7777771^000000
+#
+12558#
+Contains all the parts to make a Megingiorde, it is still up to you to get the Dwarf to construct it for you.
+Weight : ^7777771^000000
 #
 
 12561#
 µñÇÁ¸Î²µÆ®ÀÇ ±È¿¼²£ ¶Ì¾Ã°¡³­ ²¾¿Ô ¶ß¿ß ÇÒ ³ö ÀÖ»Â ²Ä¶¿ÀÇ ±±±Ñ. ±È¿¼²£À·¸Î È·¾ÍÇÏ¿íÀÚ ÇÏ»Â µ´»ÉÀÌ ¾êºé±î ÀÖ»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 12564#
@@ -24850,69 +25429,69 @@ Weight :^777777 10^000000
 ºººÏ¿è°­Àµ UOVV ÀÏÁ¤¸® ´ó²Â.
 ¼ëµñ²µ, ²»ÆÛ¼ëµñ²µ, ÅÂ¾Ç, ¾Ç³µÀµ SK, HK¿¡ ÀÏÁ¤¸® ´ó²Â.
 ¿è°­ : Åõ¾· ¶æ±î : 1
-À§Ä¡: Áß»Ü ¶«¿Ô : 10
+À§Ä¡: Áß»Ü Weight : 10
 °ä¾· ¸¶µ§ : 1
 ÀåÂø : Àü Á÷±÷ '
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12565#
 ÀÀ°øÀÇ ²µÄ«ÇÁ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 1ÁÖÀÏ ¿£ ´ç°ë¿¡»É.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12566#
 ÀÀ°øÀÇ ²µÄ«ÇÁ?¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 1ÁÖÀÏ ¿£ ´ç°ë¿¡»É.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12567#
 ÀÀ°øÀÇ ²µÄ«ÇÁ?¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 1ÁÖÀÏ ¿£ ´ç°ë¿¡»É.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12568#
 ÀÀ°øÀÇ ²µÄ«ÇÁ?¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 1ÁÖÀÏ ¿£ ´ç°ë¿¡»É.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12569#
 ÀÀ°øÀÇ ²µÄ«ÇÁ?¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 1ÁÖÀÏ ¿£ ´ç°ë¿¡»É.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12570#
 ÀÀ°øÀÇ ²µÄ«ÇÁ¥¸¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 1ÁÖÀÏ ¿£ ´ç°ë¿¡»É.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12571#
 ÀÀ°øÀÇ ²µÄ«ÇÁ¥¶¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 1ÁÖÀÏ ¿£ ´ç°ë¿¡»É.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12572#
 ÀÀ°øÀÇ ²µÄ«ÇÁ¥¶¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 2ÁÖÀÏ ¿£ ´ç°ë¿¡»É.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12573#
 °©¸¯¿¡Áö ¿úÀÏÀÌ Ç¼³µÇÏ¿Ô »ã¿ÜÀÖ»Â ¿úÀÏ ¶Ù¾·»Ï. µñÇÁ¸Î²µÆ®··ÀÇ Æ¯µ¿ÇÑ °­·Å¿¡ »ã¿ÜÀÖÀ´Áöºº ·ğ·¥»Ù.
-¶«¿Ô : ^7777775^000000
+Weight : ^7777775^000000
 #
 12574#
 µÓÀµ´öÀÇ ÇâÀÌ ÁÁÀµ ¿úÀÏ.
 ÇÑ¶ø ·ÔÀ··é Àı»ë ÀØÀ´ ³ö ±ø»Ù»Â ³Ò¶®ÀÌ ÀÖ»Ù.
 ^000088HK ·¦ 50 ¿¡¸® È·µ¶^000000 ²ÃÄÑ ÁØ»Ù.
 µñÇÁ¸Î²µÆ® Áö°ªÀÇ ÅäÁ± ·ó²µÅÍºé°¡ »ëÇÑ ¼´³µÀÌ Áõ¿¡ÇÑ»Ù.
-¶«¿Ô : ^7777772^000000
+Weight : ^7777772^000000
 °ä¾· ¸¶µ§ : ^777777120^000000
 #
 12575#
@@ -24928,70 +25507,70 @@ Weight : ^77777725^000000
 #
 12577#
 ¾â¿£ ÇÑÁ¤ Ãà¾·¿ø ·ğ±ç ½Ù¸¯¶Ì. °­±îµ··é ¶«±ğ¿¡ ¼ª°Ã ¿Í ¿¿»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12578#
 ¿¢Á± È·µ¶¸Â°¡ ºº°òÀÌ ºÇ»Â ²Ä¶¿ÁóÀ´ ÀÀÃàÇØ »ã±Æ¼õÀµ µ». µü·¥ ´óÃ¼ Àç´ı°¡ È°ÇèÀÌ ÀÖ»Ù¿í ÇÑ»Ù.
 µ¶°ëÇÏ·é 10µĞ¿£ 3ÃÊ·¹»Ù NSKÀÇ 6%·¦ È·µ¶ÇÑ»Ù.
 ¶ö³­Å© ´óÅÂ°¡³­»Â È°¿ú¿¡ ¶ßº°ÇÏÁö ±Ê»Â»Ù.
 ^000088Ä¼·¯ÅÍ¿¡ ÀüÅõµÒ»É´óÅÂ¿¡ ºÇ·é ±ÆÀÌÅÛ È°¿úºº ´ç¹óÁı»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12579#
 ¶ßÅ¿·®ÀÇ ¶İÁö¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 4ÀÏ¿£ ´ç°ë ¿¡»É.
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 12580#
 ¿ÔÆæ ·¹¶ıÇĞÈ·ÀÇ °À¸£ °¬¾··¦ ÅëÇÑ È·²ÉÀÇ ²ÃÇèÀÛ.
 '¼ëÁ¡°¡³­ ÆÇ·Å, ¾·ÀÔ ÁßÀÎ ±ÆÀÌÅÛÀ´ ¿Ë´öÇÒ ³ö ÀÖ»Â' ·¹¶ıÀÌ »ã¾ä ÁÖ¶®³­¸Î, ¿Ë´öºÈ ¼ëÁ¡ÀÇ À§Ä¡·¦ ±Ë ³ö ÀÖ»Ù.
 ^000088´ç°ëÀÚ¿¡ ³­ ÀÖ»Â ·Ê°¡ °­¸ÁÀÖ»Â ¼ëÁ¡·· ¿Ë´öÇÕ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12581#
 ¿ÔÆæ ·¹¶ıÇĞÈ·ÀÇ »õ°í ÁøÈ­ÇÑ °¬¾· ³µ¿ú!
 '¼ëÁ¡°¡³­ ÆÇ·Å, ¾·ÀÔ ÁßÀÎ ±ÆÀÌÅÛÀ´ ¿Ë´öÇÒ ³ö ÀÖ»Â' ·¹¶ıÀÌ »ã¾ä ²µÅ©¸Ñ¸Î, ¿Ë´öºÈ ·ºÅ©·¦ ÅëÇØ ¶¿¿ÇÀ´ Á÷Á¢ ¾··ÅÇÏ¿Å¼ª ÆÇ·Åºº ¿¡»ÉÇÏ»Ù!
 ^000088´ç°ëÀÚ¿¡ ³­ ÀÖ»Â ·Ê°¡ °­¸ÁÀÖ»Â ¼ëÁ¡·· ¿Ë´öÇÕ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12582#
 ¿ø³µÀü°¡ ÇÊ°äÇÑ °©¸¯¿¡Áö ³Ò·ğÇ¿ÀÌ ºé±îÀÖ»Â ´óÀÚ.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12583#
 È«µ·ÆÀÀÌ ¾ôÂ¦ ÀÌµ¥Æ®¸Î ÁØµñÇÑ ÀÛÀµ ´óÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12584#
 ¿¼¶ßÆÀÀÌ ¿í²ÉÇÏ·ç °­²ÉÈ÷ ÁØµñÇÑ ÀÛÀµ ´óÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12585#
 ·¹ÄÉÆÃÆÀÀÌ »«Ä¡µ·»Ù ²²¾×·Ó»Ï ÁØµñÇÑ ÀÛÀµ ´óÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12586#
 °î°ºÆÀÀÌ µÎ½ô¸»¿í ¿¡²°¹¼·®¿Ô ÁØµñÇÑ ÀÛÀµ ´óÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12587#
 "Áö¾İ ¹ó¾×¼ª¸ÎÅ©·¦ Áñ¾â¿í ÀÖ»Â »ç²Å°¡¿Ô  ±î»À¼¯ ¿©ÀÚ¾â ÇÏ»Ã°¡³­ ³¾¶¿ÀÌ ¹¼±îÁö»Âº¥...!" ÀÛÀµ ¾Û±±¸Î ÀüÇüÀûÀÎ °ºÈ­ Æ®¸¶ÀÏ¸¯ ¾¤¿í¶®¾· ¿¿Àµ ¿ÍÀÌ ÀûÇôÀÖ»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12588#
 "Áö¾İ ¹ó¾×¼ª¸ÎÅ©·¦ Áñ¾â¿í ÀÖ»Â »ç²Å°¡¿Ô  ±î»À¼¯ ¿©ÀÚ¾â ÇÏ»Ã°¡³­ ³¾¶¿ÀÌ ¹¼±îÁö»Âº¥...!" ÀÛÀµ ¾Û±±¸Î ÀüÇüÀûÀÎ °ºÈ­ Æ®¸¶ÀÏ¸¯ ¾¤¿í¶®¾· ¿¿Àµ ¿ÍÀÌ ÀûÇôÀÖ»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12589#
 "Áö¾İ ¹ó¾×¼ª¸ÎÅ©·¦ Áñ¾â¿í ÀÖ»Â »ç²Å°¡¿Ô  ±î»À¼¯ ¿©ÀÚ¾â ÇÏ»Ã°¡³­ ³¾¶¿ÀÌ ¹¼±îÁö»Âº¥...!" ÀÛÀµ ¾Û±±¸Î ÀüÇüÀûÀÎ °ºÈ­ Æ®¸¶ÀÏ¸¯ ¾¤¿í¶®¾· ¿¿Àµ ¿ÍÀÌ ÀûÇôÀÖ»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 12591#
 ¿ÔÆæ ·¹¶ıÇĞÈ·ÀÇ »õ°í ÁøÈ­ÇÑ °¬¾· ³µ¿ú!
 '¼ëÁ¡°¡³­ ÆÇ·Å, ¾·ÀÔ ÁßÀÎ ±ÆÀÌÅÛÀ´ ¿Ë´öÇÒ ³ö ÀÖ»Â' ·¹¶ıÀÌ »ã¾ä ²µÅ©¸Ñ¸Î, ¿Ë´öºÈ ·ºÅ©·¦ ÅëÇØ ¶¿¿ÇÀ´ Á÷Á¢ ¾··ÅÇÏ¿Å¼ª ÆÇ·Åºº ¿¡»ÉÇÏ»Ù!
 ^000088´ç°ëÀÚ¿¡ ³­ ÀÖ»Â ·Ê°¡ °­¸ÁÀÖ»Â ¼ëÁ¡·· ¿Ë´öÇÕ»Ï»Ù. ÀÌ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ÀÌ Á±¸áºÇ·é ´èÁ¦ºË»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 12595#
@@ -25012,45 +25591,45 @@ Weight :^777777 10^000000
 (·¹À´, ·¹À´ ¼´µÎ, Äù²µÆ® Àü°ë·Ê°¡³¾ ´ç°ëÀÌ µí¿¡»ÉÇÏ»Ù.)
 ^uu0000ÁÖÀÇ´çÇ× : ÇØ»ç µ·¶¿´óÀÚ»Â »Ù·¥ Ä¼·¯ÅÍºº ¿ø¿İÀ´ ÇÒ³ö ÀÖÀ·»Ï, ÁÖµ¯°¡ »Ù·¥ Ä¼·¯ÅÍ¿¡ ±ø»ÂÁö
 È®ÀÎÈÄ ´ç°ëÀ´ ÇØÁÖ²Ã¾â ¶Ù¹ø»Ï»Ù.^000000
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 12601#
 ·ÀÀÖ»Â ³ö¶ÚÀ´ ¿¥±Æ³­ ··ºç Áê²µ.
 SK, HK·¦ 5% È·µ¶ÇÑ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12602#
 Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ıÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12603#
 Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ıÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12604#
 Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ıÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12605#
 Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ıÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12606#
 Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ıÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12607#
 ^000088ÀÓ»ë ±ÆÀÌÅÛ^000000
 ·ÀÀÖ»Â ¸Ñ·®ÆË 1¿¼¿¡ ºé±îÀÖ»Â ´óÀÚ. 3ÀÏ¿£ ´ç°ë ¿¡»ÉÇÏ»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12608#
 È­¸ÁÇÑ ³ö¿øÀÌ ºÇ±îÀÖ»Â ¾İ³Ó ÀçÁúÀÇ ´óÀÚ.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12609#
 ¼¿¿í ÁöÀúµĞÇÑ ¾¤³® ´óÀÚ. ³Ò·®·¦ ºé±îµ·»Ï °©¸¯Á±¸ùÀÇ ¾¤³®ÀÌ ºé±îÀÖ»Â ¿Í ¿¿»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 
 12701#
@@ -25315,37 +25894,41 @@ A box that contains 1 "Valentine's Emblem" inside.
 ^ffffff_^000000
 Weight :^777777 0^000000
 #
+12746#
+When consumed, you have the choice of receiving moderate HP & SP restoration, Lv. 10 Endure, Restore all SP or returning to your save point.
+Weight : ^7777770^000000
+#
 
 12760#
 ¼Ê¶« ·ÀÀÖ»Ù. ·ÀÀ´ µ·¿í ÀÖ»Â º°±È »õ ¿­ÇØÁö»Â »À¼¦ÀÌ ºç»Ù. [20µĞ º°±È HGI 10 Áõ¿¡]
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12761#
 ¼Ê¶« ·ÀÀÖ»Ù. ·ÀÀ´ µ·¿í ÀÖ»Â º°±È »õ ¿­ÇØÁö»Â »À¼¦ÀÌ ºç»Ù. [20µĞ º°±È RMG 10 Áõ¿¡]
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12762#
 ¼Ê¶« ·ÀÀÖ»Ù. ·ÀÀ´ µ·¿í ÀÖ»Â º°±È »õ ¿­ÇØÁö»Â »À¼¦ÀÌ ºç»Ù. [20µĞ º°±È WVC 10 Áõ¿¡]
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12763#
 ¼Ê¶« ·ÀÀÖ»Ù. ·ÀÀ´ µ·¿í ÀÖ»Â º°±È »õ ¿­ÇØÁö»Â »À¼¦ÀÌ ºç»Ù. [20µĞ º°±È ZTR 10 Áõ¿¡]
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12764#
 Æ¯µ¿ÇÑ ¼¯°¡·· ±òÀ´ ³ö ÀÖ»Â ´óÀÚ.
 ´óÀÚ·¦ ¿¼µÀÇÏ·é ¹æÇÏÁö ±ÊÀµ ¼î¹ó°òÀÌ Ã£±Æ°Â»Ù.
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 12765#
 °©·§ÀÇ ¾â´ç¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 30ÀÏ¿£ ´ç°ë ¿¡»É.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12766#
 ´ç°ëÇÏ·é 30µĞ¿£ Àâ ¿æÇèÄ¡¿¡ 25% Áõ¿¡ÇÏ»Â ÀüÅõ¾¼¶ü. ÀüÅõ¾¼¶üÀÇ ´õ¸Î°î ÁöÆòÀ´ °­±ú»Ù»Â ÆòÀ´ ¶Ş¿í ÀÖ»Ù.
 ÀüÅõ¾¼¶ü¿ú Áßµ¶ ´ç°ë ¿¡»É
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 12900#
@@ -26342,6 +26925,22 @@ Weight :^777777 0^000000
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 50^000000
 #
+13053#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
+#
+13054#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
+#
+13055#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
+#
+13056#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
+#
 
 13061#
 Unknown Item. Can be identified by using a Magnifier.
@@ -27041,6 +27640,14 @@ Weight :^777777 0^000000
 13425#
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 50^000000
+#
+13426#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
+#
+13427#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
 #
 
 13431#
@@ -34286,7 +34893,11 @@ INT + 2 , VIT + 2 , SP + 50
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
-
+14466#
+A prize that is given to the hottest character who is the winner of the Valentine's Hottest Contest.
+^ffffff_^000000
+Weight : ^7777770^000000
+#
 14467#
 A box that contains 1 "Carnival Hat" inside.
 ^ffffff_^000000
@@ -35186,14 +35797,14 @@ Yzhv Oe 20¶è ··Å­ÀÇ NSKÁõ¿¡. Yzhv Oe 5¶è ··Å­ÀÇ NHKÁõ¿¡.
 NWVU  5.
 ¼Ë¶éµÒ¿¡. Á¦¸ÃµÒ¿¡. ÆÄ¾«µÒ¿¡.
 ¿è°­ : ^777777¿©°Ê^000000    ¶æ±î : ^77777760^000000
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 °ä¾·¸¶µ§ : ^77777747^000000
 ÀåÂø : ^777777ÀüÁ÷±÷ ÀåÂø¿¡»É^000000
 #
 15024#
 °ÜÅõ ±ÈÂÊ°¡ ±È¿¨À·¸Î ÀÔ»Â °Ê. ·ğ¹ó·¹À´°¡³­»Â ¾ò¾òÀÌ¹ó¿í µÎ·£»Â ¿Í ¿¿»Ù.
 ¿è°­ : ^777777¿©°Ê^000000 ¶æ±î : ^77777710^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777Àü Á÷±÷^000000
 #
@@ -35303,6 +35914,10 @@ Weight :^777777 50^000000
 16007#
 Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 0^000000
+#
+16008#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
 #
 
 16010#
@@ -37193,6 +37808,118 @@ Weight :^777777 1^000000
 Weight :^777777 1^000000
 #
 
+16418#
+A box containing 500 Giant Fly Wings.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
+16419#
+A box containing 30 Greed Scrolls, which each enable a single cast of Greed.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+16420#
+A pack of consumables to aid the adventurer on the long journey.
+^ffffff_^000000
+Contains:
+10 Battle Manual
+10 Bubble Gum
+20 Lv 10 Agi Scroll
+20 Lv 10 Blessing Scroll
+10 Token Of Siegfried
+10 Life Insurance
+5 Kafra Card
+10 Stew of Immortality
+10 Hwegelmir's Tonic
+10 Steamed Scorpion
+10 Cooked Nine Tail's Tails
+10 Steamed Tongue
+10 Dragon Breath Cocktail
+^ffffff_^000000
+Adventurer Pack can not be traded, dropped, or sold.
+it can be stored.
+Weight:  ^7777771^000000
+#
+16421#
+A box that contains 1 Written Oath of Marriage, to be used on your wedding day.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+16422#
+A box that contains:
+^000088Rental Item^000000
+^6A5ACD1 Baphomet Horns^000000
+Duration: 7 Days after opening.
+Weight: ^77777780^000000
+#
+16423#
+^ff0000This package is tradeable.^000000
+^ff0000The items inside are not.^000000
+^ffffff_^000000
+Contains:
+Episode 13.1 Poporing Key
+2 Battle Manuals
+10 Yellow Butterfly Wings
+^ffffff_^000000
+The Episode 13.1 Poporing Key will disappear on ^ff000007/09/09^000000 during maintenance;
+at that time, the Episode 13.1 content will be fully available to everyone on Valkyrie.
+#
+16424#
+A box that contains:
+^000088Rental Item^000000
+^6A5ACD1 Executioner^000000
+Duration: 7 Days after opening.
+Weight: ^7777771^000000
+#
+16425#
+A box that contains:
+^000088Rental Item^000000
+^6A5ACD1 Cutlas^000000
+Duration: 7 Days after opening.
+Weight: ^7777771^000000
+#
+16426#
+A box that contains:
+^000088Rental Item^000000
+^6A5ACD1 Moonlight Dagger^000000
+Duration: 7 Days after opening.
+Weight: ^77777771^000000
+#
+16427#
+A box that contains:
+^000088Rental Item^000000
+^6A5ACD1 Wrench^000000
+Duration: 7 Days after opening.
+Weight: ^7777771^000000
+#
+16428#
+A box that contains:
+^000088Rental Item^000000
+^6A5ACD1 Solar Sword^000000
+Duration: 7 Days after opening.
+Weight: ^7777771^000000
+#
+16429#
+A box that contains:
+^000088Rental Item^000000
+^6A5ACD1 Tomahawk^000000
+Duration: 7 Days after opening.
+Weight: ^7777771^000000
+#
+16430#
+A box that contains:
+^000088Rental Item^000000
+^6A5ACD1 Rudra Bow^000000
+Duration: 7 Days after opening.
+Weight: ^7777771^000000
+#
+16431#
+A box that contains:
+^000088Rental Item^000000
+^6A5ACD1 Pole Axe^000000
+Duration: 7 Days after opening
+Weight: ^7777771^000000
+#
 16432#
 ...
 ^ffffff_^000000
@@ -37376,7 +38103,16 @@ A box that contains 1 "Ant Queen Crown" inside.
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
-
+16461#
+A box that contains 1 Red Wing Hat.
+^FFFFFF_^000000
+Weight : ^7777771^000000
+#
+16462#
+A box that contains 1 Red Wing Hat.
+^FFFFFF_^000000
+Weight : ^7777771^000000
+#
 16463#
 A box that contains 1 "NoFear Belts" inside.
 Available for 90 days.
@@ -37452,6 +38188,32 @@ A box that contains 1 "Snowman Hat" inside.
 Weight :^777777 1^000000
 #
 
+16548#
+A box that contains 1 Sagittarius Crown.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+16549#
+A box that contains 1 Sagittarius Diadem.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+16550#
+A box that contains 1 Sagittarius Crown.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+16551#
+A box that contains 1 Sagittarius Diadem.
+^ffffff_^000000
+Weight : ^7777771^000000
+#
+
+16554#
+A box that contains 1 pair of Elven Sunglasses.
+^ffffff_^000000
+Weight: ^7777771^000000
+#
 16555#
 A box that contains 1 "Premium Reset Stone" inside. 
 ^ffffff_^000000
@@ -37467,6 +38229,27 @@ A box that contains 1 "Premium Reset Stone" inside.
 Weight :^777777 1^000000
 #
 
+16565#
+A box that cotains 1 Capricorn Crown.
+^FFFFFF_^000000
+Weight : ^7777771^000000
+#
+16566#
+A box that cotains 1 Capricorn Crown.
+^FFFFFF_^000000
+Weight : ^7777771^000000
+#
+16567#
+A box that cotains 1 Capricorn Diadem.
+^FFFFFF_^000000
+Weight : ^7777771^000000
+#
+16568#
+A box that cotains 1 Capricorn Diadem.
+^FFFFFF_^000000
+Weight : ^7777771^000000
+#
+
 16580#
 »Ü¿Ë ¹óÅ©·¹¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 
@@ -37480,12 +38263,12 @@ Weight :^777777 1^000000
 8ÀÌ´ó Á¦¸Ã ²Ã : Å©¾â ÆĞ¼ÎÆ³ ´ç¹óÁüÀÌ ´ó²Ã Áö³Ó.
 9ÀÌ´ó Á¦¸Ã ²Ã : Å·¿İ ²Ã ¼¸ÀµÈ®¸ü¸Î 5ÃÊ¿£ HK 2 Ãß¿¡ È·µ¶.
 ¿è°­ : ^777777»Ü¿Ë^000000 ¿ø¿İ : ^77777745^000000
-¶«¿Ô : ^77777765^000000
+Weight : ^77777765^000000
 ¶«¾â ¸¶µ§ : ^7777773^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777¼ëµñ²µ/¿Ë´ç¿è°­/·¹¶ı´ç¿è°­/¾Ã³ö¿è°­/´óÀÎ¿è°­/ºººÏ¿è°­/³Ò°ï·ºÄ°/»ÑÀÚ^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16581#
 »Ü¿Ë ¹óÅ©·¹¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
@@ -37500,57 +38283,57 @@ Weight :^777777 1^000000
 8ÀÌ´ó Á¦¸Ã ²Ã : Å©¾â ÆĞ¼ÎÆ³ ´ç¹óÁüÀÌ ´ó²Ã Áö³Ó.
 9ÀÌ´ó Á¦¸Ã ²Ã : Å·¿İ ²Ã ¼¸ÀµÈ®¸ü¸Î 5ÃÊ¿£ HK 2 Ãß¿¡ È·µ¶.
 ¿è°­ : ^777777»Ü¿Ë^000000 ¿ø¿İ : ^77777745^000000
-¶«¿Ô : ^77777765^000000
+Weight : ^77777765^000000
 ¶«¾â ¸¶µ§ : ^7777773^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777¼ëµñ²µ/¿Ë´ç¿è°­/·¹¶ı´ç¿è°­/¾Ã³ö¿è°­/´óÀÎ¿è°­/ºººÏ¿è°­/³Ò°ï·ºÄ°/»ÑÀÚ^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 16584#
 ¼ª¶«»Ãµ· ·ğÀÚ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16585#
 ¼ª¶«»Ãµ· ·ğÀÚ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16586#
 ºÎ¼×ÀÌ·£ Åõ¾·¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16587#
 ºÎ¼×ÀÌ·£ Åõ¾·¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16588#
 ·Ş²ÃÁö¿¡ ºé±îÀÖ»Â ´óÀÚ. ´óÀÚ·¦ °­·é »Ù·¥ ·ğÇè¿¡°¡¿Ô »ç²ÅÀÌ Ã£¿í ÀÖ»Â ¿Ô ¶«±ùÀÎÁö ±Ë¸ÁÁÖ»Â 6¿¡Áö ·Ş²ÃÁö Áß ÇÏ¼ª·¦ ¶ŞÀ´ ³ö ÀÖ»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16589#
 ·Ş²ÃÁö¿¡ ºé±îÀÖ»Â ´óÀÚ. ´óÀÚ·¦ °­·é »Ù·¥ ·ğÇè¿¡°¡¿Ô »ç²ÅÀÌ Ã£¿í ÀÖ»Â ¿Ô ¶«±ùÀÎÁö ±Ë¸ÁÁÖ»Â 6¿¡Áö ·Ş²ÃÁö Áß ÇÏ¼ª·¦ ¶ŞÀ´ ³ö ÀÖ»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16590#
 ·Ş²ÃÁö¿¡ ºé±îÀÖ»Â ´óÀÚ. ´óÀÚ·¦ °­·é »Ù·¥ ·ğÇè¿¡°¡¿Ô »ç²ÅÀÌ Ã£¿í ÀÖ»Â ¿Ô ¶«±ùÀÎÁö ±Ë¸ÁÁÖ»Â 6¿¡Áö ·Ş²ÃÁö Áß ÇÏ¼ª·¦ ¶ŞÀ´ ³ö ÀÖ»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16591#
 µê¹óÁúÀÇ °©·§¶æÇĞÀ´ À§ÇÑ ²æ·ÓÆĞÅ¿Áö! ¶«±ğ¿¡ Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀ´ ±ò¿Ô ºÉ ³ö ÀÖ»Ù!
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 16592#
 ÆĞ¶Ğ·® ·ğÀÚ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16593#
 ÆĞ¶Ğ·® ·ğÀÚ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 16598#
@@ -37559,7 +38342,7 @@ Weight :^777777 1^000000
 2µĞ¿£ ZGP, NZGP  2%. Èú¿ú ±ÆÀÌÅÛÀÇ È·µ¶È°»É 10% Áõ¿¡.
 ´ç·Á ²Ã, Wrhkvoo ²Ã È°»ÉÀÌ ´ç¹óÁø»Ù.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16599#
 È¿³µÈ­ÀÇ Æ÷³Ç 5¿¼°Í Çà°îÀÇ ±Ë 1¿¼¿¡ ºé±îÀÖ»Â ´óÀÚ.
@@ -37567,63 +38350,63 @@ Weight :^777777 1^000000
 2µĞ¿£ ZGP, NZGP  2%. Èú¿ú ±ÆÀÌÅÛÀÇ È·µ¶È°»É 10% Áõ¿¡.
 ´ç·Á ²Ã, Wrhkvoo ²Ã È°»ÉÀÌ ´ç¹óÁø»Ù.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 16601#
 ÆÄ¹õ ±Æ¹ó¹ó ·ğÀÚ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16602#
 ÆÄ¹õ ±Æ¹ó¹ó ·ğÀÚ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16603#
 »Ã±îÁø µ·Åä¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16604#
 »Ã±îÁø µ·Åä¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16605#
 ÅÙºå·¾·®°Â ·ğÀÚ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16606#
 ÅÙºå·¾·®°Â ·ğÀÚ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 16619#
 ¼ë¹õ Åä¼¢ ·Ó·®¹ì¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16620#
 ¼ë¹õ Åä¼¢ ·Ó·®¹ì¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16621#
 ÇÎÅ© Åä¼¢ ·Ó·®¹ì¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16622#
 ÇÎÅ© Åä¼¢ ·Ó·®¹ì¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16623#
 ¾×·¿ Åä¼¢ ·Ó·®¹ì¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16624#
 ¾×·¿ Åä¼¢ ·Ó·®¹ì¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16625#
 ±Æ²µÇÁ·®Ä«(Ã³ÇèÆÇ)ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
@@ -37635,11 +38418,11 @@ UOVV  15, NWVU  2.
 ÅÚ¸¶Æ÷Æ® Oe1 ´ç°ë¿¡»É.
 Á¦¸ÃµÒ¿¡. ÆÄ¾«µÒ¿¡.
 ¿è°­ : ^777777¿ÉÄ¥¿Í^000000    ¶æ±î : ^77777720^000000
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 °ä¾·¸¶µ§ : ^77777747^000000
 ÀåÂø : ^777777ÀüÁ÷±÷ ÀåÂø¿¡»É^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16626#
 ·Ş¾ä¾â°À·£ºå(Ã³ÇèÆÇ)ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
@@ -37650,11 +38433,11 @@ HGI , NWVU
 Âø°ëÀÚÀÇ YzhvOE°¡ ºû¹ó HGI Ãß¿¡ Áõ¿¡.
 HGIÀÌ ³ø³ö 120 ÀÎ ¿æ°ì, µ·²µ·ó²µÅÍ°¡¿Ô 5% ¶¿·® º¥¶ÌÁö Ãß¿¡.
 ¿è°­ : ^777777±Ç³³´ç·®^000000
-¶æ±î : ^7777771^000000      ¶«¿Ô : ^7777770^000000
+¶æ±î : ^7777771^000000      Weight : ^7777770^000000
 °ä¾·¸¶µ§ : ^77777747^000000
 ÀåÂø : ^777777ÀüÁ÷±÷ ÀåÂø¿¡»É^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16627#
 µê·®²Ì¿¡·à(Ã³ÇèÆÇ)ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
@@ -37665,11 +38448,11 @@ HGI, ZTR, WVC, ERG ¿¢  ´ó²Â, OFP, RMG ¿¢  ´ó²Â.
 NWVU 
 ÀÚ²ÅÀÌ ´ç°ëÇÏ»Â Èú, ´ıÃò±î·® ²µÅ¼ÀÇ È·µ¶¸®ÀÌ 3% Áõ¿¡.
 ¿è°­ : ^777777±Ç³³´ç·®^000000
-¶æ±î : ^7777771^000000      ¶«¿Ô : ^7777770^000000
+¶æ±î : ^7777771^000000      Weight : ^7777770^000000
 °ä¾·¸¶µ§ : ^77777747^000000
 ÀåÂø : ^777777ÀüÁ÷±÷ ÀåÂø¿¡»É^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16628#
 µê¸ôÈúÆ®(Ã³ÇèÆÇ)ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
@@ -37681,11 +38464,11 @@ Yzhv Oe 20¶è ··Å­ÀÇ NSKÁõ¿¡. Yzhv Oe 5¶è ··Å­ÀÇ NHKÁõ¿¡.
 NWVU  5.
 ¼Ë¶éµÒ¿¡. Á¦¸ÃµÒ¿¡. ÆÄ¾«µÒ¿¡.
 ¿è°­ : ^777777¿©°Ê^000000    ¶æ±î : ^77777760^000000
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 °ä¾·¸¶µ§ : ^77777747^000000
 ÀåÂø : ^777777ÀüÁ÷±÷ ÀåÂø¿¡»É^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16629#
 ¾×¸£ºå ÆäÄÚÀÇ ·Ó·®¹ì¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
@@ -37693,7 +38476,7 @@ NWVU  5.
 ÀÎ¿£Çü, º°¶¿Çü ·ó²µÅÍ°¡¿Ô ÁÖ»Â º¥¶ÌÁö 7% Áõ¿¡.
 ¶¿·® º¥¶ÌÁö·¦ ¶ŞÀ´ ²Ã ÇÇÇØ·¦ ÀÔÈù »ë´ó°¡¿Ô ÀÏÁ¤È®¸ü¸Î ÀúÁÖ·¦ ¿Ç»Ù.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777775^000000
-À§Ä¡: ^777777´óÁß»Ü ^000000 ¶«¿Ô : ^77777780^000000
+À§Ä¡: ^777777´óÁß»Ü ^000000 Weight : ^77777780^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777Àü Á÷±÷^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
@@ -37704,7 +38487,7 @@ NWVU  5.
 ÀÎ¿£Çü, º°¶¿Çü ·ó²µÅÍ°¡¿Ô ÁÖ»Â º¥¶ÌÁö 7% Áõ¿¡.
 ¶¿·® º¥¶ÌÁö·¦ ¶ŞÀ´ ²Ã ÇÇÇØ·¦ ÀÔÈù »ë´ó°¡¿Ô ÀÏÁ¤È®¸ü¸Î ÀúÁÖ·¦ ¿Ç»Ù.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777775^000000
-À§Ä¡: ^777777´óÁß»Ü ^000000 ¶«¿Ô : ^77777780^000000
+À§Ä¡: ^777777´óÁß»Ü ^000000 Weight : ^77777780^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777Àü Á÷±÷^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
@@ -37717,12 +38500,12 @@ NWVU  5.
 ZGP  30, SK - 2%.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î SK  2%, °ø¿Å·® ¶¿·® ¿ø¿İ¸Â  2%.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777773^000000
-À§Ä¡: ^777777ÇÏ»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777ÇÏ»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16635#
 ¶«Áö¿¼ ²µÄ«ÇÁ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 2²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37731,12 +38514,12 @@ ZGP  30, SK - 2%.
 NZGP  30, NHK - 2%.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î NHK  2%, µ¯º°Ä¼²µÆÃ ²Ã¿£ 2% »ÜÃà.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777770^000000
-À§Ä¡: ^777777ÇÏ»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777ÇÏ»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16636#
 »ë·ø¶ÚÈù ²µÄ«ÇÁ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 4²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37745,12 +38528,12 @@ NZGP  30, NHK - 2%.
 ZGP  30, SK - 2%.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î SK  2%, °ø¿Å·® ¶¿·® ¿ø¿İ¸Â  2%.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777773^000000
-À§Ä¡: ^777777ÇÏ»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777ÇÏ»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16637#
 ¶«Áö¿¼ ²µÄ«ÇÁ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 4²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37759,12 +38542,12 @@ ZGP  30, SK - 2%.
 NZGP  30, NHK - 2%.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î NHK  2%, µ¯º°Ä¼²µÆÃ ²Ã¿£ 2% »ÜÃà.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777770^000000
-À§Ä¡: ^777777ÇÏ»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777ÇÏ»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16638#
 ´ı·íÀÇ ·®µ´ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 1²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37774,11 +38557,11 @@ RMG  1, NWVU  2.
 ÀÚ²ÅÀÌ ´ç°ëÇÏ»Â Èú¸® 2% Áõ¿¡.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î RMG  1, È·µ¶±ÆÀÌÅÛ ´ç°ëÀÌ¼ª ÈúÀ´ ¶ŞÀ´ ²ÃÀÇ È·µ¶¸® 2% Áõ¿¡.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777772^000000
-À§Ä¡: ^777777Áß»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777Áß»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16639#
 ´ı·íÀÇ ·®µ´ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 2²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37788,11 +38571,11 @@ RMG  1, NWVU  2.
 ÀÚ²ÅÀÌ ´ç°ëÇÏ»Â Èú¸® 2% Áõ¿¡.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î RMG  1, È·µ¶±ÆÀÌÅÛ ´ç°ëÀÌ¼ª ÈúÀ´ ¶ŞÀ´ ²ÃÀÇ È·µ¶¸® 2% Áõ¿¡.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777772^000000
-À§Ä¡: ^777777Áß»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777Áß»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16640#
 ´ı·íÀÇ ·®µ´ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 4²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37802,11 +38585,11 @@ RMG  1, NWVU  2.
 ÀÚ²ÅÀÌ ´ç°ëÇÏ»Â Èú¸® 2% Áõ¿¡.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î RMG  1, È·µ¶±ÆÀÌÅÛ ´ç°ëÀÌ¼ª ÈúÀ´ ¶ŞÀ´ ²ÃÀÇ È·µ¶¸® 2% Áõ¿¡.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777772^000000
-À§Ä¡: ^777777Áß»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777Áß»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16641#
 »ë·ø¶ÚÈù ²µÄ«ÇÁ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 1²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37815,12 +38598,12 @@ RMG  1, NWVU  2.
 ZGP  30, SK - 2%.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î SK  2%, °ø¿Å·® ¶¿·® ¿ø¿İ¸Â  2%.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777773^000000
-À§Ä¡: ^777777ÇÏ»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777ÇÏ»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16642#
 ¶«Áö¿¼ ²µÄ«ÇÁ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 1²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37829,12 +38612,12 @@ ZGP  30, SK - 2%.
 NZGP  30, NHK - 2%.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î NHK  2%, µ¯º°Ä¼²µÆÃ ²Ã¿£ 2% »ÜÃà.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777770^000000
-À§Ä¡: ^777777ÇÏ»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777ÇÏ»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16643#
 »ë·ø¶ÚÈù ²µÄ«ÇÁ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 2²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37843,12 +38626,12 @@ NZGP  30, NHK - 2%.
 ZGP  30, SK - 2%.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î SK  2%, °ø¿Å·® ¶¿·® ¿ø¿İ¸Â  2%.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777773^000000
-À§Ä¡: ^777777ÇÏ»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777ÇÏ»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16644#
 ¶«Áö¿¼ ²µÄ«ÇÁ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 2²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37857,12 +38640,12 @@ ZGP  30, SK - 2%.
 NZGP  30, NHK - 2%.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î NHK  2%, µ¯º°Ä¼²µÆÃ ²Ã¿£ 2% »ÜÃà.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777770^000000
-À§Ä¡: ^777777ÇÏ»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777ÇÏ»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16645#
 »ë·ø¶ÚÈù ²µÄ«ÇÁ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 4²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37871,12 +38654,12 @@ NZGP  30, NHK - 2%.
 ZGP  30, SK - 2%.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î SK  2%, °ø¿Å·® ¶¿·® ¿ø¿İ¸Â  2%.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777773^000000
-À§Ä¡: ^777777ÇÏ»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777ÇÏ»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16646#
 ¶«Áö¿¼ ²µÄ«ÇÁ¿¡ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 4²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37885,12 +38668,12 @@ ZGP  30, SK - 2%.
 NZGP  30, NHK - 2%.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î NHK  2%, µ¯º°Ä¼²µÆÃ ²Ã¿£ 2% »ÜÃà.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777770^000000
-À§Ä¡: ^777777ÇÏ»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777ÇÏ»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16647#
 ´ı·íÀÇ ·®µ´ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 1²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37900,11 +38683,11 @@ RMG  1, NWVU  2.
 ÀÚ²ÅÀÌ ´ç°ëÇÏ»Â Èú¸® 2% Áõ¿¡.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î RMG  1, È·µ¶±ÆÀÌÅÛ ´ç°ëÀÌ¼ª ÈúÀ´ ¶ŞÀ´ ²ÃÀÇ È·µ¶¸® 2% Áõ¿¡.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777772^000000
-À§Ä¡: ^777777Áß»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777Áß»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16648#
 ´ı·íÀÇ ·®µ´ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 2²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37914,11 +38697,11 @@ RMG  1, NWVU  2.
 ÀÚ²ÅÀÌ ´ç°ëÇÏ»Â Èú¸® 2% Áõ¿¡.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î RMG  1, È·µ¶±ÆÀÌÅÛ ´ç°ëÀÌ¼ª ÈúÀ´ ¶ŞÀ´ ²ÃÀÇ È·µ¶¸® 2% Áõ¿¡.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777772^000000
-À§Ä¡: ^777777Áß»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777Áß»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16649#
 ´ı·íÀÇ ·®µ´ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ. 4²Ã¿£ º°±È ´ç°ë¿¡»É.
@@ -37928,11 +38711,11 @@ RMG  1, NWVU  2.
 ÀÚ²ÅÀÌ ´ç°ëÇÏ»Â Èú¸® 2% Áõ¿¡.
 ¿ñºå KX¶æ°¡³­ ´ç°ë ²Ã, Ãß¿¡¸Î RMG  1, È·µ¶±ÆÀÌÅÛ ´ç°ëÀÌ¼ª ÈúÀ´ ¶ŞÀ´ ²ÃÀÇ È·µ¶¸® 2% Áõ¿¡.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777772^000000
-À§Ä¡: ^777777Áß»Ü ^000000 ¶«¿Ô : ^7777770^000000
+À§Ä¡: ^777777Áß»Ü ^000000 Weight : ^7777770^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777ÀüÁ÷±÷^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16650#
 ²ÖÀÚ¾Ã ÇÏ»ÃÀÇ µ·¿üÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
@@ -37941,11 +38724,11 @@ RMG  1, NWVU  2.
 WVC  2, ²µÅ¼ ÈÄ ºô¸¶ÀÌ 2% ¿¨³Ò, Ç¼³Ó³µ ¿ø¿İ ÀúÇ× 5%.
 7Á¦¸Ã ÀÌ´ó ²Ã WVC  1, NZGP  30 Ãß¿¡.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777773^000000
-À§Ä¡: ^777777´ó»Ü ^000000 ¶«¿Ô : ^77777730^000000
+À§Ä¡: ^777777´ó»Ü ^000000 Weight : ^77777730^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777Àü Á÷±÷^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16651#
 ²ÖÀÚ¾Ã ÇÏ»ÃÀÇ °Õ¿üÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
@@ -37954,11 +38737,11 @@ WVC  2, ²µÅ¼ ÈÄ ºô¸¶ÀÌ 2% ¿¨³Ò, Ç¼³Ó³µ ¿ø¿İ ÀúÇ× 5%.
 ZTR  2, UOVV  10, Ç¼³Ó³µ ¿ø¿İ°¡ »ëÇÑ ÀúÇ× 5%.
 7Á¦¸Ã ÀÌ´ó ÀÏ ¿æ°ì SRG  5, ZGP  30.
 ¿è°­ : ^777777Åõ¾·^000000 ¶æ±î : ^7777776^000000
-À§Ä¡: ^777777´ó»Ü ^000000 ¶«¿Ô : ^77777730^000000
+À§Ä¡: ^777777´ó»Ü ^000000 Weight : ^77777730^000000
 °ä¾· ¸¶µ§ : ^7777771^000000
 ÀåÂø : ^777777Àü Á÷±÷^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 16655#
@@ -37968,9 +38751,9 @@ ZTR  2, UOVV  10, Ç¼³Ó³µ ¿ø¿İ°¡ »ëÇÑ ÀúÇ× 5%.
 µ¶°ëÇÏ·é 10µĞ¿£ 3ÃÊ·¹»Ù NSKÀÇ 6%·¦ È·µ¶ÇÑ»Ù.
 ¶ö³­Å© ´óÅÂ°¡³­»Â È°¿ú¿¡ ¶ßº°ÇÏÁö ±Ê»Â»Ù.
 ^000088Ä¼·¯ÅÍ¿¡ ÀüÅõµÒ»É´óÅÂ¿¡ ºÇ·é ±ÆÀÌÅÛ È°¿úºº ´ç¹óÁı»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16656#
 ²Å³ÓÇÑ ´ı·í³ö¿¡ 10¿¼°Í Çà°îÀÇ ±Ë 1¿¼¿¡ ºé±îÀÖ»Â ´óÀÚ.
@@ -37979,9 +38762,9 @@ ZTR  2, UOVV  10, Ç¼³Ó³µ ¿ø¿İ°¡ »ëÇÑ ÀúÇ× 5%.
 µ¶°ëÇÏ·é 10µĞ¿£ 3ÃÊ·¹»Ù NSKÀÇ 6%·¦ È·µ¶ÇÑ»Ù.
 ¶ö³­Å© ´óÅÂ°¡³­»Â È°¿ú¿¡ ¶ßº°ÇÏÁö ±Ê»Â»Ù.
 ^000088Ä¼·¯ÅÍ¿¡ ÀüÅõµÒ»É´óÅÂ¿¡ ºÇ·é ±ÆÀÌÅÛ È°¿úºº ´ç¹óÁı»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16657#
 ²Å³ÓÇÑ ´ı·í³ö¿¡ 10¿¼¿¡ ºé±îÀÖ»Â ´óÀÚ.
@@ -37990,9 +38773,9 @@ ZTR  2, UOVV  10, Ç¼³Ó³µ ¿ø¿İ°¡ »ëÇÑ ÀúÇ× 5%.
 µ¶°ëÇÏ·é 10µĞ¿£ 3ÃÊ·¹»Ù NSKÀÇ 6%·¦ È·µ¶ÇÑ»Ù.
 ¶ö³­Å© ´óÅÂ°¡³­»Â È°¿ú¿¡ ¶ßº°ÇÏÁö ±Ê»Â»Ù.
 ^000088Ä¼·¯ÅÍ¿¡ ÀüÅõµÒ»É´óÅÂ¿¡ ºÇ·é ±ÆÀÌÅÛ È°¿úºº ´ç¹óÁı»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16658#
 ²Å³ÓÇÑ ´ı·í³ö¿¡ 10¿¼¿¡ ºé±îÀÖ»Â ´óÀÚ.
@@ -38000,28 +38783,28 @@ ZTR  2, UOVV  10, Ç¼³Ó³µ ¿ø¿İ°¡ »ëÇÑ ÀúÇ× 5%.
 µ¶°ëÇÏ·é 10µĞ¿£ 3ÃÊ·¹»Ù NSKÀÇ 6%·¦ È·µ¶ÇÑ»Ù.
 ¶ö³­Å© ´óÅÂ°¡³­»Â È°¿ú¿¡ ¶ßº°ÇÏÁö ±Ê»Â»Ù.
 ^000088Ä¼·¯ÅÍ¿¡ ÀüÅõµÒ»É´óÅÂ¿¡ ºÇ·é ±ÆÀÌÅÛ È°¿úºº ´ç¹óÁı»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 16660#
 °ºÈ¥ÀÇ ³Û¿÷ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
-^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000¶«¿Ô : ^7777771^000000
+^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000Weight : ^7777771^000000
 #
 16661#
 °ºÈ¥ÀÇ ³Û¿÷ÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
-^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000¶«¿Ô : ^7777771^000000
+^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000Weight : ^7777771^000000
 #
 16662#
 ¶é±ç¾Ã ÇÏ»ÃÀÇ µ·¿üÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 ^uuuuuu_^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16663#
 ¶é±ç¾Ã ÇÏ»ÃÀÇ °Õ¿üÀÌ 1¿¼ ºé±îÀÖ»Â ´óÀÚ.
 ^uuuuuu_^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 16666#
@@ -38033,7 +38816,7 @@ ZTR  2, UOVV  10, Ç¼³Ó³µ ¿ø¿İ°¡ »ëÇÑ ÀúÇ× 5%.
 (¿íÁ¤ Ä¼²µÆÃÀÇ % Áõ¿¨ È°¿ú»Â ¿¡Àå Å« È°¿ú·· Àû°ëºË»Ï»Ù. Àç´ç°ë »ë¾â²Ã¿£Àµ ÅåÅåÄººğ°Í ¿øÀ¯ÇÕ»Ï»Ù.)
 Ä¼·¯ÅÍ¿¡ ÀüÅõµÒ»É´óÅÂ¿¡ ºÇ·é ±ÆÀÌÅÛ È°¿úºº ´ç¹óÁı»Ï»Ù.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 16667#
 ·¹¶ıÄººğ 10¿¼°Í Çà°îÀÇ ±Ë¥¹ 1¿¼¿¡ ºé±îÀÖ»Â ´óÀÚ.
@@ -38044,7 +38827,7 @@ ZTR  2, UOVV  10, Ç¼³Ó³µ ¿ø¿İ°¡ »ëÇÑ ÀúÇ× 5%.
 (¿íÁ¤ Ä¼²µÆÃÀÇ % Áõ¿¨ È°¿ú»Â ¿¡Àå Å« È°¿ú·· Àû°ëºË»Ï»Ù. Àç´ç°ë »ë¾â²Ã¿£Àµ ÅåÅåÄººğ°Í ¿øÀ¯ÇÕ»Ï»Ù.)
 Ä¼·¯ÅÍ¿¡ ÀüÅõµÒ»É´óÅÂ¿¡ ºÇ·é ±ÆÀÌÅÛ È°¿úºº ´ç¹óÁı»Ï»Ù.
 ^uu0000µ´ ±ÆÀÌÅÛÀµ Ã´±àÃ¹È·¼ª È¯µÒ »ë´ó°¡³­ Á¦°ÜºÇ»Â ±ÆÀÌÅÛÀÔ»Ï»Ù.^000000
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 18000#
@@ -38083,16 +38866,12 @@ Property :^777777 Neutral^000000
 #
 
 18100#
-^000088Rental Items^000000
-...
-...
-...
-Class :^777777 Bow^000000
-Attack :^777777 190^000000
+Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 0^000000
-Weapon Level :^777777 4^000000
-Required Level :^777777 1^000000
-Applicable Job :^777777 Hunter, Bard, Dancer^000000
+#
+18101#
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
 #
 
 18103#
@@ -38106,53 +38885,25 @@ Weight :^777777 0^000000
 #
 
 18500#
-^000088ÀÓ»ë ±ÆÀÌÅÛ^000000
-Á¤°­ÀûÀÎ ´¡¿£´öÀÇ ÀÀ°ø°ë ²µÄ«ÇÁ.
-·ó²µÅÍ°¡¿Ô³­ È¶ºæ ¿æÇèÄ¡ 60% Áõ¿¡.
-^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
-¿è°­ : ^777777Åõ¾·^000000    ¶æ±î : ^7777770^000000
-À§Ä¡ : ^777777ÇÏ»Ü^000000
-¶«¿Ô : ^7777770^000000
-ÀåÂø : ^777777ÀüÁ÷±÷ ÀåÂø^000000
+Unknown Item. Can be identified by using a Magnifier.
+Weight: ^7777770^000000
 #
 18501#
-^000088ÀÓ»ë ±ÆÀÌÅÛ^000000
-Á¤°­ÀûÀÎ ´¡¿£´öÀÇ ÀÀ°ø°ë ²µÄ«ÇÁ.
-·ó²µÅÍ°¡¿Ô³­ È¶ºæ ¿æÇèÄ¡ 80% Áõ¿¡.
-^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
-¿è°­ : ^777777Åõ¾·^000000    ¶æ±î : ^7777770^000000
-À§Ä¡ : ^777777ÇÏ»Ü^000000
-¶«¿Ô : ^7777770^000000
-ÀåÂø : ^777777ÀüÁ÷±÷ ÀåÂø^000000
+Unknown Item. Can be identified by using a Magnifier.
+Weight : ^7777770^000000
 #
 18502#
-^000088ÀÓ»ë ±ÆÀÌÅÛ^000000
-Á¤°­ÀûÀÎ ´¡¿£´öÀÇ ÀÀ°ø°ë ²µÄ«ÇÁ.
-·ó²µÅÍ°¡¿Ô³­ È¶ºæ ¿æÇèÄ¡ 100% Áõ¿¡.
-^uu0000µ´ ±ÆÀÌÅÛÀµ ÀÌµ¥Æ® ¾â¿£ ÀÌÈÄ ´èÁ¦ºË»Ï»Ù.^000000
-¿è°­ : ^777777Åõ¾·^000000    ¶æ±î : ^7777770^000000
-À§Ä¡ : ^777777ÇÏ»Ü^000000
-¶«¿Ô : ^7777770^000000
-ÀåÂø : ^777777ÀüÁ÷±÷ ÀåÂø^000000
+Unknown Item. Can be identified by using a Magnifier.
+Weight : ^7777770^000000
 #
 18503#
-...
-ATK, MATK  5%.
-MaxHP, MaxSP + 10%.
-Class :^777777 Headgear^000000
-Defense :^777777 2^000000
-Equipped on :^777777 Mid^000000
+Unknown Item. Can be identified by using a Magnifier.
 Weight :^777777 10^000000
-Required Level :^777777 1^000000
-Applicable Job :^777777 Every Job^000000
 #
 
 18507#
-°äÁ¤ºéÀÇ ¾ä ¾Í·¦ µ´ºû ··ºé±ú»Ù¿í ±Ë¸ÁÁ® ÀÖÀ··ç Âø°ëÇÏ·é Çª·¥ ²£°¡³­ ¼ë»Ï»Â °äÁ¤ºéÀÇ »À¼¦À´ ¾×»ë¸Î ¶ŞÀ´ ³ö ÀÖ»Ù¿í ÇÑ»Ù
-¿è°­ : ^777777Åõ¾·^000000    ¶æ±î : ^7777770^000000
-À§Ä¡ : ^777777Áß»Ü^000000    ¶«¿Ô : ^77777710^000000
-°ä¾·¸¶µ§ : ^77777770^000000
-ÀåÂø : ^777777¼ëµñ²µ¿è°­À´ Á¦°ÜÇÑ ÀüÁ÷±÷ ÀåÂø¿¡»É^000000
+Unknown Item. Can be identified by using a Magnifier.
+Weight : ^77777710^000000
 #
 
 18513#
