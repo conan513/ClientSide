@@ -10805,12 +10805,12 @@ SKILL_DESCRIPT = {
 		"Target:^777777 Enemy ^000000",
 		"Cast Time:^777777 4 sec ^000000",
 		"Cool Down:^777777 170 + 10 * SkillLv sec ^000000",
-		"Effect:^777777 Distorts the air around the caster, making it impossible for targets within its radius to cast magic. ^000000",
-		"[LV 1]^777777 Duration 10 sec ^000000",
-		"[LV 2]^777777 Duration 15 sec ^000000",
-		"[LV 3]^777777 Duration 20 sec ^000000",
-		"[LV 4]^777777 Duration 25 sec ^000000",
-		"[LV 5]^777777 Duration 30 sec ^000000",
+		"Effect:^777777 Distorts the air around the caster, making it impossible for targets within its radius to cast magic. The duration is reduced by the target's DEX and VIT (Minimum duration 10 seconds).^000000",
+		"[LV 1]^777777 Duration 20 sec / Range 19 x 19 Cells ^000000",
+		"[LV 2]^777777 Duration 30 sec / Range 21 x 21 Cells  ^000000",
+		"[LV 3]^777777 Duration 40 sec / Range 23 x 23 Cells  ^000000",
+		"[LV 4]^777777 Duration 50 sec / Range 25 x 25 Cells  ^000000",
+		"[LV 5]^777777 Duration 60 sec / Range 27 x 27 Cells  ^000000",
 	},
 
 	[SKID.WL_DRAINLIFE] = {
