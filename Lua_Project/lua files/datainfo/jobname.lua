@@ -1725,4 +1725,8 @@ JobNameTable = {
 	[jobtbl.JT_BUTOIJO] = "BUTOIJO",
 	[jobtbl.JT_LEAK] = "LEAK",
 	[jobtbl.JT_G_BANASPATY] = "BANASPATY",
+	[jobtbl.JT_4_M_ALCHE_E] = "4_M_ALCHE_E",
+	[jobtbl.JT_S_HORNET] = "HORNET",
+	[jobtbl.JT_S_GIANT_HORNET] = "GIANT_HORNET",
+	[jobtbl.JT_S_LUCIOLA_VESPA] = "LUCIOLA_VESPA",
 }

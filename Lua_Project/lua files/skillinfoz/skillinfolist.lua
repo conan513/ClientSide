@@ -7931,46 +7931,55 @@ SKILL_INFO_LIST = {
 	[SKID.MH_SUMMON_LEGION] = {
 		"MH_SUMMON_LEGION";
 		SkillName = "Summon Legion",
+		SpAmount = { 48, 60, 72, 84, 96 }
 	},
 
 	[SKID.MH_NEEDLE_OF_PARALYZE] = {
 		"MH_NEEDLE_OF_PARALYZE";
 		SkillName = "Needle of Paralyze",
+		SpAmount = { 60, 80, 100, 120, 140 }
 	},
 
 	[SKID.MH_POISON_MIST] = {
 		"MH_POISON_MIST";
 		SkillName = "Poison Mist",
+		SpAmount = { 65, 75, 85, 95, 105 }
 	},
 
 	[SKID.MH_PAIN_KILLER] = {
 		"MH_PAIN_KILLER";
 		SkillName = "Pain Killer",
+		SpAmount = { 48, 52, 56, 60, 64 }
 	},
 
 	[SKID.MH_LIGHT_OF_REGENE] = {
 		"MH_LIGHT_OF_REGENE";
 		SkillName = "Light of Regene",
+		SpAmount = { 40, 50, 60, 70, 80 }
 	},
 
 	[SKID.MH_OVERED_BOOST] = {
 		"MH_OVERED_BOOST";
 		SkillName = "Overed Boost",
+		SpAmount = { 70, 90, 110, 130, 150 }
 	},
 
 	[SKID.MH_ERASER_CUTTER] = {
 		"MH_ERASER_CUTTER";
 		SkillName = "Eraser Cutter",
+		SpAmount = { 25, 30, 35, 40, 45 }
 	},
 
 	[SKID.MH_XENO_SLASHER] = {
 		"MH_XENO_SLASHER";
 		SkillName = "Xeno Slasher",
+		SpAmount = { 90, 100, 110, 120, 130 }
 	},
 
 	[SKID.MH_SILENT_BREEZE] = {
 		"MH_SILENT_BREEZE";
 		SkillName = "Silent Breeze",
+		SpAmount = { 45, 54, 63, 72, 81 }
 	},
 
 	[SKID.MH_STYLE_CHANGE] = {
@@ -7981,81 +7990,98 @@ SKILL_INFO_LIST = {
 	[SKID.MH_SONIC_CRAW] = {
 		"MH_SONIC_CRAW";
 		SkillName = "Sonic Claw",
+		SpAmount = { 20, 25, 30, 35, 40 }
 	},
 
 	[SKID.MH_SILVERVEIN_RUSH] = {
 		"MH_SILVERVEIN_RUSH";
 		SkillName = "Silver Bain Rush",
+		SpAmount = { 10, 15, 20, 25, 30 }
 	},
 
 	[SKID.MH_MIDNIGHT_FRENZY] = {
 		"MH_MIDNIGHT_FRENZY";
 		SkillName = "Midnight Frenzy",
+		SpAmount = { 8, 16, 24, 32, 40 }
 	},
 
 	[SKID.MH_STAHL_HORN] = {
 		"MH_STAHL_HORN";
 		SkillName = "Steel's Horn",
+		SpAmount = { 40, 45, 50, 55, 60 }
 	},
 
 	[SKID.MH_GOLDENE_FERSE] = {
 		"MH_GOLDENE_FERSE";
 		SkillName = "Golden Heel",
+		SpAmount = { 60, 65, 70, 75, 80 }
 	},
 
 	[SKID.MH_STEINWAND] = {
 		"MH_STEINWAND";
 		SkillName = "Stone Wall",
+		SpAmount = { 80, 90, 100, 110, 120 }
 	},
 
 	[SKID.MH_HEILIGE_STANGE] = {
 		"MH_HEILIGE_STANGE";
 		SkillName = "Holy Pole",
+		SpAmount = { 60, 68, 76, 84, 100 }
 	},
 
 	[SKID.MH_ANGRIFFS_MODUS] = {
 		"MH_ANGRIFFS_MODUS";
 		SkillName = "Attack Mode",
+		SpAmount = { 60, 65, 70, 75, 80 }
 	},
 
 	[SKID.MH_TINDER_BREAKER] = {
 		"MH_TINDER_BREAKER";
 		SkillName = "Tinder Breaker",
+		SpAmount = { 20, 25, 30, 35, 40 }
 	},
 
 	[SKID.MH_CBC] = {
 		"MH_CBC";
 		SkillName = "Continual Break Combo",
+		SpAmount = { 10, 20, 30, 40, 50 }
 	},
 
 	[SKID.MH_EQC] = {
 		"MH_EQC";
 		SkillName = "Eternal Quick Combo",
+		SpAmount = { 24, 28, 32, 36, 40 }
 	},
 
 	[SKID.MH_MAGMA_FLOW] = {
-		"MH_MAGMA_FLOW";
+		"MS_BASH"; -- kRO fail?
 		SkillName = "Magma Flow",
+		MaxLv = 5,
+		SpAmount = { 34, 38, 42, 46, 50 }
 	},
 
 	[SKID.MH_GRANITIC_ARMOR] = {
 		"MH_GRANITIC_ARMOR";
 		SkillName = "Granitic Armor",
+		SpAmount = { 54, 58, 62, 66, 70 }
 	},
 
 	[SKID.MH_LAVA_SLIDE] = {
 		"MH_LAVA_SLIDE";
 		SkillName = "Lava Slide",
+		SpAmount = { 30, 35, 40, 45, 50 }
 	},
 
 	[SKID.MH_PYROCLASTIC] = {
 		"MH_PYROCLASTIC";
 		SkillName = "Pyroclastic",
+		SpAmount = { 20, 28, 36, 44, 52 }
 	},
 
 	[SKID.MH_VOLCANIC_ASH] = {
 		"MH_VOLCANIC_ASH";
 		SkillName = "Volcanic Ash",
+		SpAmount = { 60, 65, 70, 75, 80 }
 	},
 	
 	[SKID.MS_BASH] = {

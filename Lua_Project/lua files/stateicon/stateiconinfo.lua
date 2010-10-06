@@ -1060,10 +1060,11 @@ StateIconList[EFST_IDs.EFST_DEFENDER] = {
 	}
 }
 StateIconList[EFST_IDs.EFST_WEAPONPROPERTY] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Aspersio", COLOR_TITLE_BUFF}, 
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+	--	{"Aspersio", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
-		{"Enchants Weapon with Holy Property"}
+	--	{"Enchants Weapon with Holy Property"}
+		{"Granted a weapon property"}
 	}
 }
 StateIconList[EFST_IDs.EFST_S_LIFEPOTION] = {

@@ -1157,7 +1157,10 @@ jobtbl = {
 	["JT_BUTOIJO"] = 2155,
 	["JT_LEAK"] = 2156,
 	["JT_G_BANASPATY"] = 2157,
-	["JT_MONSTER_LAST"] = 2158,
+	["JT_S_HORNET"] = 2158,
+	["JT_S_GIANT_HORNET"] = 2159,
+	["JT_S_LUCIOLA_VESPA"] = 2160,	
+	["JT_MONSTER_LAST"] = 2158, -- should be 2161 (kRO Fail)
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
@@ -1736,4 +1739,5 @@ jobtbl = {
 	["JT_4_M_DEWGIRL"] = 539,
 	["JT_4_M_DEWZATICHIEF"] = 540,
 	["JT_4_M_DEWZATIMAN"] = 541,
+	["JT_4_M_ALCHE_E"] = 542,
 }
