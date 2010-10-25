@@ -1769,4 +1769,10 @@ jobtbl = {
 	["JT_4_CAT_ADMIRAL"] = 556,
 	["JT_4_SOIL"] = 557,
 	["JT_4_F_ALCHE_A"] = 558,
+	["JT_4_CAT_ADV1"] = 559,
+	["JT_4_CAT_ADV2"] = 560,
+	["JT_4_CAT_SAILOR5"] = 561,
+	["JT_2_DROP_MACHINE"] = 562,
+	["JT_2_SLOT_MACHINE"] = 563,
+	["JT_2_VENDING_MACHINE1"] = 564,
 }

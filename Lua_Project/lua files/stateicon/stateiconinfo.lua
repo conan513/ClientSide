@@ -1060,10 +1060,7 @@ StateIconList[EFST_IDs.EFST_DEFENDER] = {
 	}
 }
 StateIconList[EFST_IDs.EFST_WEAPONPROPERTY] = {
-	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
-	--	{"Aspersio", COLOR_TITLE_BUFF}, 
-		{"%s", COLOR_TIME}, 
-	--	{"Enchants Weapon with Holy Property"}
+	haveTimeLimit = 0, descript = {
 		{"Granted a weapon property"}
 	}
 }
@@ -1397,8 +1394,7 @@ StateIconList[EFST_IDs.EFST_STRIPACCESSARY] = {
 	}
 }
 StateIconList[EFST_IDs.EFST_PROPERTYUNDEAD] = {
-	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
-		{"%s", COLOR_TIME}, 
+	haveTimeLimit = 1, descript = {
 		{"Enchants Armor with Undead Property"}
 	}
 }
@@ -1858,4 +1854,67 @@ StateIconList[EFST_IDs.EFST_ENERGYCOAT] = {
 		{"to the amount of SP remaining"}
 	}
 }
-
+StateIconList[EFST_IDs.EFST_PAIN_KILLER] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Pain Killer", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"No movement delay in receiving damage"}, 
+		{"Reduced damage taken"}
+	}
+}
+StateIconList[EFST_IDs.EFST_LIGHT_OF_REGENE] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Light Of Regeneration", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"When the summoner died"}, 
+		{"Homunculus will sacrifice to revive the summoner"}
+	}
+}
+StateIconList[EFST_IDs.EFST_OVERED_BOOST] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Overed Boost", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"Increases ASPD and Evasion"}, 
+		{"to a fixed amount"}
+	}
+}
+StateIconList[EFST_IDs.EFST_STYLE_CHANGE] = {
+	haveTimeLimit = 0, descript = {
+		{"Style Change", COLOR_TITLE_TOGGLE},
+		{"Homunculus in Fighter Style"}
+	}
+}
+StateIconList[EFST_IDs.EFST_MAGMA_FLOW] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Magma Flow", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"When receiving damage"}, 
+		{"there is a chance to eject magma around it"}
+	}
+}
+StateIconList[EFST_IDs.EFST_GRANITIC_ARMOR] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Granitic Armor", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"Reduced damage taken"}, 
+		{"Lose some HP when the status ends."}
+	}
+}
+StateIconList[EFST_IDs.EFST_PYROCLASTIC] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Pyroclastic", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"디이터와 주인의 무기가"}, 
+		{"화속성으로 변화"},
+		{"Increased weapon damage"}
+	}
+}
+StateIconList[EFST_IDs.EFST_VOLCANIC_ASH] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Volcanic Ash", COLOR_TITLE_DEBUFF},
+		{"%s", COLOR_TIME}, 
+		{"Reduced hit rate"}, 
+		{"Skill has a chance of failing"},
+		{"Increases fire damage taken"}
+	}
+}

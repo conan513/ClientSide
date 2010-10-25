@@ -8054,7 +8054,7 @@ SKILL_INFO_LIST = {
 	},
 
 	[SKID.MH_MAGMA_FLOW] = {
-		"MS_BASH"; -- kRO fail?
+		"MH_MAGMA_FLOW";
 		SkillName = "Magma Flow",
 		MaxLv = 5,
 		SpAmount = { 34, 38, 42, 46, 50 }
