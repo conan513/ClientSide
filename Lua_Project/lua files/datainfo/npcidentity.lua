@@ -1191,7 +1191,15 @@ jobtbl = {
 	["JT_COELACANTH_H_M"] = 2189,
 	["JT_COELACANTH_H_A"] = 2190,
 	["JT_MD_SEAWEED"] = 2191,
-	["JT_MONSTER_LAST"] = 2174, -- kRO fail should be 2192
+	["JT_MD_OCTOPUS"] = 2192,
+	["JT_MD_OCTOPUS_LEG"] = 2193,
+	["JT_MD_GIANT_OCTOPUS"] = 2194,
+	["JT_MD_G_KUKRE"] = 2195,
+	["JT_MD_G_STROUF"] = 2196,
+	["JT_RED_ERUMA"] = 2197,
+	["JT_KING_DRAMOH"] = 2198,
+	["JT_SIORAVA"] = 2199,
+	["JT_MONSTER_LAST"] = 2200,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,

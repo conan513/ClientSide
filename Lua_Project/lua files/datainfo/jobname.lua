@@ -1782,4 +1782,12 @@ JobNameTable = {
 	[jobtbl.JT_COELACANTH_H_M] = "COELACANTH_H",
 	[jobtbl.JT_COELACANTH_H_A] = "COELACANTH_H",
 	[jobtbl.JT_MD_SEAWEED] = "MD_SEAWEED",
+	[jobtbl.JT_MD_OCTOPUS] = "MD_OCTOPUS",
+	[jobtbl.JT_MD_OCTOPUS_LEG] = "MD_OCTOPUS_LEG",
+	[jobtbl.JT_MD_GIANT_OCTOPUS] = "MD_GIANT_OCTOPUS",
+	[jobtbl.JT_MD_G_KUKRE] = "KUKRE",
+	[jobtbl.JT_MD_G_STROUF] = "STROUF",
+	[jobtbl.JT_RED_ERUMA] = "RED_ERUMA",
+	[jobtbl.JT_KING_DRAMOH] = "KING_DRAMOH",
+	[jobtbl.JT_SIORAVA] = "SIORAVA",
 }
