@@ -192,8 +192,9 @@ HOTKEY_2 = {
 	[31] = { EXE = MsgStrID.MSI_HK_CHATMODE_ONOFF, KEY1 = 13 },
 	[32] = { EXE = MsgStrID.MSI_HK_BASICINFOWND_BTN_ONOFF, KEY1 = 192, KEY2 = 18 },
 	[33] = { EXE = MsgStrID.MSI_HK_PARTY_RECRUIT },
-	[34] = { EXE = MsgStrID.MSI_HK_PARTY_BOOKING_LIST }, -- they changed it to "Party Recruitment List Window" but its too long to fit in hotkey window
-	[35] = { EXE = MsgStrID.MSI_HK_GROUND_CURSOR_ONOFF, KEY1 = 36, KEY2 = 18 }
+	[34] = { EXE = MsgStrID.MSI_HK_PARTY_BOOKING_LIST },
+	[35] = { EXE = MsgStrID.MSI_HK_GROUND_CURSOR_ONOFF, KEY1 = 36, KEY2 = 18 },
+	[36] = { EXE = MsgStrID.MSI_HK_EXMACRO_SETUPWND }
 }
 HOTKEY_3 = {
 	[0] = { EXE = MsgStrID.MSI_HK_MACRO_1, KEY1 = 49, KEY2 = 18 },
@@ -235,7 +236,8 @@ BEHAVIOR_TO_WINDOWID = {
 	[88] = 23,
 	[113] = 24,
 	[125] = 25,
-	[157] = 31,
+	[157] = 30,
+	[191] = 36,
 }
 
 --Function #0

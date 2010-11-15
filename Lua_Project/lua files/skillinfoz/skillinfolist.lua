@@ -6705,7 +6705,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Cursed Circle",
 		MaxLv = 5,
 		_NeedSkillList = {
-			{ SKID.MO_SPIRITSRECOVERY,2 },
+			{ SKID.MO_BLADESTOP,2 },
 			{ SKID.SR_GENTLETOUCH_QUIET,2 }
 		}
 	},
