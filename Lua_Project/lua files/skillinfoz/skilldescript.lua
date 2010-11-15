@@ -11744,12 +11744,12 @@ SKILL_DESCRIPT = {
 		"SP Cost:^777777 16+2*SkillLV ^000000",
 		"Target:^777777 Enemy ^000000",
 		"Cast Time:^777777 Instant ^000000",
-		"Effect:^777777 Spins rapidly like a whirlwind with an axe striking all targets around you. The VIT stat increases your damage. ^000000",
-		"[LV 1]^777777 300% ATK ^000000",
-		"[LV 2]^777777 400% ATK ^000000",
-		"[LV 3]^777777 500% ATK ^000000",
-		"[LV 4]^777777 600% ATK ^000000",
-		"[LV 5]^777777 700% ATK ^000000",
+		"Effect:^777777 Spins rapidly like a whirlwind with an axe striking all targets around you. The VIT stat increases your damage. Consumes a certain amount of HP.^000000",
+		"[LV 1]^777777 300% ATK / Range 5 x 5 cells / Consumes 20 HP ^000000",
+		"[LV 2]^777777 400% ATK / Range 5 x 5 cells / Consumes 40 HP  ^000000",
+		"[LV 3]^777777 500% ATK / Range 7 x 7 cells / Consumes 60 HP  ^000000",
+		"[LV 4]^777777 600% ATK / Range 7 x 7 cells / Consumes 80 HP  ^000000",
+		"[LV 5]^777777 700% ATK / Range 7 x 7 cells / Consumes 100 HP  ^000000",
 	},
 
 	[SKID.NC_SILVERSNIPER] = {
