@@ -13980,7 +13980,7 @@ Class :^777777 Accessory^000000
 Defense :^777777 0^000000
 Weight :^777777 20^000000
 Required Level :^777777 80^000000
-Applicable Job :^777777 Mage Class, Soul Linker^000000
+Applicable Job :^777777 Mage Class^000000
 #
 2718#
 A crescent-shaped golden shining brooch.
