@@ -12702,11 +12702,11 @@ SKILL_DESCRIPT = {
 		"Target:^777777 Self^000000",
 		"Cast Time:^777777 Unknown^000000",
 		"Effect:^777777 Using special pressure points you increase your VIT, MaxHP, and improve your natural HP regeneration. Also increases your physical defense. While in this state your movement and attack speed and HP recovery increase as well. Consumes 2 spirit spheres. Cannot be used in combination with Pressure Point: Energy Gain and Pressure Point: Change.^000000",
-		"[LV 1]^777777 Max HP 6%, Natural HP Recovery +100%^000000",
-		"[LV 2]^777777 Max HP 12%, Natural HP Recovery +140%^000000",
-		"[LV 3]^777777 Max HP 18%, Natural HP Recovery +180%^000000",
-		"[LV 4]^777777 Max HP 24%, Natural HP Recovery +220%^000000",
-		"[LV 5]^777777 Max HP 30%, Natural HP Recovery +260%^000000",
+		"[LV 1]^777777 Max HP 3%, Natural HP Recovery +80%^000000",
+		"[LV 2]^777777 Max HP 6%, Natural HP Recovery +110%^000000",
+		"[LV 3]^777777 Max HP 9%, Natural HP Recovery +140%^000000",
+		"[LV 4]^777777 Max HP 12%, Natural HP Recovery +170%^000000",
+		"[LV 5]^777777 Max HP 15%, Natural HP Recovery +200%^000000",
 	},
 
 	[SKID.WA_SWING_DANCE] = {
