@@ -1199,7 +1199,18 @@ jobtbl = {
 	["JT_RED_ERUMA"] = 2197,
 	["JT_KING_DRAMOH"] = 2198,
 	["JT_SIORAVA"] = 2199,
-	["JT_MONSTER_LAST"] = 2200,
+	--2200-2219 Skipped
+	["JT_J_TAINI"] = 2220,
+	["JT_SROPHO"] = 2221,
+	["JT_KRAKEN"] = 2222,
+	["JT_POT_DOFLE"] = 2223,
+	["JT_SEDORA"] = 2224,
+	["JT_TACNU"] = 2225,
+	["JT_KRAKEN_LEG"] = 2226,
+	["JT_RACARCH"] = 2227,
+	["JT_WILD_RIDER"] = 2228,
+	["JT_E_THIEF_BUG"] = 2229,
+	["JT_MONSTER_LAST"] = 2230,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
@@ -1801,4 +1812,5 @@ jobtbl = {
 	["JT_2_DROP_MACHINE"] = 562,
 	["JT_2_SLOT_MACHINE"] = 563,
 	["JT_2_VENDING_MACHINE1"] = 564,
+	["JT_MOB_TOMB"] = 565,
 }

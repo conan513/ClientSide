@@ -1,3 +1,8 @@
+rev95 - [2010-11-25]
+ - 2010-11-24 kRO Patch lua and lub
+   (note: hotkey.lua/lub has been modified this may not work with older exes)
+   (Just dont get hotkey.lub/lua to make other files work with older exes) 
+
 rev94 - [2010-11-24]
  - 2010-11-17 kRO Patch lua and lub
 
