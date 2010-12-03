@@ -14255,7 +14255,6 @@ Applicable Job :^777777 Assassin Cross^000000
 2747#
 A pendant with markings highly recognized in the underground as that of the rogue guild.
 DEX + 3
-Increases HIT and Casting time by refine rate of your weapon.
 [^000088Black Cat & Thief Ring Equip Set^000000]
 Increases damage inflicted on Large size monster by 8%.
 Increases HIT and casting time by refine level of your weapon.
