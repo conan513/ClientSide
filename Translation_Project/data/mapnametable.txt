@@ -1,61 +1,82 @@
-dicastes01.rsw#Capital City Of The Sapha#
-dicastes02.rsw#Plumbeld Yorhi Forest#
-dic_in01.rsw#Inside El Descates#
-dic_fild01.rsw#El Descates Field Foot Of The Kamidal Mountain#
-dic_fild02.rsw#El Descates Field Foot Of The Kamidal Mountain#
-dic_dun01.rsw#Underground Passage Kamidal Tunnel#
-dic_dun02.rsw#Underground Nest Scaraba Hole#
+//사크라이서버 10.11.10
+iz_dun05.rsw#Undersea Tunnel F6#
+malangdo.rsw#Malangdo Island#
+mal_in01.rsw#Inside Malangdo Island#
+mal_in02.rsw#Inside Ship#
+mal_dun01.rsw#Lagoon in the Stars#
+1@cash.rsw#Octopus Cave#
+1@pump.rsw#Drain#
+2@pump.rsw#Drain#
+evt_hello.rsw#Halloween Event Area#
+dic_dun03.rsw#Scaraba Hole - Nightmare Mode#
+que_house_s.rsw#Strange House#
+dewata.rsw#Dewata#
+dew_in01.rsw#Inside Dewata#
+dew_fild01.rsw#Dewata Field (Tribal Village)#
+dew_dun01.rsw#Volcanic Island of Krakatoa#
+dew_dun02.rsw#Tina Grace Cave#
+bif_fild01.rsw#Bifrost South#
+bif_fild02.rsw#Bifrost North#
+1@mist.rsw#Misty Forest Labyrinth#
+mora.rsw#Mora, The Laphine Village#
+dicastes01.rsw#El Dicastes, the Sapha Capital#
+dicastes02.rsw#Brumbeld Jorhi Forest#
+dic_in01.rsw#Inside El Discates#
+dic_fild01.rsw#El Discates Field (Foot of Kamidal Mountain)#
+dic_fild02.rsw#El Discates Field (Foot of Kamidal Mountain)#
+dic_dun01.rsw#Kamidal Tunnel#
+dic_dun02.rsw#Scaraba Hole#
 job3_gen01.rsw#Genetic Job Change Waiting Room#
-s_atelier.rsw#...#
-brasilis.rsw#Brasilia#
-bra_in01.rsw#Inside Brasilia#
-bra_fild01.rsw#Brasilia Field#
-bra_dun01.rsw#Brasilia's Dungeon#
-bra_dun02.rsw#Brasilia's Dungeon#
-moc_para01.rsw#Inside morocc In Paradise#
-job3_arch01.rsw#Arch Bishop Job Change Waiting Room#
-job3_arch02.rsw#Odin Shrine#
-job3_arch03.rsw#Arch Bishop Job Change Waiting Room#
-job3_guil01.rsw#Secret Pub#
-job3_guil02.rsw#Inside Rundown Warehouse#
-job3_guil03.rsw#Remote Mansion#
-job3_rang01.rsw#Ranger Job Change Waiting Room#
-job3_rang02.rsw#Ranger Job Change Test#
-job3_rune01.rsw#Inside Rune Knight Corps Building#
-job3_rune02.rsw#Rune Knight Job Change Test#
-job3_rune03.rsw#Rune Knight Job Change Test#
-job3_war01.rsw#Warlock Job Change Test#
-job3_war02.rsw#Warlock Job Change Test#
+s_atelier.rsw#Shadow Workshop#
+brasilis.rsw#Brasilis#
+bra_in01.rsw#Inside Brasilis#
+bra_fild01.rsw#Brasilis Field#
+bra_dun01.rsw#Brasilis Dungeon F1#
+bra_dun02.rsw#Brasilis Dungeon F2#
+moc_para01.rsw#Inside Paradise Group Headquarters in Morroc#
+job3_arch01.rsw#Waiting room for Arch Bishop Job Change#
+job3_arch02.rsw#Odin Temple#
+job3_arch03.rsw#Waiting room for Arch Bishop Job Change#
+job3_guil01.rsw#Secret Tavern#
+job3_guil02.rsw#Inside the Old Warehouse#
+job3_guil03.rsw#An Isolated Mansion#
+job3_rang01.rsw#Waiting room for Ranger Job Change#
+job3_rang02.rsw#Test room for Ranger Job Change#
+job3_rune01.rsw#Inside of Rune Knight Templar#
+job3_rune02.rsw#Test room for Rune Knight Job Change#
+job3_rune03.rsw#Test room for Rune Knight Job Change#
+job3_war01.rsw#Test room for Warlock Job Change#
+job3_war02.rsw#Test room for Warlock Job Change#
 jupe_core2.rsw#Center of Juperos#
-1@nyd.rsw#Nidhogg's Nest#
-2@nyd.rsw#Nidhogg's Nest#
-nyd_dun01.rsw#Nidhogg's Dungeon#
-nyd_dun02.rsw#Nidhogg's Dungeon#
-manuk.rsw#Mining Village Manuk#
+1@nyd.rsw#Nidhoggr's Nest F1#
+2@nyd.rsw#Nidhoggr's Nest F2#
+nyd_dun01.rsw#Yggdrasil Root F1#
+nyd_dun02.rsw#Yggdrasil Root F2#
+manuk.rsw#Manuk#
 man_fild02.rsw#Manuk Field#
 man_in01.rsw#Inside Manuk#
-splendide.rsw#Forest Village Splendide#
+splendide.rsw#Splendide#
 spl_fild01.rsw#Splendide Field#
-spl_in01.rsw#Inside the command post in Splendide#
-spl_in02.rsw#Inside Splendide 02#
+spl_in01.rsw#Inside Splendide#
+spl_in02.rsw#Inside Splendide#
 bat_c01.rsw#Kreiger Von Midgard#
 bat_c02.rsw#Kreiger Von Midgard#
 bat_c03.rsw#Kreiger Von Midgard#
-mid_camp.rsw#Midgarts Expedition Camp#
-mid_campin.rsw#Inside Midgarts Expedition Camp#
+mid_camp.rsw#Midgard Expedition Camp#
+mid_campin.rsw#Inside Midgard Expedition Camp#
 man_fild01.rsw#Manuk Field#
 man_fild03.rsw#Manuk Field#
 spl_fild02.rsw#Splendide Field#
 spl_fild03.rsw#Splendide Field#
-moc_fild22b.rsw#Crack of Dimension#
+moc_fild22b.rsw#Dimensional Gorge#
 que_dan01.rsw#Hugel Field#
-que_dan02.rsw#Interior of the Abandoned House in Yuno#
-schg_que01.rsw#Stone's North#
+que_dan02.rsw#Inside of the Abandoned House in Yuno#
+schg_que01.rsw#Morestone Prairie#
 schg_dun01.rsw#Schwartzvald Guild Dungeon#
-arug_que01.rsw#Stone's North#
+arug_que01.rsw#Morestone Prairie#
 arug_dun01.rsw#Arunafeltz Guild Dungeon#
-1@orcs.rsw#Orcish Underground Caves#
-2@orcs.rsw#Orcish Underground Caves#
+1@orcs.rsw#Subterranean Orc Cave F1#
+2@orcs.rsw#Subterranean Orc Cave F2#
 1@cata.rsw#Catacombs#
 2@cata.rsw#Sealed Shrine#
 e_tower.rsw#Misty Island#
@@ -64,60 +85,60 @@ e_tower.rsw#Misty Island#
 3@tower.rsw#Endless Tower#
 4@tower.rsw#Endless Tower#
 5@tower.rsw#Endless Tower#
-6@tower.rsw#Endless Tower - Unknown Area#
+6@tower.rsw#Endless Tower (Unknown Area)#
 bat_room.rsw#Battlegrounds Waiting Room#
 bat_a01.rsw#Tierra Valley#
 bat_a02.rsw#Tierra Valley#
-bat_b01.rsw#Frebeus#
-bat_b02.rsw#Frebeus#
-que_qsch01.rsw#Schwartzvalt God Items Map 1#
-que_qsch02.rsw#Schwartzvalt God Items Map 2#
-que_qsch03.rsw#Schwartzvalt God Items Map 3#
-que_qsch04.rsw#Schwartzvalt God Items Map 4#
-que_qsch05.rsw#Schwartzvalt God Items Map 5#
-que_qaru01.rsw#Arunafeltz God Items Map 1#
-que_qaru02.rsw#Arunafeltz God Items Map 2#
-que_qaru03.rsw#Arunafeltz God Items Map 3#
-que_qaru04.rsw#Arunafeltz God Items Map 4#
-que_qaru05.rsw#Arunafeltz God Items Map 5#
-arug_cas01.rsw#Arunafeltz Guild Castle 1#
-arug_cas02.rsw#Arunafeltz Guild Castle 2#
-arug_cas03.rsw#Arunafeltz Guild Castle 3#
-arug_cas04.rsw#Arunafeltz Guild Castle 4#
-arug_cas05.rsw#Arunafeltz Guild Castle 5#
-aru_gld.rsw#Arunafeltz Guild Map#
+bat_b01.rsw#Flavian#
+bat_b02.rsw#Flavian#
+que_qsch01.rsw#Fallacious Okolnir#
+que_qsch02.rsw#Fallacious Okolnir#
+que_qsch03.rsw#Fallacious Okolnir#
+que_qsch04.rsw#Fallacious Okolnir#
+que_qsch05.rsw#Fallacious Okolnir#
+que_qaru01.rsw#Fallacious Okolnir#
+que_qaru02.rsw#Fallacious Okolnir#
+que_qaru03.rsw#Fallacious Okolnir#
+que_qaru04.rsw#Fallacious Okolnir#
+que_qaru05.rsw#Fallacious Okolnir#
+arug_cas01.rsw#Valfreyja Guild#
+arug_cas02.rsw#Valfreyja Guild#
+arug_cas03.rsw#Valfreyja Guild#
+arug_cas04.rsw#Valfreyja Guild#
+arug_cas05.rsw#Valfreyja Guild#
+aru_gld.rsw#Valfreyja#
 moscovia.rsw#Moscovia#
 mosk_in.rsw#Inside Moscovia#
 mosk_ship.rsw#Charabel#
 mosk_fild01.rsw#Okrestnosti Of Moscovia#
-mosk_fild02.rsw#Okrestnosti of Moscovia#
+mosk_fild02.rsw#Okrestnosti Of Moscovia#
 mosk_dun01.rsw#Les Forest#
 mosk_dun02.rsw#Temny Forest#
 mosk_dun03.rsw#Dremuci Forest#
-mosk_que.rsw#Moscovia Quest#
-schg_cas01.rsw#Schwaltzvalt Guild Castle 1#
-schg_cas02.rsw#Schwaltzvalt Guild Castle 2#
-schg_cas03.rsw#Schwaltzvalt Guild Castle 3#
-schg_cas04.rsw#Schwaltzvalt Guild Castle 4#
-schg_cas05.rsw#Schwaltzvalt Guild Castle 5#
-sch_gld.rsw#Schwarzwald Realm#
+mosk_que.rsw#Marozka's Cave#
+schg_cas01.rsw#Nidhoggur Guild#
+schg_cas02.rsw#Nidhoggur Guild#
+schg_cas03.rsw#Nidhoggur Guild#
+schg_cas04.rsw#Nidhoggur Guild#
+schg_cas05.rsw#Nidhoggur Guild#
+sch_gld.rsw#Nidhoggur#
 cave.rsw#Cave Village#
-moc_fild20.rsw#Morocc Field (Dimensional Gorge)#
-moc_fild21.rsw#Morocc Field (Dimensional Gorge)#
-moc_fild22.rsw#Morocc Field (Dimensional Gorge)#
+moc_fild20.rsw#Sograt Desert - Continental Guard Quarantine#
+moc_fild21.rsw#Dimensional Gorge#
+moc_fild22.rsw#Dimensional Gorge#
 bossnia_01.rsw#Bossnia#
 bossnia_02.rsw#Bossnia#
 bossnia_03.rsw#Bossnia#
 bossnia_04.rsw#Bossnia#
 itemmall.rsw#Kafra Shop#
-poring_w01.rsw#Poring Waiting Room#
-poring_w02.rsw#Poring Market#
-nameless_i.rsw#The Nameless Island#
-nameless_n.rsw#The Nameless Island#
-nameless_in.rsw#Inside Nameless City#
-abbey01.rsw#Cursed Abbey Dungeon#
-abbey02.rsw#Cursed Abbey Dungeon#
-abbey03.rsw#Cursed Abbey Dungeon#
+poring_w01.rsw#Poring War Waiting Room#
+poring_w02.rsw#Poring War Market#
+nameless_i.rsw#Nameless Island#
+nameless_n.rsw#Nameless Island#
+nameless_in.rsw#Inside Nameless Island#
+abbey01.rsw#Cursed Abbey Dungeon F1#
+abbey02.rsw#Cursed Abbey Dungeon F2#
+abbey03.rsw#Cursed Abbey Dungeon F3#
 que_temsky.rsw#Pope's Room (Sky Garden)#
 z_agit.rsw#Z Gang's Hideout#
 veins.rsw#Veins, the Desert Village#
@@ -131,10 +152,10 @@ ve_fild05.rsw#Veins Field#
 ve_fild06.rsw#Veins Field#
 ve_fild07.rsw#Veins Field#
 thor_camp.rsw#Thor Camp#
-que_thor.rsw#Thor's Volcano Dungeon#
-thor_v01.rsw#Thor's Volcano Dungeon F1#
-thor_v02.rsw#Thor's Volcano Dungeon F2#
-thor_v03.rsw#Thor's Volcano Dungeon F3#
+que_thor.rsw#Thor Volcano Dungeon#
+thor_v01.rsw#Thor Volcano Dungeon F1#
+thor_v02.rsw#Thor Volcano Dungeon F2#
+thor_v03.rsw#Thor Volcano Dungeon F3#
 06guild_r.rsw#Guild Arena Waiting Room#
 06guild_01.rsw#Guild Arena#
 06guild_02.rsw#Guild Arena#
@@ -190,8 +211,8 @@ ein_fild05.rsw#Einbroch Field#
 yuno_fild10.rsw#Yuno Field#
 kh_kiehl02.rsw#Kiehl's Room#
 kh_kiehl01.rsw#Kiehl's Room#
-kh_dun02.rsw#Robot Factory Level 2#
-kh_dun01.rsw#Robot Factory Level 1#
+kh_dun02.rsw#Robot Factory F2#
+kh_dun01.rsw#Robot Factory F1#
 kh_mansion.rsw#Kiel Hyre's Mansion#
 kh_rossi.rsw#The Rosimier's Mansion#
 kh_school.rsw#Kiel Hyre's Academy#
@@ -202,27 +223,27 @@ que_job01.rsw#Private Pub#
 abyss_01.rsw#Abyss Lakes Underground Cave F1#
 abyss_02.rsw#Abyss Lakes Underground Cave F2#
 abyss_03.rsw#Abyss Lakes Underground Cave F3#
-tha_t01.rsw#Thanatos Tower - Lower Level#
-tha_t02.rsw#Thanatos Tower - Lower Level#
-tha_t03.rsw#Thanatos Tower - Lower Level#
-tha_t04.rsw#Thanatos Tower - Lower Level#
-tha_t05.rsw#Thanatos Tower - Upper Level#
-tha_t06.rsw#Thanatos Tower - Upper Level#
-tha_t07.rsw#Thanatos Tower - Upper Level#
-tha_t08.rsw#Thanatos Tower - Upper Level#
-tha_t09.rsw#Thanatos Tower - Upper Level#
-tha_t10.rsw#Thanatos Tower - Upper Level#
-tha_t11.rsw#Thanatos Tower - Upper Level#
-tha_t12.rsw#Thanatos Tower - Upper Level#
-thana_step.rsw#Thanatos Tower - Upper Level#
-thana_boss.rsw#Thanatos Tower - Unknown Area#
+tha_t01.rsw#Thanatos Tower F1 - Lower Level#
+tha_t02.rsw#Thanatos Tower F2 - Lower Level#
+tha_t03.rsw#Thanatos Tower F3 - Lower Level#
+tha_t04.rsw#Thanatos Tower F4 - Lower Level#
+tha_t05.rsw#Thanatos Tower F5 - Upper Level#
+tha_t06.rsw#Thanatos Tower F6 - Upper Level#
+tha_t07.rsw#Thanatos Tower F7 - Upper Level#
+tha_t08.rsw#Thanatos Tower F8 - Upper Level#
+tha_t09.rsw#Thanatos Tower F9 - Upper Level#
+tha_t10.rsw#Thanatos Tower F10 - Upper Level#
+tha_t11.rsw#Thanatos Tower F11 - Upper Level#
+tha_t12.rsw#Thanatos Tower F12 - Upper Level#
+thana_step.rsw#Thanatos Tower Steps - Upper Level#
+thana_boss.rsw#Thanatos Tower - Boss Area#
 tha_scene01.rsw#Thanatos Tower Entrance#
 job_soul.rsw#Your Heart#
 job_star.rsw#The Sun, the Moon and the Stars#
 hu_fild07.rsw#Hugel Field#
 hu_fild05.rsw#The Abyss Lakes#
 hu_fild04.rsw#Hugel Field#
-hu_fild01.rsw#Thanatos Tower#
+hu_fild01.rsw#Hugel Field#
 yuno_fild06.rsw#El Mes Plateau#
 quiz_02.rsw#Quiz Arena#
 jupe_cave.rsw#Juperos Dungeon Entrance#
@@ -762,7 +783,7 @@ new_zone03.rsw#Training Ground#
 new_zone04.rsw#Training Ground#
 que_ng.rsw#Ninja - Gunslinger map#
 que_san04.rsw#Inside Freya's Temple#
-que_ba.rsw#...#
+que_ba.rsw#Unknown#
 
 // Christmas & Sakura Special.
 prontera_x.rsw#Prontera City, Capital of Rune Midgard#

@@ -1359,6 +1359,10 @@ You captured Z Gang and obtained the Book of Forbidden Mystery. Go back to the R
 The ground trembles from Nidhoggur's awakening. Wait until the timer expires before you can regain access to the Dungeon.#
 #
 
+3136#Nidhoggur's Nest Time Limit#SG_FEEL#QUE_NOIMAGE#
+You have 2.5 Hours to find and defeat Nidhoggur in his Nest.#
+#
+
 3200#룬나이트 전직 - 룬나이트로의 추천#SG_FEEL#QUE_NOIMAGE#
 자신을 광휘의 룬나이트라 하는 마누엘로부터 룬나이트가 되기 위한 추천을 받았다. 전직을 위해서는 글레스트헤임 입구에 있는 동료 룬나이트에게 찾아가 보라고 한다.#
   #
@@ -6314,15 +6318,6 @@ Wait one day before turning in more items#
 12253#실종자 수색은 충분함#SG_FEEL#QUE_NOIMAGE#
 실종자 수색으로 매우 지쳤습니다. 하루가 지나기전에는 또다른 수색이 힘들 것 같군요#
 하루가 지나기전 추가수색 불가#
-
-//----3rd Classes Jobchange Quests----
-15000#Warlock Job Change Hunt 1#SG_FEEL#QUE_NOIMAGE#
-Remember to only kill the ones on Splendide fields!#
-Kill 10 Bradium Golems#
-
-15001#Warlock Job Change Hunt 2#SG_FEEL#QUE_NOIMAGE#
-Remember to only kill the ones directly outside of Splendide town!#
-Kill 20 Nagas#
 
 //----Sign Quest Part 1 Crumbs of Sobbing Starlight----
 16000#Metz Brayde's Notice#SG_FEEL#QUE_NOIMAGE#

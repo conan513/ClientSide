@@ -2348,6 +2348,44 @@
 4804#Cathedral_Lv1#
 4805#Archbishop_Lv1#
 4806#MATK+3%#
+4807#ASPD+1#
+4808#Fighting_Lv4#
+4809#Fighting_Lv3#
+4810#Fighting_Lv2#
+4811#Fighting_Lv1#
+4812#Force_Lv4#
+4813#Force_Lv3#
+4814#Force_Lv2#
+4815#Force_Lv1#
+4816#Sharp_Lv3#
+4817#Sharp_Lv2#
+4818#Sharp_Lv1#
+4819#ATK+1%#
+4820#Fighting_Lv5#
+4821#Fighting_Lv6#
+4822#Fighting_Lv7#
+4823#Fighting_Lv8#
+4824#Fighting_Lv9#
+4825#Fighting_Lv10#
+4826#Force_Lv5#
+4827#Force_Lv6#
+4828#Force_Lv7#
+4829#Force_Lv8#
+4830#Force_Lv9#
+4831#Force_Lv10#
+4832#Archer_Lv1#
+4833#Archer_Lv2#
+4834#Archer_Lv3#
+4835#Archer_Lv4#
+4836#Archer_Lv5#
+4837#Archer_Lv6#
+4838#Archer_Lv7#
+4839#Archer_Lv8#
+4840#Archer_Lv9#
+4841#Archer_Lv10#
+4842#ASPD+2#
+4843#Sharp_Lv4#
+4844#Sharp_Lv5#
 
 5001#Headset#
 5002#Jewel_Crown#
@@ -3102,7 +3140,7 @@
 5792#Fish_Pin#
 5793#Life_Ribbon#
 5794#3D_Glasses#
-5795#êRed_Dress_Hat#
+5795#Red_Dress_Hat#
 5796#...#
 5797#...#
 5798#...#
@@ -3560,22 +3598,46 @@
 6398#...#
 6399#...#
 6400#...#
-6401#...#
-6402#...#
+6401#Palm_Oil#
+6402#Coconut_Oil#
 6403#Comodo_Leather#
-6404#...#
+6404#Ceres_Hilt#
 6405#Cendrawasih_Feather#
 6406#Shining_Cendrawasih_Feather#
-6407#êRaw_Crystal_Stone_Fragment#
+6407#Raw_Crystal_Stone_Fragment#
 6408#Raw_Crystal_Stone#
 6409#Raw_Crystal_Stone_Mass#
 
 6411#Ripe_Watermelon#
 6412#...#
 6413#...#
-6414#...#
-6415#...#
+6414#Raganta_Card#
+6415#Strange_Embryo#
 6416#...#
+6417#Garderie_Fruit#
+6418#A_Grade_Coin#
+6419#B_Grade_Coin#
+6420#C_Grade_Coin#
+6421#D_Grade_Coin#
+6422#E_Grade_Coin#
+6423#Sea_God's_Wrath#
+
+6426#Bad_Canned_Food#
+6427#...#
+6428#Adventure_Card_A#
+6429#Adventure_Card_B#
+6430#Figure_Sculpture#
+6431#Pail#
+6432#...#
+6433#Cleaning_Brush#
+6434#...#
+6435#...#
+6436#Sea_God's_Call#
+6437#Lava_Sky_Perfume#
+
+6440#General_Lubrication#
+6441#Advanced_Lubrication#
+6442#Octopus_Hunting_Skewer
 
 7001#Mould_Powder#
 7002#Ogre_Tooth#
@@ -4689,7 +4751,7 @@
 11525#...#
 11526#...#
 
-11532#...#
+11532#Nasi_Goreng#
 11533#Satay#
 11534#...#
 
@@ -5238,6 +5300,21 @@
 12609#...#
 12610#...#
 
+12612#Old_Coin_Bag#
+12613#Improved_Coin_Bag#
+12614#Intermediate_Coin_Bag#
+12615#Minor_Coin_Bag#
+12616#S_Grade_Coin_Bag#
+12617#A_Grade_Coin_Bag#
+12618#B_Grade_Coin_Bag#
+12619#C_Grade_Coin_Bag#
+12620#D_Grade_Coin_Bag#
+12621#E_Grade_Coin_Bag#
+12623#Advanced_Weapons_Box#
+12624#Delicious_Jelly#
+
+12636#Malangdo_Canned_Specialties#
+
 12701#Old_Blue_Box#
 12702#Old_Blue_Box#
 12703#Holy_Egg#
@@ -5469,7 +5546,7 @@
 13062#Ancient_Dagger#
 
 13066#P.Dagger_III#
-13067#...#
+13067#Ceres#
 
 13100#Six_Shooter#
 13101#Six_Shooter#
@@ -6750,7 +6827,7 @@
 15029#Affection_Robe#
 15030#Judgement_Robe#
 15031#Paradise_Uniform_IV#
-15032#...#
+15032#Tidon#
 
 16000#Erde_Mace#
 16001#Red_Square_Bag#
@@ -7229,7 +7306,7 @@
 16650#...#
 16651#...#
 16652#Light_Flame#
-16653#êBattle_Manual_75%_Box#
+16653#Battle_Manual_75%_Box#
 16654#Gryphon_Hat_Box#
 16655#...#
 16656#...#
@@ -7255,6 +7332,14 @@
 16678#...#
 16679#...#
 16680#...#
+
+16740#The_Sea_God's_Call_23_Hour_Box#
+
+16763#The_Sea_God's_Call_7_Day_Box#
+16764#The_Sea_God's_Call_15_Day_Box#
+16765#Octopus_Hunting_Skewer_23_Hour_Box#
+16766#Octopus_Hunting_Skewer_3_Day_Box#
+16767#Octopus_Hunting_Skewer_7_Day_Box#
 
 18000#Cannon_Ball#
 18001#Holy_Cannon_Ball#
@@ -7303,4 +7388,6 @@
 19507#Elven_Ears#
 19508#...#
 
-18520#...#
+18520#Jati_Crown#
+
+18527#Dark_Pumpkin_Hat#

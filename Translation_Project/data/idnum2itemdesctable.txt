@@ -13051,7 +13051,7 @@ Applicable Job :^777777 Every Job Except Novice^000000
 #
 2619#
 A finger accessory for archers which helps improve their accuracy.
-Increases damage inflicted with Bow class weapons.
+Ranged Attack Damage + 3%.
 Class :^777777 Accessory^000000
 Defense :^777777 0^000000
 Weight :^777777 10^000000
@@ -13523,7 +13523,7 @@ Applicable Job :^777777 Every Job^000000
 #
 2671#
 A finger accessory for archers which helps improve their accuracy.
-Increases damage inflicted with Bow class weapons.
+Ranged Attack Damage + 3%.
 Class :^777777 Accessory^000000
 Defense :^777777 0^000000
 Weight :^777777 10^000000
@@ -14649,7 +14649,7 @@ Applicable Job :^777777 Every Job^000000
 #
 2787#
 A brooch crafted from the tears of an Aqua Elemental.
-Decreases damage on ^0000FFWater^000000 Property enemies by 5%.
+Add a 5% resistance against ^0000FFWater^000000 Property monsters.
 MDEF + 2, MaxHP + 1%
 Class :^777777 Accessory^000000
 Defense :^777777 0^000000
@@ -14726,12 +14726,13 @@ Required Level :^777777 0^000000
 Applicable Job :^777777 Swordman Class^000000
 #
 2795#
-...
+A Green Apple ring for those who have ascended to their third job. It won't be necessary once you are accustomed to your specific job skills. 
+All Stats +6, but you lose 1 to All Stats every 5 Job Levels until it gives 0 to All Stats.
 Class :^777777 Accessory^000000
 Defense :^777777 0^000000
 Weight :^777777 0^000000
 Required Level :^777777 99^000000
-Applicable Job :^777777 Every Job Except Novice^000000
+Applicable Job :^777777 Every 3rd Job^000000
 #
 2796#
 ...
@@ -15876,7 +15877,7 @@ Compound on :^777777 Accessory^000000
 Weight :^777777 1^000000
 #
 4094#
-Increase damage with Bow class weapons by 10%.
+Ranged Attack Damage + 10%.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -18425,7 +18426,7 @@ Weight :^777777 1^000000
 #
 4440#
 [^000088+ Slotted Rod^000000]
-INT + 1, Add a 2% Magical Defense.
+INT + 1, Ignores 2% Magical Defense.
 Class :^777777 Card^000000
 Compound on :^777777 Weapon^000000
 Weight :^777777 1^000000
@@ -18682,303 +18683,183 @@ Weight :^777777 1^000000
 
 4700#
 STR + 1
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4701#
 STR + 2
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4702#
 STR + 3
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4703#
 STR + 4
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4704#
 STR + 5
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4705#
 STR + 6
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4706#
 STR + 7
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4707#
 STR + 8
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4708#
 STR + 9
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4709#
 STR + 10
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4710#
 INT + 1
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4711#
 INT + 2
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4712#
 INT + 3
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4713#
 INT + 4
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4714#
 INT + 5
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4715#
 INT + 6
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4716#
 INT + 7
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4717#
 INT + 8
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4718#
 INT + 9
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4719#
 INT + 10
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4720#
 DEX + 1
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4721#
 DEX + 2
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4722#
 DEX + 3
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4723#
 DEX + 4
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4724#
 DEX + 5
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4725#
 DEX + 6
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4726#
 DEX + 7
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4727#
 DEX + 8
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4728#
 DEX + 9
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4729#
 DEX + 10
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4730#
 AGI + 1
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4731#
 AGI + 2
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4732#
 AGI + 3
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4733#
 AGI + 4
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4734#
 AGI + 5
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4735#
 AGI + 6
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4736#
 AGI + 7
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4737#
 AGI + 8
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4738#
 AGI + 9
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4739#
 AGI + 10
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4740#
 VIT + 1
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4741#
 VIT + 2
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4742#
 VIT + 3
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4743#
 VIT + 4
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4744#
 VIT + 5
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4745#
 VIT + 6
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4746#
 VIT + 7
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4747#
 VIT + 8
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4748#
 VIT + 9
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4749#
 VIT + 10
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4750#
 LUK + 1
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4751#
 LUK + 2
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4752#
 LUK + 3
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4753#
 LUK + 4
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4754#
 LUK + 5
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4755#
 LUK + 6
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4756#
 LUK + 7
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4757#
 LUK + 8
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4758#
 LUK + 9
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4759#
 LUK + 10
-^ffffff_^000000
-Weight :^777777 0^000000
 #
 4760#
 MATK + 1%,
@@ -18989,22 +18870,22 @@ MATK + 2%,
 Fixed casting time - 1% (does not stack with other fixed cast time effects).
 #
 4762#
-FLEE + 6.
+FLEE + 6
 #
 4763#
-FLEE + 12.
+FLEE + 12
 #
 4764#
-CRI + 5.
+CRI + 5
 #
 4765#
-CRI + 7.
+CRI + 7
 #
 4766#
-ATK + 2%.
+ATK + 2%
 #
 4767#
-ATK + 3%.
+ATK + 3%
 #
 
 4786#
@@ -19065,11 +18946,125 @@ Decreases the cooldown time of Highness Heal by 3s.
 Reduces the SP cost of Coluceo Heal by 30.
 #
 4805#
-Increases heal quantity by 3%.
+Increases healing effectiveness by 3%.
 #
 4806#
 MATK + 3%
-¿íÁ¤ Ä¼²µÆÃ ²Ã¿£ 1% ¿¨³Ò.
+Fixed casting time - 1% (does not stack with other fixed cast time effects).
+#
+4807#
+ASPD + 1
+#
+4808#
+ATK + 15, HIT + 5
+#
+4809#
+ATK + 12, HIT + 4
+#
+4810#
+ATK + 9, HIT + 3
+#
+4811#
+ATK + 6, HIT + 2
+#
+4812#
+MATK + 15, Casting Time - 10%
+#
+4813#
+MATK + 12, Casting Time - 8%
+#
+4814#
+MATK + 9, Casting Time - 6%
+#
+4815#
+MATK + 6, Casting Time - 4%
+#
+4816#
+CRIT + 12, HIT + 4
+#
+4817#
+CRIT + 9, HIT + 3
+#
+4818#
+CRIT + 6, HIT + 2
+#
+4819#
+ATK + 1%
+#
+4820#
+ATK + 18, HIT + 5
+#
+4821#
+ATK + 21, HIT + 5
+#
+4822#
+ATK + 24, HIT + 5
+#
+4823#
+ATK + 27, HIT + 5
+#
+4824#
+ATK + 30, HIT + 5
+#
+4825#
+ATK + 50, HIT + 15
+#
+4826#
+MATK + 18, Casting Time - 10%
+#
+4827#
+MATK + 21, Casting Time - 10%
+#
+4828#
+MATK + 24, Casting Time - 10%
+#
+4829#
+MATK + 27, Casting Time - 10%
+#
+4830#
+MATK + 30, Casting Time - 10%
+#
+4831#
+MATK + 50, Casting Time - 20%
+#
+4832#
+Ranged Attack Damage + 2%
+#
+4833#
+Ranged Attack Damage + 4%
+#
+4834#
+Ranged Attack Damage + 6%
+#
+4835#
+Ranged Attack Damage + 8%
+#
+4836#
+Ranged Attack Damage + 10%
+#
+4837#
+Ranged Attack Damage + 12%
+#
+4838#
+Ranged Attack Damage + 14%
+#
+4839#
+Ranged Attack Damage + 16%
+#
+4840#
+Ranged Attack Damage + 18%
+#
+4841#
+Ranged Attack Damage + 20%, ASPD + 1
+#
+4842#
+ASPD + 2
+#
+4843#
+CRIT + 14, HIT + 5
+#
+4844#
+CRIT + 15, HIT + 6
 #
 
 5001#
@@ -28357,7 +28352,51 @@ Weight :^777777 1^000000
 ^ffffff_^000000
 Weight :^777777 1^000000
 #
-
+6401#
+...
+^ffffff_^000000
+Weight :^777777 50^000000
+#
+6402#
+...
+^ffffff_^000000
+Weight :^777777 5^000000
+#
+6403#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6404#
+...
+^ffffff_^000000
+Weight :^777777 10^000000
+#
+6405#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6406#
+...
+^ffffff_^000000
+Weight :^777777 10^000000
+#
+6407#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6408#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6409#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
 6411#
 ...
 ^ffffff_^000000
@@ -28382,6 +28421,96 @@ Weight :^777777 1^000000
 ...
 ^ffffff_^000000
 Weight :^777777 1^000000
+#
+6416#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6417#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6418#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6419#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6420#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6421#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6422#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6423#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6426#
+...
+^ffffff_^000000
+Weight :^777777 1^000000
+#
+6428#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6429#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6430#
+...
+^ffffff_^000000
+Weight :^777777 10^000000
+#
+6433#
+...
+^ffffff_^000000
+Weight :^777777 30^000000
+#
+6436#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6437#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6440#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6441#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
+#
+6442#
+...
+^ffffff_^000000
+Weight :^777777 0^000000
 #
 
 7001#
@@ -34399,7 +34528,7 @@ Required Level :^777777 100^000000
 ^ffffff_^000000
 Weight :^777777 10^000000
 Required Level :^777777 100^000000
-Àç´ç°ë »ë¾â²Ã¿£ :^777777 1ÃÊ^000000
+Re-use Delay :^777777 1 Second^000000
 #
 11523#
 ...
@@ -34407,7 +34536,7 @@ Required Level :^777777 100^000000
 ^ffffff_^000000
 Weight :^777777 12^000000
 Required Level :^777777 110^000000
-Àç´ç°ë »ë¾â²Ã¿£ :^777777 2ÃÊ^000000
+Re-use Delay :^777777 2 Seconds^000000
 #
 11524#
 ...
@@ -34415,7 +34544,7 @@ Required Level :^777777 110^000000
 ^ffffff_^000000
 Weight :^777777 12^000000
 Required Level :^777777 120^000000
-Àç´ç°ë »ë¾â²Ã¿£ : ^777777 3ÃÊ^000000
+Re-use Delay :^777777 3 Seconds^000000
 #
 11525#
 ...
@@ -34423,7 +34552,7 @@ Required Level :^777777 120^000000
 ^ffffff_^000000
 Weight :^777777 15^000000
 Required Level :^777777 120^000000
-Àç´ç°ë »ë¾â²Ã¿£ : ^777777 5ÃÊ^000000
+Re-use Delay :^777777 5 Seconds^000000
 #
 11526#
 ...
@@ -37318,45 +37447,100 @@ Weight :^777777 10^000000
 (·¹À´, ·¹À´ ¼´µÎ, Äù²µÆ® Àü°ë·Ê°¡³¾ ´ç°ëÀÌ µí¿¡»ÉÇÏ»Ù.)
 ^uu0000ÁÖÀÇ´çÇ× : ÇØ»ç µ·¶¿´óÀÚ»Â »Ù·¥ Ä¼·¯ÅÍºº ¿ø¿ÝÀ´ ÇÒ³ö ÀÖÀ·»Ï, ÁÖµ¯°¡ »Ù·¥ Ä¼·¯ÅÍ¿¡ ±ø»ÂÁö
 È®ÀÎÈÄ ´ç°ëÀ´ ÇØÁÖ²Ã¾â ¶Ù¹ø»Ï»Ù.^000000
-¶«¿Ô : ^7777770^000000
+Weight : ^7777770^000000
 #
 12601#
 ·ÀÀÖ»Â ³ö¶ÚÀ´ ¿¥±Æ³­ ··ºç Áê²µ.
-SK, HK·¦ 5% È·µ¶ÇÑ»Ù.
-¶«¿Ô : ^77777710^000000
+^000088Recovery HP & SP + 5%^000000.
+Weight : ^77777710^000000
 #
 12602#
 Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ýÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12603#
 Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ýÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12604#
 Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ýÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12605#
 Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ýÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12606#
 Æ¯µ¿ÇÑ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù»Â ´óÀÚ. ³ýÀÚ¿¡ ¼ôÀ´ ³ö¸Ï ÁÁÀµ ±ÆÀÌÅÛÀÌ ¼ª°Â»Ù¿í ÇÑ»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12607#
 ^000088ÀÓ»ë ±ÆÀÌÅÛ^000000
 ·ÀÀÖ»Â ¸Ñ·®ÆË 1¿¼¿¡ ºé±îÀÖ»Â ´óÀÚ. 3ÀÏ¿£ ´ç°ë ¿¡»ÉÇÏ»Ù.
-¶«¿Ô : ^7777771^000000
+Weight : ^7777771^000000
 #
 12608#
 È­¸ÁÇÑ ³ö¿øÀÌ ºÇ±îÀÖ»Â ¾Ý³Ó ÀçÁúÀÇ ´óÀÚ.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
 #
 12609#
 ¼¿¿í ÁöÀúµÐÇÑ ¾¤³® ´óÀÚ. ³Ò·®·¦ ºé±îµ·»Ï °©¸¯Á±¸ùÀÇ ¾¤³®ÀÌ ºé±îÀÖ»Â ¿Í ¿¿»Ù.
-¶«¿Ô : ^77777710^000000
+Weight : ^77777710^000000
+#
+12612#
+Àß¾×¹ô ³Ò·®¿¡ ¼ª»Â ¼¿¿í È¦ÂßÇÑ ÄÚÀÎ ÁÖ·Ó»Ï. ±î¹½ ÄÚÀÎÀÌ ºé±î ÀÖÀ´ Áö»Â ±Ë ³ö ±ø»Ù.
+Weight : ^7777771^000000
+#
+12613#
+Àß¾×¹ô ³Ò·®¿¡ ¼ª»Â ÀÛÀµ ÁÖ·Ó»Ï. ½Ï ÁÁÀµ ÄÚÀÎÀÌ ºé±îÀÖ»Â ¿æ°ì¿¡ ÀÖ»Ù¿í ÇÑ»Ù.
+Weight : ^7777771^000000
+#
+12614#
+Àß¾×¹ô ³Ò·®¿¡ ¼ª»Â ÀÛÀµ ÁÖ·Ó»Ï. Á¹¾Ý ÁÁÀµ ÄÚÀÎÀÌ ºé±îÀÖ»Â ¿æ°ì¿¡ ÀÖ»Ù¿í ÇÑ»Ù.
+Weight : ^7777771^000000
+#
+12615#
+Àß¾×¹ô ³Ò·®¿¡ ¼ª»Â ÀÛÀµ ÁÖ·Ó»Ï.
+Å« ¾â»ë»Â ÇÒ ³ö ±ø»Ù¿í ÇÑ»Ù.
+Weight : ^7777771^000000
+#
+12616#
+ZÄÚÀÎ, YÄÚÀÎ¿ú ÇÔ½½ ÀÌ¿ÍÀú¿Í ºé±îÀÖ»Â ÁÖ·Ó»Ï. °îÀÌ ÁÁÀ··é ¶Ù»Ù²ÅÀÇ µÐ¼ëºº ¶ß¿ßºÈ»Ù¿í ÇÑ»Ù.
+Weight : ^7777771^000000
+#
+12617#
+ZÄÚÀÎ, YÄÚÀÎ, XÄÚÀÎÀÌ »ã¾ä ÁÖ·Ó»Ï¸Î, °îÀÌ ÁÁÀ··é ÅëÁ¹·½ÀÌ¼ª ÄÚÀÎÀ´ »õ ±òÀ´ ³ö ÀÖ»Ù.
+Weight : ^7777771^000000
+#
+12618#
+YÄÚÀÎ, XÄÚÀÎ, WÄÚÀÎÀÌ »ã¾ä ÁÖ·Ó»Ï¸Î, °îÀÌ ÁÁÀ··é ÅëÁ¹·½ÀÌ¼ª ÄÚÀÎÀ´ »õ ±òÀ´ ³ö ÀÖ»Ù.
+Weight : ^7777771^000000
+#
+12619#
+XÄÚÀÎ, WÄÚÀÎ, VÄÚÀÎÀÌ »ã¾ä ÁÖ·Ó»Ï¸Î, °îÀÌ ÁÁÀ··é ÅëÁ¹·½ÀÌ¼ª ÄÚÀÎÀ´ »õ ±òÀ´ ³ö ÀÖ»Ù.
+Weight : ^7777771^000000
+#
+12620#
+WÄÚÀÎ, VÄÚÀÎÀÌ »ã¾ä ÁÖ·Ó»Ï¸Î, °îÀÌ ÁÁÀ··é ÅëÁ¹·½ÀÌ¼ª ÄÚÀÎÀ´ »õ ±òÀ´ ³ö ÀÖ»Ù. 
+Weight : ^7777771^000000
+#
+12621#
+VÄÚÀÎÀÌ »ã¾ä ÁÖ·Ó»Ï¸Î, °îÀÌ ÁÁÀ··é ÅëÁ¹·½ÀÌ¼ª ÄÚÀÎÀ´ Ãß¿¡¸Î ±òÀ´ ³ö ÀÖ»Ù.
+Weight : ^7777771^000000
+#
+12623#
+È­¸ÁÇÑ ³³¿øÀÌ º·µ·ÀÌ»Â »Ü»ÜÇÑ ´óÀÚ. °©¸¯¿¡Áö ¿í¾Þ Àåµñ¿¡ ºé±îÀÖ»Ù¿í ÇÑ»Ù.
+Weight : ^7777771^000000
+#
+12624#
+´ó»çÈ÷ ·ÀÀÖ»Â ¿¥´öÀÇ Á©·®. ·ÔÀ··é ¾âµÐÀÌ ¼¯±Æ¿¥ ¿Í·· ¿¿»Ù. ¼ìÀ´ ³öºº ÀÖÀ·»Ï ¹ß¿Å°î ¿÷°¡ µ·¿üÇÏÁö ±Êºº¸Ï ÇÏÀÚ.
+^000088Recovery HP & SP + 3%^000000.
+Weight :^777777 5^000000
+#
+12636#
+·´¹ûºº°¡³­·· ´ý´êºÇ»Â ¿¨Ä¥·À¿ú ·ÀÀÖ»Â Çâ¾â¿¡ ¿¡ºæÇÑ ÅëÁ¹·½.
+²ÅµñÇÏ¿Ôºº ·Ô»Ùµ··é ¿­¸ÄÇÏ¿Ô ¶Ð¸Á°À»Â ¶Ù»Ù¼´À²¿ú ·´¹ûººÀÇ Á¤¿æÀÌ ¹¿°À·£»õ»Ï.... Á¤²ÅÀ´ Â÷¸Áµ··é ·´¹ûºº°¡ ººÂøÇØ¶ö·®»Â È°¿úºº ÀÖ»Ù¿í ÀüÇØÁø»Ù.
+¶«¿Ô : ^7777770^000000
 #
 
 12701#
@@ -39072,6 +39256,16 @@ Weight :^777777 0^000000
 Weapon Level :^777777 3^000000
 Required Level :^777777 60^000000
 Applicable Job :^777777 Novice, Swordman Class, Mage Class, Archer Class, Merchant Class, Thief Class, Soul Linker, Ninja^000000
+#
+13067#
+...
+MATK + 70, Enable a 5% chance of gaining 10% of the damage inflicted on an enemy as HP with each attack.
+Class :^777777 Dagger^000000
+Attack :^777777 107^000000
+Weight :^777777 70^000000
+Weapon Level :^777777 3^000000
+Required Level :^777777 30^000000
+Applicable Job :^777777 Trans Swordman Class, Mage Class, Archer Class, Merchant Class, Thief Class^000000
 #
 
 13100#
@@ -48790,6 +48984,16 @@ Weight : ^777777 0^000000
 Required Level : ^777777 40^000000
 Applicable Job :^777777 Every Job^000000
 #
+15032#
+...
+MDEF + 10. Decreases damage from all monsters by 5%.
+Add a 15% resistance to the ^880000Stun^000000 and ^880000Freeze^000000 status.
+Class :^777777 Armor^000000
+Defense :^777777 72^000000
+Weight :^777777 50^000000
+Required Level :^777777 71^000000
+Applicable Job :^777777 Every Job Except Novice^000000
+#
 
 16000#
 Crafted in the shape of the Serpent of Knowledge.
@@ -51790,5 +51994,16 @@ Defense :^777777 5^000000
 Equipped on :^777777 Upper^000000
 Weight :^777777 0^000000
 Required Level :^777777 60^000000
+Applicable Job :^777777 Every Job^000000
+#
+
+18520#
+...
+Reduces damage from Plant and Brute enemies by 5%.
+Increases damage to Plant and Brute enemies by 5%.
+Class :^777777 Headgear^000000
+Defense :^777777 1^000000
+Equipped on :^777777 Upper^000000
+Weight :^777777 10^000000
 Applicable Job :^777777 Every Job^000000
 #
