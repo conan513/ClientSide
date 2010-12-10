@@ -10,7 +10,7 @@ This ID is expired.#
 Rejected from Server.#
 Character Name already exists.#
 Character Creation is denied.#
-Character Deletion is denied.#
+The first character cannot be deleted. The character has been resetted instead.#
 Please Enter Room Title.#
 Foul Language Detected.#
 Please enter Password.#
@@ -254,12 +254,12 @@ Dexerity#
 Luck#
 Hit Point#
 Defense Rate#
-Accuracy Rate#
+Acccuracy Rate#
 Critical Attack#
 Assigned Guild#
 Value needed for Level Up#
 Magical Hit Point#
-Magical Defense#
+Magical Defense #
 Flee Rate#
 Attack Speed#
 Server is jammed due to over population. Please try again shortly.#
@@ -363,7 +363,7 @@ Open 1:1 Chat not between Friends#
 Alarm when you recieve a 1 on 1 Chat#
 Are you sure that you want to expel?#
 %s has withdrawn from the guild.#
-Secession Reason: %s#
+Secession Reason : %s#
 You have failed to disband the guild.#
 Disband Reason: %s#
 This ID has been removed.#
@@ -427,9 +427,9 @@ Item List you can craft#
  Create#
 's materials#
  item creation failed.#
- item created successfully.#
+ item created sucessfully.#
  item creation failed.#
- item created successfully.#
+ item created sucessfully.#
 You are not the required lvl.#
 Too high lvl for this job.#
 Not the suitable job for this type of work.#
@@ -461,25 +461,25 @@ Very Strong #
 Very Very Strong #
 Very Very Very Strong #
 The Reason of Expulsion#
-Attack Speed is up.#
-Attack Speed is down.#
-Weapon Damage is improved.#
-Weapon Damage is reduced.#
-Cast Delay is reduced.#
-Cast Delay has returned to normal.#
-Weapon is temporarily enchanted with Poison.#
-Weapon is temporarily enchanted with an elemental property.#
-Weapon has changed back to normal.#
-Armor has been enchanted with the Holy Ghost.#
-Armor has changed back to normal.#
-Barrier Formed.#
-Barrier Canceled.#
-Weapon Perfection Initiated.#
-Weapon perfection Canceled.#
-Power-Thrust Initiated.#
-Power-Thrust Canceled.#
-Maximize-Power Initiated.#
-Maximize-Power Canceled.#
+ Attack Speed is up.#
+ Attack Speed is down.#
+ Weapon Damage is improved.#
+ Weapon Damage is reduced.#
+ Cast Delay is reduced.#
+ Cast Delay has returned to normal.#
+ Weapon is temporarily enchanted with Poison.#
+ Weapon is temporarily enchanted with an elemental property.#
+ Weapon has changed back to normal.#
+ Armor has been enchanted with the Holy Ghost.#
+ Armor has changed back to normal.#
+ Barrier Formed.#
+ Barrier Canceled.#
+ Weapon Perfection Initiated.#
+ Weapon perfection Canceled.#
+ Power-Thrust Initiated.#
+ Power-Thrust Canceled.#
+ Maximize-Power Initiated.#
+ Maximize-Power Canceled.#
 [New Server]#
 (%d)#
 (On the maintenance)#
@@ -489,14 +489,14 @@ You got %s Base EXP.#
 You got %s Job EXP.#
 You left the guild.#
 You have been expelled from the Guild.#
-Item Appraisal has completed successfully.#
-Item Appraisal has failed.#
-Compounding has completed successfully.#
+Item Appraisal has completed sucessfully.#
+Item appraisal has failed.#
+Compounding has completed sucessfully.#
 Compounding has failed.#
 Antagonist has been set.#
 Guild has too many Antagonists.#
 Already set as an Antagonist#
-Upgrade has been completed successfully.#
+Upgrade has been completed sucessfully.#
 Upgrade has failed.#
 Unavailable Area to Teleport#
 Unavailable Area to Teleport#
@@ -536,7 +536,7 @@ You paid with the personal regular base. Available time is xx hrs xx mins xx sec
 You are free!#
 You are free for the test, your available time is xx hrs xx mins xx secs.#
 You paid with the Internet Cafe regular base. Available time is xx hrs xx mins xx secs.#
-You paid with the Time Limit for Internet Cafe. Available time is xx hrs xx mins xx secs.#
+You paid with the Time Limit for Internet Cafe. Availabe time is xx hrs xx mins xx secs.#
 You are free for the test of Internet Cafe version .#
 You are free for the Internet Cafe version.#
 You paid on the Time Limit Website.#
@@ -594,7 +594,7 @@ Feed Pet#
 Performance#
 Return to Egg Shell#
 Unequip Accessory#
-Check Pet Status#
+Check the Pet Status#
 Accessory#
 Equipped#
 Pet List#
@@ -608,52 +608,52 @@ N/A#
 N/A#
 Character in the same account already joined.#
 (%d ppl) - over the age 18#
-Provoke initiated.#
-Provoke canceled.#
-Endure initiated.#
-Endure canceled.#
-Improve Concentration initiated.#
-Improve Concentration canceled.#
-Hiding Initiated.#
-Hiding Canceled.#
-Cloaking initiated.#
-Cloaking canceled.#
-Poison React initiated.#
-Poison React canceled.#
-Speed reduced.#
-Quagmire canceled.#
-Defense increased.#
-Angelus canceled.#
-Blessing aligned.#
-Blessing canceled.#
-Signum Crusis initiated.#
-Signum Crusis canceled.#
-Slow Poison initiated.#
-Slow Poison Canceled.#
-HP/SP recovery increased.#
-Magnificat canceled.#
-Luck increased.#
-Gloria canceled.#
-You will received double damage from all attacking opponents.#
-Lex Eterna canceled.#
-Attack Speed increased.#
-Attack Speed reduced.#
+ Provoke initiated.#
+ Provoke canceled.#
+ Endure initiated.#
+ Endure canceled.#
+ Improve Concentration initiated.#
+ Improve Concentration canceled.#
+ Hiding Initiated.#
+ Hiding Canceled.#
+ Cloaking initiated.#
+ Cloaking canceled.#
+ Poison React initiated.#
+ Poison React canceled.#
+ Speed reduced.#
+ Quagmire canceled.#
+ Defense increased.#
+ Angelus canceled.#
+ Blessing aligned.#
+ Blessing canceled.#
+ Signum Crusis initiated.#
+ Signum Crusis canceled.#
+ Slow Poison initiated.#
+ Slow Poison Canceled.#
+ HP/SP recovery increased.#
+ Magnificat canceled.#
+ Luck increased.#
+ Gloria canceled.#
+ You will received double damage from all attacking opponents.#
+ Lex Eterna canceled.#
+ Attack Speed increased.#
+ Attack Speed reduced.#
 You've just been on a Peco Peco.#
 You've just got off of a Peco Peco.#
 You've just carried a Falcon with.#
 You've just released a Falcon.#
-Play Dead initiated.#
-Play Dead canceled.#
-STR improved.#
-STR turned back to normal.#
-Energy Coat initiated.#
-Energy Coat canceled.#
-Armor destroyed.#
-Armor has just been released from destroyed status.#
-Weapon destroyed.#
-Weapon has just been released from destroyed status.#
-Invisibility initiated.#
-Invisibility canceled.#
+ Play Dead initiated.#
+ Play Dead canceled.#
+ STR improved.#
+ STR turned back to normal.#
+ Energy Coat initiated.#
+ Energy Coat canceled.#
+ Armor destroyed.#
+ Armor has just been released from destroyed status.#
+ Weapon destroyed.#
+ Weapon has just been released from destroyed status.#
+ Invisibility initiated.#
+ Invisibility canceled.#
 N/A#
 You must unequip arrows first.#
 Arrow List#
@@ -676,7 +676,7 @@ Cordial#
 Loyal#
 Unknown#
 Your account has play time of %day %dhour %dminute.#
-Your account is already connected to account server.#
+Your account already connected other account server.#
 Your account has play time of %dhour %dminute.#
 Your account is a free account.#
 This account can't connect the Sakray server.#
@@ -684,7 +684,7 @@ Your pet name must be 23 characters or less.#
 You may change your pet's name only once. Your pet's name will be changed to ^0000ff^0000ff %s^000000^000000.  Do you wish to continue?#
 /font#
 Your guild lacks the funds to pay for this venture.#
-Your guild zeny limit prevents you from performing this action.#
+Your guild zeny limit prevents you from peforming this action.#
 Simplified effects have been activated.#
 Simplified effects have been deactivated.#
 Required Fee#
@@ -693,7 +693,7 @@ Internet Cafe Time Plan has been ended. Would you like to continue the game with
 #
 #
 Your lack of zeny or your zeny limit have prevented you from performing this action.#
-Your character has fainted. Push the ESC key to restart.#
+Your character has fainted.  Push the ESC key to restart.#
  - %d obtained.#
 Spell List#
 /minimize#
@@ -724,7 +724,7 @@ Normal Font Displayed. [showname type 1]#
 Font will be thin and party name will be shown [showname type 2]#
 /doridori: Shake head#
 Internet room is paying now.#
-Prepaid voucher validate until %ddays %d hours %dminutes later.\nTime limit voucher validate untill %d hours %dminutes later.#
+Prepaid voucher validate untill %ddays %d hours %dminutes later.\nTime limit voucher validate untill %d hours %dminutes later.#
 /bingbing: Rotates player counter clockwise.#
 /bangbang: Rotates player clockwise.#
 /skillfail: Display red font message when skill fails. On | Off#
@@ -819,7 +819,7 @@ System process disabled [GM mode] [/sc OFF]#
 (%s) wishes to be friends with you. Would you like to accept?#
 Your Friend List is full.#
 (%s)'s Friend List is full.#
-You have become friends with (%s).#
+You have become friends with (%s). #
 (%s) does not want to be friends with you.#
 This character will be blocked to use until %s.#
 Price will be fixed at 10,000,000 zeny, even if you enter higher price.#
@@ -908,7 +908,7 @@ Help me out~ Please~ T_T#
 /notalkmsg2: Hides chat messages(including guild chat). On Off#
 Show chat messages. [/nm2 ON]#
 Hide chat messages(including guild chat) [/nm2 OFF]#
-Upgradeable Weapons#
+Upgradable Weapons#
 Weapons upgraded: %s#
 Weapons upgraded: %s#
 You cannot upgrade %s until you level up your Upgrade Weapon skill.#
@@ -937,7 +937,7 @@ Failed to load the scan module of virus and hacking tool. It's caused by lack of
 Homunculus Info#
 Homunculus Skill List#
 Please give your Homunculus a name no longer than 23 letters.#
-You can name a Homunculus only once. You have entered the name, ^0000ff %s^000000. Would you like to continue?#
+You can name a Homunculus only once. You have entered the name, ^0000ff^0000ff %s^000000^000000. Would you like to continue?#
 (Away)#
 [Automated Message]#
 Send an automated message while you are away.#
@@ -959,13 +959,13 @@ Do not save Homunculus status as a file.#
 Crusader#
 Monk#
 Sage#
-Rogue#
+Rouge#
 Alchemist#
 Bard#
 Crusader#
 Monk#
 Sage#
-Rogue#
+Rouge#
 Alchemist#
 Dancer#
 High Novice#
@@ -985,26 +985,26 @@ High Thief#
 Lord Knight#
 High Priest#
 High Wizard#
-WhiteSmith#
+MasterSmith#
 Sniper#
 Assassin Cross#
 Lord Knight#
 High Priest#
 High Wizard#
-WhiteSmith#
+MasterSmith#
 Sniper#
 Assassin Cross#
 Paladin#
 Champion#
-Professor#
+Scholar#
 Stalker#
-Creator#
-Clown#
+Biochemist#
+Minstrel#
 Paladin#
 Champion#
-Professor#
+Scholar#
 Stalker#
-Creator#
+Biochemist#
 Gypsy#
 You have not set a password yet. Would you like to create one now?#
 You have incorrectly entered the password 3 times. Please try again later.#
@@ -1043,7 +1043,7 @@ You have equipped throwing daggers.#
 %s has logged out.#
 /loginout: Shows guildsmen and friends online status. On Off#
 Display online status of friends in Chat Window. [/li ON]#
-Do not display online status of friends in Chat Window. [/li OFF]#
+Do not display online status of friends in Chat Window.  [/li OFF]#
 It is already running.#
 Use of Macro program has been detected.#
 Use of Speed hack has been detected.#
@@ -1051,7 +1051,7 @@ API Hooking has been detected.#
 Message Hooking has been detected.#
 Module has been modified or damaged or its version does not match.#
 (Thailand) You have logged in game with PC cafe payment.#
-Prev#
+Previous#
 Next#
 Auction#
 Product List#
@@ -1059,12 +1059,12 @@ Register#
 Sale Status#
 Purchase Status#
 Item#
-Name#
-Current Bid / Buyout#
+Item Name#
+Current Bid / Max Bid#
 Seller#
 Buyer#
-End Time#
-%m %d %H#
+Auction End Time#
+%m/%d, %H00 PST#
 Time (Hr)#
 Fee#
 No items found in auction search.#
@@ -1092,7 +1092,7 @@ You do not have enough zeny.#
 Armor#
 Card#
 Misc.#
-Bid#
+Bid Number#
 Search#
 You have ended the auction.#
 You cannot end the auction.#
@@ -1125,7 +1125,7 @@ Please check the connection, more than 2 accounts are connected with Internet Ca
 Your account is using monthly payment. (Remaining day: %d day)#
 Your account is using time limited. (Remaining time : %d hour % minute % second)#
 This item cannot be mailed.#
-You cannot accept any more items. Please try again later.#
+You cannot accept any more items. Please again try later.#
 Male#
 Female#
 New User.#
@@ -1223,7 +1223,7 @@ The party member was not summoned because you are not the party leader.#
 There is no party member to summon in the current map.#
 You cannot find any trace of a Boss Monster in this area.#
 Boss Monster, '%s' will appear in %02d hour(s) and %02d minute(s).#
-The location of Boss Monster, '%s', will be displayed on your Mini-Map.#
+You can feel the presence of the Boss Monster '%s' on this map.#
 Do you want to open '%s'? Once opened, the contents cannot be moved to other locations aside from the Kafra Storage. The item effect isn't doubled, even if the same items are used more than once.#
 The Purchase has failed because the NPC does not exist.#
 The Purchase has failed because the Kafra Shop System is not working correctly.#
@@ -1255,8 +1255,8 @@ Do you really want to purchase '%s' item? %d points will be deducted from your t
  You do not have enough Kafra Credit Points.#
  ^ff0000Expiration Date: %s^000000#
  The '%s' item will disappear in %d minutes.#
- '%s' item will be deleted from the Inventory in 1 minute.#
-  '%s' item has been deleted from the Inventory.#
+%s' item will be deleted from the Inventory in 1 minute.#
+ '%s' item has been deleted from the Inventory.#
 Input Number#
 %m/%d %H:%M#
 Boss Monster '%s' will appear within 1 minute.#
@@ -1270,7 +1270,7 @@ You have released the mercenary.#
 The mercenary has run away.#
  The '%s' item will disappear in %d seconds.#
 IP Bonus: EXP/JEXP %d%%, Death Penalty %d%%, Item Drop %d%%#
-Symbols in Character Names are forbidden.#
+Please try again after 24 hours.#
 Mercenary Soldier will follow custom AI.#
 Mercenary Soldier will follow basic AI.#
  %s's#
@@ -1359,7 +1359,7 @@ This character's equipment information is not open to the public.#
 Equipment information not open to the public.#
 Equipment information open to the public.#
 Check %s's Equipment Info#
-'%s's Equipment#
+%s's Equipment#
 Show Equip#
 This service is only available for premium users.#
 Free Trial users can only hold up to 50,000 zeny.#
@@ -1368,12 +1368,12 @@ Battlefield Chat has been deactivated.#
 Mercenary Info - Monster Type#
 World Map#
 The Memorial Dungeon is now closed.#
-^ff0000Deleting a Mercenary Soldier^000000 will also delete his growth history. Do you really want to proceed with the deletion?#
+^ff0000^ff0000Deleting a Mercenary Soldier^000000^000000 will also delete his growth history. Do you really want to proceed with the deletion?#
 The Memorial Dungeon is now open.#
 This account has not been confirmed by connecting to the safe communication key. Please connect to the key first, and then log into the game.#
 The number of accounts connected to this IP has exceeded the limit.#
 You have received a new quest.#
-^777777Acquirement conditions:#
+^777777Acquirement conditions : #
 View Skill Info.#
 Used skill point is unavailable to revert. Would you like to use the skill point?#
 Nov. 1st#
@@ -1391,8 +1391,8 @@ Simple Item Shop#
 Han Coin : %d Han Coin#
 RoK Point : %d RoK Point#
 Free Cash : %d Cash#
-P#
-Live Server users cannot connect to the Free Server.#
+An user of this server cannot connect to free server#
+Your password has expired. Please log in again#
 3rd Job#
 Cannot use this skill to the target.#
 No MSG 02#
@@ -1404,8 +1404,8 @@ This skill requires other skills to be used.#
 This map is not a chat.#
 3 hours have passed since.#
 5 hours have passed since.#
-~게임가드 초기화 에러 또는 구버전의 게임가드 파일입니다. 게임가드 셋업파일을 다시 설치하고 게임을 실행해 보시기 바랍니다.#
-ini file is missing or has been altered. To resolve the issue please reinstall gameguard.#
+Either ini file is missing or altered. Install game guard setup file to fix the problem.#
+A program has been found that conflicts with game guard.#
 Security program has been identified that there is a conflict with the game.#
 The client is not normal. Please connect a normal client.#
 Thank you to accept mobile authentication.#
@@ -1418,15 +1418,15 @@ This skill cannot be used to duplicate.#
 Cannot use your skill.#
 You have exceeded the maximum amount of possession of another item.#
 No administrative privileges. Must first run the program with administrator privileges.#
-nProtect KeyCrypt not the same. Please restart the program and the computer first.#
-Currently wearing WindowXP Compatibility Mode. The program now removes Compatibility Mode. Please restart the program.#
+nProtect KeyCrypt Tarimasen the driver version. After the system restarts, please run a new will.#
+You are using Windows XP in compatiblity mode. The client has disabled this mode. Please restart the client.#
 PS/2 keyloggers exist.#
 USB Keylogging attempt was detected.#
 HHD monitoring tool has been detected.#
-Paintbrush is required.#
+Book requires a painting.#
 Paint is required.#
 Use the skills that are not at the specified location.#
-Not enough SP.#
+Assistant SP is not enough.#
 Character %d is character selection window cannot connect to the game that exceeds the total. Please remove unwanted characters.#
 Throat Lozenge is required.#
 Painful Tears is required.#
@@ -1465,13 +1465,13 @@ Dismount Dragon.#
 Dismount Mado Gear.#
 Consume#
 Cash#
-Weapons#
 Armors#
+Weapons#
 Ammo#
 Cards#
 Etc.#
 Guitar#
-No MSG 78#
+Seems that you have screwed something up. Hack shield file does not have the correct file version. Please reinstall the client and try again to screw it.#
 The skill requires a spellbook.#
 You are asleep due to diffuclty in reading spellbook.#
 The lack of save points.#
@@ -1610,9 +1610,9 @@ Anyone#
 You dropped %s (%d).#
 [%s] The Quest [%s] Shimashita monsters. (%d/%d)#
 The Quest %s has been removed.#
-[%s] is #
-You Acquired '%d' Experience Points#
-You Acquired '%d' Job Experience Points#
+[%s] is like#
+ '%d' the Value of Experience#
+ '%d' the Value of Job Experience#
  gained.#
  has lost.#
 From [%s], '%d' coins were stolen.#
@@ -1622,11 +1622,11 @@ Experience Message Display#
 Party Experience Message Display#
 Quest Info Message Display#
 Battlefield Message Display#
-[%s] is #
-casting [%s].#
+[%s] to#
+ [%s] to casting skills.#
 Activate lock function.#
 Deactivate lock function.#
-[%s] has won [%s] from '%s'.#
+[%s] gave [%s] '%s'.#
 Swordman#
 Magician#
 Archer#
@@ -1678,7 +1678,7 @@ Stalker#
 Creator#
 Clown#
 Gypsy#
-Wedding#
+Poring#
 High Novice#
 Super Novice#
 Gunslinger#
@@ -1691,22 +1691,22 @@ Party Booking List#
 ~Party recruiting#
 [Bow] must be equipped.#
 [Musical Instrument/Whip] must be equipped.#
-Only alphanumeric characters are allowed.#
+Only alphanumeric characters is allowed.#
 Message#
-Because the store information was incorrect the item was not purchased.#
-Item cannot be discarded from the window.#
+Item purchase failed due to incorrect shop information.#
+Can drop from inventory window.#
 Time#
 Map#
 You cannot unequip while in trade.#
-Unspecified value#
+Unidentified value.#
 /stateinfo : Shows the description of status icons. On Off#
-Status Information On : Status icon description is enabled.#
+Status Information On : Status icon description is enabled. #
 Status Information Off: Status icon description is disabled.#
-It is not possible to purchase the same item more than %d pieces at a time#
-It is not possible to purchase the same item more than %d pieces at a time#
-Can purchase upto %d pieces of the same item at a time.#
+Same items can't be purchased more than %d ea per time.#
+Same items can't be sold more than %d ea per time.#
+The total purchasable quantity of corresponding item are %d ea.#
 User customized key is saved to [%s\%s]#
-[%s] is currently on trade and cannot accept the request.#
+[%s] can't accept exchange request at the moment.#
 RO_HELP#
 Anvil does not exist.#
 Novice below level 10 is not allowed to whisper.#
@@ -1715,39 +1715,39 @@ Defense#
 Recovery#
 Support#
 Party recruitment related command#
-Guild alliance application is not possible..#
-Guild hostility application is not possible.#
-Adding friends is not possible in this map.#
-Buying Store Window#
-Price :#
-Money : #
-Purchase Limit#
-Did not enter any items. Please register your items to purchase.#
-Please enter the price of [%s] item.#
-Please enter the [%s] item with less than 99,999,000 zeny.#
-Please enter the purchase quantity of the item [%s]#
-%s item has more than 9999 purchase quantity. Please enter the quantity less than 9999.#
-There are duplicate items.#
-Please enter the restricted amount of money.#
-The purchase limit you entered exceeds your current money. Please reconfigure.#
-%s : %s Zeny => %s EA#
-List of available items for purchase.#
-My Purchasing Store#
-Limit Amount : %d Zeny#
-%s Zeny %d Items#
-Purchasing Store#
-~판매 가능한 아이템 목록#
-~해당 아이템의 총 판매 가능 개수는 %d개 입니다.#
-No more balance left. Please reconfigure.#
-Failed to open Purchasing Store.#
-The total weight of the item is %d and exceeds your weight limit. Please reconfigure.#
-~제한금액만큼의 아이템을 모두 구매하였습니다.#
-All items were purchased.#
-~구매자의 잔액이 부족하여 거래가 실패하였습니다.#
-%s %d pieces has been sold for %dz.#
-%s cannot sell more than the desired amount of purchase.#
-The spirit was not summoned.#
-~서버연합대전 제약사항 입니다.#
+unable to apply for ally guild#
+unable to apply for hostile quild#
+unable to add friend in Agit map#
+Opening purchase shop.#
+price #
+Zeny#
+Purchase Zeny Limit#
+Please register the item first that has to be purchased.#
+Enter the price for item %s.#
+Enter the price for item %s. It has to be below 99990000 Zeny.#
+Enter the item number for %s.#
+The sum of purchasing and belonging items is over 9999. The sum has to be bellow 9999.#
+You have duplicate items in your purchase list.#
+Enter the limited price.#
+You have entered a greater amount of zeny than you have. Please check your zeny.#
+%s : %s  Zeny => %s ea.#
+Available items:#
+Purchase list:#
+Price limit: %d Zeny#
+Buying %s for %s Zeny. Amount: %d.#
+Wanted items#
+Available items:#
+The max. number of items you can sell is %d.#
+Buyer has insufficient money, lower the amount of items you're selling.#
+Failed to open purchase shop.#
+You exceed the total amount of items.#
+You have purchased all items within the limited price.#
+You purchased all items.#
+Failed to deal because you have not enough Zeny.#
+You have sold %s. Amount: %d. Total Zeny: %dz#
+%s item could not be sold because you do not have the wanted amount of items.#
+You don't have any summoned spirits.#
+This is a restricted server.#
 OTP password is 6 digits long.#
 OTP information is unavailable. Please contact your administrator.#
 OTP authentication failed.#
@@ -1770,53 +1770,1230 @@ You have to select atleast 1 or more jobs.#
 You have selected %d Jobs. You can only select up to 6 different jobs.#
 Only numeric characters are allowed.#
 Please enter levels between 1~150.#
-The equipment is not visible to the appropriate map.#
-Your level is not enough to wear the equipment.#
-Your level is not enough to use the item.#
- Enable Battlemode#
-Tab size has exceeded and cannot be added.#
- Display Info#
-Sale#
-Buy#
-Search Stalls#
-Store Name#
-Quantity#
+Nothing found in the selected map.#
+You cannot equip this item with your current level.#
+You cannot use this item with your current level.#
+Use chat mode#
+Failed to add because you have reached the limit.#
+Window Sign Information#
+Sell#
+Purchase#
+Search street stall#
+Name of street stall#
+Amount#
 Price#
-Too many results. Please enter a detailed input.#
-Would you like to open a stall?#
-SSO Authentication failed.#
-~현재 해당지역으로 이동 할 수 없습니다#
-Search contains #
-~탈퇴한 유저입니다.#
-~게임 이용에 동의하지 않았습니다.#
-The account does not exist.#
-~본 게임은 12세 이용가입니다.#
-~계정도용 조사를 위한 블럭상태입니다.#
-~버그조사를 위한 블럭상태입니다.#
-~몬스터 사냥을 통해 얻을 수 있는 Base, Job 경험치가 30분간 75증가합니다.#
-~몬스터 사냥을 통해 얻을 수 있는 Base, Job 경험치가 30분간 50증가합니다.#
-Shop information is incorrect and cannot be opened.#
-You cannot search anymore.#
-Search failed.#
-You cannot search yet.#
-Card names, prefixes and suffixes#
-Number of searches : %d#
-Stalls are retrieved.#
-Item price range is not valid.#
-General Equipment#
-Costumes Equipment#
-mins #
-secs#
-아이템 명을 입력해 주세요.#
-That item does not exist.#
-Unable to warp to the map. The map does not exist.#
-The card name or a prefix(suffix) does not exist.#
-~한번에 구매 가능 종류는 10개입니다.#
-~일부 아이템의 구매가 실패하였습니다.#
-~1815#
-~1816#
-~1817#
-~1818#
-~1819#
-~1820#
-~1821#
+Too much results have been found. Please do a more precisely search.#
+Do you want to open a street stall?#
+Failed to recognize SSO.#
+Cannot move to the applied area.#
+searching  item including the word#
+User has been expelled.#
+You have not accepted the user agreements yet.#
+You will not be disconnect from the game.#
+It is available only for 12 hours.#
+Your account is blocked due to illegal use of the game account.#
+Your account is blocked because there may exist a bug with your account.#
+Increases base exp and job exp gained by killing monsters up to 75% for 30 minutes.#
+Increases base exp and job exp gained by killing monsters up to 50% for 30 minutes.#
+No sales information.#
+Failed to search any further.#
+The selected item does not exist.#
+Cannot search yet.#
+Enter the card name or prefix/suffix.#
+Remaining search time : %d#
+No result has been found.#
+The item price is too high.#
+General#
+Styles#
+minute#
+second#
+Please enter the name of the item.#
+The item you have entered does not exist.#
+The map is not available.#
+The selected name or prefix/suffix does not exist.#
+You can purchase up to 10 items.#
+Some items could not be purchased.#
+Enter your birthday (e.g: 20101126)#
+An unknown error has occured.#
+A database error has occured.#
+Please leave your guild first in order to remove your character.
+Please leave your party first in order to remove your character.
+You cannot delete this character because the delete time has not expired yet.#
+You cannot delete this character at the moment.#
+Your entered birthday does not match.#
+need to increase the level of closeness #
+This is only available on style change for fighting classes.#
+This is only available on style change for novice.#
+~1828#
+~1829#
+~1830#
+No results have been found.#
+~1832#
+~1833#
+~1834#
+~1835#
+~1836#
+~1837#
+Open chat..#
+~1839#
+~1840#
+~1841#
+~1842#
+~1843#
+~1844#
+~1845#
+~1846#
+~1847#
+~1848#
+~1849#
+~1850#
+~1851#
+~1852#
+~1853#
+~1854#
+~1855#
+~1856#
+~1857#
+~1858#
+~1859#
+~1860#
+~1861#
+~1862#
+~1863#
+~1864#
+~1865#
+~1866#
+~1867#
+~1868#
+~1869#
+~1870#
+~1871#
+~1872#
+~1873#
+~1874#
+~1875#
+~1876#
+~1877#
+~1878#
+~1879#
+~1880#
+~1881#
+~1882#
+~1883#
+~1884#
+~1885#
+~1886#
+~1887#
+~1888#
+~1889#
+~1890#
+~1891#
+~1892#
+~1893#
+~1894#
+~1895#
+~1896#
+~1897#
+~1898#
+~1899#
+~1900#
+~1901#
+~1902#
+~1903#
+~1904#
+~1905#
+~1906#
+~1907#
+~1908#
+~1909#
+~1910#
+~1911#
+~1912#
+~1913#
+~1914#
+~1915#
+~1916#
+~1917#
+~1918#
+~1919#
+~1920#
+~1921#
+~1922#
+~1923#
+~1924#
+~1925#
+~1926#
+~1927#
+~1928#
+~1929#
+~1930#
+~1931#
+~1932#
+~1933#
+~1934#
+~1935#
+~1936#
+~1937#
+~1938#
+~1939#
+~1940#
+~1941#
+~1942#
+~1943#
+~1944#
+~1945#
+~1946#
+~1947#
+~1948#
+~1949#
+~1950#
+~1951#
+~1952#
+~1953#
+~1954#
+~1955#
+~1956#
+~1957#
+~1958#
+~1959#
+~1960#
+~1961#
+~1962#
+~1963#
+~1964#
+~1965#
+~1966#
+~1967#
+~1968#
+~1969#
+~1970#
+~1971#
+~1972#
+~1973#
+~1974#
+~1975#
+~1976#
+~1977#
+~1978#
+~1979#
+~1980#
+~1981#
+~1982#
+~1983#
+~1984#
+~1985#
+~1986#
+~1987#
+~1988#
+~1989#
+~1990#
+~1991#
+~1992#
+~1993#
+~1994#
+~1995#
+~1996#
+~1997#
+~1998#
+~1999#
+~2000#
+~2001#
+~2002#
+~2003#
+~2004#
+~2005#
+~2006#
+~2007#
+~2008#
+~2009#
+~2010#
+~2011#
+~2012#
+~2013#
+~2014#
+~2015#
+~2016#
+~2017#
+~2018#
+~2019#
+~2020#
+~2021#
+~2022#
+~2023#
+~2024#
+~2025#
+~2026#
+~2027#
+~2028#
+~2029#
+~2030#
+~2031#
+~2032#
+~2033#
+~2034#
+~2035#
+~2036#
+~2037#
+~2038#
+~2039#
+~2040#
+~2041#
+~2042#
+~2043#
+~2044#
+~2045#
+~2046#
+~2047#
+~2048#
+~2049#
+~2050#
+~2051#
+~2052#
+~2053#
+~2054#
+~2055#
+~2056#
+~2057#
+~2058#
+~2059#
+~2060#
+~2061#
+~2062#
+~2063#
+~2064#
+~2065#
+~2066#
+~2067#
+~2068#
+~2069#
+~2070#
+~2071#
+~2072#
+~2073#
+~2074#
+~2075#
+~2076#
+~2077#
+~2078#
+~2079#
+~2080#
+~2081#
+~2082#
+~2083#
+~2084#
+~2085#
+~2086#
+~2087#
+~2088#
+~2089#
+~2090#
+~2091#
+~2092#
+~2093#
+~2094#
+~2095#
+~2096#
+~2097#
+~2098#
+~2099#
+~2100#
+~2101#
+~2102#
+~2103#
+~2104#
+~2105#
+~2106#
+~2107#
+~2108#
+~2109#
+~2110#
+~2111#
+~2112#
+~2113#
+~2114#
+~2115#
+~2116#
+~2117#
+~2118#
+~2119#
+~2120#
+~2121#
+~2122#
+~2123#
+~2124#
+~2125#
+~2126#
+~2127#
+~2128#
+~2129#
+~2130#
+~2131#
+~2132#
+~2133#
+~2134#
+~2135#
+~2136#
+~2137#
+~2138#
+~2139#
+~2140#
+~2141#
+~2142#
+~2143#
+~2144#
+~2145#
+~2146#
+~2147#
+~2148#
+~2149#
+~2150#
+~2151#
+~2152#
+~2153#
+~2154#
+~2155#
+~2156#
+~2157#
+~2158#
+~2159#
+~2160#
+~2161#
+~2162#
+~2163#
+~2164#
+~2165#
+~2166#
+~2167#
+~2168#
+~2169#
+~2170#
+~2171#
+~2172#
+~2173#
+~2174#
+~2175#
+~2176#
+~2177#
+~2178#
+~2179#
+~2180#
+~2181#
+~2182#
+~2183#
+~2184#
+~2185#
+~2186#
+~2187#
+~2188#
+~2189#
+~2190#
+~2191#
+~2192#
+~2193#
+~2194#
+~2195#
+~2196#
+~2197#
+~2198#
+~2199#
+~2200#
+~2201#
+~2202#
+~2203#
+~2204#
+~2205#
+~2206#
+~2207#
+~2208#
+~2209#
+~2210#
+~2211#
+~2212#
+~2213#
+~2214#
+~2215#
+~2216#
+~2217#
+~2218#
+~2219#
+~2220#
+~2221#
+~2222#
+~2223#
+~2224#
+~2225#
+~2226#
+~2227#
+~2228#
+~2229#
+~2230#
+~2231#
+~2232#
+~2233#
+~2234#
+~2235#
+~2236#
+~2237#
+~2238#
+~2239#
+~2240#
+~2241#
+~2242#
+~2243#
+~2244#
+~2245#
+~2246#
+~2247#
+~2248#
+~2249#
+~2250#
+~2251#
+~2252#
+~2253#
+~2254#
+~2255#
+~2256#
+~2257#
+~2258#
+~2259#
+~2260#
+~2261#
+~2262#
+~2263#
+~2264#
+~2265#
+~2266#
+~2267#
+~2268#
+~2269#
+~2270#
+~2271#
+~2272#
+~2273#
+~2274#
+~2275#
+~2276#
+~2277#
+~2278#
+~2279#
+~2280#
+~2281#
+~2282#
+~2283#
+~2284#
+~2285#
+~2286#
+~2287#
+~2288#
+~2289#
+~2290#
+~2291#
+~2292#
+~2293#
+~2294#
+~2295#
+~2296#
+~2297#
+~2298#
+~2299#
+~2300#
+~2301#
+~2302#
+~2303#
+~2304#
+~2305#
+~2306#
+~2307#
+~2308#
+~2309#
+~2310#
+~2311#
+~2312#
+~2313#
+~2314#
+~2315#
+~2316#
+~2317#
+~2318#
+~2319#
+~2320#
+~2321#
+~2322#
+~2323#
+~2324#
+~2325#
+~2326#
+~2327#
+~2328#
+~2329#
+~2330#
+~2331#
+~2332#
+~2333#
+~2334#
+~2335#
+~2336#
+~2337#
+~2338#
+~2339#
+~2340#
+~2341#
+~2342#
+~2343#
+~2344#
+~2345#
+~2346#
+~2347#
+~2348#
+~2349#
+~2350#
+~2351#
+~2352#
+~2353#
+~2354#
+~2355#
+~2356#
+~2357#
+~2358#
+~2359#
+~2360#
+~2361#
+~2362#
+~2363#
+~2364#
+~2365#
+~2366#
+~2367#
+~2368#
+~2369#
+~2370#
+~2371#
+~2372#
+~2373#
+~2374#
+~2375#
+~2376#
+~2377#
+~2378#
+~2379#
+~2380#
+~2381#
+~2382#
+~2383#
+~2384#
+~2385#
+~2386#
+~2387#
+~2388#
+~2389#
+~2390#
+~2391#
+~2392#
+~2393#
+~2394#
+~2395#
+~2396#
+~2397#
+~2398#
+~2399#
+~2400#
+~2401#
+~2402#
+~2403#
+~2404#
+~2405#
+~2406#
+~2407#
+~2408#
+~2409#
+~2410#
+~2411#
+~2412#
+~2413#
+~2414#
+~2415#
+~2416#
+~2417#
+~2418#
+~2419#
+~2420#
+~2421#
+~2422#
+~2423#
+~2424#
+~2425#
+~2426#
+~2427#
+~2428#
+~2429#
+~2430#
+~2431#
+~2432#
+~2433#
+~2434#
+~2435#
+~2436#
+~2437#
+~2438#
+~2439#
+~2440#
+~2441#
+~2442#
+~2443#
+~2444#
+~2445#
+~2446#
+~2447#
+~2448#
+~2449#
+~2450#
+~2451#
+~2452#
+~2453#
+~2454#
+~2455#
+~2456#
+~2457#
+~2458#
+~2459#
+~2460#
+~2461#
+~2462#
+~2463#
+~2464#
+~2465#
+~2466#
+~2467#
+~2468#
+~2469#
+~2470#
+~2471#
+~2472#
+~2473#
+~2474#
+~2475#
+~2476#
+~2477#
+~2478#
+~2479#
+~2480#
+~2481#
+~2482#
+~2483#
+~2484#
+~2485#
+~2486#
+~2487#
+~2488#
+~2489#
+~2490#
+~2491#
+~2492#
+~2493#
+~2494#
+~2495#
+~2496#
+~2497#
+~2498#
+~2499#
+~2500#
+~2501#
+~2502#
+~2503#
+~2504#
+~2505#
+~2506#
+~2507#
+~2508#
+~2509#
+~2510#
+~2511#
+~2512#
+~2513#
+~2514#
+~2515#
+~2516#
+~2517#
+~2518#
+~2519#
+~2520#
+~2521#
+~2522#
+~2523#
+~2524#
+~2525#
+~2526#
+~2527#
+~2528#
+~2529#
+~2530#
+~2531#
+~2532#
+~2533#
+~2534#
+~2535#
+~2536#
+~2537#
+~2538#
+~2539#
+~2540#
+~2541#
+~2542#
+~2543#
+~2544#
+~2545#
+~2546#
+~2547#
+~2548#
+~2549#
+~2550#
+~2551#
+~2552#
+~2553#
+~2554#
+~2555#
+~2556#
+~2557#
+~2558#
+~2559#
+~2560#
+~2561#
+~2562#
+~2563#
+~2564#
+~2565#
+~2566#
+~2567#
+~2568#
+~2569#
+~2570#
+~2571#
+~2572#
+~2573#
+~2574#
+~2575#
+~2576#
+~2577#
+~2578#
+~2579#
+~2580#
+~2581#
+~2582#
+~2583#
+~2584#
+~2585#
+~2586#
+~2587#
+~2588#
+~2589#
+~2590#
+~2591#
+~2592#
+~2593#
+~2594#
+~2595#
+~2596#
+~2597#
+~2598#
+~2599#
+~2600#
+~2601#
+~2602#
+~2603#
+~2604#
+~2605#
+~2606#
+~2607#
+~2608#
+~2609#
+~2610#
+~2611#
+~2612#
+~2613#
+~2614#
+~2615#
+~2616#
+~2617#
+~2618#
+~2619#
+~2620#
+~2621#
+~2622#
+~2623#
+~2624#
+~2625#
+~2626#
+~2627#
+~2628#
+~2629#
+~2630#
+~2631#
+~2632#
+~2633#
+~2634#
+~2635#
+~2636#
+~2637#
+~2638#
+~2639#
+~2640#
+~2641#
+~2642#
+~2643#
+~2644#
+~2645#
+~2646#
+~2647#
+~2648#
+~2649#
+~2650#
+~2651#
+~2652#
+~2653#
+~2654#
+~2655#
+~2656#
+~2657#
+~2658#
+~2659#
+~2660#
+~2661#
+~2662#
+~2663#
+~2664#
+~2665#
+~2666#
+~2667#
+~2668#
+~2669#
+~2670#
+~2671#
+~2672#
+~2673#
+~2674#
+~2675#
+~2676#
+~2677#
+~2678#
+~2679#
+~2680#
+~2681#
+~2682#
+~2683#
+~2684#
+~2685#
+~2686#
+~2687#
+~2688#
+~2689#
+~2690#
+~2691#
+~2692#
+~2693#
+~2694#
+~2695#
+~2696#
+~2697#
+~2698#
+~2699#
+~2700#
+~2701#
+~2702#
+~2703#
+~2704#
+~2705#
+~2706#
+~2707#
+~2708#
+~2709#
+~2710#
+~2711#
+~2712#
+~2713#
+~2714#
+~2715#
+~2716#
+~2717#
+~2718#
+~2719#
+~2720#
+~2721#
+~2722#
+~2723#
+~2724#
+~2725#
+~2726#
+~2727#
+~2728#
+~2729#
+~2730#
+~2731#
+~2732#
+~2733#
+~2734#
+~2735#
+~2736#
+~2737#
+~2738#
+~2739#
+~2740#
+~2741#
+~2742#
+~2743#
+~2744#
+~2745#
+~2746#
+~2747#
+~2748#
+~2749#
+~2750#
+~2751#
+~2752#
+~2753#
+~2754#
+~2755#
+~2756#
+~2757#
+~2758#
+~2759#
+~2760#
+~2761#
+~2762#
+~2763#
+~2764#
+~2765#
+~2766#
+~2767#
+~2768#
+~2769#
+~2770#
+~2771#
+~2772#
+~2773#
+~2774#
+~2775#
+~2776#
+~2777#
+~2778#
+~2779#
+~2780#
+~2781#
+~2782#
+~2783#
+~2784#
+~2785#
+~2786#
+~2787#
+~2788#
+~2789#
+~2790#
+~2791#
+~2792#
+~2793#
+~2794#
+~2795#
+~2796#
+~2797#
+~2798#
+~2799#
+~2800#
+~2801#
+~2802#
+~2803#
+~2804#
+~2805#
+~2806#
+~2807#
+~2808#
+~2809#
+~2810#
+~2811#
+~2812#
+~2813#
+~2814#
+~2815#
+~2816#
+~2817#
+~2818#
+~2819#
+~2820#
+~2821#
+~2822#
+~2823#
+~2824#
+~2825#
+~2826#
+~2827#
+~2828#
+~2829#
+~2830#
+~2831#
+~2832#
+~2833#
+~2834#
+~2835#
+~2836#
+~2837#
+~2838#
+~2839#
+~2840#
+~2841#
+~2842#
+~2843#
+~2844#
+~2845#
+~2846#
+~2847#
+~2848#
+~2849#
+~2850#
+~2851#
+~2852#
+~2853#
+~2854#
+~2855#
+~2856#
+~2857#
+~2858#
+~2859#
+~2860#
+~2861#
+~2862#
+~2863#
+~2864#
+~2865#
+~2866#
+~2867#
+~2868#
+~2869#
+~2870#
+~2871#
+~2872#
+~2873#
+~2874#
+~2875#
+~2876#
+~2877#
+~2878#
+~2879#
+~2880#
+~2881#
+~2882#
+~2883#
+~2884#
+~2885#
+~2886#
+~2887#
+~2888#
+~2889#
+~2890#
+~2891#
+~2892#
+~2893#
+~2894#
+~2895#
+~2896#
+~2897#
+~2898#
+~2899#
+~2900#
+~2901#
+~2902#
+~2903#
+~2904#
+~2905#
+~2906#
+~2907#
+~2908#
+~2909#
+~2910#
+~2911#
+~2912#
+~2913#
+~2914#
+~2915#
+~2916#
+~2917#
+~2918#
+~2919#
+~2920#
+~2921#
+~2922#
+~2923#
+~2924#
+~2925#
+~2926#
+~2927#
+~2928#
+~2929#
+~2930#
+~2931#
+~2932#
+~2933#
+~2934#
+~2935#
+~2936#
+~2937#
+~2938#
+~2939#
+~2940#
+~2941#
+~2942#
+~2943#
+~2944#
+~2945#
+~2946#
+~2947#
+~2948#
+~2949#
+~2950#
+~2951#
+~2952#
+~2953#
+~2954#
+~2955#
+~2956#
+~2957#
+~2958#
+~2959#
+~2960#
+~2961#
+~2962#
+~2963#
+~2964#
+~2965#
+~2966#
+~2967#
+~2968#
+~2969#
+~2970#
+~2971#
+~2972#
+~2973#
+~2974#
+~2975#
+~2976#
+~2977#
+~2978#
+~2979#
+~2980#
+~2981#
+~2982#
+~2983#
+~2984#
+~2985#
+~2986#
+~2987#
+~2988#
+~2989#
+~2990#
+~2991#
+~2992#
+~2993#
+~2994#
+~2995#
+~2996#
+~2997#
+~2998#
+~2999#
+~3000#
