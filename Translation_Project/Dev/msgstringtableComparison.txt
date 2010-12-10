@@ -1824,40 +1824,40 @@
 [MSG 1823]:need to increase the level of closeness #
 [MSG 1824]:This is only available on style change for fighting classes.#
 [MSG 1825]:This is only available on style change for novice.#
-[MSG 1826]:~1828#
-[MSG 1827]:~1829#
-[MSG 1828]:~1830#
+[MSG 1826]:Registering party has failed.#
+[MSG 1827]:results have been found.#
+[MSG 1828]:Failed to remove result.#
 [MSG 1829]:No results have been found.#
-[MSG 1830]:~1832#
-[MSG 1831]:~1833#
-[MSG 1832]:~1834#
-[MSG 1833]:~1835#
-[MSG 1834]:~1836#
-[MSG 1835]:~1837#
-[MSG 1836]:Chat Dialog#
-[MSG 1837]:~1839#
-[MSG 1838]:~1840#
-[MSG 1839]:~1841#
-[MSG 1840]:~1842#
-[MSG 1841]:~1843#
-[MSG 1842]:~1844#
-[MSG 1843]:~1845#
-[MSG 1844]:~1846#
-[MSG 1845]:~1847#
-[MSG 1846]:~1848#
-[MSG 1847]:~1849#
-[MSG 1848]:~1850#
-[MSG 1849]:~1851#
-[MSG 1850]:~1852#
-[MSG 1851]:~1853#
-[MSG 1852]:~1854#
-[MSG 1853]:~1855#
-[MSG 1854]:~1856#
-[MSG 1855]:~1857#
-[MSG 1856]:~1858#
-[MSG 1857]:~1859#
-[MSG 1858]:~1860#
-[MSG 1859]:~1861#
-[MSG 1860]:~1862#
-[MSG 1861]:NO MSG#
-[MSG 1862]:NO MSG#
+[MSG 1830]:No payment information has been found.#
+[MSG 1831]:Save trade log.#
+[MSG 1832]:[trans_%s]#
+[MSG 1833]:Death due to the auto insurance young people are spending.#
+[MSG 1834]:Chat Dialog#
+[MSG 1835]:Redundant is not available.#
+[MSG 1836]:Use the limit that has been set.#
+[MSG 1837]:No user restrictions are set.#
+[MSG 1838]:Connection has failed. Please contact your administrator.#
+[MSG 1839]:Failed to authenticate.#
+[MSG 1840]:User is offline.#
+[MSG 1841]:The age limit from commandment tables cannot connect to this server.#
+[MSG 1842]:Buy#
+[MSG 1843]:Cart is empty.#
+[MSG 1844]:First page#
+[MSG 1845]:Last page#
+[MSG 1846]:New#
+[MSG 1847]:Popular#
+[MSG 1848]:Limited#
+[MSG 1849]:Rental Equipment#
+[MSG 1850]:Permanent Equipment#
+[MSG 1851]:Buffs#
+[MSG 1852]:Restore#
+[MSG 1853]:Other#
+[MSG 1854]:Cost#
+[MSG 1855]:Quantity#
+[MSG 1856]:Dog#
+[MSG 1857]:Free cache: %s C#
+[MSG 1858]:Used cache: %s C#
+[MSG 1859]:You cannot summon a monster in this area.#
+[MSG 1860]:The cache usage has exceeded the total amount of #
+[MSG 1861]:Content has been saved in [SaveData_ExMacro%d]#
+[MSG 1862]:%d seconds left until you can use #
