@@ -1,0 +1,1863 @@
+[MSG 0000]:Do you agree?#
+[MSG 0001]:Failed to Connect to Server.#
+[MSG 0002]:Disconnected from Server.#
+[MSG 0003]:Disconnected from Server.#
+[MSG 0004]:Server Closed.#
+[MSG 0005]:Someone has Logged in with this ID.#
+[MSG 0006]:Unregistered ID. Please make sure you have a registered account and you have correctly typed in the user ID.#
+[MSG 0007]:Incorrect User ID or Password. Please try again.#
+[MSG 0008]:This ID is expired.#
+[MSG 0009]:Rejected from Server.#
+[MSG 0010]:Character Name already exists.#
+[MSG 0011]:Character Creation is denied.#
+[MSG 0012]:The first character cannot be deleted. The character has been resetted instead.#
+[MSG 0013]:Please Enter Room Title.#
+[MSG 0014]:Foul Language Detected.#
+[MSG 0015]:Please enter Password.#
+[MSG 0016]:Please enter Password. Passwords must be at least 4 characters long.#
+[MSG 0017]:Are you sure that you want to quit?#
+[MSG 0018]:Passwords are at least 4 characters long. Please try again.#
+[MSG 0019]:Are you sure that you want to delete this character?#
+[MSG 0020]:Foul Language Detected.#
+[MSG 0021]:Character Name must be at least 4 characters long.#
+[MSG 0022]:Command List: /h | /help#
+[MSG 0023]:Effects On#
+[MSG 0024]:Effects Off#
+[MSG 0025]:Sound Volume#
+[MSG 0026]:BGM Volume#
+[MSG 0027]:Sound Effects On#
+[MSG 0028]:Sound Effects Off#
+[MSG 0029]:Frame Skip On#
+[MSG 0030]:Frame Skip Off#
+[MSG 0031]:BGM On#
+[MSG 0032]:BGM Off#
+[MSG 0033]:/h or /help: Shows this Command Help List#
+[MSG 0034]:/w or /who:  Shows the number of current players connected.#
+[MSG 0035]:/music: Turns BGM On or Off#
+[MSG 0036]:/sound: Turns Sound Effects On or Off#
+[MSG 0037]:/effect: Effects On or Off#
+[MSG 0038]:/where: Shows your present location#
+[MSG 0039]:/skip: Turns Frame Skip On or Off#
+[MSG 0040]:/v (0~127): Controls the volume of the Sound Effects #
+[MSG 0041]:/bv (0~127): Controls the volume of the BGM#
+[MSG 0042]:/ex (Character Name): Blocks whispering from the Character#
+[MSG 0043]:/ex: View a list of Characters you have Blocked#
+[MSG 0044]:/in (Character Name): Allows whispering from the Character#
+[MSG 0045]:/inall: Allows whispers from anyone#
+[MSG 0046]:/exall: Blocks whispers from everyone#
+[MSG 0047]:Right click on a character and select [Register as a Friend] to add a person to your Friend List.#
+[MSG 0048]:F12 Brings up a Hotkey Window which allows you to drag and drop Recovery Items, Equipment and Skills into it for faster access.#
+[MSG 0049]:You can't type the same word/phrase more than 3 times.#
+[MSG 0050]:Chat Filter: Yeah, uh, I don't think so buddy...#
+[MSG 0051]:You cannot overlap items on a window.#
+[MSG 0052]:You cannot carry more items because you are overweight.#
+[MSG 0053]:You cannot get the item.#
+[MSG 0054]:The deal has successfully completed.#
+[MSG 0055]:You do not have enough zeny.#
+[MSG 0056]:You are over your Weight Limit.#
+[MSG 0057]:The deal has failed.#
+[MSG 0058]:You've blocked whispers from everyone.#
+[MSG 0059]:You've failed to block all whispers.#
+[MSG 0060]:You've allowed whispers from everyone.#
+[MSG 0061]:You've failed to allow all whispers.#
+[MSG 0062]:You have no Block List.#
+[MSG 0063]:[ Character Block List ]#
+[MSG 0064]:Room has been successfully created.#
+[MSG 0065]:Room Limit Exceeded.#
+[MSG 0066]:Same Room exists.#
+[MSG 0067]:The Room is full.#
+[MSG 0068]:You have been kicked out of this room.#
+[MSG 0069]:The deal has been rejected.#
+[MSG 0070]:You are too far away from the person to trade.#
+[MSG 0071]:The Character is not currently online or does not exist.#
+[MSG 0072]:The person is in another deal.#
+[MSG 0073]:You cannot trade because this character will exceed his weight limit.#
+[MSG 0074]:The deal has been canceled.#
+[MSG 0075]:The deal has successfully completed.#
+[MSG 0076]:The deal has failed.#
+[MSG 0077]:Party has successfully been organized.#
+[MSG 0078]:That Party Name already exists.#
+[MSG 0079]:The Character is already in a party.#
+[MSG 0080]:The Character already joined another party.#
+[MSG 0081]:Request for party rejected.#
+[MSG 0082]:Request for party accepted.#
+[MSG 0083]:Party Capacity exceeded.#
+[MSG 0084]:You left the party.#
+[MSG 0085]:Send to All#
+[MSG 0086]:Send to Party#
+[MSG 0087]:Request a deal with %s#
+[MSG 0088]:Ask %s to join your party#
+[MSG 0089]:Pri:#
+[MSG 0090]:Pub:#
+[MSG 0091]:Click ''Restart'' to go back to your save point or click ''Exit'' to select another character.#
+[MSG 0092]:Please select a Deal Type.#
+[MSG 0093]: requests a deal.#
+[MSG 0094]: Party has sent you an invitation. Would you like to join?#
+[MSG 0095]:Invalid Command#
+[MSG 0096]:Leave party#
+[MSG 0097]:Expel from party#
+[MSG 0098]:Send Messages#
+[MSG 0099]:1:1 Chat#
+[MSG 0100]:Information#
+[MSG 0101]:Party Setup#
+[MSG 0102]:Friend#
+[MSG 0103]:Party#
+[MSG 0104]:Equipment#
+[MSG 0105]:Status#
+[MSG 0106]:Inventory#
+[MSG 0107]:/organize ''Party Name'' To organize a party. Type /leave To leave a Party.#
+[MSG 0108]:If you are the party master, you can invite someone into your party by right-clicking on a Character.#
+[MSG 0109]:Recover#
+[MSG 0110]:Attack#
+[MSG 0111]:Support#
+[MSG 0112]:Entire#
+[MSG 0113]:Weapon#
+[MSG 0114]:Defence#
+[MSG 0115]:Water#
+[MSG 0116]:Earth#
+[MSG 0117]:Fire#
+[MSG 0118]:Wind#
+[MSG 0119]:Please avoid buying 2 of the same items at one time.#
+[MSG 0120]:Please change your desktop Color Depth to 16-bit when running Ragnarok in windowed mode.#
+[MSG 0121]:Please wait...#
+[MSG 0122]:Please wait...#
+[MSG 0123]:Please wait...#
+[MSG 0124]:Please wait...#
+[MSG 0125]:Make a Room#
+[MSG 0126]:Room Setup#
+[MSG 0127]:Kick Character Out#
+[MSG 0128]:Give Master Authority#
+[MSG 0129]:View Information#
+[MSG 0130]:Chat Room#
+[MSG 0131]:Ppl#
+[MSG 0132]:/sit: Sit command. If you are sitting, you will stand instead.#
+[MSG 0133]:/stand: Stand command. If you are standing, you will sit instead.#
+[MSG 0134]:/chat: Creates a Chat Room#
+[MSG 0135]:/q: Leaves a Chat Room#
+[MSG 0136]:/deal ''Character Name'' Requests a deal with a character#
+[MSG 0137]:/organize ''Party Name'' Organizes a party#
+[MSG 0138]:/leave: Leaves a party#
+[MSG 0139]:/expel ''Character Name'' kicks a Character out of your party#
+[MSG 0140]:[Alt] + [End]: Turns HP/SP Bar On or Off#
+[MSG 0141]:[Alt] + [Home]: Turns Ground Cursor On or Off#
+[MSG 0142]:[Insert]: Makes you sit or stand. (Hotkey to toggle between /sit and /stand)#
+[MSG 0143]:Congratulations! You are the MVP! Your reward item is #
+[MSG 0144]:!!#
+[MSG 0145]:Congratulations! You are the MVP! Your reward EXP Points are #
+[MSG 0146]:!!#
+[MSG 0147]:You are the MVP, but you can't take the reward because you are over your weight limit.#
+[MSG 0148]:There is no such character name or the user is offline.#
+[MSG 0149]: doesn't want to receive your messages.#
+[MSG 0150]: is not in the mood to talk with anyone.#
+[MSG 0151]:Kill has completed successfully.#
+[MSG 0152]:Kill has failed.#
+[MSG 0153]:You got %s (%d).#
+[MSG 0154]:[Alt] + [=]: Fix the interval error between letters.#
+[MSG 0155]:[F10]: To toggle Chat Window size; [Alt] + [F10]: Toggle Chat Window On or Off#
+[MSG 0156]:How to Whisper: Enter a Character's Name on the left side of chat window and type your message on the right side. The Tab key helps you move between these boxes.#
+[MSG 0157]:/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/во|.,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
+[MSG 0158]:How to Speak to Party: Add % in front of every message#
+[MSG 0159]:You haven't learned enough Basic Skills to Trade.#
+[MSG 0160]:You haven't learned enough Basic Skills to use Emotion icons.#
+[MSG 0161]:You haven't learned enough Basic Skills to Sit.#
+[MSG 0162]:You haven't learned enough Basic Skills to create a chat room.#
+[MSG 0163]:You haven't learned enough Basic Skills to Party.#
+[MSG 0164]:You haven't learned enough skills to Shout.#
+[MSG 0165]:You haven't learned enough skills for Pking.#
+[MSG 0166]:Buying Items#
+[MSG 0167]:Item Shop#
+[MSG 0168]:Selling Items#
+[MSG 0169]:Item Inventory#
+[MSG 0170]: is put on.#
+[MSG 0171]: is taken off.#
+[MSG 0172]:To add names on the Whispering List#
+[MSG 0173]:How to Take Screen Shots: Press [Print Screen] or [Scroll Lock]#
+[MSG 0174]:Tip of the Day#
+[MSG 0175]:^3850a0Did you know...?^709fed#
+[MSG 0176]:Display at startup#
+[MSG 0177]:/tip: Opens ''Tip of the Day''#
+[MSG 0178]:There are %d Players Currently Connected.#
+[MSG 0179]:(%s) has entered.#
+[MSG 0180]:(%s) has left.#
+[MSG 0181]:(%s) was kicked out.#
+[MSG 0182]:%d ea.#
+[MSG 0183]:%s: %d ea.#
+[MSG 0184]:%s %s: %d#
+[MSG 0185]:Available Items to sell#
+[MSG 0186]:Shop Items#
+[MSG 0187]:Unknown Area#
+[MSG 0188]:Your Client language doesn't match the Server language.#
+[MSG 0189]:Please move your equipment to the inventory. And close the equipment window.#
+[MSG 0190]:This server provides English Text Characters Only.#
+[MSG 0191]:This is not implemented yet.#
+[MSG 0192]:No Whisper List.#
+[MSG 0193]:: Whispering Blocked.#
+[MSG 0194]:: Whispering Block has failed.#
+[MSG 0195]:: Whispering Block has failed. Block List is full.#
+[MSG 0196]:: Whispering accepted.#
+[MSG 0197]:: Command has failed.#
+[MSG 0198]:: Command has failed. Block List is full.#
+[MSG 0199]:You cannot put a space at the beginning or end of a name.#
+[MSG 0200]:Private#
+[MSG 0201]:Public#
+[MSG 0202]:Not Enough SP#
+[MSG 0203]:Not Enough HP#
+[MSG 0204]:Skill has failed.#
+[MSG 0205]:Steal has failed.#
+[MSG 0206]:Trade#
+[MSG 0207]:Envenom skill has failed.#
+[MSG 0208]:You cannot use this ID on this server.#
+[MSG 0209]: Speed has increased.#
+[MSG 0210]: Speed has decreased.#
+[MSG 0211]:/memo: To memorize a place as Warp Point (If you are an Acolyte Class character)#
+[MSG 0212]:Random Area#
+[MSG 0213]:Select an Area to Warp#
+[MSG 0214]:Skill Level is not high enough#
+[MSG 0215]:There are no memorized locations (Memo Points).#
+[MSG 0216]:You haven't learned Warp.#
+[MSG 0217]:Saved location as a Memo Point for Warp Skill.#
+[MSG 0218]:Cancel#
+[MSG 0219]:There is a Delay after using a Skill.#
+[MSG 0220]:You can't have this item because you will exceed the weight limit.#
+[MSG 0221]:Out of the maximum capacity#
+[MSG 0222]:Rent a Cart Items#
+[MSG 0223]:Take Off Rent a Cart#
+[MSG 0224]:Vend a Shop#
+[MSG 0225]:Please Name your Shop.#
+[MSG 0226]:My Shop#
+[MSG 0227]:Merchant Shop#
+[MSG 0228]:Buying Items#
+[MSG 0229]:%s Purchase Failed %s#
+[MSG 0230]:Out of Stock#
+[MSG 0231]:%s %d sold.#
+[MSG 0232]:Available Items for Vending#
+[MSG 0233]:Skill has failed because you do not have enough zeny.#
+[MSG 0234]:Select a Target.#
+[MSG 0235]:/pk on: Turns PK On. /pk off: Turns PK Off.#
+[MSG 0236]:Shop#
+[MSG 0237]:Rent a Cart Items [Alt+W]#
+[MSG 0238]:Basic Information#
+[MSG 0239]:The skill cannot be used with this weapon.#
+[MSG 0240]:Buying %s has been failed. Out of Stock. Current Stock %d.#
+[MSG 0241]:You've been disconnected due to a time gap between you and the server.#
+[MSG 0242]:Please equip arrows first.#
+[MSG 0243]:You can't attack or use skills because you've exceeded the Weight Limit.#
+[MSG 0244]:You can't use skills because you've exceeded the Weight Limit.#
+[MSG 0245]:Arrow has been equipped.#
+[MSG 0246]:Red Gemstone required.#
+[MSG 0247]:Blue Gemstone required.#
+[MSG 0248]:Strength#
+[MSG 0249]:Agility#
+[MSG 0250]:Vitality#
+[MSG 0251]:Intelligence#
+[MSG 0252]:Dexerity#
+[MSG 0253]:Luck#
+[MSG 0254]:Hit Point#
+[MSG 0255]:Defense Rate#
+[MSG 0256]:Acccuracy Rate#
+[MSG 0257]:Critical Attack#
+[MSG 0258]:Assigned Guild#
+[MSG 0259]:Value needed for Level Up#
+[MSG 0260]:Magical Hit Point#
+[MSG 0261]:Magical Defense #
+[MSG 0262]:Flee Rate#
+[MSG 0263]:Attack Speed#
+[MSG 0264]:Server is jammed due to over population. Please try again shortly.#
+[MSG 0265]:Option#
+[MSG 0266]:Account ID blocked by the Game Master Team.#
+[MSG 0267]:Incorrect User ID or Password. Please try again.#
+[MSG 0268]:Choose Hairstyle#
+[MSG 0269]:Hit Point#
+[MSG 0270]:Defence Rate#
+[MSG 0271]:Attack Snap On#
+[MSG 0272]:Attack Snap Off#
+[MSG 0273]:Skill Snap On#
+[MSG 0274]:Skill Snap Off#
+[MSG 0275]:/snap: Turns snap On | Off for fights, /skillsnap: Turns snap On | Off for skills. /itemsnap: Turns snap On | Off for items on the grounds.#
+[MSG 0276]:Item Snap On#
+[MSG 0277]:Item Snap Off#
+[MSG 0278]:Snap#
+[MSG 0279]:You cannot carry more than 30,000 of one kind of item.#
+[MSG 0280]:You cannot delete a Character with a level greater than 30. If you want to delete the character please contact a Game Master.#
+[MSG 0281]:You cannot use an NPC shop while in a trade.#
+[MSG 0282]:Shop Name#
+[MSG 0283]:Skill Tree#
+[MSG 0284]:Skill Point: %d#
+[MSG 0285]:Skill has failed.#
+[MSG 0286]:Passive#
+[MSG 0287]:Each Take#
+[MSG 0288]:Even Share#
+[MSG 0289]:Each Take#
+[MSG 0290]:Party Share#
+[MSG 0291]:Party Setup#
+[MSG 0292]:How to share EXP#
+[MSG 0293]:How to share Items#
+[MSG 0294]:Only the Party Leader can change this setting.#
+[MSG 0295]:Toggle Item Amount.#
+[MSG 0296]:Character will be deleted after ^ff0000%d^000000 seconds. Press Cancel to quit.#
+[MSG 0297]:You cannot trade more than 10 types of items per trade.#
+[MSG 0298]:You are underaged.#
+[MSG 0299]:E-mail Address (Case Sensitive).#
+[MSG 0300]:E-mail Address (Case Sensitive).#
+[MSG 0301]:Character Deletion has failed because you have entered an incorrect e-mail address.#
+[MSG 0302]:Enter Second Serial Cord of your Social Security number.#
+[MSG 0303]:Character Deletion has failed because you have entered an incorrect SSN.#
+[MSG 0304]:You can't sell more than 15 types of Items at one time. #
+[MSG 0305]:You are underaged and cannot join this server.#
+[MSG 0306]:HP/SP will not be restored when your carried weight is over 50% of the Weight Limit.#
+[MSG 0307]:You can't use Skills or Attack while your carried weight is over 90% of your Weight Limit.#
+[MSG 0308]:Your HP/SP are now being restored naturally.#
+[MSG 0309]:Attack and Skills are now available.#
+[MSG 0310]:Your Game's Exe File is not the latest version.#
+[MSG 0311]:Items are sold out.#
+[MSG 0312]:Save Chat as Text File#
+[MSG 0313]:/savechat: Save a Chat Log#
+[MSG 0314]:Register#
+[MSG 0315]:Reject Whispering#
+[MSG 0316]:Allow Whispering#
+[MSG 0317]:Shows ''Miss''#
+[MSG 0318]:Shows ''Miss''#
+[MSG 0319]:Camera Zooming On#
+[MSG 0320]:Camera Zooming Off#
+[MSG 0321]:/camera: Camera Zooming On or Off. /miss: Toggle ''Miss'' display#
+[MSG 0322]:View Skill Info#
+[MSG 0323]:Change Skill#
+[MSG 0324]:Sprite Resolution#
+[MSG 0325]:Texture Resolution#
+[MSG 0326]:Arrange Detail#
+[MSG 0327]:You got %Zeny#
+[MSG 0328]:Guild Name#
+[MSG 0329]:Guild lvl#
+[MSG 0330]:Guild Master#
+[MSG 0331]:Guildsmen#
+[MSG 0332]:Avg.lvl of Guildsmen#
+[MSG 0333]:Territory#
+[MSG 0334]:Tendency#
+[MSG 0335]:EXP#
+[MSG 0336]:Emblem#
+[MSG 0337]:Tax Point#
+[MSG 0338]:Alliances#
+[MSG 0339]:Antagonists#
+[MSG 0340]:Guild Info#
+[MSG 0341]:Guildsmen Info#
+[MSG 0342]:Position#
+[MSG 0343]:Guild Skill#
+[MSG 0344]:Expel History#
+[MSG 0345]:Guild Notice#
+[MSG 0346]:Entire Guild List#
+[MSG 0347]:Whispering List#
+[MSG 0348]:Open Whispering Window#
+[MSG 0349]:How to Open Whispering List: Press [Alt] + [H]#
+[MSG 0350]:Open Whispering List Automatically#
+[MSG 0351]:Delete#
+[MSG 0352]:Close since next#
+[MSG 0353]:Last Log-in Time#
+[MSG 0354]:Last Log-in IP#
+[MSG 0355]:Friend Setup#
+[MSG 0356]:Are you sure that you want to delete?#
+[MSG 0357]:Are you sure that you want to leave?#
+[MSG 0358]:Register as a Friend#
+[MSG 0359]:Open 1:1 Chat between Friends#
+[MSG 0360]:Open 1:1 Chat#
+[MSG 0361]:Open 1:1 Chat not between Friends#
+[MSG 0362]:Alarm when you recieve a 1 on 1 Chat#
+[MSG 0363]:Are you sure that you want to expel?#
+[MSG 0364]:%s has withdrawn from the guild.#
+[MSG 0365]:Secession Reason : %s#
+[MSG 0366]:You have failed to disband the guild.#
+[MSG 0367]:Disband Reason: %s#
+[MSG 0368]:This ID has been removed.#
+[MSG 0369]:Price: #
+[MSG 0370]:%s has been expelled from our guild.#
+[MSG 0371]:Expulsion Reason: %s#
+[MSG 0372]:You can't put this item on.#
+[MSG 0373]:You can't modify Party Setup.#
+[MSG 0374]:Guild has been Created.#
+[MSG 0375]:You are already in a Guild.#
+[MSG 0376]:That Guild Name already exists.#
+[MSG 0377]: Guild has sent you a invitation. Would you like to join this Guild?#
+[MSG 0378]:He/She is already in a Guild.#
+[MSG 0379]:Offer Rejected#
+[MSG 0380]:Offer Accepted#
+[MSG 0381]:Your Guild is Full.#
+[MSG 0382]:Send (%s) a Guild invitation#
+[MSG 0383]:You haven't learned enough skills for aligning.#
+[MSG 0384]:Alignning completed.#
+[MSG 0385]:You already spent your point for today.#
+[MSG 0386]:Hasn't been a month yet since you aligned this person.#
+[MSG 0387]:Remember, Spamming isn't nice.#
+[MSG 0388]:Please refrain from ill-mannered conduct, thank you.#
+[MSG 0389]:Align with a Good Point#
+[MSG 0390]:Align with a Bad Point#
+[MSG 0391]:Request a deal with (%s)#
+[MSG 0392]:Ask (%s) to join your party#
+[MSG 0393]: Guild is asking you to agree to an Alliance with them. Do you accept?#
+[MSG 0394]:This Guild is already your Ally.#
+[MSG 0395]:You reject the offer#
+[MSG 0396]:You accept the offer#
+[MSG 0397]:They have too many Alliances.#
+[MSG 0398]:You have too many Alliances.#
+[MSG 0399]:Set this guild as an Alliance#
+[MSG 0400]:Guild was successfully disbanded.#
+[MSG 0401]:You have failed to disorganize the guild due to your incorrect SSN.#
+[MSG 0402]:You have failed to disorganize the guild because there are guildsmen still present.#
+[MSG 0403]:Set this guild as an Antagonist#
+[MSG 0404]:Choose Hair Color#
+[MSG 0405]:You need the necessary item to create a Guild.#
+[MSG 0406]:Monster Info#
+[MSG 0407]:Name#
+[MSG 0408]:Level#
+[MSG 0409]:HP#
+[MSG 0410]:Size#
+[MSG 0411]:Type#
+[MSG 0412]:MDEF#
+[MSG 0413]:Attribute#
+[MSG 0414]:Neutral#
+[MSG 0415]:Water#
+[MSG 0416]:Earth#
+[MSG 0417]:Fire#
+[MSG 0418]:Wind#
+[MSG 0419]:Poison#
+[MSG 0420]:Holy#
+[MSG 0421]:Shadow#
+[MSG 0422]:Ghost#
+[MSG 0423]:Undead#
+[MSG 0424]:You can't create items yet.#
+[MSG 0425]:Item List you can craft#
+[MSG 0426]: Create#
+[MSG 0427]:'s materials#
+[MSG 0428]: item creation failed.#
+[MSG 0429]: item created sucessfully.#
+[MSG 0430]: item creation failed.#
+[MSG 0431]: item created sucessfully.#
+[MSG 0432]:You are not the required lvl.#
+[MSG 0433]:Too high lvl for this job.#
+[MSG 0434]:Not the suitable job for this type of work.#
+[MSG 0435]:Record a message in the Talkie Box#
+[MSG 0436]:Please type a message for the Talkie Box#
+[MSG 0437]:Send to Guild#
+[MSG 0438]:You didn't pay for this ID. Would you like to pay for it now?#
+[MSG 0439]:Server is jammed due to overpopulation. Please try again after few minutes.#
+[MSG 0440]:Server still recognizes your last log-in. Please try again after a few minutes.#
+[MSG 0441]:Release Falcon#
+[MSG 0442]:Dismount PecoPeco#
+[MSG 0443]:Small#
+[MSG 0444]:Med#
+[MSG 0445]:Big#
+[MSG 0446]:Double#
+[MSG 0447]:Triple#
+[MSG 0448]:Quadruple#
+[MSG 0449]:You are prohibited to log in until %s.#
+[MSG 0450]:'s #
+[MSG 0451]:'s Fire #
+[MSG 0452]:'s Ice #
+[MSG 0453]:'s Wind #
+[MSG 0454]:'s Earth #
+[MSG 0455]:38.144.194.2#
+[MSG 0456]:6900#
+[MSG 0457]:http://iro.raganrokonline.com#
+[MSG 0458]:Kill %s#
+[MSG 0459]:Very Strong #
+[MSG 0460]:Very Very Strong #
+[MSG 0461]:Very Very Very Strong #
+[MSG 0462]:The Reason of Expulsion#
+[MSG 0463]: Attack Speed is up.#
+[MSG 0464]: Attack Speed is down.#
+[MSG 0465]: Weapon Damage is improved.#
+[MSG 0466]: Weapon Damage is reduced.#
+[MSG 0467]: Cast Delay is reduced.#
+[MSG 0468]: Cast Delay has returned to normal.#
+[MSG 0469]: Weapon is temporarily enchanted with Poison.#
+[MSG 0470]: Weapon is temporarily enchanted with an elemental property.#
+[MSG 0471]: Weapon has changed back to normal.#
+[MSG 0472]: Armor has been enchanted with the Holy Ghost.#
+[MSG 0473]: Armor has changed back to normal.#
+[MSG 0474]: Barrier Formed.#
+[MSG 0475]: Barrier Canceled.#
+[MSG 0476]: Weapon Perfection Initiated.#
+[MSG 0477]: Weapon perfection Canceled.#
+[MSG 0478]: Power-Thrust Initiated.#
+[MSG 0479]: Power-Thrust Canceled.#
+[MSG 0480]: Maximize-Power Initiated.#
+[MSG 0481]: Maximize-Power Canceled.#
+[MSG 0482]:[New Server]#
+[MSG 0483]:(%d)#
+[MSG 0484]:(On the maintenance)#
+[MSG 0485]:Guildsman %s has connected.#
+[MSG 0486]:Guildsman %s has disconnected.#
+[MSG 0487]:You got %s Base EXP.#
+[MSG 0488]:You got %s Job EXP.#
+[MSG 0489]:You left the guild.#
+[MSG 0490]:You have been expelled from the Guild.#
+[MSG 0491]:Item Appraisal has completed sucessfully.#
+[MSG 0492]:Item appraisal has failed.#
+[MSG 0493]:Compounding has completed sucessfully.#
+[MSG 0494]:Compounding has failed.#
+[MSG 0495]:Antagonist has been set.#
+[MSG 0496]:Guild has too many Antagonists.#
+[MSG 0497]:Already set as an Antagonist#
+[MSG 0498]:Upgrade has been completed sucessfully.#
+[MSG 0499]:Upgrade has failed.#
+[MSG 0500]:Unavailable Area to Teleport#
+[MSG 0501]:Unavailable Area to Teleport#
+[MSG 0502]:Please wait 10 seconds before trying to log out.#
+[MSG 0503]:Position#
+[MSG 0504]:Job#
+[MSG 0505]:Note#
+[MSG 0506]:Devotion#
+[MSG 0507]:Tax Point#
+[MSG 0508]:Leave Guild#
+[MSG 0509]:Expel#
+[MSG 0510]:Rank#
+[MSG 0511]:Position Title#
+[MSG 0512]:Invitation#
+[MSG 0513]:Punish#
+[MSG 0514]:Tax %#
+[MSG 0515]:Title#
+[MSG 0516]:Contents#
+[MSG 0517]:Guild Name#
+[MSG 0518]:Guild lvl#
+[MSG 0519]:Guildsmen#
+[MSG 0520]:Ranking#
+[MSG 0521]:Item Appraisal#
+[MSG 0522]:Insert Card#
+[MSG 0523]:Please enter the reason of Secession.#
+[MSG 0524]:Please enter the reason of Expulsion.#
+[MSG 0525]:Please close Shop.#
+[MSG 0526]:Skill #
+[MSG 0527]:Item Name#
+[MSG 0528]:https://pay.ragnarok.co.kr (Billing Web)#
+[MSG 0529]:IP capacity of this Internet Cafe is full. Would you like to pay the personal base?#
+[MSG 0530]:You are out of available paid playing time. Game will be shut down automatically.#
+[MSG 0531]:Name is too long. Please enter a name no greater than 23 english characters.#
+[MSG 0532]:Character will be deleted in %d seconds.#
+[MSG 0533]:You paid with the personal regular base.#
+[MSG 0534]:You paid with the personal regular base. Available time is xx hrs xx mins xx secs.#
+[MSG 0535]:You are free!#
+[MSG 0536]:You are free for the test, your available time is xx hrs xx mins xx secs.#
+[MSG 0537]:You paid with the Internet Cafe regular base. Available time is xx hrs xx mins xx secs.#
+[MSG 0538]:You paid with the Time Limit for Internet Cafe. Availabe time is xx hrs xx mins xx secs.#
+[MSG 0539]:You are free for the test of Internet Cafe version .#
+[MSG 0540]:You are free for the Internet Cafe version.#
+[MSG 0541]:You paid on the Time Limit Website.#
+[MSG 0542]:Emotion icon List#
+[MSG 0543]:/emo#
+[MSG 0544]:/!#
+[MSG 0545]:/?#
+[MSG 0546]:/ho#
+[MSG 0547]:/lv#
+[MSG 0548]:/lv2#
+[MSG 0549]:/swt#
+[MSG 0550]:/ic#
+[MSG 0551]:/an#
+[MSG 0552]:/ag#
+[MSG 0553]:/$#
+[MSG 0554]:/...#
+[MSG 0555]:/thx#
+[MSG 0556]:/wah#
+[MSG 0557]:/sry#
+[MSG 0558]:/heh#
+[MSG 0559]:/swt2#
+[MSG 0560]:/hmm#
+[MSG 0561]:/no1#
+[MSG 0562]:/??#
+[MSG 0563]:/omg#
+[MSG 0564]:/oh#
+[MSG 0565]:/X#
+[MSG 0566]:/hlp#
+[MSG 0567]:/go#
+[MSG 0568]:/sob#
+[MSG 0569]:/gg#
+[MSG 0570]:/kis#
+[MSG 0571]:/kis2#
+[MSG 0572]:/pif#
+[MSG 0573]:/ok#
+[MSG 0574]:Shortcut List#
+[MSG 0575]:Your account is suspended.#
+[MSG 0576]:Your connection is terminated due to change in the billing policy. Please connect again.#
+[MSG 0577]:Your connection is terminated because your IP doesn't match the authorized IP from the account server.#
+[MSG 0578]:Your connection is terminated to prevent charging from your account's play time.#
+[MSG 0579]:You have been forced to disconnect by the Game Master Team.#
+[MSG 0580]:You can't use this Skill because you are over your Weight Limit.#
+[MSG 0581]:Nameless#
+[MSG 0582]:Congratulations! %s ranking has gone up to %d.#
+[MSG 0583]:What a pity! %s ranking has gone down to %d.#
+[MSG 0584]:Pet Info#
+[MSG 0585]:Hunger#
+[MSG 0586]:Intimacy#
+[MSG 0587]:Please avoid opening a chatroom while vending.#
+[MSG 0588]:ea#
+[MSG 0589]:You have knocked down %s.#
+[MSG 0590]:You have been knocked down by %s.#
+[MSG 0591]:Feed - "%s" is not available.#
+[MSG 0592]:Feed Pet#
+[MSG 0593]:Performance#
+[MSG 0594]:Return to Egg Shell#
+[MSG 0595]:Unequip Accessory#
+[MSG 0596]:Check the Pet Status#
+[MSG 0597]:Accessory#
+[MSG 0598]:Equipped#
+[MSG 0599]:Pet List#
+[MSG 0600]:Unequipped#
+[MSG 0601]:Are you sure that you want to feed your pet?#
+[MSG 0602]:Only the numbers (0~9) are available.#
+[MSG 0603]:You cannot sell unidentified items.#
+[MSG 0604]:Item at 0 Zeny exists. Do you wish to continue?#
+[MSG 0605]:[New Emotion List]#
+[MSG 0606]:N/A#
+[MSG 0607]:N/A#
+[MSG 0608]:Character in the same account already joined.#
+[MSG 0609]:(%d ppl) - over the age 18#
+[MSG 0610]: Provoke initiated.#
+[MSG 0611]: Provoke canceled.#
+[MSG 0612]: Endure initiated.#
+[MSG 0613]: Endure canceled.#
+[MSG 0614]: Improve Concentration initiated.#
+[MSG 0615]: Improve Concentration canceled.#
+[MSG 0616]: Hiding Initiated.#
+[MSG 0617]: Hiding Canceled.#
+[MSG 0618]: Cloaking initiated.#
+[MSG 0619]: Cloaking canceled.#
+[MSG 0620]: Poison React initiated.#
+[MSG 0621]: Poison React canceled.#
+[MSG 0622]: Speed reduced.#
+[MSG 0623]: Quagmire canceled.#
+[MSG 0624]: Defense increased.#
+[MSG 0625]: Angelus canceled.#
+[MSG 0626]: Blessing aligned.#
+[MSG 0627]: Blessing canceled.#
+[MSG 0628]: Signum Crusis initiated.#
+[MSG 0629]: Signum Crusis canceled.#
+[MSG 0630]: Slow Poison initiated.#
+[MSG 0631]: Slow Poison Canceled.#
+[MSG 0632]: HP/SP recovery increased.#
+[MSG 0633]: Magnificat canceled.#
+[MSG 0634]: Luck increased.#
+[MSG 0635]: Gloria canceled.#
+[MSG 0636]: You will received double damage from all attacking opponents.#
+[MSG 0637]: Lex Eterna canceled.#
+[MSG 0638]: Attack Speed increased.#
+[MSG 0639]: Attack Speed reduced.#
+[MSG 0640]:You've just been on a Peco Peco.#
+[MSG 0641]:You've just got off of a Peco Peco.#
+[MSG 0642]:You've just carried a Falcon with.#
+[MSG 0643]:You've just released a Falcon.#
+[MSG 0644]: Play Dead initiated.#
+[MSG 0645]: Play Dead canceled.#
+[MSG 0646]: STR improved.#
+[MSG 0647]: STR turned back to normal.#
+[MSG 0648]: Energy Coat initiated.#
+[MSG 0649]: Energy Coat canceled.#
+[MSG 0650]: Armor destroyed.#
+[MSG 0651]: Armor has just been released from destroyed status.#
+[MSG 0652]: Weapon destroyed.#
+[MSG 0653]: Weapon has just been released from destroyed status.#
+[MSG 0654]: Invisibility initiated.#
+[MSG 0655]: Invisibility canceled.#
+[MSG 0656]:N/A#
+[MSG 0657]:You must unequip arrows first.#
+[MSG 0658]:Arrow List#
+[MSG 0659]:Cart List#
+[MSG 0660]:You must have a Pushcart.#
+[MSG 0661]:You cannot open a Chat Window.#
+[MSG 0662]:No Information#
+[MSG 0663]:You cannot use this item while sitting.#
+[MSG 0664]:Your use of skills and chat will be blocked for the next %d minutes.#
+[MSG 0665]:Your use of skills and chat have been reinstated.#
+[MSG 0666]:- [Not equipped]#
+[MSG 0667]:Very Hungry#
+[MSG 0668]:Hungry#
+[MSG 0669]:Neutral#
+[MSG 0670]:Satisfied#
+[MSG 0671]:Stuffed#
+[MSG 0672]:Awkward#
+[MSG 0673]:Shy#
+[MSG 0674]:Cordial#
+[MSG 0675]:Loyal#
+[MSG 0676]:Unknown#
+[MSG 0677]:Your account has play time of %day %dhour %dminute.#
+[MSG 0678]:Your account already connected other account server.#
+[MSG 0679]:Your account has play time of %dhour %dminute.#
+[MSG 0680]:Your account is a free account.#
+[MSG 0681]:This account can't connect the Sakray server.#
+[MSG 0682]:Your pet name must be 23 characters or less.#
+[MSG 0683]:You may change your pet's name only once. Your pet's name will be changed to ^0000ff^0000ff %s^000000^000000.  Do you wish to continue?#
+[MSG 0684]:/font#
+[MSG 0685]:Your guild lacks the funds to pay for this venture.#
+[MSG 0686]:Your guild zeny limit prevents you from peforming this action.#
+[MSG 0687]:Simplified effects have been activated.#
+[MSG 0688]:Simplified effects have been deactivated.#
+[MSG 0689]:Required Fee#
+[MSG 0690]:If you wish to drop an item, you must first open your Item Window (alt+e).#
+[MSG 0691]:Internet Cafe Time Plan has been ended. Would you like to continue the game with your personal play time?#
+[MSG 0692]:#
+[MSG 0693]:#
+[MSG 0694]:Your lack of zeny or your zeny limit have prevented you from performing this action.#
+[MSG 0695]:Your character has fainted.  Push the ESC key to restart.#
+[MSG 0696]: - %d obtained.#
+[MSG 0697]:Spell List#
+[MSG 0698]:/minimize#
+[MSG 0699]:This item has been damaged.#
+[MSG 0700]:/noshift: You may use your ''force heal'' ability without the Shift key. On | Off#
+[MSG 0701]:[no shift] option activated. [ON]#
+[MSG 0702]:[no shift] option deactivated. [OFF]#
+[MSG 0703]:MSI_REFUSE_BAN_BY_DBA#
+[MSG 0704]:MSI_REFUSE_EMAIL_NOT_CONFIRMED#
+[MSG 0705]:MSI_REFUSE_BAN_BY_GM#
+[MSG 0706]:MSI_REFUSE_TEMP_BAN_FOR_DBWORK#
+[MSG 0707]:MSI_REFUSE_SELF_LOCK#
+[MSG 0708]:MSI_REFUSE_NOT_PERMITTED_GROUP#
+[MSG 0709]:MSI_REFUSE_WAIT_FOR_SAKRAY_ACTIVE#
+[MSG 0710]:/aura: Simplify Aura effect On | Off#
+[MSG 0711]:Simplify Aura disabled. [OFF]#
+[MSG 0712]:Simplify Aura enabled. [ON]#
+[MSG 0713]:Chat block record %d times#
+[MSG 0714]:Chat block list#
+[MSG 0715]:/showname: Change the name font type.#
+[MSG 0716]:/noctrl | /nc: Auto attack without pressing ctrl key. On | Off#
+[MSG 0717]:Use auto attack without Ctrl. [Auto attack ON]#
+[MSG 0718]:Use auto attack with Ctrl. [Auto attack OFF]#
+[MSG 0719]:Mute this player.#
+[MSG 0720]:Unmute player & Erase mute time.#
+[MSG 0721]:Decrease Player Mute time.#
+[MSG 0722]:Normal Font Displayed. [showname type 1]#
+[MSG 0723]:Font will be thin and party name will be shown [showname type 2]#
+[MSG 0724]:/doridori: Shake head#
+[MSG 0725]:Internet room is paying now.#
+[MSG 0726]:Prepaid voucher validate untill %ddays %d hours %dminutes later.\nTime limit voucher validate untill %d hours %dminutes later.#
+[MSG 0727]:/bingbing: Rotates player counter clockwise.#
+[MSG 0728]:/bangbang: Rotates player clockwise.#
+[MSG 0729]:/skillfail: Display red font message when skill fails. On | Off#
+[MSG 0730]:Skill fail messages will be displayed. [Display On]#
+[MSG 0731]:Skill fail messages will not be displayed. [Display OFF]#
+[MSG 0732]:/notalkmsg: Chat will not be displayed in chat window. On | Off#
+[MSG 0733]:Chat content will be displayed in the chat window. [Display ON]#
+[MSG 0734]:Chat content will not be displayed in the chat window. [Display OFF]#
+[MSG 0735]:/set1: /noctrl + /showname + /skillfail#
+[MSG 0736]:/fog: Fog effect. On | Off#
+[MSG 0737]:You have received a marriage proposal. Do you accept?#
+[MSG 0738]:Item sharing type#
+[MSG 0739]:Individual#
+[MSG 0740]:Shared#
+[MSG 0741]:nProtect KeyCrypt#
+[MSG 0742]:Keyboard Driver has been detected. \n\nDo you want to install a program for keyboard security?    \n\n(After installation, System Reboot is required)#
+[MSG 0743]:Installation has been completed.  \n\nSystem will be rebooted.#
+[MSG 0744]:Installation has been failed.#
+[MSG 0745]:Keyboard Security will be skipped.#
+[MSG 0746]:Required file for Keyboard Security is not existing.  \n\n(npkeyc.vxd, npkeyc.sys, npkeycs.sys)#
+[MSG 0747]:USB Keyboard has been detected. \n\nDo you want to install a program for keyboard security?    \n\n(After installation, System Reboot is required)#
+[MSG 0748]:ftp://ragnarok.nefficient.co.kr/pub/ragnarok/ragnarok0526.exe#
+[MSG 0749]:FindHack is not installed correctly. Please download ragnarok0226.exe and install it in RagnarokOnline directory.(%d).#
+[MSG 0750]:Hacking tool is existing but it hasn't been cleaned. Rangarok Online will not be executed.#
+[MSG 0751]:Hacking tool scan program has not been downloaded correctly. Please download ragnarok0226.exe and install it in RagnarokOnline directory.#
+[MSG 0752]:NPX.DLL register error or there is no necessary file to run FindHack. Please download ragnarok0226.exe and install it in RagnarokOnline directory.#
+[MSG 0753]:Exceptional Error. Please contact the customer support. Return Value:(%d)#
+[MSG 0754]:Exit button has been clicked.#
+[MSG 0755]:Unable to connect Findhack Update Server. Please try again or contact the customer support.#
+[MSG 0756]:Beloved#
+[MSG 0757]:/report: Save a chat log file.#
+[MSG 0758]:Chat logs are not accepted as evidence for any ill-mannered violation on account of possible file modifications. However this feature is provided for players' personal reference.#
+[MSG 0759]:I love you.#
+[MSG 0760]:Please adjust your monitor/video brightness if effects appear too bright.#
+[MSG 0761]:If full screen mode fails to work, it is suggested you alt+tab [or ctrl+esc] to inactivate and reactivate the Ragnarok Client.#
+[MSG 0762]:(%d players) - Pay to Play Server#
+[MSG 0763]:(%d players) - Free Server#
+[MSG 0764]:Trial players can't connect Pay to Play Server.#
+[MSG 0765]:Right click menu skills for F9 are Enabled.[/q1 ON]#
+[MSG 0766]:Right click menu skills for F9 are Disabled.[/q1 OFF]#
+[MSG 0767]:/quickspell: Right-click menu enables you to use skills assigned to the F9 hotkey. On | Off#
+[MSG 0768]:Mouse wheel skills for F7 and F8 are Enabled.[/q2 ON]#
+[MSG 0769]:Mouse wheel skills for F7 and F8 are Disabled.[/q2 OFF]#
+[MSG 0770]:/quickspell2: By rolling the mouse wheel up and down, you are able to use skills registered on F7 and F8 hotkeys. On | Off#
+[MSG 0771]:/q3: /quickspell (/q1) + /quickspell2 (/q2)#
+[MSG 0772]:/bzz#
+[MSG 0773]:/rice#
+[MSG 0774]:/awsm#
+[MSG 0775]:/meh#
+[MSG 0776]:/shy#
+[MSG 0777]:/pat#
+[MSG 0778]:/mp#
+[MSG 0779]:/slur#
+[MSG 0780]:/com#
+[MSG 0781]:/yawn#
+[MSG 0782]:/grat#
+[MSG 0783]:/hp#
+[MSG 0784]:/emotion: views the emoticon list.#
+[MSG 0785]:Skills assigned to shortcut windows 1, 2, 3 are Enabled. [/bm ON]#
+[MSG 0786]:Skills assigned to shortcut windows 1, 2, 3 are Disabled. [/bm OFF]#
+[MSG 0787]:/battlemode: allows you to use skills assigned to Shortcut Window 2 by pressing Q ~ O keys.#
+[MSG 0788]:A ~ L keys allow you to use skills assigned to Shortcut Window 3.#
+[MSG 0789]:Please remember, programs running in the background while playing may affect the game's performance.#
+[MSG 0790]:Dear angel, can you hear my voice?#
+[MSG 0791]:I am#
+[MSG 0792]:Super Novice~#
+[MSG 0793]:Help me out~ Please~ T_T#
+[MSG 0794]: wishes to adopt you. Do you accept?#
+[MSG 0795]:Z ~ > keys allow you to use skills assigned on shortcut window 1. On | Off#
+[MSG 0796]:Press the space bar to Chat when in Battle mode [/battlemode | /bm].#
+[MSG 0797]:"Either there's no Game Guard installed on the program or Game Guard is cracked. Please, try to reinstall Game Guard from its setup file."#
+[MSG 0798]:Some of Windows system files have been damaged. Please re-install your Internet Explorer.#
+[MSG 0799]:"Failed to run Game Guard. Please, try to reinstall Game Guard from its setup file."#
+[MSG 0800]:"At least one hazardous program has been detected. Please, terminate all the unnecessary programs before executing Game Guard."#
+[MSG 0801]:"Game Guard update is canceled. If the disconnection continues, please, check your internet or firewall settings."#
+[MSG 0802]:"Failed to connect to Game Guard update server. Try to connect again later, or try to check the internet or firewall settings."#
+[MSG 0803]:"Can't complete Game Guard update process. Please, try to execute a vaccine program to remove viruses. Or, please try to modify the settings of your PC managing tool if you are using any."#
+[MSG 0804]:/notrade: Declines trade offers automatically. On | Off#
+[MSG 0805]:Auto decline trade offers has been Enabled. [/nt ON]#
+[MSG 0806]:Auto decline trade offers has been Disabled. [/nt OFF]#
+[MSG 0807]:You cannot buy more than 30,000ea items at once.#
+[MSG 0808]:You do not have enough ingredients.#
+[MSG 0809]:Login information remains at %s.#
+[MSG 0810]:Account has been locked for a hacking investigation. Please contact the GM Team for more information.#
+[MSG 0811]:This account has been temporarily prohibited from login due to a bug-related investigation.#
+[MSG 0812]:Repairable items#
+[MSG 0813]:Item has been successfully repaired.#
+[MSG 0814]:You have failed to repair this item. Please check the distance between you and opponent.#
+[MSG 0815]:System process enabled [GM mode] [/sc ON]#
+[MSG 0816]:System process disabled [GM mode] [/sc OFF]#
+[MSG 0817]:/systemcheck: Check the system process [GM mode] On | Off#
+[MSG 0818]:(%s) wishes to be friends with you. Would you like to accept?#
+[MSG 0819]:Your Friend List is full.#
+[MSG 0820]:(%s)'s Friend List is full.#
+[MSG 0821]:You have become friends with (%s). #
+[MSG 0822]:(%s) does not want to be friends with you.#
+[MSG 0823]:This character will be blocked to use until %s.#
+[MSG 0824]:Price will be fixed at 10,000,000 zeny, even if you enter higher price.#
+[MSG 0825]:(Down below) #
+[MSG 0826]:(Below)#
+[MSG 0827]:(Average)#
+[MSG 0828]:(Above)#
+[MSG 0829]:(Up below)#
+[MSG 0830]:You have been blocked from using chat and skills for %d minutes by the GM Team.#
+[MSG 0831]:%d minutes remain until release from the GM penalty.#
+[MSG 0832]:You have been released from the GM penalty.#
+[MSG 0833]:You have been blocked from using chat and skills for %d as an automatic penalty.#
+[MSG 0834]:%d minutes remain until release from auto penalty.#
+[MSG 0835]:You have been released from the auto penalty. Please refrain from spamming in-game.#
+[MSG 0836]:%s and %s have divorced from each other.#
+[MSG 0837]:%s has been designated as Gravity %s's Solar Space.#
+[MSG 0838]:%s has been designated as Gravity %s's Luna Space.#
+[MSG 0839]:%s has been designated as Gravity %s's Stellar Space.#
+[MSG 0840]:Gravity %s's Solar Space: %s#
+[MSG 0841]:Gravity %s's Luna Space: %s#
+[MSG 0842]:Gravity %s's Stellar Space: %s#
+[MSG 0843]:%s has been designated as Gravity %s's Solar Monster.#
+[MSG 0844]:%s has been designated as Gravity %s's Luna Monster.#
+[MSG 0845]:%s has been designated as Gravity %s's Stellar Monster.#
+[MSG 0846]:Gravity %s's Solar Monster: %s#
+[MSG 0847]:Gravity %s's Luna Monster: %s#
+[MSG 0848]:Gravity %s's Stellar Monster: %s#
+[MSG 0849]:/window: Display windows will snap/dock together. On | Off#
+[MSG 0850]:Display window docking enabled. [/wi ON]#
+[MSG 0851]:Display window docking disabled. [/wi OFF]#
+[MSG 0852]:/pvpinfo: shows your PVP result and PVP points.#
+[MSG 0853]:You have won %d times and have lost %d times in PVP. Current points %d.#
+[MSG 0854]:A manner point has been successfully aligned.#
+[MSG 0855]:You are in a PK area. Please beware of sudden attack.#
+[MSG 0856]:Game Guard update has been failed when either Virus or Spyware conflicted with. Please, Uninstall Spyware and Virus protection program before you log in. #
+[MSG 0857]:Program has encountered an error related to Windows compatibility. Please start the game again.#
+[MSG 0858]:You have been blocked from chatting, using skills and items.#
+[MSG 0859]:Login is temporarily unavailable while this character is being deleted.#
+[MSG 0860]:Login is temporarily unavailable while your spouse character is being deleted.#
+[MSG 0861]:Novice#
+[MSG 0862]:Swordman#
+[MSG 0863]:Mage#
+[MSG 0864]:Archer#
+[MSG 0865]:Acolyte#
+[MSG 0866]:Merchant#
+[MSG 0867]:Thief#
+[MSG 0868]:Knight#
+[MSG 0869]:Priest#
+[MSG 0870]:Wizard#
+[MSG 0871]:Blacksmith#
+[MSG 0872]:Hunter#
+[MSG 0873]:Assassin#
+[MSG 0874]:Novice#
+[MSG 0875]:Swordman#
+[MSG 0876]:Magician#
+[MSG 0877]:Archer#
+[MSG 0878]:Acolyte#
+[MSG 0879]:Merchant#
+[MSG 0880]:Thief#
+[MSG 0881]:Knight#
+[MSG 0882]:Priest#
+[MSG 0883]:Wizard#
+[MSG 0884]:Blacksmith#
+[MSG 0885]:Hunter#
+[MSG 0886]:Assassin#
+[MSG 0887]:Send an adoption request to %s#
+[MSG 0888]:When you become a child, you will be unable to become a Transcendent Class character, all stats will be limited to a maximum of 80, and Max HP/SP will be reduced. Are you sure that you want to be adopted?#
+[MSG 0889]:All abnormal status effects have been removed.#
+[MSG 0890]:You will be immune to abnormal status effects for the next minute.#
+[MSG 0891]:Your Max HP will stay increased for the next minute.#
+[MSG 0892]:Your Max SP will stay increased for the next minute.#
+[MSG 0893]:All of your Stats will stay increased for the next minute.#
+[MSG 0894]:Your weapon will remain blessed with Holy power for the next minute.#
+[MSG 0895]:Your armor will remain blessed with Holy power for the next minute.#
+[MSG 0896]:Your Defense will stay increased for the next 10 seconds.#
+[MSG 0897]:Your Attack strength will be increased for the next minute.#
+[MSG 0898]:Your Accuracy and Flee Rate will be increased for the next minute.#
+[MSG 0899]:You cannot adopt more than 1 child.#
+[MSG 0900]:You must be at least character level 70 in order to adopt someone.#
+[MSG 0901]:[Point] You have been rewarded with %d Blacksmith rank points. Your point total is %d.#
+[MSG 0902]:[Point] You have been rewarded with %d Alchemist rank points. Your point total is %d.#
+[MSG 0903]:Dear angel, can you hear my voice?#
+[MSG 0904]:I am#
+[MSG 0905]:Super Novice~#
+[MSG 0906]:Help me out~ Please~ T_T#
+[MSG 0907]:/notalkmsg2: Hides chat messages(including guild chat). On Off#
+[MSG 0908]:Show chat messages. [/nm2 ON]#
+[MSG 0909]:Hide chat messages(including guild chat) [/nm2 OFF]#
+[MSG 0910]:Upgradable Weapons#
+[MSG 0911]:Weapons upgraded: %s#
+[MSG 0912]:Weapons upgraded: %s#
+[MSG 0913]:You cannot upgrade %s until you level up your Upgrade Weapon skill.#
+[MSG 0914]:You lack a necessary item %s to upgrade this weapon.#
+[MSG 0915]:Full Divestment cannot pierce the target. The target is fully shielded.#
+[MSG 0916]:You cannot adopt a married person.#
+[MSG 0917]:This name is not registered in your Friend List. Please check the name again.#
+[MSG 0918]:/hi or /hi message: Send greetings to people who are online and registered on your Friend List.#
+[MSG 0919]:This character is not your guildsman. Please check the name again.#
+[MSG 0920]:Please be aware that the maximum selling price is fixed as 2 Billion. You cannot sell an item higher than that.#
+[MSG 0921]:Whispers from friends are displayed as [ Friend ], and ones from guildsmen are displayed as [ Member ].#
+[MSG 0922]:( From character name: ) is from an anonymous character who is neither your friend nor guildsman.#
+[MSG 0923]:/blacksmith: Shows top 10 Blacksmiths in the server.#
+[MSG 0924]:/alchemist: Shows top 10 Alchemists in the server.#
+[MSG 0925]:ALT+Y: Opens a window which allows you to use various commands with ease.#
+[MSG 0926]:[POINT] You have been rewarded with %d Tae-Kwon Mission rank points. Your point total is %d.#
+[MSG 0927]:[Taekwon Mission] Target Monster: %s (%d%%)#
+[MSG 0928]:Error - Failed to initialize GameGuard : %lu#
+[MSG 0929]:Speed Hack has been detected.#
+[MSG 0930]:The illegal program, (%s) has been detected.#
+[MSG 0931]:The Game or Gameguard has been cracked.#
+[MSG 0932]:GameGuard is currently running. Please wait for sometime and restart the game.#
+[MSG 0933]:The Game or GameGuard is already running. Please close the game and restart the game.#
+[MSG 0934]:Failed to intialize GameGuard. Please try again after rebooting the system or closing other programs.#
+[MSG 0935]:Failed to load the scan module of virus and hacking tool. It's caused by lack of memory or PC virus infection.#
+[MSG 0936]:Homunculus Info#
+[MSG 0937]:Homunculus Skill List#
+[MSG 0938]:Please give your Homunculus a name no longer than 23 letters.#
+[MSG 0939]:You can name a Homunculus only once. You have entered the name, ^0000ff^0000ff %s^000000^000000. Would you like to continue?#
+[MSG 0940]:(Away)#
+[MSG 0941]:[Automated Message]#
+[MSG 0942]:Send an automated message while you are away.#
+[MSG 0943]:Cancel automated away message.#
+[MSG 0944]:Please enter Away Message.#
+[MSG 0945]:/fsh#
+[MSG 0946]:/spin#
+[MSG 0947]:/sigh#
+[MSG 0948]:/dum#
+[MSG 0949]:/crwd#
+[MSG 0950]:/desp#
+[MSG 0951]:/dice#
+[MSG 0952]:/pk: Shows top 10 Slayers in the server.#
+[MSG 0953]:[POINT] You have been rewarded with % Slayer rank points. Your point total is %d.#
+[MSG 0954]:Evolution Available#
+[MSG 0955]:You have decided to delete this Homunculus ^ff0000^ff0000. When deleted, the homunculus and its history will be deleted and they cannot be restored in the future. Would you like to continue?#
+[MSG 0956]:Save Homunculus status as a file.#
+[MSG 0957]:Do not save Homunculus status as a file.#
+[MSG 0958]:Crusader#
+[MSG 0959]:Monk#
+[MSG 0960]:Sage#
+[MSG 0961]:Rouge#
+[MSG 0962]:Alchemist#
+[MSG 0963]:Bard#
+[MSG 0964]:Crusader#
+[MSG 0965]:Monk#
+[MSG 0966]:Sage#
+[MSG 0967]:Rouge#
+[MSG 0968]:Alchemist#
+[MSG 0969]:Dancer#
+[MSG 0970]:High Novice#
+[MSG 0971]:High Swordman#
+[MSG 0972]:High Mage#
+[MSG 0973]:High Archer#
+[MSG 0974]:High Acolyte#
+[MSG 0975]:High Merchant#
+[MSG 0976]:High Thief#
+[MSG 0977]:High Novice#
+[MSG 0978]:High Swordman#
+[MSG 0979]:High Mage#
+[MSG 0980]:High Archer#
+[MSG 0981]:High Acolyte#
+[MSG 0982]:High Merchant#
+[MSG 0983]:High Thief#
+[MSG 0984]:Lord Knight#
+[MSG 0985]:High Priest#
+[MSG 0986]:High Wizard#
+[MSG 0987]:MasterSmith#
+[MSG 0988]:Sniper#
+[MSG 0989]:Assassin Cross#
+[MSG 0990]:Lord Knight#
+[MSG 0991]:High Priest#
+[MSG 0992]:High Wizard#
+[MSG 0993]:MasterSmith#
+[MSG 0994]:Sniper#
+[MSG 0995]:Assassin Cross#
+[MSG 0996]:Paladin#
+[MSG 0997]:Champion#
+[MSG 0998]:Scholar#
+[MSG 0999]:Stalker#
+[MSG 1000]:Biochemist#
+[MSG 1001]:Minstrel#
+[MSG 1002]:Paladin#
+[MSG 1003]:Champion#
+[MSG 1004]:Scholar#
+[MSG 1005]:Stalker#
+[MSG 1006]:Biochemist#
+[MSG 1007]:Gypsy#
+[MSG 1008]:You have not set a password yet. Would you like to create one now?#
+[MSG 1009]:You have incorrectly entered the password 3 times. Please try again later.#
+[MSG 1010]:Password creation has failed.#
+[MSG 1011]:Password must be 4~8 letters long.#
+[MSG 1012]:Password#
+[MSG 1013]:New Password#
+[MSG 1014]:Confirm Password#
+[MSG 1015]:Password has been changed.#
+[MSG 1016]:Password does not match.#
+[MSG 1017]:Enter Password#
+[MSG 1018]:Your Homunculus is starving. Please feed it, otherwise it will leave you.#
+[MSG 1019]:EXP#
+[MSG 1020]:[EVENT] You have won an event prize. Please claim your prize in game.#
+[MSG 1021]:Hate#
+[MSG 1022]:Hate with a Passion#
+[MSG 1023]:Homunculus has been customized.#
+[MSG 1024]:Homunculus has been activated with the basic AI.#
+[MSG 1025]:Mail List#
+[MSG 1026]:Write Mail#
+[MSG 1027]:Read Mail#
+[MSG 1028]:You cannot change a map's designation once it is designated. Are you sure that you want to designate this map?#
+[MSG 1029]:Item has been added in the Item Window.#
+[MSG 1030]:You have failed to add the item in the Item Window.#
+[MSG 1031]:You have successfully mailed a message.#
+[MSG 1032]:You have failed to mail a message. Recipient does not exist.#
+[MSG 1033]:[Solar, Lunar and Stellar Angel] Designated places and monsters have been reset.#
+[MSG 1034]:The minimum starting bid for auctions is 10,000,000 zeny.#
+[MSG 1035]:You have successfully started a new auction.#
+[MSG 1036]:The auction has been canceled.#
+[MSG 1037]:An auction with at least one bidder cannot be canceled.#
+[MSG 1038]:Mail has been successfully deleted.#
+[MSG 1039]:You have failed to delete the mail.#
+[MSG 1040]:You have equipped throwing daggers.#
+[MSG 1041]:%s has logged in.#
+[MSG 1042]:%s has logged out.#
+[MSG 1043]:/loginout: Shows guildsmen and friends online status. On Off#
+[MSG 1044]:Display online status of friends in Chat Window. [/li ON]#
+[MSG 1045]:Do not display online status of friends in Chat Window.  [/li OFF]#
+[MSG 1046]:It is already running.#
+[MSG 1047]:Use of Macro program has been detected.#
+[MSG 1048]:Use of Speed hack has been detected.#
+[MSG 1049]:API Hooking has been detected.#
+[MSG 1050]:Message Hooking has been detected.#
+[MSG 1051]:Module has been modified or damaged or its version does not match.#
+[MSG 1052]:(Thailand) You have logged in game with PC cafe payment.#
+[MSG 1053]:Previous#
+[MSG 1054]:Next#
+[MSG 1055]:Auction#
+[MSG 1056]:Product List#
+[MSG 1057]:Register#
+[MSG 1058]:Sale Status#
+[MSG 1059]:Purchase Status#
+[MSG 1060]:Item#
+[MSG 1061]:Item Name#
+[MSG 1062]:Current Bid / Max Bid#
+[MSG 1063]:Seller#
+[MSG 1064]:Buyer#
+[MSG 1065]:Auction End Time#
+[MSG 1066]:%m/%d, %H00 PST#
+[MSG 1067]:Time (Hr)#
+[MSG 1068]:Fee#
+[MSG 1069]:No items found in auction search.#
+[MSG 1070]:Your Sale List is empty.#
+[MSG 1071]:Your Purchase List is empty.#
+[MSG 1072]:Auction Information is incorrect or incomplete.#
+[MSG 1073]:You must drag and drop an item from your Inventory into the Register Window to begin a new auction.#
+[MSG 1074]:The auction has already been registered.#
+[MSG 1075]:Starting Bid#
+[MSG 1076]:Current Bid#
+[MSG 1077]:Buy Now Price#
+[MSG 1078]:Your Current Zeny#
+[MSG 1079]:Highest Bid#
+[MSG 1080]:Previous Bid#
+[MSG 1081]:Next Bid#
+[MSG 1082]:Buy it now?#
+[MSG 1083]:Would you like to sell this item?#
+[MSG 1084]:Place Bid#
+[MSG 1085]:Buy Now#
+[MSG 1086]:End the Auction#
+[MSG 1087]:Place another Bid#
+[MSG 1088]:You have placed a bid.#
+[MSG 1089]:You have failed to place a bid.#
+[MSG 1090]:You do not have enough zeny.#
+[MSG 1091]:Armor#
+[MSG 1092]:Card#
+[MSG 1093]:Misc.#
+[MSG 1094]:Bid Number#
+[MSG 1095]:Search#
+[MSG 1096]:You have ended the auction.#
+[MSG 1097]:You cannot end the auction.#
+[MSG 1098]:Bid Number is incorrect.#
+[MSG 1099]:To#
+[MSG 1100]:Title#
+[MSG 1101]:You have received a message in the mail.#
+[MSG 1102]:Searching...#
+[MSG 1103]:You cannot register more than 5 items in an auction at a time.#
+[MSG 1104]:You cannot place more than 5 bids at a time.#
+[MSG 1105]:Please accept all items from your mail before deleting.#
+[MSG 1106]:Please enter a title.#
+[MSG 1107]:/shopping: Enables you to open a shop with a single left-click and close your shop with a single right-click. On Off#
+[MSG 1108]:You can now open a shop with a single left-click and close your shop with a single right-click. [sh ON].#
+[MSG 1109]:You can open a shop by double-clicking. [/sh OFF]#
+[MSG 1110]:Please enter zeny amount before sending mail.#
+[MSG 1111]:You do not have enough zeny to pay the Auction Fee.#
+[MSG 1112]:View Status#
+[MSG 1113]:Feed#
+[MSG 1114]:Stand By#
+[MSG 1115]:Super Novice (Male)#
+[MSG 1116]:Super Novice (Female)#
+[MSG 1117]:Taekwon Boy#
+[MSG 1118]:Taekwon Girl#
+[MSG 1119]:Taekwon Master (Male)#
+[MSG 1120]:Taekwon Master (Female)#
+[MSG 1121]:Soul Linker (Male)#
+[MSG 1122]:Soul Linker (Female)#
+[MSG 1123]:Please check the connection, more than 2 accounts are connected with Internet Cafe Time Plan.#
+[MSG 1124]:Your account is using monthly payment. (Remaining day: %d day)#
+[MSG 1125]:Your account is using time limited. (Remaining time : %d hour % minute % second)#
+[MSG 1126]:This item cannot be mailed.#
+[MSG 1127]:You cannot accept any more items. Please again try later.#
+[MSG 1128]:Male#
+[MSG 1129]:Female#
+[MSG 1130]:New User.#
+[MSG 1131]:E-mail address is required to delete a character.#
+[MSG 1132]:Please enter the correct information.#
+[MSG 1133]:Please use this key.#
+[MSG 1134]:Please enter the correct card password.#
+[MSG 1135]:PT Info#
+[MSG 1136]:PT_ID is %s#
+[MSG 1137]:NUM_ID is %s#
+[MSG 1138]:Please don't forget this information.#
+[MSG 1139]:1001#
+[MSG 1140]:1002#
+[MSG 1141]:1003#
+[MSG 1142]:1004#
+[MSG 1143]:1006#
+[MSG 1144]:1007#
+[MSG 1145]:1008#
+[MSG 1146]:1009#
+[MSG 1147]:1012#
+[MSG 1148]:1013#
+[MSG 1149]:1014#
+[MSG 1150]:1015#
+[MSG 1151]:1019#
+[MSG 1152]:1020#
+[MSG 1153]:1021#
+[MSG 1154]:1023#
+[MSG 1155]:1024#
+[MSG 1156]:1025#
+[MSG 1157]:1027#
+[MSG 1158]:1028#
+[MSG 1159]:10#
+[MSG 1160]:20#
+[MSG 1161]:40#
+[MSG 1162]:50#
+[MSG 1163]:60#
+[MSG 1164]:70#
+[MSG 1165]:80#
+[MSG 1166]:90#
+[MSG 1167]:100#
+[MSG 1168]:110#
+[MSG 1169]:Do you want to receive 30 points?#
+[MSG 1170]:30 points (5 hours) have been added.#
+[MSG 1171]:You cannot register Unidentified Items in auctions.#
+[MSG 1172]:You cannot register this Consumable Item in an auction.#
+[MSG 1173]:Please close the Cart Window to open the Mail Window.#
+[MSG 1174]:Please close the Mail Window to open the Cart Window.#
+[MSG 1175]:Bullets have been equipped.#
+[MSG 1176]:The mail has been returned to sender.#
+[MSG 1177]:The mail no longer exists.#
+[MSG 1178]:More than 30 players sharing the same IP have logged into the game for an hour. Please check this matter.#
+[MSG 1179]:More than 10 connections sharing the same IP have logged into the game for an hour. Please check this matter.#
+[MSG 1180]:Please restart the game.#
+[MSG 1181]:Mercenary: Archer#
+[MSG 1182]:Mercenary: Swordman#
+[MSG 1183]:Mercenary: Spearman#
+[MSG 1184]:Expiration#
+[MSG 1185]:Loyalty#
+[MSG 1186]:Summons#
+[MSG 1187]:Kill#
+[MSG 1188]:You can feel hatred from your pet for neglecting to feed it.#
+[MSG 1189]:[POINT] You earned %d Taming Mission Ranking Points, giving you a total of %d points.#
+[MSG 1190]:[Taming Mission] Target Monster: %s#
+[MSG 1191]:/hunting: You can check the your hunting list.#
+[MSG 1192]:[Angel's Question] Please tell me, how many %s skills do you have?#
+[MSG 1193]:[Angel's Question] Please tell me, how much zeny you'll have if you divide it by 100,000?#
+[MSG 1194]:[Angel's Question] Please tell me, what is today's date?#
+[MSG 1195]:[Angel's Question] Please tell me, how many %s do you have?#
+[MSG 1196]:[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in SiYeon's name?#
+[MSG 1197]:[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in Munak's name?#
+[MSG 1198]:[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in Bongun's name?#
+[MSG 1199]:[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, Ragnarok?#
+[MSG 1200]:[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, online?#
+[MSG 1201]:[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, death?#
+[MSG 1202]:[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, knight?#
+[MSG 1203]:[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, gravity?#
+[MSG 1204]:[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, dark?#
+[MSG 1205]:[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, collecter?#
+[MSG 1206]:[Angel's Answer] Thank you for letting me know~#
+[MSG 1207]:[Angel's Answer] I'm very pleased with your answer. You are a splendid adventurer.#
+[MSG 1208]:[Angel's Answer] You've disappointed me...#
+[MSG 1209]:[Point] You earned %d Ranking Points, giving you a total of %d Ranking Points.#
+[MSG 1210]:[%s]'s Points: %d Points#
+[MSG 1211]:Unselected Characters will be deleted. Continue?#
+[MSG 1212]:You cannot select more than 8.#
+[MSG 1213]:Do you want to change your name to '%s'?#
+[MSG 1214]:Character Name has been changed successfully.#
+[MSG 1215]:You have failed to change this character's name.#
+[MSG 1216]:You can purchase only one kind of item at a time.#
+[MSG 1217]:No characters were selected. You must select at least one character.#
+[MSG 1218]:This character's name has already been changed. You cannot change a character's name more than once.#
+[MSG 1219]:User Information is not correct.#
+[MSG 1220]:Another user is using this character name, so please select another one.#
+[MSG 1221]:The party member was not summoned because you are not the party leader.#
+[MSG 1222]:There is no party member to summon in the current map.#
+[MSG 1223]:You cannot find any trace of a Boss Monster in this area.#
+[MSG 1224]:Boss Monster, '%s' will appear in %02d hour(s) and %02d minute(s).#
+[MSG 1225]:You can feel the presence of the Boss Monster '%s' on this map.#
+[MSG 1226]:Do you want to open '%s'? Once opened, the contents cannot be moved to other locations aside from the Kafra Storage. The item effect isn't doubled, even if the same items are used more than once.#
+[MSG 1227]:The Purchase has failed because the NPC does not exist.#
+[MSG 1228]:The Purchase has failed because the Kafra Shop System is not working correctly.#
+[MSG 1229]:You cannot purchase items while you are in a trade.#
+[MSG 1230]:The Purchase has failed because the Item Information was incorrect.#
+[MSG 1231]:STR has increased.#
+[MSG 1232]:STR has returned to normal.#
+[MSG 1233]:AGI has increased.#
+[MSG 1234]:AGI has returned to normal.#
+[MSG 1235]:VIT has increased.#
+[MSG 1236]:VIT has returned to normal.#
+[MSG 1237]:INT has increased.#
+[MSG 1238]:INT has returned to normal.#
+[MSG 1239]:DEX has increased.#
+[MSG 1240]:DEX has returned to normal.#
+[MSG 1241]:LUK has increased.#
+[MSG 1242]:LUK has returned to normal.#
+[MSG 1243]:Flee Rate (Flee) has increased.#
+[MSG 1244]:Flee Rate has returned to normal.#
+[MSG 1245]:Accuracy Rate (Hit) has increased.#
+[MSG 1246]:Accuracy Rate has returned to normal.#
+[MSG 1247]:Critical Attack (Critical) has increased.#
+[MSG 1248]:Critical Attack has returned to normal.#
+[MSG 1249]:You will receive 1.5 times more EXP from hunting monsters for the next 30 minutes.#
+[MSG 1250]:This character will not receive any EXP penalty if killed within the next 30 minutes.#
+[MSG 1251]:Regular item drops from monsters will be doubled for the next 30 minutes.#
+[MSG 1252]:Boss Monster Map Information for the next 10 minutes.#
+[MSG 1253]:Do you really want to purchase '%s' item? %d points will be deducted from your total Kafra Credit Points.#
+[MSG 1254]: You do not have enough Kafra Credit Points.#
+[MSG 1255]: ^ff0000Expiration Date: %s^000000#
+[MSG 1256]: The '%s' item will disappear in %d minutes.#
+[MSG 1257]:%s' item will be deleted from the Inventory in 1 minute.#
+[MSG 1258]: '%s' item has been deleted from the Inventory.#
+[MSG 1259]:Input Number#
+[MSG 1260]:%m/%d %H:%M#
+[MSG 1261]:Boss Monster '%s' will appear within 1 minute.#
+[MSG 1262]:Mercenary Soldier Skill List#
+[MSG 1263]:Do you agree to cast the magic spell that consumes 1 Black Gemstone and 1,000,000 Zeny?#
+[MSG 1264]:[Point] You have gained %d Collector Rank Points; you now have a total of %d Collector Rank Points.#
+[MSG 1265]:[Collector Rank] Target Item: %s#
+[MSG 1266]:The mercenary contract has expired.#
+[MSG 1267]:The mercenary has died.#
+[MSG 1268]:You have released the mercenary.#
+[MSG 1269]:The mercenary has run away.#
+[MSG 1270]: The '%s' item will disappear in %d seconds.#
+[MSG 1271]:IP Bonus: EXP/JEXP %d%%, Death Penalty %d%%, Item Drop %d%%#
+[MSG 1272]:Please try again after 24 hours.#
+[MSG 1273]:Mercenary Soldier will follow custom AI.#
+[MSG 1274]:Mercenary Soldier will follow basic AI.#
+[MSG 1275]: %s's#
+[MSG 1276]:%s has acquired %s.#
+[MSG 1277]:Public Chat Display#
+[MSG 1278]:Whisper Display#
+[MSG 1279]:Party Chat Display#
+[MSG 1280]:Guild Chat Display#
+[MSG 1281]:Item Get/Drop Message Display#
+[MSG 1282]:Equipment On/Off Message Display#
+[MSG 1283]:Abnormal Status Message Display#
+[MSG 1284]:Party Member's Obtained Item Message Display#
+[MSG 1285]:Party Member's Abnormal Status Message Display#
+[MSG 1286]:Skill Failure Message Display#
+[MSG 1287]:Party Configuration Message Display#
+[MSG 1288]:Damaged Equipment Message Display#
+[MSG 1289]:Battle Message Window Display#
+[MSG 1290]:[%s]'s Han Coin: %d Han Coin#
+[MSG 1291]:Public Log#
+[MSG 1292]:Battle Log#
+[MSG 1293]:Mobile Authentication#
+[MSG 1294]:Read#
+[MSG 1295]:Auto Read#
+[MSG 1296]:Bookmark#
+[MSG 1297]:Previous#
+[MSG 1298]:Next#
+[MSG 1299]:Close#
+[MSG 1300]:%s's Equipment has been damaged.#
+[MSG 1301]:%s's %s was damaged.#
+[MSG 1302]:Weapon#
+[MSG 1303]:Armor#
+[MSG 1304]:Insufficient Skill Level for joining a Party#
+[MSG 1305]:[%s]'s Free Cash: %d Cash#
+[MSG 1306]:Use Free Cash: #
+[MSG 1307]:Cash#
+[MSG 1308]:http://payment.ro.hangame.com/index.asp#
+[MSG 1309]:You need to accept the Privacy Policy from Gravity in order to use the service.#
+[MSG 1310]:You need to accept the User Agreement in order to use the service.#
+[MSG 1311]:Incorrect or nonexistent ID.#
+[MSG 1312]:Do you really want to purchase '%s'? You will spend %d Regular Cash Points and %d Free Cash Points.#
+[MSG 1313]:%d hour(s) has passed.#
+[MSG 1314]:%d hour(s) %d minute(s) has passed.#
+[MSG 1315]:Please stop playing the game, and take a break. Exp and other features will be reduced to 50%.#
+[MSG 1316]:Please stop playing the game since you'll need to rest. Exp and other features will be fixed to 0%.#
+[MSG 1317]:Quest List#
+[MSG 1318]:RO Shop#
+[MSG 1319]:Memorial Dungeon, '%s' is booked.#
+[MSG 1320]:Failed to book Memorial Dungeon, '%s'.#
+[MSG 1321]:Memorial Dungeon, '%s' is already booked.#
+[MSG 1322]:Memorial Dungeon, '%s' is created.\n Please enter in 5 minutes.#
+[MSG 1323]:Failed to create Memorial Dungeon, '%s'.\n Please try again.#
+[MSG 1324]:The character blocked the party invitation.#
+[MSG 1325]:Block all party invitations.#
+[MSG 1326]:Allow all party invitations.#
+[MSG 1327]:This item will be permanently bound to this character once it is equipped. Do you really want to equip this item?#
+[MSG 1328]:%s is now permanently bound to this character.#
+[MSG 1329]:You do not have enough Kafra Credit Points. Please enter whether you have free credit points.#
+[MSG 1330]:Request to Join Party#
+[MSG 1331]:Display WOE Info#
+[MSG 1332]:Memorial Dungeon %s's reservation has been canceled.#
+[MSG 1333]:Failed to create Memorial Dungeon %s. Please try again.#
+[MSG 1334]:This skill cannot be used within this area.#
+[MSG 1335]:This item cannot be used within this area.#
+[MSG 1336]:Memorial Dungeon#
+[MSG 1337]:%s in Standby#
+[MSG 1338]:%s Available#
+[MSG 1339]:%s in Progress#
+[MSG 1340]:No one entered the Memorial Dungeon within its duration; the dungeon has disappeared.#
+[MSG 1341]:Please apply for dungeon entry again to play in this dungeon.#
+[MSG 1342]:Your Standby Priority: ^ff0000%d^000000#
+[MSG 1343]:The requested dungeon will be removed if you do not enter within ^ff0000%s^000000.#
+[MSG 1344]:Dungeon Mission Time Limit:#
+[MSG 1345]:The Memorial Dungeon reservation has been canceled.#
+[MSG 1346]:The Memorial Dungeon duration expired; it has been destroyed.#
+[MSG 1347]:The Memorial Dungeon's entry time limit expired; it has been destroyed.#
+[MSG 1348]:The Memorial Dungeon has been removed.#
+[MSG 1349]:A system error has occurred in the Memorial Dungeon. Please relog in to the game to continue playing.#
+[MSG 1350]:This slot is not usable.#
+[MSG 1351]:Your Base Level is over 15.#
+[MSG 1352]:Your Job Level is over 15.#
+[MSG 1353]:You cannot play the Merchant class character in this slot.#
+[MSG 1354]:Not Yet Implemented#
+[MSG 1355]:You are not eligible to open the Character Slot.#
+[MSG 1356]:This character cannot be deleted.#
+[MSG 1357]:This character's equipment information is not open to the public.#
+[MSG 1358]:Equipment information not open to the public.#
+[MSG 1359]:Equipment information open to the public.#
+[MSG 1360]:Check %s's Equipment Info#
+[MSG 1361]:%s's Equipment#
+[MSG 1362]:Show Equip#
+[MSG 1363]:This service is only available for premium users.#
+[MSG 1364]:Free Trial users can only hold up to 50,000 zeny.#
+[MSG 1365]:Battlefield Chat has been activated.#
+[MSG 1366]:Battlefield Chat has been deactivated.#
+[MSG 1367]:Mercenary Info - Monster Type#
+[MSG 1368]:World Map#
+[MSG 1369]:The Memorial Dungeon is now closed.#
+[MSG 1370]:^ff0000^ff0000Deleting a Mercenary Soldier^000000^000000 will also delete his growth history. Do you really want to proceed with the deletion?#
+[MSG 1371]:The Memorial Dungeon is now open.#
+[MSG 1372]:This account has not been confirmed by connecting to the safe communication key. Please connect to the key first, and then log into the game.#
+[MSG 1373]:The number of accounts connected to this IP has exceeded the limit.#
+[MSG 1374]:You have received a new quest.#
+[MSG 1375]:^777777Acquirement conditions : #
+[MSG 1376]:View Skill Info.#
+[MSG 1377]:Used skill point is unavailable to revert. Would you like to use the skill point?#
+[MSG 1378]:Nov. 1st#
+[MSG 1379]:2nd. Trans#
+[MSG 1380]:This account has been used for illegal program or hacking program.            Block Time : %s#
+[MSG 1381]:The possibility of exposure to illegal program, PC virus infection or Hacking Tool has been detected. Please execute licensed client. Our team is trying to make a best environment for Ro players.#
+[MSG 1382]:You are currently playing in the best game environment. Please enjoy the Ragnarok.#
+[MSG 1383]:Job exp points from hunting monsters are increased by 1.5 times for 30 minutes.#
+[MSG 1384]:Exp points from hunting monsters are increased by 1.25 times for 30 minutes.#
+[MSG 1385]:EXP points from hunting monsters are increased by 2 times for 30 minutes.#
+[MSG 1386]:EXP points from hunting monsters are increased by 1.5 times for 60 minutes.#
+[MSG 1387]:Unable to organize a party in this map.#
+[MSG 1388]:(%s) are currently in restricted map to join a party.#
+[MSG 1389]:Simple Item Shop#
+[MSG 1390]:Han Coin : %d Han Coin#
+[MSG 1391]:RoK Point : %d RoK Point#
+[MSG 1392]:Free Cash : %d Cash#
+[MSG 1393]:An user of this server cannot connect to free server#
+[MSG 1394]:Your password has expired. Please log in again#
+[MSG 1395]:3rd Job#
+[MSG 1396]:Cannot use this skill to the target.#
+[MSG 1397]:No MSG 02#
+[MSG 1398]:Unable to use the skill to exceed the number of Ancilla.#
+[MSG 1399]:Holy water is required.#
+[MSG 1400]:Ancilla is required.#
+[MSG 1401]:Cannot be duplicated within a certain distance.#
+[MSG 1402]:This skill requires other skills to be used.#
+[MSG 1403]:This map is not a chat.#
+[MSG 1404]:3 hours have passed since.#
+[MSG 1405]:5 hours have passed since.#
+[MSG 1406]:Either ini file is missing or altered. Install game guard setup file to fix the problem.#
+[MSG 1407]:A program has been found that conflicts with game guard.#
+[MSG 1408]:Security program has been identified that there is a conflict with the game.#
+[MSG 1409]:The client is not normal. Please connect a normal client.#
+[MSG 1410]:Thank you to accept mobile authentication.#
+[MSG 1411]:This skill cannot be used alone.#
+[MSG 1412]:This skill can only be used in a particular direction.#
+[MSG 1413]:Cannot summon spheres anymore.#
+[MSG 1414]:There is no spheres was summoned.#
+[MSG 1415]:There is no imitation skills available.#
+[MSG 1416]:This skill cannot be used to duplicate.#
+[MSG 1417]:Cannot use your skill.#
+[MSG 1418]:You have exceeded the maximum amount of possession of another item.#
+[MSG 1419]:No administrative privileges. Must first run the program with administrator privileges.#
+[MSG 1420]:nProtect KeyCrypt Tarimasen the driver version. After the system restarts, please run a new will.#
+[MSG 1421]:You are using Windows XP in compatiblity mode. The client has disabled this mode. Please restart the client.#
+[MSG 1422]:PS/2 keyloggers exist.#
+[MSG 1423]:USB Keylogging attempt was detected.#
+[MSG 1424]:HHD monitoring tool has been detected.#
+[MSG 1425]:Book requires a painting.#
+[MSG 1426]:Paint is required.#
+[MSG 1427]:Use the skills that are not at the specified location.#
+[MSG 1428]:Assistant SP is not enough.#
+[MSG 1429]:Character %d is character selection window cannot connect to the game that exceeds the total. Please remove unwanted characters.#
+[MSG 1430]:Throat Lozenge is required.#
+[MSG 1431]:Painful Tears is required.#
+[MSG 1432]:Throat Lozenge is required.#
+[MSG 1433]:Cooperation is only available with Weapon Blocking.#
+[MSG 1434]:Poisoned weapons is required.#
+[MSG 1435]:Items can only be used when Mado Gear is mounted.#
+[MSG 1436]:Vulcan Bullet is required.#
+[MSG 1437]:Mado Gear Fuel is required.#
+[MSG 1438]:Liquid Cold Bullet is required.#
+[MSG 1439]:Please load a Cannon Ball.#
+[MSG 1440]:Please equipped with a Mado Gear Accelerator.#
+[MSG 1441]:Please equipped with a Hovering Booster.#
+[MSG 1442]:[Toxin] Poison effect was applied to the weapon.#
+[MSG 1443]:[Paralysis] Poison effect was applied to the weapon.#
+[MSG 1444]:[Fatigue] Poison effect was applied to the weapon.#
+[MSG 1445]:[Laughing] Poison effect was applied to the weapon.#
+[MSG 1446]:[Disheart] Poison effect was applied to the weapon.#
+[MSG 1447]:[Pyrexia] Poison effect was applied to the weapon.#
+[MSG 1448]:[Oblivion] Poison effect was applied to the weapon.#
+[MSG 1449]:[Leech] Poison effect was applied to the weapon.#
+[MSG 1450]:Can be used only if Hovering state is available.#
+[MSG 1451]:Please equipped with a Self-Destruct Mechanism.#
+[MSG 1452]:Please equipped with a Shape Shift.#
+[MSG 1453]:Poison is required.#
+[MSG 1454]:Please equipped with a Cooling System.#
+[MSG 1455]:Please equipped with a Magnetic Field Generator.#
+[MSG 1456]:Please equipped with a Barrier Generator.#
+[MSG 1457]:Please equipped with a Optical Camouflage Generator.#
+[MSG 1458]:Please equipped with a Repair Kit.#
+[MSG 1459]:Monkey Wrench is required.#
+[MSG 1460]:[%s] Cannot use the skills.#
+[MSG 1461]:%d higher level is impossible to remove.#
+[MSG 1462]:Cannot be used without Mado Gear equipped.#
+[MSG 1463]:Dismount Dragon.#
+[MSG 1464]:Dismount Mado Gear.#
+[MSG 1465]:Consume#
+[MSG 1466]:Cash#
+[MSG 1467]:Armors#
+[MSG 1468]:Weapons#
+[MSG 1469]:Ammo#
+[MSG 1470]:Cards#
+[MSG 1471]:Etc.#
+[MSG 1472]:Guitar#
+[MSG 1473]:Seems that you have screwed something up. Hack shield file does not have the correct file version. Please reinstall the client and try again to screw it.#
+[MSG 1474]:The skill requires a spellbook.#
+[MSG 1475]:You are asleep due to diffuclty in reading spellbook.#
+[MSG 1476]:The lack of save points.#
+[MSG 1477]:Magic can not read the book anymore.#
+[MSG 1478]:Face Paint is required.#
+[MSG 1479]:Brush is required.#
+[MSG 1480]:Waiting time has been exceeded. Please log in again.#
+[MSG 1481]:DANGER! The same account is logged in already. Please log in again after correcting the duty to stop the progression of mobile authentication for a while.#
+[MSG 1482]:DANGER!! Located in the same account is now waiting for mobile authentication. Please log in again after correcting the duty to stop the progression of mobile authentication for a while.#
+[MSG 1483]:Select Option#
+[MSG 1484]:Detail Option#
+[MSG 1485]:Sound Option#
+[MSG 1486]:Press a key to assign. Pressing 'ESC' will remove the assigned key.#
+[MSG 1487]:Unable to specify a single key.#
+[MSG 1488]:Unable to specify the key assigned.#
+[MSG 1489]:'%s' is used to duplicate the shortcut key. Do you want to change it?#
+[MSG 1490]:Initialization is stored in the shortcut key settings. Do you want to initialized?#
+[MSG 1491]:Skill Bar#
+[MSG 1492]:Window Interface#
+[MSG 1493]:Macros#
+[MSG 1494]:Windows Shortcut Key Setting#
+[MSG 1495]:BGM#
+[MSG 1496]:Effect#
+[MSG 1497]:Skin#
+[MSG 1498]:Only sound to enter the chatroom : On#
+[MSG 1499]:Only sound to enter the chatroom : Off#
+[MSG 1500]:/tingonly: you can hear only sound like a chat room entry.#
+[MSG 1501]:/fist#
+[MSG 1502]:/scissors#
+[MSG 1503]:/bo#
+[MSG 1504]:/love#
+[MSG 1505]:/mobile#
+[MSG 1506]:/mail#
+[MSG 1507]:/antenna0#
+[MSG 1508]:/antenna1#
+[MSG 1509]:/antenna2#
+[MSG 1510]:/antenna3#
+[MSG 1511]:/hum#
+[MSG 1512]:/abs#
+[MSG 1513]:/oops#
+[MSG 1514]:/spit#
+[MSG 1515]:/ene#
+[MSG 1516]:/panic#
+[MSG 1517]:/whisp#
+[MSG 1518]:Not Assigned#
+[MSG 1519]:[Thorny Seed] is required.#
+[MSG 1520]:[Bloodsucker Seed] is required.#
+[MSG 1521]:Cannot be used anymore.#
+[MSG 1522]:[Bomb Mushroom Spore] is required.#
+[MSG 1523]:[Fire Bottle] is required.#
+[MSG 1524]:[Oil Bottle] is required.#
+[MSG 1525]:[Explosive Powder] is required.#
+[MSG 1526]:[Smokescreen Powder] is required.#
+[MSG 1527]:[Tear Gas] is required.#
+[MSG 1528]:[Ashiddobotoru] is required.#
+[MSG 1529]:[Bottom Man-Eating Plant] is required.#
+[MSG 1530]:[Pot of Mandragora] is required.#
+[MSG 1531]:Party leader instructions#
+[MSG 1532]:Or delegate the real party leader?#
+[MSG 1533]:Available.#
+[MSG 1534]:cannot be delegated as party leader.#
+[MSG 1535]:Immutable#
+[MSG 1536]:[%s] is %d are necessary.#
+[MSG 1537]:Is now refining the value lowered.#
+[MSG 1538]:[%s] can be used are equipped with#
+[MSG 1539]:Field list#
+[MSG 1540]:Battlefield - [%s] you sign up?#
+[MSG 1541]:Admission application complete.#
+[MSG 1542]:It was unregistered and not be able to enter the state.#
+[MSG 1543]:Current admission application state.#
+[MSG 1544]:Do you want to cancel the admission application?#
+[MSG 1545]:Admission request has been cancelled.#
+[MSG 1546]:Go to the battlefield quickly.#
+[MSG 1547]:Battlefield - [%s]#
+[MSG 1548]:Do you really want to go back to your savepoint?#
+[MSG 1549]:Search Message for Party Members#
+[MSG 1550]:Message option is off the search party members.#
+[MSG 1551]:No MSG 156#
+[MSG 1552]:Party leader is '%s'.#
+[MSG 1553]:Unable to enter due to system error.#
+[MSG 1554]:Cannot wait to enter the number of excess.#
+[MSG 1555]:Has already been applied.#
+[MSG 1556]:Registration has been cancelled because of the excessive waiting time.#
+[MSG 1557]:Unregistered because admission requirements are not matching.#
+[MSG 1558]:Was unregistered and error.#
+[MSG 1559]:[%s] is the skills of collaboration.#
+[MSG 1560]:Integration of skills is a particular skill.#
+[MSG 1561]:%d requires a total mind bullets#
+[MSG 1562]:Bullet is required.#
+[MSG 1563]:Cannot create rune stone more than the maximum amount.#
+[MSG 1564]:I cannot receive a list of battleground states. After you confirm, please try again.#
+[MSG 1565]:Admission to a level that is not enough.#
+[MSG 1566]:You must consume all '%d' points in your 1st Tab.#
+[MSG 1567]:You must consume all '%d' remaining points in your 2nd Tab. 1st Tab is already done.#
+[MSG 1568]:Available Items to be converted#
+[MSG 1569]:Items that can be converted#
+[MSG 1570]:Item to convert#
+[MSG 1571]:Combination of item is not possible in conversion.#
+[MSG 1572]:Is a very heavy weight of the Inventory.#
+[MSG 1573]:Please ensure an extra space in your inventory.#
+[MSG 1574]:Item does not exist.#
+[MSG 1575]:Successful.#
+[MSG 1576]:All material has disappeared and failed.#
+[MSG 1577]:Not very long to change the name of the specified tab.#
+[MSG 1578]:Cannot add more.#
+[MSG 1579]:Authentication failed.#
+[MSG 1580]:Bot checks#
+[MSG 1581]:Items cannot be used in materials cannot be emotional.#
+[MSG 1582]:It is impossible to connect using this IP in Ragnarok Online. Please contact the customer support center or home.#
+[MSG 1583]:You have entered a wrong password for more than six times, please check your personal information again.#
+[MSG 1584]:Consumption items are used in the synthesis. Are you sure?#
+[MSG 1585]:Please input the captcha code found at your left side.#
+[MSG 1586]:Describes the battlefield --#
+[MSG 1587]:Waiting for admission --#
+[MSG 1588]:Admission application help battlefield#
+[MSG 1589]:Sorry the character you are trying to use is banned for testing connection.#
+[MSG 1590]:Remove all equipment#
+[MSG 1591]:Mini Icon#
+[MSG 1592]:Camp A: Camp B#
+[MSG 1593]:Wait#
+[MSG 1594]:cancellation notice of Battlefield registration.#
+[MSG 1595]:Required field for staff#
+[MSG 1596]:Battlefield staff A is waiting.#
+[MSG 1597]:Battlefield staff B is waiting.#
+[MSG 1598]:Waiting for my situation: %d (Camp A)#
+[MSG 1599]:Waiting for my situation: %d (Camp B)#
+[MSG 1600]:Battlefield display icon.#
+[MSG 1601]:Does not display the icon field.#
+[MSG 1602]:Field notification was moved.#
+[MSG 1603]:Admission pending notification of the battlefield#
+[MSG 1604]:Anyone#
+[MSG 1605]: [%s] deal '%d' damage on you.#
+[MSG 1606]: [%s] received a damage from [%s] with '%d' damage.#
+[MSG 1607]: [%s] received '%d' damage.#
+[MSG 1608]: [%s] deal damage to [%s] with '%d' damage.#
+[MSG 1609]:You dropped %s (%d).#
+[MSG 1610]:[%s] The Quest [%s] Shimashita monsters. (%d/%d)#
+[MSG 1611]:The Quest %s has been removed.#
+[MSG 1612]:[%s] is like#
+[MSG 1613]: '%d' the Value of Experience#
+[MSG 1614]: '%d' the Value of Job Experience#
+[MSG 1615]: gained.#
+[MSG 1616]: has lost.#
+[MSG 1617]:From [%s], '%d' coins were stolen.#
+[MSG 1618]:Battle Message Display#
+[MSG 1619]:Party Battle Message Display#
+[MSG 1620]:Experience Message Display#
+[MSG 1621]:Party Experience Message Display#
+[MSG 1622]:Quest Info Message Display#
+[MSG 1623]:Battlefield Message Display#
+[MSG 1624]:[%s] to#
+[MSG 1625]: [%s] to casting skills.#
+[MSG 1626]:Activate lock function.#
+[MSG 1627]:Deactivate lock function.#
+[MSG 1628]:[%s] gave [%s] '%s'.#
+[MSG 1629]:Swordman#
+[MSG 1630]:Magician#
+[MSG 1631]:Archer#
+[MSG 1632]:Acolyte#
+[MSG 1633]:Merchant#
+[MSG 1634]:Thief#
+[MSG 1635]:Knight#
+[MSG 1636]:Priest#
+[MSG 1637]:Wizard#
+[MSG 1638]:Black Smith#
+[MSG 1639]:Hunter#
+[MSG 1640]:Assasin#
+[MSG 1641]:Crusader#
+[MSG 1642]:Monk#
+[MSG 1643]:Sage#
+[MSG 1644]:Rogue#
+[MSG 1645]:Alchemist#
+[MSG 1646]:Bard#
+[MSG 1647]:Dancer#
+[MSG 1648]:Rune Knight#
+[MSG 1649]:Warlock#
+[MSG 1650]:Ranger#
+[MSG 1651]:Arc Bishop#
+[MSG 1652]:Mechanic#
+[MSG 1653]:Guillotine Cross#
+[MSG 1654]:Royal Guard#
+[MSG 1655]:Sorcerer#
+[MSG 1656]:Minstrel#
+[MSG 1657]:Wanderer#
+[MSG 1658]:Sura#
+[MSG 1659]:Genetic#
+[MSG 1660]:Shadow Chaser#
+[MSG 1661]:High Swordman#
+[MSG 1662]:High Magician#
+[MSG 1663]:High Archer#
+[MSG 1664]:High Acolyte#
+[MSG 1665]:High Merchant#
+[MSG 1666]:High Thief#
+[MSG 1667]:Lord Knight#
+[MSG 1668]:High Priest#
+[MSG 1669]:High Wizard#
+[MSG 1670]:White Smith#
+[MSG 1671]:Sniper#
+[MSG 1672]:Assasin Cross#
+[MSG 1673]:Paladin#
+[MSG 1674]:Champion#
+[MSG 1675]:Professor#
+[MSG 1676]:Stalker#
+[MSG 1677]:Creator#
+[MSG 1678]:Clown#
+[MSG 1679]:Gypsy#
+[MSG 1680]:Poring#
+[MSG 1681]:High Novice#
+[MSG 1682]:Super Novice#
+[MSG 1683]:Gunslinger#
+[MSG 1684]:Ninja#
+[MSG 1685]:Taekwon F/M#
+[MSG 1686]:Star Gladiator#
+[MSG 1687]:Soul Linker#
+[MSG 1688]:Party Recruitment#
+[MSG 1689]:Party Booking List#
+[MSG 1690]:~Party recruiting#
+[MSG 1691]:[Bow] must be equipped.#
+[MSG 1692]:[Musical Instrument/Whip] must be equipped.#
+[MSG 1693]:Only alphanumeric characters is allowed.#
+[MSG 1694]:Message#
+[MSG 1695]:Item purchase failed due to incorrect shop information.#
+[MSG 1696]:Can drop from inventory window.#
+[MSG 1697]:Time#
+[MSG 1698]:Map#
+[MSG 1699]:You cannot unequip while in trade.#
+[MSG 1700]:Unidentified value.#
+[MSG 1701]:/stateinfo : Shows the description of status icons. On Off#
+[MSG 1702]:Status Information On : Status icon description is enabled. #
+[MSG 1703]:Status Information Off: Status icon description is disabled.#
+[MSG 1704]:Same items can't be purchased more than %d ea per time.#
+[MSG 1705]:Same items can't be sold more than %d ea per time.#
+[MSG 1706]:The total purchasable quantity of corresponding item are %d ea.#
+[MSG 1707]:User customized key is saved to [%s\%s]#
+[MSG 1708]:[%s] can't accept exchange request at the moment.#
+[MSG 1709]:RO_HELP#
+[MSG 1710]:Anvil does not exist.#
+[MSG 1711]:Novice below level 10 is not allowed to whisper.#
+[MSG 1712]:Attack#
+[MSG 1713]:Defense#
+[MSG 1714]:Recovery#
+[MSG 1715]:Support#
+[MSG 1716]:Party recruitment related command#
+[MSG 1717]:unable to apply for ally guild#
+[MSG 1718]:unable to apply for hostile quild#
+[MSG 1719]:unable to add friend in Agit map#
+[MSG 1720]:Opening purchase shop.#
+[MSG 1721]:price #
+[MSG 1722]:Zeny#
+[MSG 1723]:Purchase Zeny Limit#
+[MSG 1724]:Please register the item first that has to be purchased.#
+[MSG 1725]:Enter the price for item %s.#
+[MSG 1726]:Enter the price for item %s. It has to be below 99990000 Zeny.#
+[MSG 1727]:Enter the item number for %s.#
+[MSG 1728]:The sum of purchasing and belonging items is over 9999. The sum has to be bellow 9999.#
+[MSG 1729]:You have duplicate items in your purchase list.#
+[MSG 1730]:Enter the limited price.#
+[MSG 1731]:You have entered a greater amount of zeny than you have. Please check your zeny.#
+[MSG 1732]:%s : %s  Zeny => %s ea.#
+[MSG 1733]:Available items:#
+[MSG 1734]:Purchase list:#
+[MSG 1735]:Price limit: %d Zeny#
+[MSG 1736]:Buying %s for %s Zeny. Amount: %d.#
+[MSG 1737]:Wanted items#
+[MSG 1738]:Available items:#
+[MSG 1739]:The max. number of items you can sell is %d.#
+[MSG 1740]:Buyer has insufficient money, lower the amount of items you're selling.#
+[MSG 1741]:Failed to open purchase shop.#
+[MSG 1742]:You exceed the total amount of items.#
+[MSG 1743]:You have purchased all items within the limited price.#
+[MSG 1744]:You purchased all items.#
+[MSG 1745]:Failed to deal because you have not enough Zeny.#
+[MSG 1746]:You have sold %s. Amount: %d. Total Zeny: %dz#
+[MSG 1747]:%s item could not be sold because you do not have the wanted amount of items.#
+[MSG 1748]:You don't have any summoned spirits.#
+[MSG 1749]:This is a restricted server.#
+[MSG 1750]:OTP password is 6 digits long.#
+[MSG 1751]:OTP information is unavailable. Please contact your administrator.#
+[MSG 1752]:OTP authentication failed.#
+[MSG 1753]:Party ad has been added.#
+[MSG 1754]:Recruit party members#
+[MSG 1755]:Roles#
+[MSG 1756]:1st Jobs#
+[MSG 1757]:2nd Jobs#
+[MSG 1758]:3-1 Classes#
+[MSG 1759]:3-2 Classes#
+[MSG 1760]:1st Job High#
+[MSG 1761]:2nd Jobs High#
+[MSG 1762]:Other Jobs#
+[MSG 1763]:Recruit#
+[MSG 1764]:Open party recruitment window.#
+[MSG 1765]:Searching - #
+[MSG 1766]:Select All#
+[MSG 1767]:~Recruitment of at least one job must be running.#
+[MSG 1768]:You have to select atleast 1 or more jobs.#
+[MSG 1769]:You have selected %d Jobs. You can only select up to 6 different jobs.#
+[MSG 1770]:Only numeric characters are allowed.#
+[MSG 1771]:Please enter levels between 1~150.#
+[MSG 1772]:Nothing found in the selected map.#
+[MSG 1773]:You cannot equip this item with your current level.#
+[MSG 1774]:You cannot use this item with your current level.#
+[MSG 1775]:Use chat mode#
+[MSG 1776]:Failed to add because you have reached the limit.#
+[MSG 1777]:Window Sign Information#
+[MSG 1778]:Sell#
+[MSG 1779]:Purchase#
+[MSG 1780]:Search street stall#
+[MSG 1781]:Name of street stall#
+[MSG 1782]:Amount#
+[MSG 1783]:Price#
+[MSG 1784]:Too much results have been found. Please do a more precisely search.#
+[MSG 1785]:Do you want to open a street stall?#
+[MSG 1786]:Failed to recognize SSO.#
+[MSG 1787]:Cannot move to the applied area.#
+[MSG 1788]:searching  item including the word#
+[MSG 1789]:User has been expelled.#
+[MSG 1790]:You have not accepted the user agreements yet.#
+[MSG 1791]:You will not be disconnect from the game.#
+[MSG 1792]:It is available only for 12 hours.#
+[MSG 1793]:Your account is blocked due to illegal use of the game account.#
+[MSG 1794]:Your account is blocked because there may exist a bug with your account.#
+[MSG 1795]:Increases base exp and job exp gained by killing monsters up to 75% for 30 minutes.#
+[MSG 1796]:Increases base exp and job exp gained by killing monsters up to 50% for 30 minutes.#
+[MSG 1797]:No sales information.#
+[MSG 1798]:Failed to search any further.#
+[MSG 1799]:The selected item does not exist.#
+[MSG 1800]:Cannot search yet.#
+[MSG 1801]:Enter the card name or prefix/suffix.#
+[MSG 1802]:Remaining search time : %d#
+[MSG 1803]:No result has been found.#
+[MSG 1804]:The item price is too high.#
+[MSG 1805]:General#
+[MSG 1806]:Styles#
+[MSG 1807]:minute#
+[MSG 1808]:second#
+[MSG 1809]:Please enter the name of the item.#
+[MSG 1810]:The item you have entered does not exist.#
+[MSG 1811]:The map is not available.#
+[MSG 1812]:The selected name or prefix/suffix does not exist.#
+[MSG 1813]:You can purchase up to 10 items.#
+[MSG 1814]:Some items could not be purchased.#
+[MSG 1815]:Enter your birthday (e.g: 20101126)#
+[MSG 1816]:An unknown error has occured.#
+[MSG 1817]:A database error has occured.#
+[MSG 1818]:Please leave your guild first in order to remove your character.#
+[MSG 1819]:Please leave your party first in order to remove your character.#
+[MSG 1820]:You cannot delete this character because the delete time has not expired yet.#
+[MSG 1821]:You cannot delete this character at the moment.#
+[MSG 1822]:Your entered birthday does not match.#
+[MSG 1823]:need to increase the level of closeness #
+[MSG 1824]:This is only available on style change for fighting classes.#
+[MSG 1825]:This is only available on style change for novice.#
+[MSG 1826]:~1828#
+[MSG 1827]:~1829#
+[MSG 1828]:~1830#
+[MSG 1829]:No results have been found.#
+[MSG 1830]:~1832#
+[MSG 1831]:~1833#
+[MSG 1832]:~1834#
+[MSG 1833]:~1835#
+[MSG 1834]:~1836#
+[MSG 1835]:~1837#
+[MSG 1836]:Chat Dialog#
+[MSG 1837]:~1839#
+[MSG 1838]:~1840#
+[MSG 1839]:~1841#
+[MSG 1840]:~1842#
+[MSG 1841]:~1843#
+[MSG 1842]:~1844#
+[MSG 1843]:~1845#
+[MSG 1844]:~1846#
+[MSG 1845]:~1847#
+[MSG 1846]:~1848#
+[MSG 1847]:~1849#
+[MSG 1848]:~1850#
+[MSG 1849]:~1851#
+[MSG 1850]:~1852#
+[MSG 1851]:~1853#
+[MSG 1852]:~1854#
+[MSG 1853]:~1855#
+[MSG 1854]:~1856#
+[MSG 1855]:~1857#
+[MSG 1856]:~1858#
+[MSG 1857]:~1859#
+[MSG 1858]:~1860#
+[MSG 1859]:~1861#
+[MSG 1860]:~1862#
+[MSG 1861]:NO MSG#
+[MSG 1862]:NO MSG#
