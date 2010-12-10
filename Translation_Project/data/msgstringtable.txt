@@ -1773,7 +1773,7 @@ Please enter levels between 1~150.#
 Nothing found in the selected map.#
 You cannot equip this item with your current level.#
 You cannot use this item with your current level.#
-Use chat mode#
+Enable Battlemode#
 Failed to add because you have reached the limit.#
 Window Sign Information#
 Sell#

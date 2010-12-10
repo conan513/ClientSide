@@ -1773,7 +1773,7 @@
 [MSG 1772]:Nothing found in the selected map.#
 [MSG 1773]:You cannot equip this item with your current level.#
 [MSG 1774]:You cannot use this item with your current level.#
-[MSG 1775]:Use chat mode#
+[MSG 1775]:Enable Battlemode#
 [MSG 1776]:Failed to add because you have reached the limit.#
 [MSG 1777]:Window Sign Information#
 [MSG 1778]:Sell#
