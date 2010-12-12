@@ -1,3 +1,6 @@
+rev105 - [2010-12-12]
+ - 2010-12-08 kRO Patch lua and lub
+
 rev104 - [2010-12-12]
  - 2010-12-01 kRO Patch lua and lub
    (note: jobname_f.lua may behave incorrectly in older exes since functions has been modified)

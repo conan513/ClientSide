@@ -1918,3 +1918,12 @@ StateIconList[EFST_IDs.EFST_VOLCANIC_ASH] = {
 		{"Increases fire damage taken"}
 	}
 }
+StateIconList[EFST_IDs.EFST_OVERLAPEXPUP] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Maldango Canned Cat", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"When killing monsters in Maldango"}, 
+		{"Increases Base and Job EXP"},
+		{"Increases Item drop rate"}
+	}
+}
