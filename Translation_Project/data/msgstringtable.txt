@@ -1854,7 +1854,7 @@ Restore#
 Other#
 Cost#
 Quantity#
-Dog#
+Zeny#
 Free cache: %s C#
 Used cache: %s C#
 You cannot summon a monster in this area.#

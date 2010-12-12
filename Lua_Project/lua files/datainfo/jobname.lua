@@ -1801,4 +1801,7 @@ JobNameTable = {
 	[jobtbl.JT_KRAKEN_LEG] = "KRAKEN_LEG",
 	[jobtbl.JT_RACARCH] = "RACARCH",
 	[jobtbl.JT_WILD_RIDER] = "WILD_RIDER",
+	[jobtbl.JT_XMAS_LUNATIC] = "XMAS_LUNATIC",
+	[jobtbl.JT_E_TEDDY_BEAR] = "TEDDY_BEAR",
+	[jobtbl.JT_E_KNIGHT_OF_WINDSTORM] = "KNIGHT_OF_WINDSTORM",
 }
