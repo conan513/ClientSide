@@ -3637,7 +3637,7 @@
 
 6440#General_Lubrication#
 6441#Advanced_Lubrication#
-6442#Octopus_Hunting_Skewer
+6442#Octopus_Hunting_Skewer#
 
 7001#Mould_Powder#
 7002#Ogre_Tooth#
