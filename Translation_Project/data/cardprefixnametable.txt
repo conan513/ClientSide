@@ -349,7 +349,7 @@
 4349#Anti-Arrow#
 4350#Undine#
 4351#Low Level#
-4352#Undecided#
+4352#of Regeneration#
 4353#of Rejuvenation#
 4354#of Stability#
 4355#Healthy#
@@ -369,9 +369,9 @@
 4369#of Luck Switching#
 4370#Weakening#
 4371#of Paladin#
-4372#Undecided#
+4372#Life Stream#
 4373#Cursed#
-4374#Undecided#
+4374#of Vision#
 4375#Extra High Level#
 4376#Manful#
 4377#Sweetie#
@@ -400,7 +400,7 @@
 4400#of Temptation#
 4401#Swift#
 4402#Strange#
-4403#Undecided#
+4403#of Reload#
 4404#of Chaotic Bleeding#
 4405#of Magic Mirror#
 4406#Twinkle#
