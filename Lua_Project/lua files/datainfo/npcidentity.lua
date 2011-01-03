@@ -1212,7 +1212,12 @@ jobtbl = {
 	["JT_XMAS_LUNATIC"] = 2210,
 	["JT_E_TEDDY_BEAR"] = 2211,
 	["JT_E_KNIGHT_OF_WINDSTORM"] = 2212,
-	["JT_MONSTER_LAST"] = 2213,
+	["JT_M_WANDER_MAN"] = 2213,
+	["JT_M_WICKED_NYMPH"] = 2214,
+	["JT_M_KASA"] = 2215,
+	["JT_M_SALAMANDER"] = 2216,
+	["JT_M_TEDDY_BEAR"] = 2217,
+	["JT_MONSTER_LAST"] = 2218,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,

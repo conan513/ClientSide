@@ -1927,3 +1927,19 @@ StateIconList[EFST_IDs.EFST_OVERLAPEXPUP] = {
 		{"Increases Item drop rate"}
 	}
 }
+StateIconList[EFST_IDs.EFST_ATKER_ASPD] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"대환단", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"Increases Max HP"}, 
+		{"Increases HP recovery"}
+	}
+}
+StateIconList[EFST_IDs.EFST_ATKER_MOVESPEED] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"태청단", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"Increases Max SP"}, 
+		{"Increases SP recovery"}
+	}
+}
