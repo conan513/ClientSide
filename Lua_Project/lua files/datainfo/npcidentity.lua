@@ -1217,7 +1217,9 @@ jobtbl = {
 	["JT_M_KASA"] = 2215,
 	["JT_M_SALAMANDER"] = 2216,
 	["JT_M_TEDDY_BEAR"] = 2217,
-	["JT_MONSTER_LAST"] = 2218,
+	["JT_E_OCTOPUS_LEG"] = 2218,
+	["JT_E_GIANT_OCTOPUS"] = 2219,
+	["JT_MONSTER_LAST"] = 2220,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
@@ -1821,4 +1823,6 @@ jobtbl = {
 	["JT_2_VENDING_MACHINE1"] = 564,
 	["JT_MOB_TOMB"] = 565,
 	["JT_4_MYSTCASE"] = 566,
+	["JT_4_M_SIT_NOVICE"] = 567,
+	["JT_4_OCTOPUS_LEG"] = 568,
 }

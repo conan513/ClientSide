@@ -1810,4 +1810,8 @@ JobNameTable = {
 	[jobtbl.JT_M_SALAMANDER] = "SALAMANDER",
 	[jobtbl.JT_M_TEDDY_BEAR] = "TEDDY_BEAR",
 	[jobtbl.JT_4_MYSTCASE] = "MYSTCASE",
+	[jobtbl.JT_4_M_SIT_NOVICE] = "4_M_SIT_NOVICE",
+	[jobtbl.JT_4_OCTOPUS_LEG] = "4_OCTOPUS_LEG",
+	[jobtbl.JT_E_OCTOPUS_LEG] = "MD_OCTOPUS_LEG",
+	[jobtbl.JT_E_GIANT_OCTOPUS] = "MD_GIANT_OCTOPUS",
 }

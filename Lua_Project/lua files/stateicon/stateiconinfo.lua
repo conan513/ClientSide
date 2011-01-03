@@ -1946,3 +1946,15 @@ StateIconList[EFST_IDs.EFST_ATKER_MOVESPEED] = {
 		{"Increases SP recovery"}
 	}
 }
+StateIconList[EFST_IDs.EFST_PLUSATTACKPOWER] = {
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+		{"%s", COLOR_TIME}, 
+		{"Increases ATK"}
+	}
+}
+StateIconList[EFST_IDs.EFST_PLUSMAGICPOWER] = {
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+		{"%s", COLOR_TIME}, 
+		{"Increases MATK"}
+	}
+}
