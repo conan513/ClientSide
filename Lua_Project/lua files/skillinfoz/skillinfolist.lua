@@ -527,8 +527,6 @@ SKILL_INFO_LIST = {
 		_NeedSkillList = {
 			{ SKID.SM_TWOHAND,1 }
 		}
-
-
 	},
 
 	[SKID.KN_BOWLINGBASH] = {
@@ -542,8 +540,12 @@ SKILL_INFO_LIST = {
 			{ SKID.SM_TWOHAND,5 },
 			{ SKID.KN_TWOHANDQUICKEN,10 },
 			{ SKID.KN_AUTOCOUNTER,5 }
+		},
+		NeedSkillList = {
+			[JOBID.JT_SUPERNOVICE2] = {
+				{ SKID.KN_AUTOCOUNTER,5 }
+			}
 		}
-
 	},
 
 	[SKID.KN_RIDING] = {
@@ -654,7 +656,12 @@ SKILL_INFO_LIST = {
 		_NeedSkillList = {
 			{ SKID.PR_KYRIE,4 },
 			{ SKID.PR_MAGNIFICAT,3 }
-		}
+		},
+		NeedSkillList = {
+			[JOBID.JT_SUPERNOVICE2] = {
+				{ SKID.PR_SANCTUARY,7 }
+			}
+		}		
 	},
 
 	[SKID.PR_LEXDIVINA] = {
@@ -803,10 +810,10 @@ SKILL_INFO_LIST = {
 		SkillName = "Earth Spike",
 		MaxLv = 5,
 		SpAmount = { 12, 14, 16, 18, 20 },
-		NeedSkillList = {
-			[JOBID.JT_WIZARD] = {
+		_NeedSkillList = {
 				{ SKID.MG_STONECURSE,1 }
-			},
+		},
+		NeedSkillList = {
 			[JOBID.JT_SAGE] = {
 				{ SKID.SA_SEISMICWEAPON,1 }
 			}

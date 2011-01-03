@@ -56,6 +56,7 @@ PetIllustNameTable = {
 	[jobtbl.JT_SUCCUBUS] = "유저인터페이스\\illust\\펫_SUCCUBUS.bmp",
 	[jobtbl.JT_WICKED_NYMPH] = "유저인터페이스\\illust\\펫_WICKED_NYMPH.bmp",
 	[jobtbl.JT_J_TAINI] = "유저인터페이스\\illust\\펫_j_taini.bmp",
+	[jobtbl.JT_XMAS_LUNATIC] = "유저인터페이스\\illust\\펫_크리스마스_눈토끼.bmp",
 }
 PetAccIDs = {
 	ACC_FIRST = 10000,

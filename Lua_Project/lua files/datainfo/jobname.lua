@@ -1809,4 +1809,5 @@ JobNameTable = {
 	[jobtbl.JT_M_KASA] = "KASA",
 	[jobtbl.JT_M_SALAMANDER] = "SALAMANDER",
 	[jobtbl.JT_M_TEDDY_BEAR] = "TEDDY_BEAR",
+	[jobtbl.JT_4_MYSTCASE] = "MYSTCASE",
 }

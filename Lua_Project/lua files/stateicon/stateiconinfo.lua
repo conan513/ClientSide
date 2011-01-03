@@ -1708,10 +1708,13 @@ StateIconList[EFST_IDs.EFST_FROSTMISTY] = {
 }
 StateIconList[EFST_IDs.EFST_COLD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Cold Slower", COLOR_TITLE_DEBUFF}, 
+		{"Frozen", COLOR_TITLE_DEBUFF}, 
 		{"%s", COLOR_TIME}, 
-		{"Increases Attack Power"}, 
-		{"Freezing or Frozen chance"}
+		{"Movement, Attack, Skill and Items are not available"}, 
+		{"Drains SP and HP continuously"},
+		{"Increases the damage taken caused by Maces, Axes and 2H Axes"},
+		{"Increases the damage taken caused by Wind Property spells"},
+		{"Reduces the damage taken caused by Daggers, Swords, 2H Swords and Arrows"}
 	}
 }
 StateIconList[EFST_IDs.EFST_GROUNDMAGIC] = {

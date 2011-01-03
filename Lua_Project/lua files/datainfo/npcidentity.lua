@@ -1820,4 +1820,5 @@ jobtbl = {
 	["JT_2_SLOT_MACHINE"] = 563,
 	["JT_2_VENDING_MACHINE1"] = 564,
 	["JT_MOB_TOMB"] = 565,
+	["JT_4_MYSTCASE"] = 566,
 }
