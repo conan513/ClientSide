@@ -1219,7 +1219,8 @@ jobtbl = {
 	["JT_M_TEDDY_BEAR"] = 2217,
 	["JT_E_OCTOPUS_LEG"] = 2218,
 	["JT_E_GIANT_OCTOPUS"] = 2219,
-	["JT_MONSTER_LAST"] = 2220,
+	["JT_E_QUVE"] = 2220,
+	["JT_MONSTER_LAST"] = 2221,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
