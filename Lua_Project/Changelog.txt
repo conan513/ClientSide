@@ -1,3 +1,7 @@
+rev117 - [2011-03-09]
+ - 2011-01-19 kRO patch lua and lub
+ - Corrected the wrong year in 2011-01-12 lub file
+
 rev116 - [2011-02-21]
  - 2011-01-12 kRO lub
 

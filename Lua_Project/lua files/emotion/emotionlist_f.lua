@@ -70,4 +70,6 @@ ReqEmotionByMsgStr = function(msgStr)
    end
 end
 
-
+GetEmotionOrderListSize = function()
+	return getTableSize(EMOTION_ORDERLIST)
+end

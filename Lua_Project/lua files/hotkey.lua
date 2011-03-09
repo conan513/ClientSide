@@ -337,10 +337,10 @@ GetBehaviorOfHotKey = function(inKey1, inKey2)
 		key1,key2,des,exe = GetHotKey(tab, idx)
 		while exe ~= "" do
 			if exe == MsgStrID.MSI_HK_CHATMODE_ONOFF and key1 == inKey1 then
-				return idx + size
+				return idx + ((tab - 1) * 100)
 			end
 			if key1 == inKey1 and key2 == inKey2 then
-				return idx + size
+				return idx + ((tab - 1) * 100)
 			end
 		idx = idx + 1
 		key1,key2,des,exe = GetHotKey(tab, idx)
