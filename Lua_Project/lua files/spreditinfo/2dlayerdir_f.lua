@@ -1,4 +1,4 @@
-SEX_FEMAL = 0
+SEX_FEMALE = 0
 SEX_MALE = 1
 SPRITE_INHERIT_LIST = {
 	[JOBID.JT_NOVICE_H] = JOBID.JT_NOVICE,
@@ -46,7 +46,6 @@ SPRITE_INHERIT_LIST = {
 	[JOBID.JT_SUPERNOVICE2_B] = JOBID.JT_SUPERNOVICE2,
 }
 EXCEPTION_SPRITE_INHERIT_LIST = {
-	[JOBID.JT_ASSASSIN_H] = JOBID.JT_ASSASSIN,
 	[JOBID.JT_GUILLOTINE_CROSS] = JOBID.JT_ASSASSIN,
 	[JOBID.JT_ALCHEMIST_H] = JOBID.JT_ALCHEMIST,
 	[JOBID.JT_GENETIC] = JOBID.JT_ALCHEMIST,
@@ -59,14 +58,9 @@ EXCEPTION_SPRITE_INHERIT_LIST = {
 	[JOBID.JT_ROGUE_H] = JOBID.JT_ROGUE,
 	[JOBID.JT_SHADOW_CHASER] = JOBID.JT_ROGUE,
 	[JOBID.JT_KNIGHT_H] = JOBID.JT_KNIGHT,
-	[JOBID.JT_HUNTER_H] = JOBID.JT_HUNTER,
-	[JOBID.JT_RANGER] = JOBID.JT_HUNTER,
-	[JOBID.JT_PRIEST_H] = JOBID.JT_PRIEST,
 	[JOBID.JT_ARCHBISHOP] = JOBID.JT_PRIEST,
 	[JOBID.JT_PECO_GUNNER] = JOBID.JT_PECO_SWORD,
 	[JOBID.JT_CRUSADER_H] = JOBID.JT_CRUSADER,
-	[JOBID.JT_ROYAL_GUARD] = JOBID.JT_CRUSADER,
-	[JOBID.JT_BLACKSMITH_H] = JOBID.JT_BLACKSMITH,
 	[JOBID.JT_MECHANIC] = JOBID.JT_BLACKSMITH,
 	[JOBID.JT_WIZARD_H] = JOBID.JT_WIZARD,
 	[JOBID.JT_WARLOCK] = JOBID.JT_WIZARD,
@@ -143,7 +137,7 @@ RIDING_SPRITE_INHERIT_LIST = {
 }
 
 GetLayerDirTbl = function(sex)
-	if sex == SEX_FEMAL then
+	if sex == SEX_FEMALE then
 		return LayerDir_F
 	else
 		return LayerDir_M
@@ -185,25 +179,4 @@ MyDirIsTheFront = function(sex, jobID, actNum, motNum)
 		motInfo = LayerDirTbl[jobID][actNum][idx]
 	end
 	return false
-end
-
-GetSprEditOow = function(sex, jobID, actNum)
-	local LayerOowTbl = nil
-	if sex == SEX_FEMAL then
-		LayerOowTbl = LayerOow_F
-	else
-		LayerOowTbl= LayerOow_M
-	end
-	if sex == SEX_MALE and jobID == JOBID.JT_GENETIC then
-	
-	else
-		jobID = GetSpriteInheriteJob(jobID)
-	end
-	if LayerOowTbl[jobID] == nil then
-		return false
-	end
-	if LayerOowTbl[jobID][actNum] ~= nil then
-		return LayerOowTbl[jobID][actNum]
-	end
-	return 0
 end
