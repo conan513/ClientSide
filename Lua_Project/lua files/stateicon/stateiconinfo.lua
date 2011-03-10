@@ -1,6 +1,7 @@
 COLOR_TITLE_BUFF = { 155, 202, 155 }
 COLOR_TITLE_DEBUFF = { 250, 100, 100 }
 COLOR_TITLE_TOGGLE = { 190, 190, 250 }
+COLOR_TITLE_SYSTEM = { 255, 255, 0 }
 COLOR_TIME = { 255, 176, 98 }
 StateIconList = {}
 StateIconList[EFST_IDs.EFST_OVERTHRUSTMAX] = {
@@ -795,7 +796,7 @@ StateIconList[EFST_IDs.EFST_TRUESIGHT] = {
 StateIconList[EFST_IDs.EFST_CASH_PLUSONLYJOBEXP] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME},
-		{"Increases Job EXP acquired by 150%"}
+		{"Increases Job EXP acquired."}
 	}
 }
 StateIconList[EFST_IDs.EFST_ARMOR_PROPERTY] = {
@@ -1921,15 +1922,6 @@ StateIconList[EFST_IDs.EFST_VOLCANIC_ASH] = {
 		{"Increases fire damage taken"}
 	}
 }
-StateIconList[EFST_IDs.EFST_OVERLAPEXPUP] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Maldango Canned Cat", COLOR_TITLE_BUFF},
-		{"%s", COLOR_TIME}, 
-		{"When killing monsters in Maldango"}, 
-		{"Increases Base and Job EXP"},
-		{"Increases Item drop rate"}
-	}
-}
 StateIconList[EFST_IDs.EFST_ATKER_ASPD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"¥Î»Ø¥‹", COLOR_TITLE_BUFF},
@@ -1946,6 +1938,15 @@ StateIconList[EFST_IDs.EFST_ATKER_MOVESPEED] = {
 		{"Increases SP recovery"}
 	}
 }
+StateIconList[EFST_IDs.EFST_OVERLAPEXPUP] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Maldango Canned Cat", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"When killing monsters in Maldango"}, 
+		{"Increases Base and Job EXP"},
+		{"Increases Item drop rate"}
+	}
+}
 StateIconList[EFST_IDs.EFST_PLUSATTACKPOWER] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
@@ -1956,5 +1957,36 @@ StateIconList[EFST_IDs.EFST_PLUSMAGICPOWER] = {
 	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
 		{"%s", COLOR_TIME}, 
 		{"Increases MATK"}
+	}
+}
+StateIconList[EFST_IDs.EFST_MACRO] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Using Macros", COLOR_TITLE_SYSTEM},
+		{"%s", COLOR_TIME}, 
+		{"Macro is activated"}
+	}
+}
+StateIconList[EFST_IDs.EFST_MACRO_POSTDELAY] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Macros Disabled", COLOR_TITLE_SYSTEM},
+		{"%s", COLOR_TIME}, 
+		{"Macro is deactivated."}
+	}
+}
+StateIconList[EFST_IDs.EFST_MONSTER_TRANSFORM] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Monster Transformation", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"Transformed into monster."}
+	}
+}
+StateIconList[EFST_IDs.EFST_SIT] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Sit", COLOR_TITLE_TOGGLE},
+	}
+}
+StateIconList[EFST_IDs.EFST_ALL_RIDING] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Riding", COLOR_TITLE_TOGGLE},
 	}
 }
