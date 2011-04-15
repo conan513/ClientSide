@@ -628,14 +628,6 @@ StateIconList[EFST_IDs.EFST_MAXIMIZE] = {
 		{"Drains SP over time"}
 	}
 }
-StateIconList[EFST_IDs.EFST_LG_REFLECTDAMAGE] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Reflect Damage", COLOR_TITLE_BUFF}, 
-		{"%s", COLOR_TIME}, 
-		{"Applies damage received to all enemies in an area"}, 
-		{"Consumes SP every second"}
-	}
-}
 StateIconList[EFST_IDs.EFST_PROTECTSHIELD] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Chemical Protection (Shield)", COLOR_TITLE_BUFF}, 
@@ -2025,7 +2017,7 @@ StateIconList[EFST_IDs.EFST_GROOMY] = {
 		{"Masquerade: Gloomy", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME}, 
 		{"Decreases ASPD and HIT"},
-		{"Forced to remove mounts and any related animals."},
+		{"Forced to release mounts and any related animals."},
 		{"Mounts and any related animals are disabled."},
 	}
 }
@@ -2063,5 +2055,23 @@ StateIconList[EFST_IDs.EFST_WEAKNESS] = {
 		{"Reduces Max HP"},
 		{"Strips weapons and shield"}, --피해 순간 무기, 방패 착용 해제 <-- help?
 		{"Cannot equip weapons and shield"},
+	}
+}
+StateIconList[EFST_IDs.EFST_STEELBODY] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Steel Body", COLOR_TITLE_BUFF},
+		{"%s", COLOR_TIME}, 
+		{"Sets DEF and MDEF to a fixed amount."}, --DEF, MDEF 높은 수치로 고정 <-- help?
+		{"Reduces Movement Speed and ASPD"},
+		{"Skills are disabled"},
+	}
+}
+StateIconList[EFST_IDs.EFST_LG_REFLECTDAMAGE] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Reflect Damage", COLOR_TITLE_TOGGLE}, 
+		{"%s", COLOR_TIME}, 
+		{"Applies damage received to all enemies in an area"}, 
+		{"(except for certain trap damage)"}, 
+		{"Consumes SP every second"}
 	}
 }
