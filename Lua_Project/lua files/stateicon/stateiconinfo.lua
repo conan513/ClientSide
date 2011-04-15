@@ -1,7 +1,7 @@
 COLOR_TITLE_BUFF = { 155, 202, 155 }
 COLOR_TITLE_DEBUFF = { 250, 100, 100 }
 COLOR_TITLE_TOGGLE = { 190, 190, 250 }
-COLOR_TITLE_SYSTEM = { 255, 255, 0 }
+COLOR_SYSTEM = { 255, 255, 0 }
 COLOR_TIME = { 255, 176, 98 }
 StateIconList = {}
 StateIconList[EFST_IDs.EFST_OVERTHRUSTMAX] = {
@@ -56,14 +56,6 @@ StateIconList[EFST_IDs.EFST_MANU_DEF] = {
 		{"%s", COLOR_TIME},
 		{"마누크 필드지역 몬스터에게 받는"},
 		{"물리, 마법 데미지 감소"}
-	}
-}
-StateIconList[EFST_IDs.EFST_ENERVATION] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Masquerade: Enervation", COLOR_TITLE_DEBUFF},
-		{"%s", COLOR_TIME},
-		{"Reduces ATK"},
-		{"Removes Spirit Spheres"}
 	}
 }
 StateIconList[EFST_IDs.EFST_CONCENTRATION] = {
@@ -272,7 +264,7 @@ StateIconList[EFST_IDs.EFST_AUTOSPELL] = {
 		{"Auto Spell", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME}, 
 		{"When physically attacking"},
-		{"the selected skill will automatically cast."}, 
+		{"the selected skill will automatically cast without casting time."}, 
 		{"SP consumed is 2/3 the regular amount"},
 		{"Skill will not cast without sufficient SP"}
 	}
@@ -743,7 +735,7 @@ StateIconList[EFST_IDs.EFST_EDP] = {
 		{"Enchant Deadly Poison", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
 		{"Applies a deadly poison to weapon"}, 
-		{"Damage increase does not apply to boss monsters"}
+		{"Damage increase does not apply to boss monsters",COLOR_SYSTEM}
 	}
 }
 StateIconList[EFST_IDs.EFST_JOINTBEAT] = {
@@ -1845,7 +1837,7 @@ StateIconList[EFST_IDs.EFST_MAGIC_CANDY] = {
 		{"Magic Candy", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME}, 
 		{"Increases MATK"}, 
-		{"Reduced Fixed Casting"},
+		{"Reduced fixed casting time."},
 		{"Casting cannot be interrupted."},
 		{"Drains SP every 10 seconds"}
 	}
@@ -1961,14 +1953,14 @@ StateIconList[EFST_IDs.EFST_PLUSMAGICPOWER] = {
 }
 StateIconList[EFST_IDs.EFST_MACRO] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Using Macros", COLOR_TITLE_SYSTEM},
+		{"Using Macros", COLOR_SYSTEM},
 		{"%s", COLOR_TIME}, 
 		{"Macro is activated"}
 	}
 }
 StateIconList[EFST_IDs.EFST_MACRO_POSTDELAY] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Macros Disabled", COLOR_TITLE_SYSTEM},
+		{"Macros Disabled", COLOR_SYSTEM},
 		{"%s", COLOR_TIME}, 
 		{"Macro is deactivated."}
 	}
@@ -1988,5 +1980,88 @@ StateIconList[EFST_IDs.EFST_SIT] = {
 StateIconList[EFST_IDs.EFST_ALL_RIDING] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Riding", COLOR_TITLE_TOGGLE},
+	}
+}
+StateIconList[EFST_IDs.EFST_SKF_MATK] = {
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+		{"%s", COLOR_TIME}, 
+		{"Increases MATK"},
+	}
+}
+StateIconList[EFST_IDs.EFST_SKF_ATK] = {
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+		{"%s", COLOR_TIME}, 
+		{"Increases ATK"},
+	}
+}
+StateIconList[EFST_IDs.EFST_SKF_ASPD] = {
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+		{"%s", COLOR_TIME}, 
+		{"Increases ASPD"},
+	}
+}
+StateIconList[EFST_IDs.EFST_SKF_CAST] = {
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+		{"%s", COLOR_TIME}, 
+		{"Reduces casting time"},
+	}
+}
+StateIconList[EFST_IDs.EFST_REWARD_PLUSONLYJOBEXP] = {
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+		{"%s", COLOR_TIME}, 
+		{"Increases gained Job experience"},
+	}
+}
+StateIconList[EFST_IDs.EFST_ENERVATION] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Masquerade: Enervation", COLOR_TITLE_DEBUFF},
+		{"%s", COLOR_TIME},
+		{"Reduces ATK"},
+		{"Removes Spirit Spheres"}
+	}
+}
+StateIconList[EFST_IDs.EFST_GROOMY] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Masquerade: Gloomy", COLOR_TITLE_DEBUFF},
+		{"%s", COLOR_TIME}, 
+		{"Decreases ASPD and HIT"},
+		{"Forced to remove mounts and any related animals."},
+		{"Mounts and any related animals are disabled."},
+	}
+}
+StateIconList[EFST_IDs.EFST_IGNORANCE] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Masquerade: Ignorance", COLOR_TITLE_DEBUFF},
+		{"%s", COLOR_TIME}, 
+		{"Lost a certain amount of SP"},
+		{"Skills and Magics are disabled"},
+	}
+}
+StateIconList[EFST_IDs.EFST_LAZINESS] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Masquerade: Laziness", COLOR_TITLE_DEBUFF},
+		{"%s", COLOR_TIME}, 
+		{"Reduces Movement Speed and FLEE"},
+		{"Increases casting time"},
+		{"Adds a certain amount of SP when using a skill"},
+	}
+}
+StateIconList[EFST_IDs.EFST_UNLUCKY] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Masquerade: Unlucky", COLOR_TITLE_DEBUFF},
+		{"%s", COLOR_TIME}, 
+		{"Reduces critical rate"},
+		{"Reduces perfect dodge"},
+		{"Using skills costs zeny"},
+		{"Damage over time causes a certain status ailments."},
+	}
+}
+StateIconList[EFST_IDs.EFST_WEAKNESS] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Masquerade: Weakness", COLOR_TITLE_DEBUFF},
+		{"%s", COLOR_TIME}, 
+		{"Reduces Max HP"},
+		{"Strips weapons and shield"}, --피해 순간 무기, 방패 착용 해제 <-- help?
+		{"Cannot equip weapons and shield"},
 	}
 }

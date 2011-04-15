@@ -9584,7 +9584,9 @@ SKILL_DESCRIPT = {
 	[SKID.ALL_ODINS_POWER] = {
 
 		"Odin's Power",
-		"Description : ^777777Increases for 60 seconds Attack and Magic Attack power by 70, but lowers Defense and Magic Defense by 20.^000000",
+		"Type:^777777 Buff ^000000",
+		"[LV 1] ^777777Increases for 60 seconds Attack and Magic Attack power by 70, but lowers Defense and Magic Defense by 20.^000000",
+		"[LV 2] ^777777Increases for 60 seconds Attack and Magic Attack power by 100, but lowers Defense and Magic Defense by 40.^000000",
 	},
 
 
