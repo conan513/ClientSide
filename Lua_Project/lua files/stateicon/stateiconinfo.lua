@@ -665,10 +665,13 @@ StateIconList[EFST_IDs.EFST_MOVHASTE_HORSE] = {
 	}
 }
 StateIconList[EFST_IDs.EFST_CRESCENTELBOW] = {
-	descript = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Crescent Elbow", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
 		{"Attempts to counter opponent's attack"}, 
-		{"You still take some of the damage"}
+		{"Knocks back opponent and deals damage"}, 
+		{"You still take some of the damage"},
+		{"Does not affect boss monsters", COLOR_SYSTEM}
 	}
 }
 StateIconList[EFST_IDs.EFST_SONG_OF_MANA] = {
@@ -854,7 +857,7 @@ StateIconList[EFST_IDs.EFST_RG_CCONFINE_M] = {
 		{"%s", COLOR_TIME}, 
 		{"Both Players cannot Move"}, 
 		{"Increases FLEE"}, 
-		{"Does not affect Boss"}
+		{"Does not affect boss monsters", COLOR_SYSTEM}
 	}
 }
 StateIconList[EFST_IDs.EFST_TRICKDEAD] = {
