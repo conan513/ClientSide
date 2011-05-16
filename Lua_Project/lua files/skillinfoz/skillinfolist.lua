@@ -5388,7 +5388,7 @@ SKILL_INFO_LIST = {
 		"AB_CLEMENTIA";
 		SkillName = "Clementia",
 		MaxLv = 3,
-		SpAmount = { 200, 220, 240 },
+		SpAmount = { 280, 320, 360 },
 		_NeedSkillList = {
 			{ SKID.AL_BLESSING,1 }
 		}
@@ -5398,7 +5398,7 @@ SKILL_INFO_LIST = {
 		"AB_CANTO";
 		SkillName = "Canto Candidus",
 		MaxLv = 3,
-		SpAmount = { 145, 160, 175 },
+		SpAmount = { 200, 220, 240 },
 		_NeedSkillList = {
 			{ SKID.AL_INCAGI,1 }
 		}
@@ -5408,7 +5408,7 @@ SKILL_INFO_LIST = {
 		"AB_CHEAL";
 		SkillName = "Coluceo Heal",
 		MaxLv = 3,
-		SpAmount = { 130, 145, 160 },
+		SpAmount = { 200, 220, 240 },
 		_NeedSkillList = {
 			{ SKID.AL_HEAL,1 }
 		}
@@ -5597,7 +5597,7 @@ SKILL_INFO_LIST = {
 		"WL_RECOGNIZEDSPELL";
 		SkillName = "Recognized Spell",
 		MaxLv = 5,
-		SpAmount = { 50, 60, 70, 80, 90 },
+		SpAmount = { 100, 120, 140, 160, 180 },
 		_NeedSkillList = {
 			{ SKID.WL_RELEASE,2 },
 			{ SKID.WL_STASIS,1 },
@@ -5665,7 +5665,7 @@ SKILL_INFO_LIST = {
 		"WL_COMET";
 		SkillName = "Comet",
 		MaxLv = 5,
-		SpAmount = { 240, 280, 320, 360, 400 },
+		SpAmount = { 480, 560, 640, 720, 800 },
 		_NeedSkillList = {
 			{ SKID.WL_HELLINFERNO,3 }
 		}
@@ -6146,7 +6146,7 @@ SKILL_INFO_LIST = {
 		"NC_STEALTHFIELD";
 		SkillName = "Stealth Field",
 		MaxLv = 3,
-		SpAmount = { 100, 150, 200 },
+		SpAmount = { 80, 100, 120 },
 		_NeedSkillList = {
 			{ SKID.NC_ANALYZE,3 },
 			{ SKID.NC_NEUTRALBARRIER,2 }
@@ -6491,7 +6491,7 @@ SKILL_INFO_LIST = {
 		"LG_REFLECTDAMAGE";
 		SkillName = "Reflect Damage",
 		MaxLv = 5,
-		SpAmount = { 40, 50, 60, 70, 80 },
+		SpAmount = { 80, 100, 120, 140, 160 },
 		_NeedSkillList = {
 			{ SKID.CR_REFLECTSHIELD,5 }
 		}
@@ -6501,7 +6501,7 @@ SKILL_INFO_LIST = {
 		"LG_PINPOINTATTACK";
 		SkillName = "Pinpoint Attack",
 		MaxLv = 5,
-		SpAmount = { 30, 30, 30, 30, 30 },
+		SpAmount = { 50, 50, 50, 50, 50 },
 		_NeedSkillList = {
 			{ SKID.LG_BANISHINGPOINT,5 }
 		}
@@ -6538,7 +6538,7 @@ SKILL_INFO_LIST = {
 		"LG_EXEEDBREAK";
 		SkillName = "Exceed Break",
 		MaxLv = 5,
-		SpAmount = { 24, 28, 32, 36, 40 },
+		SpAmount = { 20, 32, 44, 56, 68 },
 		_NeedSkillList = {
 			{ SKID.LG_BANISHINGPOINT,3 }
 		}
@@ -6548,7 +6548,7 @@ SKILL_INFO_LIST = {
 		"LG_OVERBRAND";
 		SkillName = "Overbrand",
 		MaxLv = 5,
-		SpAmount = { 42, 44, 46, 48, 50 },
+		SpAmount = { 32, 44, 56, 68, 72 },
 		_NeedSkillList = {
 			{ SKID.LG_MOONSLASHER,3 },
 			{ SKID.LG_PINPOINTATTACK,1 }
@@ -6590,7 +6590,7 @@ SKILL_INFO_LIST = {
 		"LG_RAYOFGENESIS";
 		SkillName = "Ray of Genesis",
 		MaxLv = 5,
-		SpAmount = { 60, 60, 60, 60, 60 },
+		SpAmount = { 60, 65, 70, 75, 80 },
 		_NeedSkillList = {
 			{ SKID.CR_GRANDCROSS,5 }
 		}
@@ -6620,7 +6620,7 @@ SKILL_INFO_LIST = {
 		"LG_HESPERUSLIT";
 		SkillName = "Hesperuslit",
 		MaxLv = 5,
-		SpAmount = { 80, 90, 10, 10, 120 }, -- im sure those 10s should be 100.
+		SpAmount = { 80, 90, 100, 110, 120 },
 		_NeedSkillList = {
 			{ SKID.LG_PRESTIGE,3 },
 			{ SKID.LG_BANDING,3 }
@@ -6631,7 +6631,7 @@ SKILL_INFO_LIST = {
 		"LG_INSPIRATION";
 		SkillName = "Inspiration",
 		MaxLv = 5,
-		SpAmount = { 100, 100, 100, 100, 100 },
+		SpAmount = { 80, 90, 100, 110, 120 },
 		_NeedSkillList = {
 			{ SKID.LG_PIETY,5 },
 			{ SKID.LG_RAYOFGENESIS,4 },
@@ -7015,7 +7015,7 @@ SKILL_INFO_LIST = {
 		"WM_GLOOMYDAY";
 		SkillName = "Gloomy Day",
 		MaxLv = 5,
-		SpAmount = { 60, 60, 60, 60, 60 },
+		SpAmount = { 60, 75, 90, 105, 120 },
 		_NeedSkillList = {
 			{ SKID.WM_RANDOMIZESPELL,1 }
 		}
@@ -7806,7 +7806,7 @@ SKILL_INFO_LIST = {
 		"SR_HOWLINGOFLION";
 		SkillName = "Howling of Lion",
 		MaxLv = 5,
-		SpAmount = { 40, 50, 60, 70, 80 },
+		SpAmount = { 80, 90, 100, 110, 120 },
 		_NeedSkillList = {
 			{ SKID.SR_RIDEINLIGHTNING,3 },
 			{ SKID.SR_ASSIMILATEPOWER,1 }
