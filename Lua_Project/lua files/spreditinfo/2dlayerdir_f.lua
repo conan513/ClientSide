@@ -1,5 +1,11 @@
 SEX_FEMALE = 0
 SEX_MALE = 1
+LAYER_BIG = 0
+LAYER_SMALL = 1
+LayerSizeTypeList = {
+	[SPRITE_ROBE_IDs.ROBE_WINGS] = LAYER_BIG,
+	[SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER] = LAYER_SMALL
+}
 SPRITE_INHERIT_LIST = {
 	[JOBID.JT_NOVICE_H] = JOBID.JT_NOVICE,
 	[JOBID.JT_SWORDMAN_H] = JOBID.JT_SWORDMAN,
@@ -136,11 +142,32 @@ RIDING_SPRITE_INHERIT_LIST = {
 	[JOBID.JT_PORING_SNOVICE2_B] = JOBID.JT_PORING_NOVICE,
 }
 
-GetLayerDirTbl = function(sex)
-	if sex == SEX_FEMALE then
-		return LayerDir_F
+GetLayerSizeType = function(robeID)
+	if LayerSizeTypeList[robeID] == nil then
+		return LAYER_BIG
+	end
+	local sizeType = LayerSizeTypeList[robeID]
+	if sizeType ~= nil then
+		return sizeType
 	else
-		return LayerDir_M
+		return LAYER_BIG
+	end
+end
+
+GetLayerDirTbl = function(sex, robeID)
+	local sizeType = GetLayerSizeType(robeID)
+	if sizeType == LAYER_BIG then
+		if sex == SEX_FEMALE then
+			return BigLayerDir_F
+		else
+			return BigLayerDir_M
+		end
+	elseif sizeType == LAYER_SMALL then
+		if sex == SEX_FEMALE then
+			return SmallLayerDir_F
+		else
+			return SmallLayerDir_M
+		end
 	end
 end
 
@@ -160,23 +187,23 @@ GetSpriteInheriteJob = function(jobID)
 	return jobID
 end
 
-MyDirIsTheFront = function(sex, jobID, actNum, motNum)
-	local LayerDirTbl = GetLayerDirTbl(sex)
+DrawOnTop = function(robeID, sex, jobID, actNum, motNum)
+	local LayerDirTbl = GetLayerDirTbl(sex, robeID)
 	jobID = GetSpriteInheriteJob(jobID)
-	if LayerDirTbl[jobID] == nil then
-		return false
+	if LayerDirTbl == nil or LayerDirTbl[jobID] == nil then
+		return true
 	end
 	if LayerDirTbl[jobID][actNum] == nil then
-		return false
+		return true
 	end
 	local idx = 1
 	motInfo = LayerDirTbl[jobID][actNum][idx]
 	while motInfo ~= nil do
 		if motInfo == motNum then
-			return true
+			return false
 		end
 		idx = idx +1
 		motInfo = LayerDirTbl[jobID][actNum][idx]
 	end
-	return false
+	return true
 end

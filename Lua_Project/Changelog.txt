@@ -1,3 +1,6 @@
+rev127 - [2011-05-16]
+ - 2011-04-20 kRO Patch lua and lub
+
 rev126 - [2011-05-16]
  - 2011-04-13 kRO Patch lua and lub
  * anyone with latest skilldesc?
