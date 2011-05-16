@@ -6491,7 +6491,7 @@ SKILL_INFO_LIST = {
 		"LG_REFLECTDAMAGE";
 		SkillName = "Reflect Damage",
 		MaxLv = 5,
-		SpAmount = { 80, 100, 120, 140, 160 },
+		SpAmount = { 60, 80, 100, 120, 140 },
 		_NeedSkillList = {
 			{ SKID.CR_REFLECTSHIELD,5 }
 		}
@@ -6548,7 +6548,7 @@ SKILL_INFO_LIST = {
 		"LG_OVERBRAND";
 		SkillName = "Overbrand",
 		MaxLv = 5,
-		SpAmount = { 32, 44, 56, 68, 72 },
+		SpAmount = { 20, 30, 40, 50, 60 },
 		_NeedSkillList = {
 			{ SKID.LG_MOONSLASHER,3 },
 			{ SKID.LG_PINPOINTATTACK,1 }
