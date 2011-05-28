@@ -4912,6 +4912,11 @@ SKILL_INFO_LIST = {
 		SkillName = "We Wish",
 	},
 
+	[SKID.ALL_BUYING_STORE] = {
+		"ALL_BUYING_STORE";
+		SkillName = "Open Buying Store",
+	},
+
 	[SKID.KN_CHARGEATK] = {
 		"KN_CHARGEATK";
 		SkillName = "Charge Attack",
