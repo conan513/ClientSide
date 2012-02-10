@@ -29,6 +29,7 @@ PetIllustNameTable = {
 	[jobtbl.JT_EVENT_RICECAKE] = "유저인터페이스\\illust\\펫_떡_이벤트.bmp",
 	[jobtbl.JT_GOBLINE_XMAS] = "유저인터페이스\\illust\\펫_고블린_이벤트.bmp",
 	[jobtbl.JT_CHUNG_E] = "유저인터페이스\\illust\\펫_청이.bmp",
+	[jobtbl.JT_CHUNG_E_] = "유저인터페이스\\illust\\펫_청이.bmp",
 	[jobtbl.JT_P_CHUNG_E] = "유저인터페이스\\illust\\펫_청이.bmp",
 	[jobtbl.JT_ECLIPSE_P] = "유저인터페이스\\illust\\펫_루나틱.bmp",
 	[jobtbl.JT_GOBLIN_1] = "유저인터페이스\\illust\\펫_고블린_단검.bmp",

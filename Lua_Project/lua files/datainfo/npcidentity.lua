@@ -1244,7 +1244,8 @@ jobtbl = {
 	["JT_MD_DESERT_WOLF"] = 2242,
 	["JT_MD_DESERT_WOLF_B"] = 2243,
 	["JT_QUEST_CHEN"] = 2244,
-	["JT_MONSTER_LAST"] = 2245,
+	["JT_EXP_TEST"] = 2245,
+	["JT_MONSTER_LAST"] = 2246,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,

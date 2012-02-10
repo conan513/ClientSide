@@ -1839,4 +1839,5 @@ JobNameTable = {
 	[jobtbl.JT_MD_DESERT_WOLF] = "DESERT_WOLF",
 	[jobtbl.JT_MD_DESERT_WOLF_B] = "DESERT_WOLF_B",
 	[jobtbl.JT_QUEST_CHEN] = "CHEN",
+	[jobtbl.JT_EXP_TEST] = "8W_SOLDIER"	
 }

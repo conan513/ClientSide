@@ -166,14 +166,19 @@ end
 
 -- Function #8
 IsLevelUseSkill = function(SkillID)
-	local obj = SKILL_INFO_LIST[SkillID]
-	if obj ~= nil then
-		obj = SKILL_INFO_LIST[SkillID].SpAmount
+	local skillInfo = SKILL_INFO_LIST[SkillID]
+	local rst = nil
+	if skillInfo ~= nil then
+		rst = skillInfo.bSeperateLv
+		if rst ~= nil then
+			return rst
+		end
+		local spAmount = skillInfo.SpAmount
+		if spAmount ~= nil then
+			return true
+		end
 	end
-	if obj ~= nil then
-		return 1
-	end
-	return 0
+	return false
 end
 
 -- Function #9
@@ -196,9 +201,8 @@ GetSkillDescript = function(JobID, SKID, bChangeColor)
 	local descript = ""
 	local obj = SKILL_DESCRIPT[SKID]
 	if obj ~= nil then
-		local s = "777777Ω¿µÊ¡∂∞« : "
-		for i,v in pairs(obj) do
-			s_pos, f_pos = string.find(v, s)
+		for i, v in pairs(obj) do
+			s_pos, f_pos = string.find(v, MsgStrID.MSI_SKILL_REQUIREMENTS)
 			bCopyText = false
 		if s_pos ~= nil then
 			s_pos = s_pos - 1
@@ -247,4 +251,29 @@ TestFile = function(saveFileName)
 		end
 	end
 	io.close(saveFile)
+end
+
+-- Function #12
+GetSkillAttackRange = function(in_SKID, in_Level)
+   local attackRange = 1
+   local attackRangeOfMaxLv = 0
+   local maxLv = 0
+   local obj = SKILL_INFO_LIST[in_SKID]
+   if obj ~= nil then
+      obj = SKILL_INFO_LIST[in_SKID].AttackRange
+      maxLv = SKILL_INFO_LIST[in_SKID].MaxLv
+   end
+   if obj ~= nil then
+      attackRange = SKILL_INFO_LIST[in_SKID].AttackRange[in_Level]
+   end
+   if maxLv ~= nil then
+      attackRangeOfMaxLv = SKILL_INFO_LIST[in_SKID].AttackRange[maxLv]
+   end
+   if attackRangeOfMaxLv == nil then
+      attackRangeOfMaxLv = 0
+   end
+   if attackRange ~= nil then
+      return attackRange, attackRangeOfMaxLv
+   end
+   return 1, attackRangeOfMaxLv
 end
