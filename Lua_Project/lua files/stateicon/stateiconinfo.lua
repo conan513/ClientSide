@@ -2073,8 +2073,7 @@ StateIconList[EFST_IDs.EFST_LG_REFLECTDAMAGE] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Reflect Damage", COLOR_TITLE_TOGGLE}, 
 		{"%s", COLOR_TIME}, 
-		{"Applies damage received to all enemies in an area"}, 
-		{"(except for certain trap damage)"}, 
+		{"Reflects some of the damages received to all enemies in an area"}, 
 		{"Consumes SP every second"}
 	}
 }
