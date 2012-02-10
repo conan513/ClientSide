@@ -1,3 +1,6 @@
+rev131 - [2012-02-10]
+ - 2011-05-18 kRO Patch lua and lub
+
 rev130 - [2011-05-29]
  - Added a forgotten skill info "ALL_BUYING_STORE" to skillinfolist.lua (my bad)
  - Updated 2010-04-28 to 2011-05-04 lub files
