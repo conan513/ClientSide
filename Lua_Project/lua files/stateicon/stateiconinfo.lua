@@ -1946,7 +1946,7 @@ StateIconList[EFST_IDs.EFST_PLUSMAGICPOWER] = {
 		{"Increases MATK"}
 	}
 }
-StateIconList[EFST_IDs.EFST_MACRO] = {
+StateIconList[EFST_IDs.EFST_MACRO_PERMIT] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Using Macros", COLOR_SYSTEM},
 		{"%s", COLOR_TIME}, 
@@ -2076,5 +2076,35 @@ StateIconList[EFST_IDs.EFST_LG_REFLECTDAMAGE] = {
 		{"Applies damage received to all enemies in an area"}, 
 		{"(except for certain trap damage)"}, 
 		{"Consumes SP every second"}
+	}
+}
+StateIconList[EFST_IDs.EFST_MVPCARD_TAOGUNKA] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Tao Gunka Scroll", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Increases Max HP"}, 
+		{"Reduces DEF/MDEF"}
+	}
+}
+StateIconList[EFST_IDs.EFST_MVPCARD_MISTRESS] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Mistress Scroll", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Nullify the Gemstone requirement of certain spells"}, 
+		{"Increases SP consumption"}
+	}
+}
+StateIconList[EFST_IDs.EFST_MVPCARD_ORCHERO] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Orc Hero Scroll", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Immunity to stun status"}
+	}
+}
+StateIconList[EFST_IDs.EFST_MVPCARD_ORCLORD] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Orc Lord Scroll", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Reflects a part of physical damage taken"}
 	}
 }
