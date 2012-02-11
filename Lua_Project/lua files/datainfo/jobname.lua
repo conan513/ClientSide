@@ -1839,5 +1839,16 @@ JobNameTable = {
 	[jobtbl.JT_MD_DESERT_WOLF] = "DESERT_WOLF",
 	[jobtbl.JT_MD_DESERT_WOLF_B] = "DESERT_WOLF_B",
 	[jobtbl.JT_QUEST_CHEN] = "CHEN",
-	[jobtbl.JT_EXP_TEST] = "8W_SOLDIER"	
+	[jobtbl.JT_EXP_TEST] = "8W_SOLDIER",
+	[jobtbl.JT_Q_WOOTAN_FIGHTER] = "WOOTAN_FIGHTER",
+	[jobtbl.JT_Q_INCREASE_SOIL] = "INCREASE_SOIL",
+	[jobtbl.JT_GOLDPORING] = "GOLDPORING",
+	[jobtbl.JT_PYURIEL] = "G_RANDGRIS",
+	[jobtbl.JT_LORA] = "YGNIZEM",
+	[jobtbl.JT_GIOIA] = "IFRIT",
+	[jobtbl.JT_ELVIRA] = "SALAMANDER",
+	[jobtbl.JT_DAEHYON] = "TURTLE_GENERAL",
+	[jobtbl.JT_SOHEON] = "G_BACSOJIN",
+	[jobtbl.JT_KADES] = "GLOOMUNDERNIGHT",
+	[jobtbl.JT_RUDO] = "SOLACE",
 }
