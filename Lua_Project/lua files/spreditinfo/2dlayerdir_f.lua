@@ -181,8 +181,11 @@ GetSpriteInheriteJob = function(jobID)
 	if SPRITE_INHERIT_LIST ~= nil and SPRITE_INHERIT_LIST[jobID] ~= nil then
 		jobID = SPRITE_INHERIT_LIST[jobID]
 	end
-	if EXCEPTION_SPRITE_INHERIT_LIST ~= nil and EXCEPTION_SPRITE_INHERIT_LIST[jobID] ~= nil then
-		jobID = EXCEPTION_SPRITE_INHERIT_LIST[jobID]
+	local sizeType = GetLayerSizeType(robeID)
+	if sizeType == LAYER_BIG then
+		if EXCEPTION_SPRITE_INHERIT_LIST ~= nil and EXCEPTION_SPRITE_INHERIT_LIST[jobID] ~= nil then
+			jobID = EXCEPTION_SPRITE_INHERIT_LIST[jobID]
+		end
 	end
 	return jobID
 end

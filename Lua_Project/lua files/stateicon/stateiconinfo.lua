@@ -1562,7 +1562,7 @@ StateIconList[EFST_IDs.EFST_PROTECTHELM] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Chemical Protection Helm (Biochemical Helm)", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
-		{"Protects Helm from any kinds of status"} --Or use "Indestructible and Unstrippable"
+		{"Protect helm from being destroyed"}
 	}
 }
 StateIconList[EFST_IDs.EFST_PLUSAVOIDVALUE] = {
@@ -1674,7 +1674,7 @@ StateIconList[EFST_IDs.EFST_REFLECTSHIELD] = {
 }
 StateIconList[EFST_IDs.EFST_RIDING] = {
 	descript = {
-		{"Peco Peco Rental", COLOR_TITLE_TOGGLE} --Rental Transportation
+		{"Riding Vehicle", COLOR_TITLE_TOGGLE}
 	}
 }
 StateIconList[EFST_IDs.EFST_LIGHTNINGWALK] = {
@@ -1765,7 +1765,7 @@ haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
  }
 StateIconList[EFST_IDs.EFST_STOMACHACHE] = {
 haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Abdominal Pain", COLOR_TITLE_BUFF},  -- or Stomach Ache
+		{"Stomachache", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME}, 
 		{"Reduces All Stats"}, 
 		{"Reduces Movement Speed"},
@@ -1789,7 +1789,7 @@ StateIconList[EFST_IDs.EFST_ANGEL_PROTECT] = {
 }
 StateIconList[EFST_IDs.EFST_MORA_BUFF] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Mora Berry", COLOR_TITLE_BUFF}, --google translated
+		{"Mora Berry", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME}, 
 		{"Increases Resistance to every monsters"},
 		{"in the fields near the town of Mora."}
@@ -1805,10 +1805,10 @@ StateIconList[EFST_IDs.EFST_POPECOOKIE] = {
 }
 StateIconList[EFST_IDs.EFST_VITALIZE_POTION] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
-		{"Vitalize Potion", COLOR_TITLE_BUFF}, --Google says "Activation Potion"
+		{"Vitalize Potion", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME}, 
 		{"Increases ATK and MATK"}, 
-		{"힐과 아이템의 회복효능 증가"}
+		{"Increase effects of heal and healing items"}
 	}
 }
 StateIconList[EFST_IDs.EFST_G_LIFEPOTION] = {
@@ -1895,8 +1895,8 @@ StateIconList[EFST_IDs.EFST_PYROCLASTIC] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Pyroclastic", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME}, 
-		{"디이터와 주인의 무기가"}, 
-		{"화속성으로 변화"},
+		{"Weapon of Deeter and Owner"}, 
+		{"Change to Fire Property"},
 		{"Increased weapon damage"}
 	}
 }
@@ -2056,7 +2056,7 @@ StateIconList[EFST_IDs.EFST_WEAKNESS] = {
 		{"Masquerade: Weakness", COLOR_TITLE_DEBUFF},
 		{"%s", COLOR_TIME}, 
 		{"Reduces Max HP"},
-		{"Strips weapons and shield"}, --피해 순간 무기, 방패 착용 해제 <-- help?
+		{"When evaded, weapon, shield is taken off."},
 		{"Cannot equip weapons and shield"},
 	}
 }
@@ -2064,7 +2064,7 @@ StateIconList[EFST_IDs.EFST_STEELBODY] = {
 	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
 		{"Steel Body", COLOR_TITLE_BUFF},
 		{"%s", COLOR_TIME}, 
-		{"Sets DEF and MDEF to a fixed amount."}, --DEF, MDEF 높은 수치로 고정 <-- help?
+		{"Sets DEF and MDEF to a fixed amount."},
 		{"Reduces Movement Speed and ASPD"},
 		{"Skills are disabled"},
 	}
@@ -2105,5 +2105,33 @@ StateIconList[EFST_IDs.EFST_MVPCARD_ORCLORD] = {
 		{"Orc Lord Scroll", COLOR_TITLE_BUFF}, 
 		{"%s", COLOR_TIME}, 
 		{"Reflects a part of physical damage taken"}
+	}
+}
+StateIconList[EFST_IDs.EFST_HANDICAPSTATE_NORECOVER] = {
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+		{"%s", COLOR_TIME}, 
+		{"HP and SP recovery are disabled"}
+	}
+}
+StateIconList[EFST_IDs.EFST_SET_NUM_DEF] = {
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+		{"%s", COLOR_TIME}, 
+		{"DEF amount is set."}
+	}
+}
+StateIconList[EFST_IDs.EFST_SET_NUM_MDEF] = {
+	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+		{"%s", COLOR_TIME}, 
+		{"MDEF amount is set."}
+	}
+}
+StateIconList[EFST_IDs.EFST_SET_PER_DEF] = {
+	descript = {
+		{"DEF amount is fixed at certain percentage."}
+	}
+}
+StateIconList[EFST_IDs.EFST_SET_PER_MDEF] = {
+	descript = {
+		{"MDEF amount is fixed at certain percentage."}
 	}
 }
