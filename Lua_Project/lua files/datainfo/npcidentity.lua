@@ -1287,7 +1287,8 @@ jobtbl = {
 	["JT_GLD_KOBOLD_2"] = 2285,
 	["JT_GLD_KOBOLD_3"] = 2286,
 	["JT_GLD_KOBOLD_ARCHER"] = 2287,
-	["JT_MONSTER_LAST"] = 2288,
+	["JT_GLD_TREASURE"] = 2288,
+	["JT_MONSTER_LAST"] = 2289,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,

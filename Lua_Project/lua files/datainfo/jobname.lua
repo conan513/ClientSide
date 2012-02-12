@@ -1881,5 +1881,6 @@ JobNameTable = {
 	[jobtbl.JT_GLD_KOBOLD_1] = "KOBOLD_1",
 	[jobtbl.JT_GLD_KOBOLD_2] = "KOBOLD_2",
 	[jobtbl.JT_GLD_KOBOLD_3] = "KOBOLD_3",
-	[jobtbl.JT_GLD_KOBOLD_ARCHER] = "KOBOLD_ARCHER"
+	[jobtbl.JT_GLD_KOBOLD_ARCHER] = "KOBOLD_ARCHER",
+	[jobtbl.JT_GLD_TREASURE] = "TREASUREBOX_2.gr2"
 }
