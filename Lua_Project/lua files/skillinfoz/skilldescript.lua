@@ -4523,15 +4523,8 @@ SKILL_DESCRIPT = {
 		"Cast Time:^777777 4.5 - 0.5*SkillLV sec ^000000",
 		"Cool Down:^777777 3.5 - 0.5*SkillLV sec ^000000",
 		"Duration:^777777 Instant ^000000",
-		"Effect:^777777 Usable only when Critical Explosion is active. Uses all SP to do massive damage to the target, HP/SP will not regenerate naturally for 5 minutes after Asura Strike is used.",
-		"Cancels Critical Explosion after use and requires all remaining Spirit Spheres (that is all 5 if cast independently). Damage is [(Weapon ATK+Base ATK) x (8 + SP/10) + 250 + (150*SkillLV)]*Card Effects.",
-		"Can be used while catching someone using LV 5 Blade Stop or with no Cast Time at the end of a combo attack (Triple Attack -> Chain Combo -> Combo Finish -> Asura Strike) but the Critical Explosion and Sphere requirements remain in both cases (usable with the 4 spheres remaining after activating Blade Stop/Combo Finish).",
-		"Increasing the Asura Strike skill level has a relatively small effect on total damage compared to increasing SP, INT or STR. This skill can be interrupted. ^000000",
-		"[LV 1]^777777 + 400 ATK 4.0s cast, 3.0s Delay ^000000",
-		"[LV 2]^777777 + 550 ATK 3.5s cast, 2.5s Delay ^000000",
-		"[LV 3]^777777 + 700 ATK 3.0s cast, 2.0s Delay ^000000",
-		"[LV 4]^777777 + 850 ATK 2.5s cast, 1.5s Delay ^000000",
-		"[LV 5]^777777 + 1000 ATK 2.0s cast, 1.0 sDelay ^000000",
+		"Effect:^777777 Usable only when Critical Explosion is active. Uses all SP to do massive damage to the target. Damage depends on the caster's SP amount.",
+		"Consumes all 5 Spirit Spheres. SP will not regenerate for 10 seconds after using Asura Strike",
 	},
 
 	[SKID.MO_CHAINCOMBO] = {

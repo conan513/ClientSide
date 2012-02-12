@@ -2108,7 +2108,8 @@ StateIconList[EFST_IDs.EFST_MVPCARD_ORCLORD] = {
 	}
 }
 StateIconList[EFST_IDs.EFST_HANDICAPSTATE_NORECOVER] = {
-	haveTimeLimit = 1, posTimeLimitStr = 1, descript = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Recovery disabled status", COLOR_TITLE_DEBUFF}, 
 		{"%s", COLOR_TIME}, 
 		{"HP and SP recovery are disabled"}
 	}
@@ -2133,5 +2134,12 @@ StateIconList[EFST_IDs.EFST_SET_PER_DEF] = {
 StateIconList[EFST_IDs.EFST_SET_PER_MDEF] = {
 	descript = {
 		{"MDEF amount is fixed at certain percentage."}
+	}
+}
+StateIconList[EFST_IDs.EFST_EXTREMITYFIST] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Asura Strike (Guillotine Fist)", COLOR_TITLE_DEBUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"SP recovery is disabled"}
 	}
 }

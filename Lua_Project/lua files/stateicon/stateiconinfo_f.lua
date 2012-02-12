@@ -102,3 +102,16 @@ GetEFSTID = function(EFSTID)
    end
    return 0
 end
+
+GetEFSTImgFileName = function(EFSTID, priority)
+   if StateIconImgList ~= nil then
+      local obj = StateIconImgList[priority]
+      if obj ~= nil then
+         local fileName = obj[EFSTID]
+         if fileName ~= nil then
+            return "effect\\" .. fileName
+         end
+      end
+   end
+   return ""
+end
