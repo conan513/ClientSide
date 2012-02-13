@@ -2143,3 +2143,10 @@ StateIconList[EFST_IDs.EFST_EXTREMITYFIST] = {
 		{"SP recovery is disabled"}
 	}
 }
+StateIconList[EFST_IDs.EFST_ATTHASTE_CASH] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"ASPD Reinforce Potion", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Increase Attack Speed"}
+	}
+}
