@@ -782,7 +782,7 @@ SKILL_INFO_LIST = {
 		"SG_FUSION";
 		SkillName = "Union",
 		MaxLv = 1,
-		--Type = "Soul",
+		Type = "Soul",
 		SpAmount = { 100 },
 		bSeperateLv = false,
 		AttackRange = { 1 },
@@ -804,7 +804,7 @@ SKILL_INFO_LIST = {
 		"AM_BERSERKPITCHER";
 		SkillName = "Berserk Pitcher",
 		MaxLv = 1,
-		--Type = "Soul",
+		Type = "Soul",
 		SpAmount = { 10 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
@@ -974,7 +974,7 @@ SKILL_INFO_LIST = {
 		"BS_ADRENALINE2";
 		SkillName = "Full Adrenaline Rush",
 		MaxLv = 1,
-		--Type = "Soul",
+		Type = "Soul",
 		SpAmount = { 64 },
 		bSeperateLv = false,
 		AttackRange = { 1 },
@@ -1430,7 +1430,7 @@ SKILL_INFO_LIST = {
 		"KN_ONEHAND";
 		SkillName = "One-Hand Quicken",
 		MaxLv = 1,
-		--Type = "Soul",
+		Type = "Soul",
 		SpAmount = { 100, 100, 100, 100, 100, 100, 100, 100, 100, 100 },
 		bSeperateLv = false,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
@@ -1452,6 +1452,7 @@ SKILL_INFO_LIST = {
 		"AM_TWILIGHT1";
 		SkillName = "Twilight Alchemy",
 		MaxLv = 1,
+		Type = "Soul",
 		SpAmount = { 200 },
 		bSeperateLv = false,
 		AttackRange = { 1 },
@@ -1464,6 +1465,7 @@ SKILL_INFO_LIST = {
 		"AM_TWILIGHT2";
 		SkillName = "Twilight Alchemy",
 		MaxLv = 1,
+		Type = "Soul",
 		SpAmount = { 200 },
 		bSeperateLv = false,
 		AttackRange = { 1 },
@@ -1476,6 +1478,7 @@ SKILL_INFO_LIST = {
 		"AM_TWILIGHT3";
 		SkillName = "Twilight Alchemy",
 		MaxLv = 1,
+		Type = "Soul",
 		SpAmount = { 200 },
 		bSeperateLv = false,
 		AttackRange = { 1 },
@@ -1488,6 +1491,7 @@ SKILL_INFO_LIST = {
 		"HT_POWER";
 		SkillName = "Beast Strafing",
 		MaxLv = 1,
+		Type = "Soul",
 		SpAmount = { 12 },
 		bSeperateLv = false,
 		AttackRange = { 9 },
@@ -3831,6 +3835,7 @@ SKILL_INFO_LIST = {
 		"KN_CHARGEATK";
 		SkillName = "Charge Attack",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 40 },
 		bSeperateLv = false,
 		AttackRange = { 14 }
@@ -3840,6 +3845,7 @@ SKILL_INFO_LIST = {
 		"CR_SHRINK";
 		SkillName = "Shrink",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 15 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -3849,6 +3855,7 @@ SKILL_INFO_LIST = {
 		"AS_SONICACCEL";
 		SkillName = "Sonic Acceleration",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 0 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -3858,6 +3865,7 @@ SKILL_INFO_LIST = {
 		"AS_VENOMKNIFE";
 		SkillName = "Throw Venom Knife",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 15 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
@@ -3867,6 +3875,7 @@ SKILL_INFO_LIST = {
 		"RG_CLOSECONFINE";
 		SkillName = "Close Confine",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 25 },
 		bSeperateLv = false,
 		AttackRange = { 2 }
@@ -3876,6 +3885,7 @@ SKILL_INFO_LIST = {
 		"WZ_SIGHTBLASTER";
 		SkillName = "Sight Blaster",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 40 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -3897,6 +3907,7 @@ SKILL_INFO_LIST = {
 		"SA_ELEMENTWATER";
 		SkillName = "Elemental Change (Water)",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 30 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
@@ -3906,6 +3917,7 @@ SKILL_INFO_LIST = {
 		"HT_PHANTASMIC";
 		SkillName = "Phantasmic Arrow",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 10 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
@@ -3915,6 +3927,7 @@ SKILL_INFO_LIST = {
 		"BA_PANGVOICE";
 		SkillName = "Pang Voice",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 20 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
@@ -3924,6 +3937,7 @@ SKILL_INFO_LIST = {
 		"DC_WINKCHARM";
 		SkillName = "Wink of Charm",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 40 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
@@ -3933,6 +3947,7 @@ SKILL_INFO_LIST = {
 		"BS_UNFAIRLYTRICK";
 		SkillName = "Unfair Trick",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 0 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -3942,6 +3957,7 @@ SKILL_INFO_LIST = {
 		"BS_GREED";
 		SkillName = "Greed",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 10 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -3951,6 +3967,7 @@ SKILL_INFO_LIST = {
 		"PR_REDEMPTIO";
 		SkillName = "Redemptio",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 400 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -3960,6 +3977,7 @@ SKILL_INFO_LIST = {
 		"MO_KITRANSLATION";
 		SkillName = "Ki Translation",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 40 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
@@ -3969,6 +3987,7 @@ SKILL_INFO_LIST = {
 		"MO_BALKYOUNG";
 		SkillName = "Ki Explosion",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 20 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -3978,6 +3997,7 @@ SKILL_INFO_LIST = {
 		"SA_ELEMENTGROUND";
 		SkillName = "Elemental Change (Earth)",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 30 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
@@ -3987,6 +4007,7 @@ SKILL_INFO_LIST = {
 		"SA_ELEMENTFIRE";
 		SkillName = "Elemental Change (Fire)",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 30 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
@@ -3996,6 +4017,7 @@ SKILL_INFO_LIST = {
 		"SA_ELEMENTWIND";
 		SkillName = "Elemental Change (Wind)",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 30 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
@@ -5048,7 +5070,7 @@ SKILL_INFO_LIST = {
 		"MH_NEEDLE_OF_PARALYZE";
 		SkillName = "Needle of Paralyze",
 		MaxLv = 5,
-		SpAmount = { 60, 80, 100, 120, 140 },
+		SpAmount = { 48, 60, 72, 84, 96 },
 		bSeperateLv = true,
 		AttackRange = { 5, 5, 5, 5, 5 },
 	},
@@ -6165,6 +6187,7 @@ SKILL_INFO_LIST = {
 		"NV_FIRSTAID";
 		SkillName = "First Aid",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 3 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -6207,6 +6230,7 @@ SKILL_INFO_LIST = {
 		"NV_TRICKDEAD";
 		SkillName = "Trick Dead",	
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 5 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -6249,6 +6273,7 @@ SKILL_INFO_LIST = {
 		"SM_MOVINGRECOVERY";
 		SkillName = "Moving HP Recovery",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 0 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -6294,6 +6319,7 @@ SKILL_INFO_LIST = {
 		"SM_FATALBLOW";
 		SkillName = "Fatal Blow",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 0 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -6341,6 +6367,7 @@ SKILL_INFO_LIST = {
 		"SM_AUTOBERSERK";
 		SkillName = "Auto Berserk",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 1 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -6388,6 +6415,7 @@ SKILL_INFO_LIST = {
 		"AC_MAKINGARROW";
 		SkillName = "Making Arrow",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 10 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -6409,6 +6437,7 @@ SKILL_INFO_LIST = {
 		"AC_CHARGEARROW";
 		SkillName = "Charge Arrow",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 15 },
 		bSeperateLv = false,
 		AttackRange = { 9 }
@@ -6418,6 +6447,7 @@ SKILL_INFO_LIST = {
 		"TF_SPRINKLESAND";
 		SkillName = "Sprinkle Sand",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 9 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -6427,6 +6457,7 @@ SKILL_INFO_LIST = {
 		"TF_BACKSLIDING";
 		SkillName = "Back Sliding",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 7 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -6436,6 +6467,7 @@ SKILL_INFO_LIST = {
 		"TF_PICKSTONE";
 		SkillName = "Pick Stone",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 2 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -6469,6 +6501,7 @@ SKILL_INFO_LIST = {
 		"TF_THROWSTONE";
 		SkillName = "Throw Stone",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 2 },
 		bSeperateLv = false,
 		AttackRange = { 7 }
@@ -6491,6 +6524,7 @@ SKILL_INFO_LIST = {
 		"MC_CARTREVOLUTION";
 		SkillName = "Cart Revolution",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 12 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -6538,6 +6572,7 @@ SKILL_INFO_LIST = {
 		"MC_CHANGECART";
 		SkillName = "Change Cart",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 40 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -6571,6 +6606,7 @@ SKILL_INFO_LIST = {
 		"MC_LOUD";
 		SkillName = "Loud Exclamation",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 8 },
 		bSeperateLv = false,
 		AttackRange = { 1 },
@@ -6592,6 +6628,7 @@ SKILL_INFO_LIST = {
 		"AL_HOLYLIGHT";
 		SkillName = "Holy Light",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 15 },
 		bSeperateLv = false,
 		AttackRange = { 9 },
@@ -6622,6 +6659,7 @@ SKILL_INFO_LIST = {
 		"MG_ENERGYCOAT";
 		SkillName = "Energy Coat",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 30 },
 		bSeperateLv = false,
 		AttackRange = { 1 },
@@ -7546,10 +7584,10 @@ SKILL_INFO_LIST = {
 	[SKID.MH_SONIC_CRAW] = {
 		"MH_SONIC_CRAW";
 		SkillName = "Sonic Claw",
-		MaxLv = 0,
+		MaxLv = 5,
 		SpAmount = { 20, 25, 30, 35, 40 },
 		bSeperateLv = true,
-		AttackRange = { }
+		AttackRange = { 1, 1, 1, 1, 1 }
 	},
 
 	[SKID.MH_SILENT_BREEZE] = {
@@ -7604,6 +7642,7 @@ SKILL_INFO_LIST = {
 		"AM_BIOETHICS";
 		SkillName = "Bioethics",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 0 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -7622,7 +7661,7 @@ SKILL_INFO_LIST = {
 		"MH_SUMMON_LEGION";
 		SkillName = "Summon Legion",
 		MaxLv = 5,
-		SpAmount = { 48, 60, 72, 84, 96 },
+		SpAmount = { 60, 80, 100, 120, 140 },
 		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9 }
 	},
@@ -7649,6 +7688,7 @@ SKILL_INFO_LIST = {
 		"SA_CREATECON";
 		SkillName = "Create Elemental Converter",
 		MaxLv = 1,
+		Type = "Quest",
 		SpAmount = { 30 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
@@ -11380,5 +11420,257 @@ SKILL_INFO_LIST = {
 		_NeedSkillList = {
 			{ SKID.GS_SINGLEACTION,1 }
 		}
+	},
+	--Not sure about the translation below
+	[SKID.KO_YAMIKUMO] = {
+		"KO_YAMIKUMO";
+		SkillName = "Shadow Cloud",
+		MaxLv = 1,
+		SpAmount = { 10 },
+		bSeperateLv = false,
+		AttackRange = { 1 }
+	},
+
+	[SKID.KO_RIGHT] = {
+		"KO_RIGHT";
+		SkillName = "Right Hand Mastery",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+
+	[SKID.KO_LEFT] = {
+		"KO_LEFT";
+		SkillName = "Left Hand Mastery",
+		MaxLv = 5,
+		SpAmount = { 0, 0, 0, 0, 0 },
+		bSeperateLv = false,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+
+	[SKID.KO_JYUMONJIKIRI] = {
+		"KO_JYUMONJIKIRI";
+		SkillName = "Cross Strike",
+		MaxLv = 5,
+		SpAmount = { 20, 24, 28, 32, 36 },
+		bSeperateLv = true,
+		AttackRange = { 3, 4, 5, 6, 7 }
+	},
+
+	[SKID.KO_SETSUDAN] = {
+		"KO_SETSUDAN";
+		SkillName = "영혼 절단",
+		MaxLv = 5,
+		SpAmount = { 12, 16, 20, 24, 28 },
+		bSeperateLv = true,
+		AttackRange = { 2, 2, 2, 2, 2 }
+	},
+
+	[SKID.KO_BAKURETSU] = {
+		"KO_BAKURETSU";
+		SkillName = "Exploding Kunai",
+		MaxLv = 5,
+		SpAmount = { 5, 6, 7, 8, 9 },
+		bSeperateLv = true,
+		AttackRange = { 7, 8, 9, 10, 11 }
+	},
+
+	[SKID.KO_HAPPOKUNAI] = {
+		"KO_HAPPOKUNAI";
+		SkillName = "팔방 쿠나이",
+		MaxLv = 5,
+		SpAmount = { 12, 14, 16, 18, 20 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+
+	[SKID.KO_MUCHANAGE] = {
+		"KO_MUCHANAGE";
+		SkillName = "Overthrow",
+		MaxLv = 10,
+		SpAmount = { 50, 50, 50, 50, 50, 50, 50, 50, 50, 50 },
+		bSeperateLv = true,
+		AttackRange = { 11, 11, 11, 11, 11, 11, 11, 11, 11, 11 }
+	},
+
+	[SKID.KO_HUUMARANKA] = {
+		"KO_HUUMARANKA";
+		SkillName = "풍마수리검 난화",
+		MaxLv = 5,
+		SpAmount = { 24, 28, 32, 36, 40 },
+		bSeperateLv = true,
+		AttackRange = { 9, 10, 11, 12, 13 }
+	},
+
+	[SKID.KO_MAKIBISHI] = {
+		"KO_MAKIBISHI";
+		SkillName = "Makibishi",
+		MaxLv = 5,
+		SpAmount = { 9, 12, 15, 18, 21 },
+		bSeperateLv = true,
+		AttackRange = { 7, 7, 7, 7, 7 }
+	},
+
+	[SKID.KO_MEIKYOUSISUI] = {
+		"KO_MEIKYOUSISUI";
+		SkillName = "명경지수",
+		MaxLv = 5,
+		SpAmount = { 100, 100, 100, 100, 100 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+
+	[SKID.KO_ZANZOU] = {
+		"KO_ZANZOU";
+		SkillName = "Illusion - Afterimage",
+		MaxLv = 5,
+		SpAmount = { 40, 44, 48, 52, 56 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+
+	[SKID.KO_KYOUGAKU] = {
+		"KO_KYOUGAKU";
+		SkillName = "Illusion - Shock",
+		MaxLv = 5,
+		SpAmount = { 40, 44, 48, 52, 56 },
+		bSeperateLv = true,
+		AttackRange = { 5, 5, 5, 5, 5 }
+	},
+
+	[SKID.KO_JYUSATSU] = {
+		"KO_JYUSATSU";
+		SkillName = "Illusion - Killing Curse",
+		MaxLv = 5,
+		SpAmount = { 40, 44, 48, 52, 56 },
+		bSeperateLv = true,
+		AttackRange = { 5, 5, 5, 5, 5 }
+	},
+
+	[SKID.KO_KAHU_ENTEN] = {
+		"KO_KAHU_ENTEN";
+		SkillName = "화부 : 염천",
+		MaxLv = 1,
+		SpAmount = { 20 },
+		bSeperateLv = false,
+		AttackRange = { 1 }
+	},
+
+	[SKID.KO_HYOUHU_HUBUKI] = {
+		"KO_HYOUHU_HUBUKI";
+		SkillName = "빙부 : 취설",
+		MaxLv = 1,
+		SpAmount = { 20 },
+		bSeperateLv = false,
+		AttackRange = { 1 }
+	},
+
+	[SKID.KO_KAZEHU_SEIRAN] = {
+		"KO_KAZEHU_SEIRAN";
+		SkillName = "풍부 : 청람",
+		MaxLv = 1,
+		SpAmount = { 20 },
+		bSeperateLv = false,
+		AttackRange = { 1 }
+	},
+
+	[SKID.KO_DOHU_KOUKAI] = {
+		"KO_DOHU_KOUKAI";
+		SkillName = "토부 : 강괴",
+		MaxLv = 1,
+		SpAmount = { 20 },
+		bSeperateLv = false,
+		AttackRange = { 1 }
+	},
+
+	[SKID.KO_KAIHOU] = {
+		"KO_KAIHOU";
+		SkillName = "술식 해방",
+		MaxLv = 1,
+		SpAmount = { 10 },
+		bSeperateLv = false,
+		AttackRange = { 1 }
+	},
+
+	[SKID.KO_ZENKAI] = {
+		"KO_ZENKAI";
+		SkillName = "술식 전개",
+		MaxLv = 1,
+		SpAmount = { 30 },
+		bSeperateLv = false,
+		AttackRange = { 1 }
+	},
+
+	[SKID.KO_GENWAKU] = {
+		"KO_GENWAKU";
+		SkillName = "환술 - 환혹",
+		MaxLv = 5,
+		SpAmount = { 40, 44, 48, 52, 56 },
+		bSeperateLv = true,
+		AttackRange = { 5, 6, 7, 8, 9 }
+	},
+
+	[SKID.KO_IZAYOI] = {
+		"KO_IZAYOI";
+		SkillName = "16th Night",
+		MaxLv = 5,
+		SpAmount = { 70, 75, 80, 85, 90 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+
+	[SKID.KG_KAGEHUMI] = {
+		"KG_KAGEHUMI";
+		SkillName = "Shadow Step",
+		MaxLv = 5,
+		SpAmount = { 25, 30, 35, 40, 45 },
+		bSeperateLv = true,
+		AttackRange = { 5, 7, 9, 11, 13 }
+	},
+
+	[SKID.KG_KYOMU] = {
+		"KG_KYOMU";
+		SkillName = "허무의 그림자",
+		MaxLv = 5,
+		SpAmount = { 50, 50, 50, 50, 50 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+
+	[SKID.KG_KAGEMUSYA] = {
+		"KG_KAGEMUSYA";
+		SkillName = "Shadow Warrior",
+		MaxLv = 5,
+		SpAmount = { 60, 65, 70, 75, 80 },
+		bSeperateLv = true,
+		AttackRange = { 1, 1, 1, 1, 1 }
+	},
+
+	[SKID.OB_ZANGETSU] = {
+		"OB_ZANGETSU";
+		SkillName = "Distorted Crescent Moon",
+		MaxLv = 5,
+		SpAmount = { 60, 70, 80, 90, 100 },
+		bSeperateLv = true,
+		AttackRange = { 7, 7, 7, 7, 7 }
+	},
+
+	[SKID.OB_OBOROGENSOU] = {
+		"OB_OBOROGENSOU";
+		SkillName = "흐린 달빛의 환상",
+		MaxLv = 5,
+		SpAmount = { 55, 60, 65, 70, 75 },
+		bSeperateLv = true,
+		AttackRange = { 7, 7, 7, 7, 7 }
+	},
+
+	[SKID.OB_AKAITSUKI] = {
+		"OB_AKAITSUKI";
+		SkillName = "Ominous Crimson Moonlight",
+		MaxLv = 5,
+		SpAmount = { 20, 30, 40, 50, 60 },
+		bSeperateLv = true,
+		AttackRange = { 7, 7, 7, 7, 7 }
 	}
 }

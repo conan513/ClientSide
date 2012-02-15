@@ -2150,3 +2150,19 @@ StateIconList[EFST_IDs.EFST_ATTHASTE_CASH] = {
 		{"Increase Attack Speed"}
 	}
 }
+StateIconList[EFST_IDs.EFST_2011RWC] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Firecracker", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Increases all stats"},
+		{"Increases ATK, MATK"}
+	}
+}
+StateIconList[EFST_IDs.EFST_PHI_DEMON] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Godfather's Ancient Spirit", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Gives Demon type monster"},
+		{"Increases Physical and Magic damage"}
+	}
+}
