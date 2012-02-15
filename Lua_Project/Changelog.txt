@@ -1,3 +1,7 @@
+rev147 - [2012-02-16]
+ - 2011-09-06 kRO Patch lua for Patcher
+ * can be found in System folder
+
 rev146 - [2012-02-16]
  - 2011-09-06 kRO Patch lua and lub
 
