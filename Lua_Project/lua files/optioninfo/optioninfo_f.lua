@@ -22,7 +22,7 @@ l_GetOptionValue = function(keyName)
 end
 
 SaveToFileCmdOnOffValue = function()
-   saveFile = io.open("data\\OptionInfo.lua", "w")
+   saveFile = io.open("SaveData\\OptionInfo.lua", "w")
    if saveFile ~= nil then
       for k, v in pairs(CmdOnOffOderList) do
          local value = c_GetCmdOnOffValue(v)
