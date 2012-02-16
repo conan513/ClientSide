@@ -648,5 +648,3 @@ _ma_scene01_emitterInfo =
 		["maxcount"] = { 40 }, 
 	},
 }
-
-ReadEmitterInfo_ver2( _ma_scene01_emitterInfo )

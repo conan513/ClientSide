@@ -522,5 +522,3 @@ _1ma_b_emitterInfo =
 		["maxcount"] = { 40 }, 
 	},
 }
-
-ReadEmitterInfo_ver2( _1ma_b_emitterInfo )

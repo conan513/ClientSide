@@ -12085,12 +12085,11 @@ SKILL_DESCRIPT = {
 		"Type:^777777 Active / Ground ^000000",
 		"SP Cost:^777777 50 + 10*SkillLV ^000000",
 		"Target:^777777 Enemy ^000000",
-		"Cast Time:^777777 ?? ^000000",
-		"Effect:^777777 Paint a rousing red symbol on the ground. Anyone who enters the symbol receives the effects equivalent to Provoke LV 10 (ATK +32%, DEF -55%).",
-		"Consumes 2 Cans of Paint and 1 Paintbrush. ^000000",
-		"[Level 1]^777777 Duration  7 sec ^000000",
-		"[Level 2]^777777 Duration 14 sec ^000000",
-		"[Level 3]^777777 Duration 21 sec ^000000",
+		"Effect:^777777 Paint a rousing red symbol on the ground. Anyone who enters the symbol receives the effects equivalent to Provoke.",
+		" Requires character to have 1 Paint Brush, and consume 2 Surface Paint. ^000000",
+		"[Level 1]^777777 Duration  5 sec ^000000",
+		"[Level 2]^777777 Duration 10 sec ^000000",
+		"[Level 3]^777777 Duration 15 sec ^000000",
 	},
 
 	[SKID.SC_FEINTBOMB] = {

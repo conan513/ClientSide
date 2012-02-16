@@ -1340,7 +1340,9 @@ jobtbl = {
 	["JT_MD_MANANANGGAL"] = 2338,	
 	["JT_MD_MANGKUKULAM"] = 2339,	
 	["JT_MD_TIYANAK"] = 2340,	
-	["JT_MONSTER_LAST"] = 2341,
+	["JT_RWC_BOSS2011"] = 2341,	
+	["JT_MER_DIABOLIC"] = 2342,
+	["JT_MONSTER_LAST"] = 2343,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
