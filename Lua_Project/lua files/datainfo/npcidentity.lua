@@ -1342,7 +1342,8 @@ jobtbl = {
 	["JT_MD_TIYANAK"] = 2340,	
 	["JT_RWC_BOSS2011"] = 2341,	
 	["JT_MER_DIABOLIC"] = 2342,
-	["JT_MONSTER_LAST"] = 2343,
+	["JT_HIDDEN_MOB_W"] = 2343,
+	["JT_MONSTER_LAST"] = 2344,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
@@ -1968,4 +1969,16 @@ jobtbl = {
 	["JT_4_F_KR_TIGER"] = 586,
 	["JT_4_M_KR_BOY"] = 587,
 	["JT_4_M_KAGE_OLD"] = 588,
+	["JT_4_WHIKEBAIN"] = 589,
+	["JT_4_EREND"] = 590,
+	["JT_4_RAWREL"] = 591,
+	["JT_4_ARMAIA"] = 592,
+	["JT_4_KAVAC"] = 593,
+	["JT_4_YGNIZEM"] = 594,
+	["JT_4_EREMES"] = 595,
+	["JT_4_MAGALETA"] = 596,
+	["JT_4_KATRINN"] = 597,
+	["JT_4_SHECIL"] = 598,
+	["JT_4_SEYREN"] = 599,
+	["JT_4_HARWORD"] = 600
 }
