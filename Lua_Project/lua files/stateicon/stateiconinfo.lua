@@ -2166,3 +2166,30 @@ StateIconList[EFST_IDs.EFST_PHI_DEMON] = {
 		{"Increases Physical and Magic damage"}
 	}
 }
+StateIconList[EFST_IDs.EFST_GM_BATTLE] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"전투약", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Increases ATK and MATK"},
+		{"Reduced MHP and MSP"}
+	}
+}
+StateIconList[EFST_IDs.EFST_GM_BATTLE2] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"고급전투약", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Increases ATK and MATK"},
+		{"Reduces MHP and MSP"}
+	}
+}
+StateIconList[EFST_IDs.EFST_2011RWC_SCROLL] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Red Booster", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Increases ATK and MATK"},
+		{"Increases ASPD"},
+		{"Reduced variable casting time"},
+		{"When receiving Physical and Magical damage"},
+		{"there is a chance to cast Improve Concentration skill"}
+	}
+}

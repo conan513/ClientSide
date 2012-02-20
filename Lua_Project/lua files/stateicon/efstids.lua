@@ -652,6 +652,10 @@ EFST_IDs = {
 	EFST_PHI_DEMON = 658,
 	EFST_GENSOU = 659,
 	EFST_AKAITSUKI = 660,
+	EFST_TETANY = 661,
+	EFST_GM_BATTLE = 662,
+	EFST_GM_BATTLE2 = 663,
+	EFST_2011RWC_SCROLL = 664,
 	__newindex = function()   error("unknown state") end
 }
 setmetatable(EFST_IDs, EFST_IDs)
