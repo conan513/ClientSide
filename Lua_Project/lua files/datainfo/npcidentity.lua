@@ -1980,5 +1980,8 @@ jobtbl = {
 	["JT_4_KATRINN"] = 597,
 	["JT_4_SHECIL"] = 598,
 	["JT_4_SEYREN"] = 599,
-	["JT_4_HARWORD"] = 600
+	["JT_4_HARWORD"] = 600,
+	["JT_4_F_JP_CYNTHIA"] = 601,
+	["JT_4_M_JP_GUSTON"] = 602,
+	["JT_4_M_JP_BERKUT"] = 603
 }

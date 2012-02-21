@@ -11428,7 +11428,10 @@ SKILL_INFO_LIST = {
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
-		AttackRange = { 1 }
+		AttackRange = { 1 },
+		_NeedSkillList = {
+			{ SKID.NJ_KIRIKAGE,5 }
+		}
 	},
 
 	[SKID.KO_RIGHT] = {
@@ -11453,18 +11456,24 @@ SKILL_INFO_LIST = {
 		"KO_JYUMONJIKIRI";
 		SkillName = "Cross Strike",
 		MaxLv = 5,
-		SpAmount = { 20, 24, 28, 32, 36 },
+		SpAmount = { 10, 12, 14, 16, 18 },
 		bSeperateLv = true,
-		AttackRange = { 3, 4, 5, 6, 7 }
+		AttackRange = { 3, 4, 5, 6, 7 },
+		_NeedSkillList = {
+			{ SKID.KO_YAMIKUMO,1 }
+		}
 	},
 
 	[SKID.KO_SETSUDAN] = {
 		"KO_SETSUDAN";
-		SkillName = "영혼 절단",
+		SkillName = "Setsudan",
 		MaxLv = 5,
 		SpAmount = { 12, 16, 20, 24, 28 },
 		bSeperateLv = true,
-		AttackRange = { 2, 2, 2, 2, 2 }
+		AttackRange = { 2, 2, 2, 2, 2 },
+		_NeedSkillList = {
+			{ SKID.KO_JYUMONJIKIRI,2 }
+		}
 	},
 
 	[SKID.KO_BAKURETSU] = {
@@ -11473,16 +11482,22 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 5, 6, 7, 8, 9 },
 		bSeperateLv = true,
-		AttackRange = { 7, 8, 9, 10, 11 }
+		AttackRange = { 7, 8, 9, 10, 11 },
+		_NeedSkillList = {
+			{ SKID.NJ_KUNAI,5 }
+		}
 	},
 
 	[SKID.KO_HAPPOKUNAI] = {
 		"KO_HAPPOKUNAI";
-		SkillName = "팔방 쿠나이",
+		SkillName = " Happo Kunai",
 		MaxLv = 5,
 		SpAmount = { 12, 14, 16, 18, 20 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 }
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.KO_BAKURETSU,1 }
+		}
 	},
 
 	[SKID.KO_MUCHANAGE] = {
@@ -11491,16 +11506,22 @@ SKILL_INFO_LIST = {
 		MaxLv = 10,
 		SpAmount = { 50, 50, 50, 50, 50, 50, 50, 50, 50, 50 },
 		bSeperateLv = true,
-		AttackRange = { 11, 11, 11, 11, 11, 11, 11, 11, 11, 11 }
+		AttackRange = { 11, 11, 11, 11, 11, 11, 11, 11, 11, 11 },
+		_NeedSkillList = {
+			{ SKID.KO_MAKIBISHI,3 }
+		}
 	},
 
 	[SKID.KO_HUUMARANKA] = {
 		"KO_HUUMARANKA";
-		SkillName = "풍마수리검 난화",
+		SkillName = "Huuma Ranka",
 		MaxLv = 5,
 		SpAmount = { 24, 28, 32, 36, 40 },
 		bSeperateLv = true,
-		AttackRange = { 9, 10, 11, 12, 13 }
+		AttackRange = { 9, 10, 11, 12, 13 },
+		_NeedSkillList = {
+			{ SKID.NJ_HUUMA,5 }
+		}
 	},
 
 	[SKID.KO_MAKIBISHI] = {
@@ -11509,16 +11530,22 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 9, 12, 15, 18, 21 },
 		bSeperateLv = true,
-		AttackRange = { 7, 7, 7, 7, 7 }
+		AttackRange = { 7, 7, 7, 7, 7 },
+		_NeedSkillList = {
+			{ SKID.NJ_ZENYNAGE,1 }
+		}
 	},
 
 	[SKID.KO_MEIKYOUSISUI] = {
 		"KO_MEIKYOUSISUI";
-		SkillName = "명경지수",
+		SkillName = "Meikyousisui",
 		MaxLv = 5,
 		SpAmount = { 100, 100, 100, 100, 100 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 }
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.NJ_NINPOU,10 }
+		}
 	},
 
 	[SKID.KO_ZANZOU] = {
@@ -11527,7 +11554,10 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 }
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.NJ_UTSUSEMI,1 }
+		}
 	},
 
 	[SKID.KO_KYOUGAKU] = {
@@ -11536,7 +11566,10 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
-		AttackRange = { 5, 5, 5, 5, 5 }
+		AttackRange = { 5, 5, 5, 5, 5 },
+		_NeedSkillList = {
+			{ SKID.KO_GENWAKU,2 }
+		}
 	},
 
 	[SKID.KO_JYUSATSU] = {
@@ -11545,12 +11578,15 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
-		AttackRange = { 5, 5, 5, 5, 5 }
+		AttackRange = { 5, 5, 5, 5, 5 },
+		_NeedSkillList = {
+			{ SKID.KO_KYOUGAKU,3 }
+		}
 	},
 
 	[SKID.KO_KAHU_ENTEN] = {
 		"KO_KAHU_ENTEN";
-		SkillName = "화부 : 염천",
+		SkillName = "Kahu Enten",
 		MaxLv = 1,
 		SpAmount = { 20 },
 		bSeperateLv = false,
@@ -11559,7 +11595,7 @@ SKILL_INFO_LIST = {
 
 	[SKID.KO_HYOUHU_HUBUKI] = {
 		"KO_HYOUHU_HUBUKI";
-		SkillName = "빙부 : 취설",
+		SkillName = "Hyouhu Hubuki",
 		MaxLv = 1,
 		SpAmount = { 20 },
 		bSeperateLv = false,
@@ -11568,7 +11604,7 @@ SKILL_INFO_LIST = {
 
 	[SKID.KO_KAZEHU_SEIRAN] = {
 		"KO_KAZEHU_SEIRAN";
-		SkillName = "풍부 : 청람",
+		SkillName = "Kazehu Seiran",
 		MaxLv = 1,
 		SpAmount = { 20 },
 		bSeperateLv = false,
@@ -11577,7 +11613,7 @@ SKILL_INFO_LIST = {
 
 	[SKID.KO_DOHU_KOUKAI] = {
 		"KO_DOHU_KOUKAI";
-		SkillName = "토부 : 강괴",
+		SkillName = "Dohu Koukai",
 		MaxLv = 1,
 		SpAmount = { 20 },
 		bSeperateLv = false,
@@ -11586,29 +11622,42 @@ SKILL_INFO_LIST = {
 
 	[SKID.KO_KAIHOU] = {
 		"KO_KAIHOU";
-		SkillName = "술식 해방",
+		SkillName = "Kaihou",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
-		AttackRange = { 1 }
+		AttackRange = { 1 },
+		_NeedSkillList = {
+			{ SKID.KO_KAHU_ENTEN,1 },
+			{ SKID.KO_HYOUHU_HUBUKI,1 },
+			{ SKID.KO_KAZEHU_SEIRAN,1 },
+			{ SKID.KO_DOHU_KOUKAI,1 }
+		}
 	},
 
 	[SKID.KO_ZENKAI] = {
 		"KO_ZENKAI";
-		SkillName = "술식 전개",
+		SkillName = "Zenkai",
 		MaxLv = 1,
 		SpAmount = { 30 },
 		bSeperateLv = false,
-		AttackRange = { 1 }
+		AttackRange = { 1 },
+		_NeedSkillList = {
+			{ SKID.KO_KAIHOU,1 },
+			{ SKID.KO_IZAYOI,1 }
+		}
 	},
 
 	[SKID.KO_GENWAKU] = {
 		"KO_GENWAKU";
-		SkillName = "환술 - 환혹",
+		SkillName = "Genwaku",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
-		AttackRange = { 5, 6, 7, 8, 9 }
+		AttackRange = { 5, 6, 7, 8, 9 },
+		_NeedSkillList = {
+			{ SKID.NJ_UTSUSEMI,1 }
+		}
 	},
 
 	[SKID.KO_IZAYOI] = {
@@ -11617,7 +11666,10 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 70, 75, 80, 85, 90 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 }
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.NJ_NINPOU,5 }
+		}
 	},
 
 	[SKID.KG_KAGEHUMI] = {
@@ -11626,16 +11678,22 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 25, 30, 35, 40, 45 },
 		bSeperateLv = true,
-		AttackRange = { 5, 7, 9, 11, 13 }
+		AttackRange = { 5, 7, 9, 11, 13 },
+		_NeedSkillList = {
+			{ SKID.KO_ZANZOU,1 }
+		}
 	},
 
 	[SKID.KG_KYOMU] = {
 		"KG_KYOMU";
-		SkillName = "허무의 그림자",
+		SkillName = "Kyomu",
 		MaxLv = 5,
 		SpAmount = { 50, 50, 50, 50, 50 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 }
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.KG_KAGEHUMI,2 }
+		}
 	},
 
 	[SKID.KG_KAGEMUSYA] = {
@@ -11644,7 +11702,10 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 60, 65, 70, 75, 80 },
 		bSeperateLv = true,
-		AttackRange = { 1, 1, 1, 1, 1 }
+		AttackRange = { 1, 1, 1, 1, 1 },
+		_NeedSkillList = {
+			{ SKID.KG_KYOMU,3 }
+		}
 	},
 
 	[SKID.OB_ZANGETSU] = {
@@ -11653,16 +11714,22 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 60, 70, 80, 90, 100 },
 		bSeperateLv = true,
-		AttackRange = { 7, 7, 7, 7, 7 }
+		AttackRange = { 7, 7, 7, 7, 7 },
+		_NeedSkillList = {
+			{ SKID.KO_GENWAKU,1 }
+		}
 	},
 
 	[SKID.OB_OBOROGENSOU] = {
 		"OB_OBOROGENSOU";
-		SkillName = "흐린 달빛의 환상",
+		SkillName = "Oboro Gensou",
 		MaxLv = 5,
 		SpAmount = { 55, 60, 65, 70, 75 },
 		bSeperateLv = true,
-		AttackRange = { 7, 7, 7, 7, 7 }
+		AttackRange = { 7, 7, 7, 7, 7 },
+		_NeedSkillList = {
+			{ SKID.OB_AKAITSUKI,3 }
+		}
 	},
 
 	[SKID.OB_AKAITSUKI] = {
@@ -11671,6 +11738,9 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 20, 30, 40, 50, 60 },
 		bSeperateLv = true,
-		AttackRange = { 7, 7, 7, 7, 7 }
+		AttackRange = { 7, 7, 7, 7, 7 },
+		_NeedSkillList = {
+			{ SKID.OB_ZANGETSU,2 }
+		}
 	}
 }

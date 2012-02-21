@@ -4,7 +4,8 @@ LAYER_BIG = 0
 LAYER_SMALL = 1
 LayerSizeTypeList = {
 	[SPRITE_ROBE_IDs.ROBE_WINGS] = LAYER_BIG,
-	[SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER] = LAYER_SMALL
+	[SPRITE_ROBE_IDs.ROBE_BAG_OF_ADVENTURER] = LAYER_SMALL,
+	[SPRITE_ROBE_IDs.ROBE_WINGS_OF_FALLEN_ANGEL] = LAYER_BIG,
 }
 SPRITE_INHERIT_LIST = {
 	[JOBID.JT_NOVICE_H] = JOBID.JT_NOVICE,
@@ -140,8 +141,11 @@ RIDING_SPRITE_INHERIT_LIST = {
 	[JOBID.JT_PORING_NOVICE_H] = JOBID.JT_PORING_NOVICE,
 	[JOBID.JT_PORING_SNOVICE2] = JOBID.JT_PORING_NOVICE,
 	[JOBID.JT_PORING_SNOVICE2_B] = JOBID.JT_PORING_NOVICE,
+	[JOBID.JT_FROG_KAGEROU] = JOBID.JT_FROG_NINJA,
+	[JOBID.JT_FROG_OBORO] = JOBID.JT_FROG_NINJA,
 }
 
+--Function #0
 GetLayerSizeType = function(robeID)
 	if LayerSizeTypeList[robeID] == nil then
 		return LAYER_BIG
@@ -154,6 +158,7 @@ GetLayerSizeType = function(robeID)
 	end
 end
 
+--Function #1
 GetLayerDirTbl = function(sex, robeID)
 	local sizeType = GetLayerSizeType(robeID)
 	if sizeType == LAYER_BIG then
@@ -171,6 +176,7 @@ GetLayerDirTbl = function(sex, robeID)
 	end
 end
 
+--Function #2
 GetSpriteInheriteJob = function(jobID)
 	if RIDING_SPRITE_INHERIT_LIST ~= nil and RIDING_SPRITE_INHERIT_LIST[jobID] ~= nil then
 		jobID = RIDING_SPRITE_INHERIT_LIST[jobID]
@@ -190,6 +196,7 @@ GetSpriteInheriteJob = function(jobID)
 	return jobID
 end
 
+--Function #3
 DrawOnTop = function(robeID, sex, jobID, actNum, motNum)
 	local LayerDirTbl = GetLayerDirTbl(sex, robeID)
 	jobID = GetSpriteInheriteJob(jobID)

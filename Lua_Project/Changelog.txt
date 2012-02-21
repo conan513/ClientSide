@@ -1,3 +1,7 @@
+rev153 - [2012-02-22]
+ - 2011-10-19 kRO Patch lua and lub
+ * Oboro and Kagerou skills are not fully translated and some translations might be wrong.
+
 rev152 - [2012-02-21]
  - 2011-10-12 kRO Patch lua and lub
 
