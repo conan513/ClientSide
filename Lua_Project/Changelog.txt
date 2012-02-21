@@ -1,3 +1,6 @@
+rev154 - [2012-02-22]
+ - Fixed a mistake in spriterobename.lua
+
 rev153 - [2012-02-22]
  - 2011-10-19 kRO Patch lua and lub
  * Oboro and Kagerou skills are not fully translated and some translations might be wrong.
