@@ -254,26 +254,27 @@ TestFile = function(saveFileName)
 end
 
 -- Function #12
-GetSkillAttackRange = function(in_SKID, in_Level)
-   local attackRange = 1
-   local attackRangeOfMaxLv = 0
-   local maxLv = 0
-   local obj = SKILL_INFO_LIST[in_SKID]
-   if obj ~= nil then
-      obj = SKILL_INFO_LIST[in_SKID].AttackRange
-      maxLv = SKILL_INFO_LIST[in_SKID].MaxLv
-   end
-   if obj ~= nil then
-      attackRange = SKILL_INFO_LIST[in_SKID].AttackRange[in_Level]
-   end
-   if maxLv ~= nil then
-      attackRangeOfMaxLv = SKILL_INFO_LIST[in_SKID].AttackRange[maxLv]
-   end
-   if attackRangeOfMaxLv == nil then
-      attackRangeOfMaxLv = 0
-   end
-   if attackRange ~= nil then
-      return attackRange, attackRangeOfMaxLv
-   end
-   return 1, attackRangeOfMaxLv
+GetSkillAttackRange = function(in_SKID, in_Level, in_curMaxLv)
+	local attackRange = 1
+	local attackRangeOfMaxLv = 0
+	local maxLv = 0
+	local obj = SKILL_INFO_LIST[in_SKID]
+	if obj ~= nil then
+		obj = SKILL_INFO_LIST[in_SKID].AttackRange
+		maxLv = SKILL_INFO_LIST[in_SKID].MaxLv
+	end
+	if obj ~= nil then
+		attackRange = SKILL_INFO_LIST[in_SKID].AttackRange[in_Level]
+	end
+	if maxLv ~= nil and in_curMaxLv > maxLv then
+		in_curMaxLv = maxLv
+	end
+	attackRangeOfMaxLv = SKILL_INFO_LIST[in_SKID].AttackRange[in_curMaxLv]
+	if attackRangeOfMaxLv == nil then
+		attackRangeOfMaxLv = 0
+	end
+	if attackRange ~= nil then
+		return attackRange, attackRangeOfMaxLv
+	end
+	return 1, attackRangeOfMaxLv
 end
