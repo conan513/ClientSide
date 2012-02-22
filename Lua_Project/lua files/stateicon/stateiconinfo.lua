@@ -2265,3 +2265,10 @@ StateIconList[EFST_IDs.EFST_AKAITSUKI] = {
 		{"healed amount will be converted to damage."}
 	}
 }
+StateIconList[EFST_IDs.EFST_MYSTICPOWDER] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Mystic Powder", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Increases FLEE and LUK"}
+	}
+}

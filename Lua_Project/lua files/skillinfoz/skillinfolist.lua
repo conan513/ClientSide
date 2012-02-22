@@ -9605,7 +9605,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
-			{ SKID.SA_DISPELL,1 }
+			{ SKID.SA_DISPELL,2 }
 		}
 	},
 

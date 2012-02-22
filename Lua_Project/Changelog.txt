@@ -1,3 +1,6 @@
+rev158 - [2012-02-23]
+ - 2011-11-23 kRO Patch lua and lub
+
 rev157 - [2012-02-23]
  - 2011-11-16 kRO Patch lua and lub
 
