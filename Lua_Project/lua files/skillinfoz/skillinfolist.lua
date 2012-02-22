@@ -11622,7 +11622,7 @@ SKILL_INFO_LIST = {
 
 	[SKID.KO_KAIHOU] = {
 		"KO_KAIHOU";
-		SkillName = "Kaihou",
+		SkillName = "Technique Kaihou",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,

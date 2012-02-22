@@ -1,3 +1,6 @@
+rev155 - [2012-02-23]
+ - 2011-10-26 kRO Patch lua and lub
+
 rev154 - [2012-02-22]
  - Fixed a mistake in spriterobename.lua
 

@@ -2193,3 +2193,75 @@ StateIconList[EFST_IDs.EFST_2011RWC_SCROLL] = {
 		{"there is a chance to cast Improve Concentration skill"}
 	}
 }
+StateIconList[EFST_IDs.EFST_MEIKYOUSISUI] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"명경지수 (明鏡止水)", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Recovers a certain amount of HP"},
+		{"Recovers a certain amount of SP"},
+		{"Unable to move"},
+		{"Chance to ignore damage when attacked"},
+		{"Effect wears off by chance when hit."} --스킬 사용 시, 디버프가 랜덤으로 해제 데미지를 입을 시, 효과 해제
+	}
+}
+StateIconList[EFST_IDs.EFST_IZAYOI] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"16th Night", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Removes Fixed casting time"},
+		{"Reduced variable casting time"},
+		{"Increases MATK"},
+		{"Drains SP per second"}
+	}
+}
+StateIconList[EFST_IDs.EFST_KG_KAGEHUMI] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Shadow Step", COLOR_TITLE_DEBUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Unable to move"},
+		{"Cannot use certain skills or item"},
+		{"Stealth or teleport skills and items are disabled."},
+		{"Unable to use Emergency Call skill"}
+	}
+}
+StateIconList[EFST_IDs.EFST_KYOMU] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Kyomu", COLOR_TITLE_DEBUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Reflects wont take effect when hit by Physical or Magical Attacks"},
+		{"Chance the skill will fail when casting"}
+	}
+}
+StateIconList[EFST_IDs.EFST_KAGEMUSYA] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Shadow Warrior", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Enchanted with Double Attack effect"},
+		{"Drains SP per second"},
+		{"Status ends when received a certain number of hits."}
+	}
+}
+StateIconList[EFST_IDs.EFST_ZANGETSU] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Distorted Crescent Moon", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"베이스 레벨에 따른 효과 부여"}
+	}
+}
+StateIconList[EFST_IDs.EFST_GENSOU] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Oboro Gensou", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Randomly increase/decrease HP and SP"},
+		{"When hit by Magical Attacks half of the damage"},
+		{"will be distributed around the area"}
+	}
+}
+StateIconList[EFST_IDs.EFST_AKAITSUKI] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Ominous Crimson Moonlight", COLOR_TITLE_DEBUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"When receiving recovery skills"},
+		{"healed amount will be converted to damage."}
+	}
+}
