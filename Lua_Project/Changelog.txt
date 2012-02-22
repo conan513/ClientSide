@@ -1,3 +1,6 @@
+rev157 - [2012-02-23]
+ - 2011-11-16 kRO Patch lua and lub
+
 rev156 - [2012-02-23]
  - 2011-11-09 kRO Patch lua and lub
  * no lua and lub for 2011-11-02 since lua files extracted were same as 2011-10-19
