@@ -50,3 +50,21 @@ l_GetCmdHelpMsg = function(keyName, bIsOn)
    end
    return ""
 end
+
+SaveToFileCmdOnOffValueEx = function(nID)
+	if nID == 0 then
+		saveFile = io.open("SaveData\\OptionInfo.lua", "w")
+	else
+		saveFile = io.open("data\\OptionInfo.lua", "w")
+	end
+	if saveFile ~= nil then
+		for k, v in pairs(CmdOnOffOderList) do
+			local value = c_GetCmdOnOffValue(v)
+			if value ~= -1 then
+				saveFile:write(string.format("CmdOnOffList[\"%s\"] = %d\n", v, value))
+			end
+		end
+		saveFile:write("\n")
+		io.close(saveFile)
+	end
+end
