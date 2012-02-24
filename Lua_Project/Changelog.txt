@@ -1,3 +1,6 @@
+rev162 - [2012-02-25]
+ - Fixed a mistake in jobname_f.lua and updated lub files from 2011-10-12 and up
+
 rev161 - [2012-02-24]
  - 2011-12-14 kRO Patch lua and lub
 

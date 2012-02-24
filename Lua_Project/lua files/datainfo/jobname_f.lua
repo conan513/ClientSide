@@ -51,7 +51,7 @@ GetPetAccActName = function(accID)
 end
 
 --Function #5
-GetPetAccActName = function(accID, in_bResEnglishName)
+GetPetAccActName_V2 = function(accID, in_bResEnglishName)
 	local filePath = "Monster\\"
 	local fileName = "ACC_CHOCHO.act"
 	if in_bResEnglishName == true then
