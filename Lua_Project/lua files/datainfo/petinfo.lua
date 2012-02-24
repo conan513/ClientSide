@@ -59,7 +59,8 @@ PetIllustNameTable = {
 	[jobtbl.JT_WICKED_NYMPH] = "Æê_WICKED_NYMPH.bmp",
 	[jobtbl.JT_J_TAINI] = "Æê_j_taini.bmp",
 	[jobtbl.JT_XMAS_LUNATIC] = "Æê_Å©¸®½º¸¶½º_´«Åä³¢.bmp",
-	[jobtbl.JT_TIKBALANG] = "Æê_Æ½¹ö··.bmp"
+	[jobtbl.JT_TIKBALANG] = "Æê_Æ½¹ö··.bmp",
+	[jobtbl.JT_MARIN] = "Æê_¸¶¸°.bmp"
 }
 
 PetIllustNameTable_Eng = {
@@ -123,7 +124,8 @@ PetIllustNameTable_Eng = {
 	[jobtbl.JT_WICKED_NYMPH] = "PET_WICKED_NYMPH.bmp",
 	[jobtbl.JT_J_TAINI] = "PET_J_TAINI.bmp",
 	[jobtbl.JT_XMAS_LUNATIC] = "PET_XMAS_LUNATIC.bmp",
-	[jobtbl.JT_TIKBALANG] = "PET_TIKBALANG.bmp"
+	[jobtbl.JT_TIKBALANG] = "PET_TIKBALANG.bmp",
+	[jobtbl.JT_MARIN] = "PET_MARIN.bmp",
 }
 
 PetAccIDs = {
@@ -167,7 +169,8 @@ PetAccIDs = {
 	ACC_NIGHTMARE_TERROR = 10036,
 	ACC_SUCCUBUS = 10037,
 	ACC_IMP = 10038,
-	ACC_LAST = 10039
+	ACC_BAG_OF_TAIWAN = 10039,
+	ACC_LAST = 10040
 }
 
 PetAccActNameTable = {
@@ -209,7 +212,8 @@ PetAccActNameTable = {
 	[PetAccIDs.ACC_GOLEM] = "GOLEM_ÅÂ¿±.act",
 	[PetAccIDs.ACC_NIGHTMARE_TERROR] = "NIGHTMARE_TERROR_Áö¿ÁÀÇ»Ô.act",
 	[PetAccIDs.ACC_SUCCUBUS] = "SUCCUBUS_°ËÀº³ªºñ°¡¸é.act",
-	[PetAccIDs.ACC_IMP] = "IMP_»Ôº¸È£´ë.act"
+	[PetAccIDs.ACC_IMP] = "IMP_»Ôº¸È£´ë.act",
+	[PetAccIDs.ACC_BAG_OF_TAIWAN] = "MARIN_´ë¸¸Ã¥°¡¹æ.act"
 }
 
 PetAccActNameTable_Eng = {

@@ -1874,7 +1874,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Spread Attack",
 		MaxLv = 10,
 		SpAmount = { 15, 20, 25, 30, 35, 40, 45, 50, 55, 60 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
 			{ SKID.GS_FULLBUSTER,5 }
@@ -4396,7 +4396,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Bloody Lust",
 		MaxLv = 3,
 		SpAmount = { 60, 70, 80 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 7, 7, 7 },
 		_NeedSkillList = {
 			{ SKID.SC_DIMENSIONDOOR,3 }
@@ -4408,7 +4408,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Cannon Spear",
 		MaxLv = 5,
 		SpAmount = { 12, 16, 20, 24, 28 },
-		bSeperateLv = false,
+		bSeperateLv = true,
 		AttackRange = { 11, 11, 11, 11, 11 },
 		_NeedSkillList = {
 			{ SKID.LG_PINPOINTATTACK,1 }
@@ -9605,7 +9605,7 @@ SKILL_INFO_LIST = {
 		bSeperateLv = true,
 		AttackRange = { 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
-			{ SKID.SA_DISPELL,1 }
+			{ SKID.SA_DISPELL,2 }
 		}
 	},
 
@@ -11742,5 +11742,50 @@ SKILL_INFO_LIST = {
 		_NeedSkillList = {
 			{ SKID.OB_ZANGETSU,2 }
 		}
+	},
+
+	[SKID.ECLAGE_RECALL] = {
+		"ECLAGE_RECALL";
+		SkillName = "Return to Eclage",
+		MaxLv = 1,
+		SpAmount = { 0 },
+		bSeperateLv = false,
+		AttackRange = { 1 },
+	},
+
+	[SKID.ECL_SNOWFLIP] = {
+		"ECL_SNOWFLIP";
+		SkillName = "Snow Flip",
+		MaxLv = 1,
+		SpAmount = { 0 },
+		bSeperateLv = false,
+		AttackRange = { 7 },
+	},
+
+	[SKID.ECL_PEONYMAMY] = {
+		"ECL_PEONYMAMY";
+		SkillName = "페오니마미",
+		MaxLv = 1,
+		SpAmount = { 0 },
+		bSeperateLv = false,
+		AttackRange = { 7 },
+	},
+
+	[SKID.ECL_SADAGUI] = {
+		"ECL_SADAGUI";
+		SkillName = "사다귀",
+		MaxLv = 1,
+		SpAmount = { 0 },
+		bSeperateLv = false,
+		AttackRange = { 7 },
+	},
+
+	[SKID.ECL_SEQUOIADUST] = {
+		"ECL_SEQUOIADUST";
+		SkillName = "Sequoia Dust",
+		MaxLv = 1,
+		SpAmount = { 0 },
+		bSeperateLv = false,
+		AttackRange = { 7 },
 	}
 }

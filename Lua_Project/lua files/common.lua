@@ -21,5 +21,3 @@ getTableSize = function(t)
    end
    return size
 end
-
-

@@ -93,7 +93,7 @@ map_list = {
 		{name = MsgStrID.MSI_MAP_LIST_NAME_BEACH_DUN2},
 		{name = MsgStrID.MSI_MAP_LIST_NAME_BEACH_DUN3}}
 	},
-	{name = "Lutie",
+	{name = MsgStrID.MSI_MAP_LIST_NAME_RUTIE,
 	list = {{name = MsgStrID.MSI_MAP_LIST_NAME_FILD, colorR = 255, colorG = 0, colorB = 0},
 		{name = MsgStrID.MSI_MAP_LIST_NAME_XMAS_DUN01},
 		{name = MsgStrID.MSI_MAP_LIST_NAME_XMAS_DUN02, colorR = 255, colorG = 0, colorB = 0}}

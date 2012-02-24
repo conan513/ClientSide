@@ -19,6 +19,8 @@ SetHeadSprEditInfo(pcJobTbl.JT_SUPERNOVICE,4,4,0,2,0,35)
 SetHeadSprEditInfo(pcJobTbl.JT_SUPERNOVICE_B,4,4,0,2,0,35)
 SetHeadSprEditInfo(4128,4,4,0,2,0,35)
 SetHeadSprEditInfo(4172,4,4,0,2,0,35)
+SetHeadSprEditInfo(pcJobTbl.JT_SUPERNOVICE2,4,4,0,2,0,35)
+SetHeadSprEditInfo(pcJobTbl.JT_SUPERNOVICE2_B,4,4,0,2,0,35)
 
 SetBodySprEditInfo_THIEFS()
 

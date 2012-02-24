@@ -22,6 +22,6 @@ ReqRobSprName_V2 = function(index, in_bResEnglishName)
 			return ""
 		end
 	else
-		ReqRobSprName(index)
+		return ReqRobSprName(index)
 	end
 end

@@ -198,5 +198,41 @@ SKILL_EFFECT_INFO_LIST = {
 			EFID.EF_ENERGYCOAT
 		},
 		onTarget = true
+	},
+
+	[SKID.ECL_SNOWFLIP] = {
+		targetEffectNum = 1,
+		targetEffectID = {
+			EFID.EF_ICECRASH
+		},
+		onTarget = true
+	},
+
+	[SKID.ECL_PEONYMAMY] = {
+		targetEffectNum = 1,
+		targetEffectID = {
+			EFID.EF_FLOWERLEAF
+		},
+		onTarget = true
+	},
+
+	[SKID.ECL_SADAGUI] = {
+		targetEffectNum = 1,
+		targetEffectID = {
+			EFID.EF_WINDHIT
+		},
+		onTarget = true
+	},
+
+	[SKID.ECL_SEQUOIADUST] = {
+		targetEffectNum = 1,
+		targetEffectID = {
+			EFID.EF_EXIT2
+		},
+		onTarget = true
+	},
+
+	[SKID.ECLAGE_RECALL] = {
+		beginEffectID = EFID.EF_BEGINSPELL
 	}
 }

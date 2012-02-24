@@ -15815,4 +15815,40 @@ SKILL_DESCRIPT = {
 		"[LV 5] ^777777 Duration 30 seconds ^000000",
 	},
 
+	[SKID.ECLAGE_RECALL] = {
+
+		"Return to Eclage",
+		"^777777 사용 시 에클라쥬로 귀환 할 수 있다.^000000",
+		"^777777 When hit while using the skill, the casting is cancelled. ^000000",
+		"^777777 Fixed casting time 3 seconds / Cooldown 300 seconds ^000000",
+	},
+
+	[SKID.ECL_SNOWFLIP] = {
+
+		"Snow Flip",
+		"^777777 눈송이처럼 하얗고 만지면 손이 시릴 듯한 꽃잎. 동상에 걸릴지도 모르니 주의. ^000000",
+		"^777777 When used burning, bleeding, deep sleep and sleep are treated. ^000000",
+	},
+
+	[SKID.ECL_PEONYMAMY] = {
+
+		"페오니마미",
+		"^777777 엄마 품처럼 따스한 온도를 가진 분홍색의 도톰한 꽃잎. ^000000",
+		"^777777 사용 시 동빙, 냉동, 빙결을 치료한다. ^000000",
+	},
+
+	[SKID.ECL_SADAGUI] = {
+
+		"사다귀",
+		"^777777 냄새를 코로 들이마시면 머리를 때리는 듯한 강렬한 향을 가진 허브잎. 때때로 부작용도 있는 듯. ^000000",
+		"^777777 사용 시 스턴, 공포, 혼란, 환각을 치료한다. ^000000",
+	},
+
+	[SKID.ECL_SEQUOIADUST] = {
+
+		"Sequoia Dust",
+		"^777777 생명의 나무의 잎에 붙어있던 먼지 부스러기지만 모아서 사용했을 때는 정화 능력을 발휘한다. ^000000",
+		"^777777 사용 시 석화, 암흑, 저주, 독, 민첩성 감소, 리버스 오키쉬을 치료한다. ^000000",
+	},
+
 }

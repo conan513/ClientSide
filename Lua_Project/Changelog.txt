@@ -1,3 +1,8 @@
+rev163 - [2012-02-25]
+ - 2011-12-21 kRO Patch lua (it should be compiled using lua compiler 5.1.4)
+ * kRo is still not using this lua up to 2011-12-20bRagexeRE.exe so no lub for this patch
+ * many are still in korean need help translating =)
+
 rev162 - [2012-02-25]
  - Fixed a mistake in jobname_f.lua and updated lub files from 2011-10-12 and up
 

@@ -34,6 +34,6 @@ SetupMSG = {
 	["hoai"] = "Use user customized Homunculus AI settings. On/Off",
 	["merai"] = "Use user customized Mercenary AI settings. On/Off",
 	["camera"] = "Camera zooming. On/Off",
-	["lightmap"] = "Toggle minimap. On/Off",
+	["lightmap"] = "Turn objects shadows. On/Off",
 	["ISOK"] = "Do you want to save your settings?"
 }

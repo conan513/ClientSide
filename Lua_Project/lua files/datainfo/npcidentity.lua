@@ -1380,7 +1380,7 @@ jobtbl = {
 	["JT_MER_ANTLER_SCARABA"] = 2378,
 	["JT_XMAS_SMOKEY_SOCK"] = 2379,
 	["JT_XMAS_SMOKEY_GIFT"] = 2380,
-	["JT_MONSTER_LAST"] = 23841,
+	["JT_MONSTER_LAST"] = 2381,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
