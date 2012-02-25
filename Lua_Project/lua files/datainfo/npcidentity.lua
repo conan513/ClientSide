@@ -1380,7 +1380,10 @@ jobtbl = {
 	["JT_MER_ANTLER_SCARABA"] = 2378,
 	["JT_XMAS_SMOKEY_SOCK"] = 2379,
 	["JT_XMAS_SMOKEY_GIFT"] = 2380,
-	["JT_MONSTER_LAST"] = 2381,
+	["JT_E_VADON_X_S"] = 2381,
+	["JT_E_VADON_X_H"] = 2382,
+	["JT_E_VADON_X_H_S"] = 2383,
+	["JT_MONSTER_LAST"] = 2384,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
@@ -2045,5 +2048,8 @@ jobtbl = {
 	["JT_4_M_NEWOZ"] = 625,
 	["JT_4_M_OLIVER"] = 626,
 	["JT_4_M_PROFESSORWORM"] = 627,
-	["JT_4_M_REDMAN"] = 628
+	["JT_4_M_REDMAN"] = 628,
+	["JT_4_F_GELKA"] = 629,
+	["JT_4_M_ROTERT"] = 630,
+	["JT_4_BLACKDRAGON"] = 631
 }

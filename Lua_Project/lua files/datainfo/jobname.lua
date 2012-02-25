@@ -2034,5 +2034,11 @@ JobNameTable = {
 	[jobtbl.JT_4_M_NEWOZ] = "4_m_newoz",
 	[jobtbl.JT_4_M_OLIVER] = "4_m_oliver",
 	[jobtbl.JT_4_M_PROFESSORWORM] = "4_m_professorworm",
-	[jobtbl.JT_4_M_REDMAN] = "4_m_redman"
+	[jobtbl.JT_4_M_REDMAN] = "4_m_redman",
+	[jobtbl.JT_4_F_GELKA] = "4_F_GELKA",
+	[jobtbl.JT_4_M_ROTERT] = "4_M_ROTERT",
+	[jobtbl.JT_4_BLACKDRAGON] = "4_BLACKDRAGON",
+	[jobtbl.JT_E_VADON_X_S] = "VADON",
+	[jobtbl.JT_E_VADON_X_H] = "E_VADON_X",
+	[jobtbl.JT_E_VADON_X_H_S] = "VADON"
 }

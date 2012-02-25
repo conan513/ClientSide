@@ -15818,9 +15818,7 @@ SKILL_DESCRIPT = {
 	[SKID.ECLAGE_RECALL] = {
 
 		"Return to Eclage",
-		"^777777 사용 시 에클라쥬로 귀환 할 수 있다.^000000",
-		"^777777 When hit while using the skill, the casting is cancelled. ^000000",
-		"^777777 Fixed casting time 3 seconds / Cooldown 300 seconds ^000000",
+		"Effect: ^777777 Teleport to Eclage. Fixed casting time 3 seconds / 5 minutes cooldown after use.^000000",
 	},
 
 	[SKID.ECL_SNOWFLIP] = {

@@ -1,3 +1,8 @@
+rev164 - [2012-02-26]
+ - 2011-12-28 kRO Patch lua and lub
+ * Lub archive now includes /src/ for the patch
+ * Lub are now compiled using lua 5.1.4 compiler
+
 rev163 - [2012-02-25]
  - 2011-12-21 kRO Patch lua (it should be compiled using lua compiler 5.1.4)
  * kRo is still not using this lua up to 2011-12-20bRagexeRE.exe so no lub for this patch
