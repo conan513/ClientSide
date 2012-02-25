@@ -12614,7 +12614,7 @@ SKILL_DESCRIPT = {
 		"SP Cost:^777777 Unknown^000000",
 		"Target:^777777 Enemy^000000",
 		"Cast Time:^777777 Unknown^000000",
-		"Effect:^777777 Can only be used while in Fury state. Instantly strikes a target with countless blows. The more spirit spheres you have, and the lower the caster's HP, the more damage it does. The skill consumes 30% of your Max SP and all of your spirit spheres. Can be used after Fallen Empire, and when used this way the SP consumption is reduced by 10% and the damage slightly increased.^000000",
+		"Effect:^777777 Can only be used while in Fury state. Instantly strikes a target with countless blows. The more spirit spheres you have, and the lower the caster's HP, the more damage it does. The skill consumes 20% of your Max SP and all of your spirit spheres. Can be used after Fallen Empire, and when used this way the SP consumption is reduced by 10% and the damage slightly increased.^000000",
 	},
 
 	[SKID.SR_GENTLETOUCH_QUIET] = {
@@ -15530,9 +15530,9 @@ SKILL_DESCRIPT = {
 
 		"Cross Strike",
 		"Max Level:^777777 5 ^000000",
-		"Effect : ^777777 카게로우 & 오보로의 합격(合擊) 스킬. 십자 베기 상태에서 일정 시간 내에 다시 십자베기",
-		"로 공격하면, 더욱 강한 데미지를 입힐 수 있다.  시전자의 BaseLV 이 높을 수록 추가 데미지가",
-		"더욱 증가한다. ^000000",
+		"Effect : ^777777 카게로우 & 오보로의 합격(合擊) 스킬. 십자 베기로 데미지를 입은 적은 약 3 초간 <십자 상처> 상태가 된다.",
+		"이 십자 상처 상태인 적을 다시 십자베기로 공격하면, 더욱 강한 데미지를 입힐 수 있다. ",
+		"시전자의 BaseLV 이 높을 수록 추가 데미지가 더욱 증가한다. ^000000",
 		"[LV 1] ^777777 ATK 150% / Range 3 cells ^000000",
 		"[LV 2] ^777777 ATK 300% / Range 4 cells ^000000",
 		"[LV 3] ^777777 ATK 450% / Range 5 cells ^000000",
@@ -15601,7 +15601,7 @@ SKILL_DESCRIPT = {
 		"풍마수리검 난화 (風魔手裏劍 - 亂華)",
 		"Max Level:^777777 5 ^000000",
 		"Effect : ^777777 풍마수리검을 던져 7 x 7 셀 범위 내의 모든 적에게 데미지를 입힌다.",
-		"시전자가 습득한 [닌자 스킬 : 풍마수리검 던지기] 레벨 및 DEX 및 AGI 가 높을 수록 공격력이 증가한다.^000000",
+		"시전자가 습득한 [닌자 스킬 : 풍마수리검 던지기] 레벨 및 DEX / AGI 가 높을 수록 공격력이 증가한다.^000000",
 		"[LV 1] ^777777 ATK 150 % / Range 9 cells ^000000",
 		"[LV 2] ^777777 ATK 300 % / Range 10 cells ^000000",
 		"[LV 3] ^777777 ATK 450 % / Range 11 cells ^000000",
