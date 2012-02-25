@@ -2272,3 +2272,18 @@ StateIconList[EFST_IDs.EFST_MYSTICPOWDER] = {
 		{"Increases FLEE and LUK"}
 	}
 }
+StateIconList[EFST_IDs.EFST_ACARAJE] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Acaraje", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Increases HIT and ASPD"}
+	}
+}
+StateIconList[EFST_IDs.EFST_M_LIFEPOTION] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Mysterious Life Potion", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Recovers a certain amount of HP every 3 seconds"},
+		{"No effect on Berserk status."}
+	}
+}

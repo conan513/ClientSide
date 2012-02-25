@@ -1,3 +1,6 @@
+rev167 - [2012-02-26]
+ - 2012-01-25 kRO Patch lua and lub
+
 rev166 - [2012-02-26]
  - 2012-01-11 kRO Patch lua and lub
  - moved all lub archives that was compiled using lua compiler 5.0.2 to Lub Files 5.0.2 folder
