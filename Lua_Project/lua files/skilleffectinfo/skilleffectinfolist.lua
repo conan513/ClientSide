@@ -129,9 +129,12 @@ SKILL_EFFECT_INFO_LIST = {
 
 	[SKID.KO_KAIHOU] = {
 		waveFileName = "effect\\닌자_던지기.wav",
-		effectNum = 2,
+		effectNum = 1,
 		effectID = {
 			EFID.EF_KAIHOU,
+		},
+		targetEffectNum = 1,
+		targetEffectID = {
 			EFID.EF_KAIHOU1
 		},
 		onTarget = true

@@ -3282,11 +3282,6 @@ SKILL_DESCRIPT = {
 		"Cast Time:^777777 Instant ^000000",
 		"Cool Down:^777777 None ^000000",
 		"Effect:^777777 Lets you change the appearance of your cart. A \"for fun\" skill, but because the appearances you can pick is restricted by the characters base level, you can tell a high level merchant or blacksmith just by looking at their cart.",
-		"Level 1-40: Normal cart only.",
-		"Level 41-65: A Wooden cart.",
-		"Level 66-80: Covered cart with flowers and ferns on it.",
-		"Level 81-90: Wooden cart with a Panda doll on the back.",
-		"Level 91-99: The normal cart, but with bigger wheels, a roof and a banner on the back. ^000000",
 	},
 
 	[SKID.MC_LOUD] = {
@@ -10672,7 +10667,7 @@ SKILL_DESCRIPT = {
 		"Target:^777777 Enemy / Self ^000000",
 		"Cast Time:^777777 Instant ^000000",
 		"Cool Down:^777777 10 sec ^000000",
-		"Effect:^777777 Imprisons the target temporarily behind a white magic curtain, preventing them from moving. While in this state, the target cannot take damage other than ghost property attacks or attacks with fixed damage (such as Gravitation Field and Gloria Domini). When White Imprison ends, the target takes a fixed amount of damage according to the skill level. The user can cast this skill on themself, but it will last only 4 seconds. Bosses are immune to this effect.^000000",
+		"Effect:^777777 Imprisons the target temporarily behind a white magic curtain, preventing them from moving. While in this state, the target cannot take damage other than ghost property skills. When White Imprison ends, the target takes a fixed amount of damage according to the skill level. The user can cast this skill on themself, but takes damage when released. Bosses are immune to this effect.^000000",
 		"[LV 1]^777777 Success Rate 50% / Duration 10 seconds ^000000",
 		"[LV 2]^777777 Success Rate 60% / Duration 12 seconds ^000000",
 		"[LV 3]^777777 Success Rate 70% / Duration 14 seconds ^000000",
