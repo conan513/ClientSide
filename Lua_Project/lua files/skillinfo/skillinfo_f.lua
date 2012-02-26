@@ -1,3 +1,4 @@
+--Function #0
 GetInheritJob = function(job)
    JobInheritTable = {}
    if job == nil then
@@ -12,6 +13,7 @@ GetInheritJob = function(job)
    return i
 end
 
+--Function #1
 GetNeedSkillPosInLua = function(jobID, index, indx)
    local needSkillInfo = NEED_SKILLLIST_FOR_JOB[jobID]
    if needSkillInfo ~= nil then
@@ -33,6 +35,7 @@ GetNeedSkillPosInLua = function(jobID, index, indx)
    return -1
 end
 
+--Function #2
 InitSkillTreeView = function(jobID, arrayNum)
    local skillList = NEED_SKILLLIST_FOR_JOB[jobID]
    if skillList ~= nil then
@@ -41,5 +44,3 @@ InitSkillTreeView = function(jobID, arrayNum)
       end
    end
 end
-
-

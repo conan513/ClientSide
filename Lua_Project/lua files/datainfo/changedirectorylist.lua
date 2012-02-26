@@ -19,7 +19,7 @@ ChangeDirectoryList = {
 	{"UserKeys_s.lua", "data", "SaveData"}
 }
 
-
+--Function #0
 ChangeDirectoryOfFiles = function()
 	if ChangeDirectoryList ~= nil then
 		local idx = 1

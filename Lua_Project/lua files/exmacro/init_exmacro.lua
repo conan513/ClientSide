@@ -1,3 +1,4 @@
+--Function #0
 InitExMacroInfo = function()
 	SaveData_ExMacro_FileNames = nil
 	SaveData_ExMacro_FileNames = {}

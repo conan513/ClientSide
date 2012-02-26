@@ -116,5 +116,3 @@ GetBeginMotionType = function(SKID)
    end
    return beginMotionType
 end
-
-

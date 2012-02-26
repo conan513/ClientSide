@@ -1,3 +1,4 @@
+--Function #0
 Iter_getTable = function(tableName)
    local i = 0
    return function()
@@ -6,6 +7,7 @@ Iter_getTable = function(tableName)
    end
 end
 
+--Function #1
 Iter_getOptionValue = function(element)
    local i = 0
    return function()
@@ -14,6 +16,7 @@ Iter_getOptionValue = function(element)
    end
 end
 
+--Function #2
 GetSubChatWndList = function(tableName)
 	for idx, v in Iter_getTable(tableName) do
 		if v == nil then

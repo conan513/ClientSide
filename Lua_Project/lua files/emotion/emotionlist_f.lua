@@ -1,3 +1,4 @@
+--Function #0
 InsertEmotionListTable = function(emotionType, MsgStrID, actionNum)
    EmotionList[emotionType] = {}
    EmotionList[emotionType].actionNum = actionNum
@@ -9,6 +10,7 @@ InsertEmotionListTable = function(emotionType, MsgStrID, actionNum)
    end
 end
 
+--Function #1
 InsertEmotionMsgListTable = function(emotionType, MsgStr)
    if MsgStr ~= nil and MsgStr ~= "" then
       EmotionMsgList[MsgStr] = {}
@@ -16,6 +18,7 @@ InsertEmotionMsgListTable = function(emotionType, MsgStr)
    end
 end
 
+--Function #2
 GetEmotionMsg = function(index)
    local emotionType = EMOTION_ORDERLIST[index + 1]
    if emotionType ~= nil then
@@ -30,6 +33,7 @@ GetEmotionMsg = function(index)
    end
 end
 
+--Function #3
 GetEmotionActionByWndIdx = function(index)
    local emotionType = EMOTION_ORDERLIST[index + 1]
    if emotionType ~= nil then
@@ -44,6 +48,7 @@ GetEmotionActionByWndIdx = function(index)
    end
 end
 
+--Function #4
 GetEmotionAction = function(emotionType)
    local emotionAction = EmotionList[emotionType].actionNum
    if emotionAction ~= nil then
@@ -53,6 +58,7 @@ GetEmotionAction = function(emotionType)
    end
 end
 
+--Function #5
 ReqEmotionByIndex = function(index)
    local emotionType = EMOTION_ORDERLIST[index + 1]
    if emotionType ~= nil and emotionType >= 0 then
@@ -60,6 +66,7 @@ ReqEmotionByIndex = function(index)
    end
 end
 
+--Function #6
 ReqEmotionByMsgStr = function(msgStr)
    local emotionType = EmotionMsgList[msgStr]
    if emotionType ~= nil and emotionType >= 0 then
@@ -70,6 +77,7 @@ ReqEmotionByMsgStr = function(msgStr)
    end
 end
 
+--Function #7
 GetEmotionOrderListSize = function()
 	return getTableSize(EMOTION_ORDERLIST)
 end

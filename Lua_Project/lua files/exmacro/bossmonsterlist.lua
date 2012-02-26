@@ -1,6 +1,3 @@
--- Decompiled using luadec 3.2.2beta -- Sat Feb 25 08:29:50 2012
--- File name: bossmonsterlist.lub
-
 BossMonsterTable = {
 	jobtbl.JT_BAPHOMET,
 	jobtbl.JT_DARK_LORD,

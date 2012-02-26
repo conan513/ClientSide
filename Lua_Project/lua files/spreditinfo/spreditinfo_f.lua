@@ -105,5 +105,3 @@ SetSprEditInfo = function(strJobIDnSprName, nActionNum, nMotionNum, xGap, yGap, 
     objTable[nActionNum][nMotionNum].bHide = bHide
   end
 end
-
-

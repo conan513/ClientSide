@@ -14,6 +14,7 @@ MSG_SET_SRCMODE = 12
 MSG_SET_DESTMODE = 13
 MSG_SET_MAXPARTICLE = 14
 
+--Function #0
 IsOpenedEmitterInfoFiles = function(InfoTableName)
 	local EmitterInfoTable = _G[InfoTableName]
 	if EmitterInfoTable ~= nil then
@@ -22,6 +23,7 @@ IsOpenedEmitterInfoFiles = function(InfoTableName)
 	return false
 end
 
+--Function #1
 ReadEmitterInfoz = function(InfoTableName)
 	local EmitterInfoTable = _G[InfoTableName]
 	if EmitterInfoTable ~= nil then

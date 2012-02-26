@@ -1,4 +1,5 @@
 JobNameTable = {
+
 	[jobtbl.JT_WARPNPC] = "1_ETC_01",
 	[jobtbl.JT_1_ETC_01] = "1_ETC_01",
 	[jobtbl.JT_1_M_01] = "1_M_01",

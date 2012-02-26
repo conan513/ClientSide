@@ -1,3 +1,4 @@
+--Function #0
 ReqRobSprName = function(index)
 	if RobeNameTable[index] == nil then
 		return ""
@@ -10,6 +11,7 @@ ReqRobSprName = function(index)
 	end
 end
 
+--Function #1
 ReqRobSprName_V2 = function(index, in_bResEnglishName)
 	if in_bResEnglishName == true then
 		if RobeNameTable_Eng[index] == nil then

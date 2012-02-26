@@ -1,3 +1,4 @@
+--Function #0
 ReqAccName = function(index)
 	if AccNameTable == nil then
 		return ""
@@ -10,6 +11,7 @@ ReqAccName = function(index)
 	end
 end
 
+--Function #1
 ReqAccName_V2 = function(index)
 	if iAccNameTable_Eng == nil then
 		return ReqAccName(index)

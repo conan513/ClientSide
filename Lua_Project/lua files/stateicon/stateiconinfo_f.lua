@@ -1,5 +1,8 @@
 local resultDesInfos = {}
+
 setmetatable(resultDesInfos, {__mode = "v"})
+
+--Function #0
 GetTimeLimitInfo = function(EFST_ID)
    local key = EFST_ID .. "-haveTimeLimit"
    local timeInfo = resultDesInfos[key]
@@ -24,6 +27,7 @@ GetTimeLimitInfo = function(EFST_ID)
    return timeInfo[1], timeInfo[2]
 end
 
+--Function #1
 SetDefaultDesInfo = function(des, r, g, b)
    if des == nil then
       des = ""
@@ -41,6 +45,8 @@ SetDefaultDesInfo = function(des, r, g, b)
 end
 
 local defaultInfo = SetDefaultDesInfo
+
+--Function #2
 GetStateIconDescript = function(EFST_ID, idx)
    local key = EFST_ID .. "-" .. idx
    local desInfo = resultDesInfos[key]
@@ -61,6 +67,7 @@ GetStateIconDescript = function(EFST_ID, idx)
    return desInfo[1], desInfo[2], desInfo[3], desInfo[4]
 end
 
+--Function #3
 MakeBuffIconInfoFile = function()
    makeFile = io.open("data\\StateIconInfo_n.lua", "w")
    if makeFile ~= nil then
@@ -84,6 +91,7 @@ MakeBuffIconInfoFile = function()
    io.close(makeFile)
 end
 
+--Function #4
 GetStrEFSTID = function(EFSTID)
    for j, k in pairs(EFST_IDs) do
       if k == EFSTID then
@@ -93,6 +101,7 @@ GetStrEFSTID = function(EFSTID)
    return ""
 end
 
+--Function #5
 GetEFSTID = function(EFSTID)
    if EFSTID ~= 0 then
       local efst = EFST_IDs[EFSTID]
@@ -103,6 +112,7 @@ GetEFSTID = function(EFSTID)
    return 0
 end
 
+--Function #6
 GetEFSTImgFileName = function(EFSTID, priority)
    if StateIconImgList ~= nil then
       local obj = StateIconImgList[priority]
@@ -115,6 +125,7 @@ GetEFSTImgFileName = function(EFSTID, priority)
    end
    return ""
 end
+
 HaveEfstImgTable = {
 
 	EFST_IDs.EFST_ADORAMUS,
@@ -456,6 +467,7 @@ HaveEfstImgTable = {
 	EFST_IDs.EFST_GM_BATTLE2
 }
 
+--Function #7
 HaveEfstImg = function(EFSTID)
 	if HaveEfstImgTable[EFSTID] ~= nil then
 		return true

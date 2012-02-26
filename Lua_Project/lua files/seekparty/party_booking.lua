@@ -252,6 +252,7 @@ map_list = {
 	},
 }
 
+--Function #0
 printMapList = function() 
 	local regionId = 0
 	local mapId = 0
@@ -280,6 +281,8 @@ printMapList = function()
 end
 
 __mapList = {}
+
+--Function #1
 makeMapList = function()
 	for regionId, region in ipairs(map_list) do
 		__mapList[regionId] = region
@@ -291,6 +294,8 @@ makeMapList = function()
 		end
 	end
 end
+
+--Function #2
 queryRegionInfo = function(regionId)
 	if __mapList[regionId] == nil then 
 		return nil,nil,nil,nil
@@ -300,6 +305,8 @@ queryRegionInfo = function(regionId)
 		getMapIterator(regionId),
 		__mapList[regionId]["ignore_recruit_window"]
 end
+
+--Function #3
 queryMapInfo = function(regionId, mapId)
 	if __mapList[regionId] == nil then
 		return nil,nil,nil,nil,nil,nil
@@ -314,6 +321,8 @@ queryMapInfo = function(regionId, mapId)
 	__mapList[regionId][mapId]["colorG"],
 	__mapList[regionId][mapId]["colorB"]
 end
+
+--Function #4
 getRegionIterator = function()
 	local pos = 1
 	return { 
@@ -326,6 +335,7 @@ getRegionIterator = function()
 		}
 end
 
+--Function #5
 getMapIterator = function(regionId)
 	local pos = 1
 	return {
@@ -344,6 +354,7 @@ getMapIterator = function(regionId)
 end
 
 makeMapList()
+
 print("[All Output Data Structure]")
 regionIterator = getRegionIterator()
 while regionIterator.hasNext() do
@@ -386,6 +397,8 @@ PartyBookingHelp = {
 	"/organize \"Party Name\": Creates a party.",
 	"/invite \"Character Name\": Invite the specific character to the party."
 }
+
+--Function #6
 GetPartyBookingHelp = function()
 	local descript = ""
 	local obj = PartyBookingHelp

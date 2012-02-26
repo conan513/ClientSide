@@ -1,13 +1,17 @@
 HeadSprEditInfo = {}
 BodySprEditInfo = {}
+
+--Function #0
 GetHeadSprEditInfo = function(jobID, curAction, curMotion)
    return GetRidingSprEditInfo(HeadSprEditInfo, jobID, curAction, curMotion)
 end
 
+--Function #1
 GetBodySprEditInfo = function(jobID, curAction, curMotion)
    return GetRidingSprEditInfo(BodySprEditInfo, jobID, curAction, curMotion)
 end
 
+--Function #2
 GetRidingSprEditInfo = function(RidingSprEditInfoTable, jobID, curAction, curMotion)
    local xGap = 0
    local yGap = 0
@@ -22,14 +26,17 @@ GetRidingSprEditInfo = function(RidingSprEditInfoTable, jobID, curAction, curMot
    return xGap, yGap
 end
 
+--Function #3
 SetHeadSprEditInfo = function(jobID, nStartAction, nFinishAction, nStartMotion, nFinishMotion, xGap, yGap)
    SetRidingSprEditInfo(HeadSprEditInfo, jobID, nStartAction, nFinishAction, nStartMotion, nFinishMotion, xGap, yGap)
 end
 
+--Function #4
 SetBodySprEditInfo = function(jobID, nStartAction, nFinishAction, nStartMotion, nFinishMotion, xGap, yGap)
    SetRidingSprEditInfo(BodySprEditInfo, jobID, nStartAction, nFinishAction, nStartMotion, nFinishMotion, xGap, yGap)
 end
 
+--Function #5
 SetRidingSprEditInfo = function(RidingSprEditInfoTable, jobID, nStartAction, nFinishAction, nStartMotion, nFinishMotion, xGap, yGap)
    if RidingSprEditInfoTable[jobID] == nil then
       RidingSprEditInfoTable[jobID] = {}
@@ -56,14 +63,17 @@ SetRidingSprEditInfo = function(RidingSprEditInfoTable, jobID, nStartAction, nFi
    end
 end
 
+--Function #6
 GetHeadOow = function(jobID, curAction, curMotion)
    return 0
 end
 
+--Function #7
 GetBodyOow = function(jobID, curAction, curMotion)
    return 0
 end
 
+--Function #8
 SetBodySprEditInfo_THIEFS = function()
    SetBodySprEditInfo_SETA(pcJobTbl.JT_SORCERER)
    SetBodySprEditInfo_SETA(pcJobTbl.JT_SORCERER_B)
@@ -102,6 +112,7 @@ SetBodySprEditInfo_THIEFS = function()
    SetBodySprEditInfo_SETC(4185)
 end
 
+--Function #9
 SetBodySprEditInfo_SETA = function(jobID)
    SetBodySprEditInfo(jobID, 0, 7, 0, 2, 0, 15)
    SetBodySprEditInfo(jobID, 8, 15, 0, 7, 0, 15)
@@ -117,6 +128,7 @@ SetBodySprEditInfo_SETA = function(jobID)
    SetBodySprEditInfo(jobID, 96, 103, 0, 5, 0, 15)
 end
 
+--Function #10
 SetBodySprEditInfo_SETC = function(jobID)
    SetBodySprEditInfo(jobID, 0, 7, 0, 2, 0, 10)
    SetBodySprEditInfo(jobID, 8, 15, 0, 7, 0, 10)
@@ -132,6 +144,7 @@ SetBodySprEditInfo_SETC = function(jobID)
    SetBodySprEditInfo(jobID, 96, 103, 0, 5, 0, 10)
 end
 
+--Function #11
 SetBodySprEditInfo_ACOLYTES = function()
    SetBodySprEditInfo_SETB(pcJobTbl.JT_ACOLYTE)
    SetBodySprEditInfo_SETB(pcJobTbl.JT_ACOLYTE_B)
@@ -162,6 +175,7 @@ SetBodySprEditInfo_ACOLYTES = function()
    SetBodySprEditInfo_SETB(4139)
 end
 
+--Function #12
 SetBodySprEditInfo_SETB = function(jobID)
    SetBodySprEditInfo(jobID, 0, 7, 0, 2, 0, 10)
    SetBodySprEditInfo(jobID, 8, 15, 0, 7, 0, 15)
@@ -172,5 +186,3 @@ SetBodySprEditInfo_SETB = function(jobID)
    SetBodySprEditInfo(jobID, 88, 95, 0, 7, 0, 5)
    SetBodySprEditInfo(jobID, 96, 103, 0, 5, 0, 5)
 end
-
-

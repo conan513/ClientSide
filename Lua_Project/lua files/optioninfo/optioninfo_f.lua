@@ -1,3 +1,4 @@
+--Function #0
 SetCmdOnOffList = function()
    if CmdOnOffList == nil then
       return
@@ -10,6 +11,7 @@ SetCmdOnOffList = function()
    end
 end
 
+--Function #1
 l_GetOptionValue = function(keyName)
    if OptionInfoList == nil then
       return -1
@@ -21,6 +23,7 @@ l_GetOptionValue = function(keyName)
    return -1
 end
 
+--Function #2
 SaveToFileCmdOnOffValue = function()
    saveFile = io.open("SaveData\\OptionInfo.lua", "w")
    if saveFile ~= nil then
@@ -35,6 +38,7 @@ SaveToFileCmdOnOffValue = function()
    end
 end
 
+--Function #3
 l_GetCmdHelpMsg = function(keyName, bIsOn)
    if CmdHelpList == nil then
       return ""
@@ -51,6 +55,7 @@ l_GetCmdHelpMsg = function(keyName, bIsOn)
    return ""
 end
 
+--Function #4
 SaveToFileCmdOnOffValueEx = function(nID)
 	if nID == 0 then
 		saveFile = io.open("SaveData\\OptionInfo.lua", "w")

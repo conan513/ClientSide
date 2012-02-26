@@ -27,6 +27,7 @@ CmdOnOffOderList = {
 	"/camera", 
 	"/btg"
 }
+
 CmdOnOffList = {
 
 	["/battlemode"] = 0,
@@ -57,6 +58,7 @@ CmdOnOffList = {
 	["/camera"] = 0,
 	["/btg"] = 1
 }
+
 CmdHelpList = {
 
 	--Orderlist Desc Start
@@ -111,6 +113,7 @@ CmdHelpList = {
 	["/pvpinfo"] = MsgStrID.MSI_PVPINFO,
 	["/hunting"] = MsgStrID.MSI_HUNTING
 }
+
 OptionInfoList = {
 
 	["Window_XPos"] = -1,

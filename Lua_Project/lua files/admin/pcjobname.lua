@@ -115,6 +115,7 @@ PCJobNameTable = {
 	[pcJobTbl.JT_OBORO] = "OBORO",
 }
 
+--Function #0
 ReqPCJobName = function(index)
 	if PCJobNameTable[index] == nil then
 		return ""

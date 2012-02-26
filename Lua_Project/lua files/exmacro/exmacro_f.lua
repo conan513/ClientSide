@@ -1,3 +1,4 @@
+--Function #0
 GetExMacroFileName = function(index, str)
 	if index == 0 or index > 9 then
 		index = 1

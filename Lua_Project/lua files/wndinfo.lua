@@ -11,6 +11,7 @@ WID_SHOWINFO_TESTLAYER = 183
 WID_EXMACRO_SETUPWND = 191
 WID_DEBUGINGINTERFACEWND = 193
 WID_DEBUGINGINTERFACEWND_USERDEFINE = 194
+
 UIHotKeyWnd = {
 	width = 436,
 	height = 432,
@@ -24,6 +25,7 @@ UIHotKeyWnd = {
 	baseButton = 1,
 	closeButton = 1
 }
+
 UIJoinToBattleFieldWnd = {
 	width = 280,
 	height = 186,
@@ -32,6 +34,7 @@ UIJoinToBattleFieldWnd = {
 	baseButton = 1,
 	closeButton = 1
 }
+
 UIReloadLuaScript = {
 	width = 36,
 	height = 34,
@@ -40,6 +43,7 @@ UIReloadLuaScript = {
 	baseButton = 1,
 	closeButton = 1
 }
+
 UIBattleFieldDescribeWnd = {
 	width = 280,
 	height = 360,
@@ -48,6 +52,7 @@ UIBattleFieldDescribeWnd = {
 	baseButton = 1,
 	closeButton = 1
 }
+
 UIBattleFieldStatusWnd = {
 	width = 280,
 	height = 186,
@@ -56,6 +61,7 @@ UIBattleFieldStatusWnd = {
 	baseButton = 1,
 	closeButton = 1
 }
+
 UIBattleFieldHelpWnd = {
 	width = 280,
 	height = 360,
@@ -64,48 +70,57 @@ UIBattleFieldHelpWnd = {
 	baseButton = 1,
 	closeButton = 1
 }
+
 UIQuikSlotWnd = {
 	width = 77,
 	height = 34,
 	x = 900,
 	y = 0
 }
+
 UISerachStoreInfoWnd = {
 	width = 445,
 	height = 380,
 	x = 300,
 	y = 100
 }
+
 UIButtonsOfBasicWnd = {
 	width = 220,
 	height = 80,
 	x = 300,
 	y = 100
 }
+
 UIShowInfoOfTestLayer = {
 	width = 205,
 	height = 70,
 	x = 200,
 	y = 200
 }
+
 UIExMacroSetUpWnd = {
 	width = 400,
 	height = 530,
 	x = 300,
 	y = 100
 }
+
 CUIDebugingInterfaceWnd = {
 	width = 250,
 	height = 260,
 	x = 570,
 	y = 95
 }
+
 CUIDebugingInterfaceWnd_UserDefine = {
 	width = 250,
 	height = 260,
 	x = 570,
 	y = 260
 }
+
+--Function #0
 GetWindowString = function(windowID)
 	if windowID == WID_HOTKEYWND then
 		return "UIHotKeyWnd"
@@ -137,6 +152,7 @@ GetWindowString = function(windowID)
 	return nil
 end
 
+--Function #1
 GetWindowInfo = function(windowID)
    local wnd = nil
    local wndStr = GetWindowString(windowID)
@@ -148,6 +164,7 @@ GetWindowInfo = function(windowID)
    end
 end
 
+--Function #2
 GetSysButtonInfo = function(windowID)
    local wnd = nil
    local wndStr = GetWindowString(windowID)

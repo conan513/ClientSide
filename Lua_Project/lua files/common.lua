@@ -1,3 +1,4 @@
+--Function #0
 toInt = function(value)
 	if value ~= nill then
 		return value
@@ -6,6 +7,7 @@ toInt = function(value)
 	end
 end
 
+--Function #1
 toStr = function(value)
 	if value ~= nill then
 		return value
@@ -14,6 +16,7 @@ toStr = function(value)
 	end
 end
 
+--Function #2
 getTableSize = function(t)
 	local size = 0
 	for _, _ in pairs(t) do
@@ -22,6 +25,7 @@ getTableSize = function(t)
 	return size
 end
 
+--Function #3
 GetTableSizeForC = function(tableName)
 	local t = _G[tableName]
 	local size = 0
@@ -33,6 +37,7 @@ GetTableSizeForC = function(tableName)
 	return size
 end
 
+--Function #4
 getHelpMsg = function(idx)
 	if HelpMsgStr == nil then
 		return ""
