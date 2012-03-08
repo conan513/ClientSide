@@ -1,4 +1,5 @@
 jobtbl = {
+
 	["JT_MON_BEGIN"] = 1000,
 	["JT_SCORPION"] = 1001,
 	["JT_PORING"] = 1002,
@@ -1383,7 +1384,21 @@ jobtbl = {
 	["JT_E_VADON_X_S"] = 2381,
 	["JT_E_VADON_X_H"] = 2382,
 	["JT_E_VADON_X_H_S"] = 2383,
-	["JT_MONSTER_LAST"] = 2384,
+	["JT_KRAKEN_LEG_1"] = 2384,
+	["JT_KRAKEN_LEG_2"] = 2385,
+	["JT_KRAKEN_LEG_3"] = 2386,
+	["JT_KRAKEN_LEG_4"] = 2387,
+	["JT_KRAKEN_LEG_5"] = 2388,
+	["JT_G_KRAKEN_LEG_1"] = 2387,
+	["JT_G_KRAKEN_LEG_2"] = 2390,
+	["JT_G_KRAKEN_LEG_3"] = 2391,
+	["JT_G_KRAKEN_LEG_4"] = 2392,
+	["JT_G_KRAKEN_LEG_5"] = 2393,
+	["JT_MERMAN_SE"] = 2394,
+	["JT_SEIREN"] = 2395,
+	["JT_POSEIDON"] = 2396,
+	["JT_KRAKEN_BABY"] = 2397,
+	["JT_MONSTER_LAST"] = 2398,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
