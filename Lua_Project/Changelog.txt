@@ -1,3 +1,7 @@
+rev172 - [2012-03-08]
+ - updated navi_npc_krsak
+ - added v2 of 2012-02-08 kRO Patch lua and lub
+
 rev171 - [2012-03-08]
  - 2012-02-08 kRO Patch lua and lub
  * new files /entryqueue/ and /navigation/
