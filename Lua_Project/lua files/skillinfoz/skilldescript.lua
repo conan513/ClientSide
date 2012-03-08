@@ -11403,10 +11403,10 @@ SKILL_DESCRIPT = {
 		"SP Cost:^777777 50 ^000000",
 		"Cast Time:^777777 1 sec ^000000",
 		"Cool Down:^777777 5 sec ^000000",
-		"Effect:^777777 An attack striking a target with a large metal spike. When striking a target there is a chance to completely eliminate their defense. Requires the Pile Bunker to be equipped. ^000000",
-		"[LV 1]^777777 400% MATK, MDEF Ignore Rate 20% ^000000",
-		"[LV 2]^777777 500% MATK  MDEF Ignore Rate 35% ^000000",
-		"[LV 3]^777777 600% MATK, MDEF Ignore Rate 50% ^000000",
+		"Effect:^777777 Attacks the enemy with deadly drills to inflict damage and cancel defensive magic. Requires the Pile Bunker to be equipped. Range 3 cells.^000000",
+		"[LV 1]^777777 Debuff chance 40% ^000000",
+		"[LV 2]^777777 Debuff chance 55% ^000000",
+		"[LV 3]^777777 Debuff chance 70% ^000000",
 	},
 
 	[SKID.NC_VULCANARM] = {

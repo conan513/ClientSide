@@ -2,7 +2,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19711,
+		19715,
 		-1,
 		"mag_dun01",
 		125,
@@ -14,7 +14,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19712,
+		19716,
 		-1,
 		"mjo_dun02",
 		80,
@@ -27,7 +27,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19713,
+		19717,
 		-1,
 		"ein_dun01",
 		261,
@@ -39,7 +39,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19714,
+		19718,
 		-1,
 		"pay_dun03",
 		155,
@@ -51,31 +51,31 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19715,
+		19719,
 		-1,
 		"xmas_dun01",
 		133,
 		130,
-		{ 18288, 158 },
-		{ 18289, 158 },
+		{ 18294, 158 },
+		{ 18295, 158 },
 		{ 0, 0 }
 	},
 
 	{
 		"Dungeon Teleport Scroll",
-		19716,
+		19720,
 		-1,
 		"gl_prison",
 		140,
 		15,
-		{ 18217, 140 },
-		{ 18218, 140 },
+		{ 18223, 140 },
+		{ 18224, 140 },
 		{ 0, 0 }
 	},
 
 	{
 		"Dungeon Teleport Scroll",
-		19717,
+		19721,
 		-1,
 		"lou_dun03",
 		165,
@@ -86,7 +86,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19718,
+		19722,
 		-1,
 		"gon_dun02",
 		251,
@@ -98,7 +98,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19719,
+		19723,
 		-1,
 		"iz_dun02",
 		350,
@@ -110,7 +110,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19720,
+		19724,
 		-1,
 		"tur_dun02",
 		165,
@@ -122,45 +122,45 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19721,
+		19725,
 		-1,
 		"alde_dun03",
 		275,
 		180,
-		{ 18190, 296 },
+		{ 18196, 296 },
 		{ 0, 0 }
 	},
 
 	{
 		"Dungeon Teleport Scroll",
-		19722,
+		19726,
 		-1,
 		"c_tower3",
 		34,
 		42,
-		{ 18188, 266 },
+		{ 18194, 266 },
 		{ 0, 0 }
 	},
 
 	{
 		"Dungeon Teleport Scroll",
-		19723,
+		19727,
 		-1,
 		"gl_sew02",
 		292,
 		295,
-		{ 18223, 865 },
-		{ 18224, 865 },
-		{ 18225, 865 },
-		{ 18226, 865 },
-		{ 18227, 865 },
-		{ 18228, 865 },
+		{ 18229, 865 },
+		{ 18230, 865 },
+		{ 18231, 865 },
+		{ 18232, 865 },
+		{ 18233, 865 },
+		{ 18234, 865 },
 		{ 0, 0 }
 	},
 
 	{
 		"Dungeon Teleport Scroll",
-		19724,
+		19728,
 		-1,
 		"in_sphinx4",
 		120,
@@ -172,7 +172,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19725,
+		19729,
 		-1,
 		"moc_pryd04",
 		195,
@@ -186,7 +186,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19726,
+		19730,
 		-1,
 		"prt_sewb3",
 		20,
@@ -198,7 +198,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19727,
+		19731,
 		-1,
 		"ama_dun01",
 		222,
@@ -210,7 +210,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19728,
+		19732,
 		-1,
 		"lhz_dun01",
 		19,
@@ -224,7 +224,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll",
-		19729,
+		19733,
 		-1,
 		"ayo_dun02",
 		70,
@@ -236,7 +236,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll II",
-		19730,
+		19734,
 		-1,
 		"thor_v02",
 		77,
@@ -249,7 +249,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll II",
-		19731,
+		19735,
 		-1,
 		"ra_fild01",
 		237,
@@ -261,7 +261,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll II",
-		19732,
+		19736,
 		-1,
 		"ve_fild07",
 		127,
@@ -272,7 +272,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll II",
-		19733,
+		19737,
 		-1,
 		"niflheim",
 		206,
@@ -290,7 +290,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll II",
-		19734,
+		19738,
 		-1,
 		"prt_maze02",
 		100,
@@ -302,7 +302,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll II",
-		19735,
+		19739,
 		-1,
 		"jupe_cave",
 		36,
@@ -313,19 +313,19 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll II",
-		19736,
+		19740,
 		-1,
 		"anthell02",
 		36,
 		265,
 		{ 10464, 7 },
-		{ 19652, 7 },
+		{ 19656, 7 },
 		{ 0, 0 }
 	},
 
 	{
 		"Dungeon Teleport Scroll II",
-		19737,
+		19741,
 		-1,
 		"yuno_fild08",
 		70,
@@ -341,7 +341,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll II",
-		19738,
+		19742,
 		-1,
 		"hu_fild01",
 		140,
@@ -353,7 +353,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll II",
-		19739,
+		19743,
 		-1,
 		"hu_fild05",
 		168,
@@ -365,7 +365,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll II",
-		19740,
+		19744,
 		-1,
 		"ra_temple",
 		117,
@@ -377,7 +377,7 @@ Navi_Scroll = {
 
 	{
 		"Dungeon Teleport Scroll II",
-		19741,
+		19745,
 		-1,
 		"odin_tem02",
 		257,

@@ -3633,22 +3633,6 @@ Navi_Map = {
 	},
 
 	{
-		"um_dun01",
-		"Carpenter's Shop in the Tree",
-		5001,
-		300,
-		300,
-	},
-
-	{
-		"um_dun02",
-		"Passage to a Foreign World",
-		5001,
-		300,
-		300,
-	},
-
-	{
 		"um_fild01",
 		"Luluka Forest",
 		5001,

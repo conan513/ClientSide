@@ -2986,7 +2986,7 @@ SKILL_INFO_LIST = {
 		"RETURN_TO_ELDICASTES";
 		SkillName = "Return to Eldicastes",
 		MaxLv = 1,
-		SpAmount = { 10 },
+		SpAmount = { 0 },
 		bSeperateLv = false,
 		AttackRange = { 1 }
 	},
@@ -6669,7 +6669,7 @@ SKILL_INFO_LIST = {
 		"ALL_GUARDIAN_RECALL";
 		SkillName = "Guardian Recall",
 		MaxLv = 1,
-		SpAmount = { 10 },
+		SpAmount = { 0 },
 		bSeperateLv = false,
 		AttackRange = { 1 },
 	},
@@ -9060,7 +9060,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 3,
 		SpAmount = { 50, 50, 50 },
 		bSeperateLv = true,
-		AttackRange = { 3, 4, 5 },
+		AttackRange = { 3, 3, 3 },
 		_NeedSkillList = {
 			{ SKID.NC_BOOSTKNUCKLE,2 }
 		}
