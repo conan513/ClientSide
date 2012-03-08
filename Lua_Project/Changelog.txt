@@ -1,3 +1,9 @@
+rev173 - [2012-03-09]
+ - 2012-02-22 kRO Patch lua and lub
+ - Fixed a mistake in Maroll npc names.
+ * no new lua for previous kRO patch
+ * they reverted to the old party_booking (they dont use party_booking_function anymore)
+
 rev172 - [2012-03-08]
  - updated navi_npc_krsak
  - added v2 of 2012-02-08 kRO Patch lua and lub
