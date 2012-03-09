@@ -391,7 +391,7 @@ Navi_Scroll = {
 	},
 
 	{
-		"Dungeon Teleport Scroll II",
+		"NULL",
 		0,
 		0,
 		"NULL",

@@ -1,4 +1,8 @@
 rev175 - [2012-03-10]
+ - Added version 2 Lua and Lub for 2012-03-07 kRO Patch
+ * corrected a single mistake that causes the client to not run when launching
+
+rev175 - [2012-03-10]
  - 2012-03-07 kRO Patch lua and lub
  * new files /quest/ and ../System/Towninfo.lua
 
