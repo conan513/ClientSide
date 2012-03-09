@@ -1,18504 +1,17800 @@
 Navi_Mob = {
 
 	{
-		"abbey01",
-		17170,
+		"abbey01", --map
+		17116,
 		300,
-		1036,
-		"Ghoul",
-		"Ghoul",
-		61,
-		3211521,
+		1036, --MobID
+		"Ghoul", --MobName
+		"GHOUL", --SpriteName
+		61, -- MobLevel
+		3211521
 	},
 
 	{
 		"abbey01",
-		17171,
+		17117,
 		300,
 		1865,
 		"Ragged Zombie",
-		"Ragged_Zombie",
+		"RAGGED_ZOMBIE",
 		123,
-		4522241,
+		4522241
 	},
 
 	{
 		"abbey01",
-		17172,
+		17118,
 		300,
 		1867,
 		"Banshee",
-		"Banshee",
+		"BANSHEE",
 		130,
-		3080454,
+		3080454
 	},
 
 	{
 		"abbey01",
-		17173,
+		17119,
 		300,
 		1864,
 		"Zombie Slaughter",
-		"Zombie_Slaughter",
+		"ZOMBIE_SLAUGHTER",
 		124,
-		4522241,
+		4522241
 	},
 
 	{
 		"abbey01",
-		17174,
+		17120,
 		300,
 		1869,
 		"Flame Skull",
-		"Flame_Skull",
+		"FLAME_SKULL",
 		121,
-		4456454,
+		4456454
 	},
 
 	{
 		"abbey01",
-		17175,
+		17121,
 		300,
 		1866,
 		"Hell Poodle",
-		"Hellhound",
+		"HELL_POODLE",
 		115,
-		1769478,
+		1769478
 	},
 
 	{
 		"abbey02",
-		17176,
+		17122,
 		300,
 		1870,
 		"Necromancer",
-		"Necromancer",
+		"NECROMANCER",
 		133,
-		5832961,
+		5832961
 	},
 
 	{
 		"abbey02",
-		17177,
+		17123,
 		300,
 		1865,
 		"Ragged Zombie",
-		"Ragged_Zombie",
+		"RAGGED_ZOMBIE",
 		123,
-		4522241,
+		4522241
 	},
 
 	{
 		"abbey02",
-		17178,
+		17124,
 		300,
 		1864,
 		"Zombie Slaughter",
-		"Zombie_Slaughter",
+		"ZOMBIE_SLAUGHTER",
 		124,
-		4522241,
+		4522241
 	},
 
 	{
 		"abbey02",
-		17179,
+		17125,
 		300,
 		1869,
 		"Flame Skull",
-		"Flame_Skull",
+		"FLAME_SKULL",
 		121,
-		4456454,
+		4456454
 	},
 
 	{
 		"abbey02",
-		17256,
+		17202,
 		301,
 		1871,
 		"Fallen Bishop",
-		"Falling Bishop",
+		"FALLINGBISHOP",
 		138,
-		3080454,
+		3080454
 	},
 
 	{
 		"abbey03",
-		17180,
+		17126,
 		300,
 		1870,
 		"Necromancer",
-		"Necromancer",
+		"NECROMANCER",
 		133,
-		5832961,
+		5832961
 	},
 
 	{
 		"abbey03",
-		17181,
+		17127,
 		300,
 		1867,
 		"Banshee",
-		"Banshee",
+		"BANSHEE",
 		130,
-		3080454,
+		3080454
 	},
 
 	{
 		"abbey03",
-		17182,
+		17128,
 		300,
 		1869,
 		"Flame Skull",
-		"Flame_Skull",
+		"FLAME_SKULL",
 		121,
-		4456454,
+		4456454
 	},
 
 	{
 		"abbey03",
-		17257,
+		17203,
 		301,
 		1873,
 		"Beelzebub",
-		"Beelzebub",
+		"BEELZEBUB",
 		147,
-		5767174,
+		5767174
 	},
 
 	{
 		"abyss_01",
-		17012,
+		16958,
 		300,
 		1715,
 		"Novus",
-		"Novus",
+		"NOVUS",
 		90,
-		1310729,
+		1310729
 	},
 
 	{
 		"abyss_01",
-		17013,
+		16959,
 		300,
 		1718,
 		"Novus",
-		"Novus_",
+		"NOVUS_",
 		84,
-		1310729,
+		1310729
 	},
 
 	{
 		"abyss_01",
-		17014,
+		16960,
 		300,
 		1721,
 		"Dragon Egg",
-		"Dragon_Egg",
+		"DRAGON_EGG",
 		119,
-		2621705,
+		2621705
 	},
 
 	{
 		"abyss_01",
-		17015,
+		16961,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"abyss_01",
-		17016,
+		16962,
 		300,
 		1699,
 		"Ancient Mimic",
-		"Ancient_Mimic",
+		"ANCIENT_MIMIC",
 		112,
-		3932672,
+		3932672
 	},
 
 	{
 		"abyss_01",
-		17017,
+		16963,
 		300,
 		1216,
 		"Penomena",
-		"Penomena",
+		"PENOMENA",
 		85,
-		1638661,
+		1638661
 	},
 
 	{
 		"abyss_01",
-		17018,
+		16964,
 		300,
 		1714,
 		"Ferus",
-		"Ferus",
+		"FERUS",
 		126,
-		2818569,
+		2818569
 	},
 
 	{
 		"abyss_01",
-		17019,
+		16965,
 		300,
 		1717,
 		"Ferus",
-		"Ferus_",
+		"FERUS_",
 		126,
-		2753033,
+		2753033
 	},
 
 	{
 		"abyss_02",
-		17020,
+		16966,
 		300,
 		1715,
 		"Novus",
-		"Novus",
+		"NOVUS",
 		90,
-		1310729,
+		1310729
 	},
 
 	{
 		"abyss_02",
-		17021,
+		16967,
 		300,
 		1718,
 		"Novus",
-		"Novus_",
+		"NOVUS_",
 		84,
-		1310729,
+		1310729
 	},
 
 	{
 		"abyss_02",
-		17022,
+		16968,
 		300,
 		1721,
 		"Dragon Egg",
-		"Dragon_Egg",
+		"DRAGON_EGG",
 		119,
-		2621705,
+		2621705
 	},
 
 	{
 		"abyss_02",
-		17023,
+		16969,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"abyss_02",
-		17024,
+		16970,
 		300,
 		1713,
 		"Acidus",
-		"Acidus",
+		"ACIDUS",
 		130,
-		3015177,
+		3015177
 	},
 
 	{
 		"abyss_02",
-		17025,
+		16971,
 		300,
 		1716,
 		"Acidus",
-		"Acidus_",
+		"ACIDUS_",
 		130,
-		2884105,
+		2884105
 	},
 
 	{
 		"abyss_02",
-		17026,
+		16972,
 		300,
 		1699,
 		"Ancient Mimic",
-		"Ancient_Mimic",
+		"ANCIENT_MIMIC",
 		112,
-		3932672,
+		3932672
 	},
 
 	{
 		"abyss_02",
-		17027,
+		16973,
 		300,
 		1714,
 		"Ferus",
-		"Ferus",
+		"FERUS",
 		126,
-		2818569,
+		2818569
 	},
 
 	{
 		"abyss_03",
-		17028,
+		16974,
 		300,
 		1721,
 		"Dragon Egg",
-		"Dragon_Egg",
+		"DRAGON_EGG",
 		119,
-		2621705,
+		2621705
 	},
 
 	{
 		"abyss_03",
-		17029,
+		16975,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"abyss_03",
-		17030,
+		16976,
 		300,
 		1713,
 		"Acidus",
-		"Acidus",
+		"ACIDUS",
 		130,
-		3015177,
+		3015177
 	},
 
 	{
 		"abyss_03",
-		17031,
+		16977,
 		300,
 		1716,
 		"Acidus",
-		"Acidus_",
+		"ACIDUS_",
 		130,
-		2884105,
+		2884105
 	},
 
 	{
 		"abyss_03",
-		17032,
+		16978,
 		300,
 		1699,
 		"Ancient Mimic",
-		"Ancient_Mimic",
+		"ANCIENT_MIMIC",
 		112,
-		3932672,
+		3932672
 	},
 
 	{
 		"abyss_03",
-		17033,
+		16979,
 		300,
 		1714,
 		"Ferus",
-		"Ferus",
+		"FERUS",
 		126,
-		2818569,
+		2818569
 	},
 
 	{
 		"abyss_03",
-		17034,
+		16980,
 		300,
 		1717,
 		"Ferus",
-		"Ferus_",
+		"FERUS_",
 		126,
-		2753033,
+		2753033
 	},
 
 	{
 		"abyss_03",
-		17035,
+		16981,
 		300,
 		1720,
 		"Hydro",
-		"Hydrolancer",
+		"HYDRO",
 		121,
-		3080713,
+		3080713
 	},
 
 	{
 		"abyss_03",
-		17258,
+		17204,
 		301,
 		1719,
 		"Detale",
-		"Detardeurus",
+		"DETALE",
 		135,
-		4391433,
+		4391433
 	},
 
 	{
 		"alde_dun01",
-		16704,
+		16650,
 		300,
 		1111,
 		"Drainliar",
-		"Drainliar",
+		"DRAINLIAR",
 		47,
-		3080194,
+		3080194
 	},
 
 	{
 		"alde_dun01",
-		16705,
+		16651,
 		300,
 		1194,
 		"Arclouse",
-		"Arclouze",
+		"ARCLOUSE",
 		107,
-		2752772,
+		2752772
 	},
 
 	{
 		"alde_dun02",
-		16706,
+		16652,
 		300,
 		1211,
 		"Brilight",
-		"Brilight",
+		"BRILIGHT",
 		71,
-		1507332,
+		1507332
 	},
 
 	{
 		"alde_dun02",
-		16707,
+		16653,
 		300,
 		1194,
 		"Arclouse",
-		"Arclouze",
+		"ARCLOUSE",
 		107,
-		2752772,
+		2752772
 	},
 
 	{
 		"alde_dun02",
-		16708,
+		16654,
 		300,
 		1189,
 		"Orc Archer",
-		"Orc_Archer",
+		"ORC_ARCHER",
 		78,
-		1442055,
+		1442055
 	},
 
 	{
 		"alde_dun02",
-		16709,
+		16655,
 		300,
 		1213,
 		"High Orc",
-		"High_Orc",
+		"HIGH_ORC",
 		81,
-		2818567,
+		2818567
 	},
 
 	{
 		"alde_dun03",
-		16710,
+		16656,
 		300,
 		1111,
 		"Drainliar",
-		"Drainliar",
+		"DRAINLIAR",
 		47,
-		3080194,
+		3080194
 	},
 
 	{
 		"alde_dun03",
-		16711,
+		16657,
 		300,
 		1209,
 		"Cramp",
-		"Cramp",
+		"CRAMP",
 		82,
-		2949122,
+		2949122
 	},
 
 	{
 		"alde_dun03",
-		16712,
+		16658,
 		300,
 		1216,
 		"Penomena",
-		"Penomena",
+		"PENOMENA",
 		85,
-		1638661,
+		1638661
 	},
 
 	{
 		"alde_dun04",
-		16713,
+		16659,
 		300,
 		1102,
 		"Bathory",
-		"Bathory",
+		"BATHORY",
 		86,
-		1769735,
+		1769735
 	},
 
 	{
 		"alde_dun04",
-		16714,
+		16660,
 		300,
 		1179,
 		"Whisper",
-		"Whisper",
+		"WHISPER",
 		46,
-		4456454,
+		4456454
 	},
 
 	{
 		"alde_dun04",
-		16715,
+		16661,
 		300,
 		1131,
 		"Joker",
-		"Joker",
+		"JOKER",
 		90,
-		5505543,
+		5505543
 	},
 
 	{
 		"ama_dun01",
-		16782,
+		16728,
 		300,
 		1403,
 		"Antique Firelock",
-		"Firelock Soldier",
+		"ANTIQUE_FIRELOCK",
 		88,
-		3211521,
+		3211521
 	},
 
 	{
 		"ama_dun01",
-		16783,
+		16729,
 		300,
 		1404,
 		"Miyabi Ningyo",
-		"Miyabi Doll",
+		"MIYABI_NINGYO",
 		85,
-		1769734,
+		1769734
 	},
 
 	{
 		"ama_dun01",
-		16784,
+		16730,
 		300,
 		1401,
 		"Shinobi",
-		"Shinobi",
+		"SHINOBI",
 		95,
-		4391175,
+		4391175
 	},
 
 	{
 		"ama_dun02",
-		16785,
+		16731,
 		300,
 		1403,
 		"Antique Firelock",
-		"Firelock Soldier",
+		"ANTIQUE_FIRELOCK",
 		88,
-		3211521,
+		3211521
 	},
 
 	{
 		"ama_dun02",
-		16786,
+		16732,
 		300,
 		1375,
 		"The Paper",
-		"The_Paper",
+		"THE_PAPER",
 		97,
-		3932416,
+		3932416
 	},
 
 	{
 		"ama_dun02",
-		16787,
+		16733,
 		300,
 		1402,
 		"Poison Toad",
-		"Poison_Toad",
+		"POISON_TOAD",
 		87,
-		2949378,
+		2949378
 	},
 
 	{
 		"ama_dun02",
-		16788,
+		16734,
 		300,
 		1404,
 		"Miyabi Ningyo",
-		"Miyabi Doll",
+		"MIYABI_NINGYO",
 		85,
-		1769734,
+		1769734
 	},
 
 	{
 		"ama_dun02",
-		16789,
+		16735,
 		300,
 		1401,
 		"Shinobi",
-		"Shinobi",
+		"SHINOBI",
 		95,
-		4391175,
+		4391175
 	},
 
 	{
 		"ama_dun02",
-		16790,
+		16736,
 		300,
 		1129,
 		"Horong",
-		"Horong",
+		"HORONG",
 		66,
-		5439488,
+		5439488
 	},
 
 	{
 		"ama_dun03",
-		16791,
+		16737,
 		300,
 		1403,
 		"Antique Firelock",
-		"Firelock Soldier",
+		"ANTIQUE_FIRELOCK",
 		88,
-		3211521,
+		3211521
 	},
 
 	{
 		"ama_dun03",
-		16792,
+		16738,
 		300,
 		1375,
 		"The Paper",
-		"The_Paper",
+		"THE_PAPER",
 		97,
-		3932416,
+		3932416
 	},
 
 	{
 		"ama_dun03",
-		16793,
+		16739,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"ama_dun03",
-		16794,
+		16740,
 		300,
 		1404,
 		"Miyabi Ningyo",
-		"Miyabi Doll",
+		"MIYABI_NINGYO",
 		85,
-		1769734,
+		1769734
 	},
 
 	{
 		"ama_dun03",
-		16795,
+		16741,
 		300,
 		1401,
 		"Shinobi",
-		"Shinobi",
+		"SHINOBI",
 		95,
-		4391175,
+		4391175
 	},
 
 	{
 		"ama_dun03",
-		16796,
+		16742,
 		300,
 		1405,
 		"Tengu",
-		"Tengu",
+		"TENGU",
 		98,
-		2753030,
+		2753030
 	},
 
 	{
 		"ama_dun03",
-		17259,
+		17205,
 		301,
 		1492,
 		"Incantation Samurai",
-		"Samurai Specter",
+		"INCANTATION_SAMURAI",
 		100,
-		4391431,
+		4391431
 	},
 
 	{
 		"ama_fild01",
-		16357,
+		16301,
 		300,
 		1060,
 		"Bigfoot",
-		"Bigfoot",
+		"BIGFOOT",
 		29,
-		1442306,
+		1442306
 	},
 
 	{
 		"ama_fild01",
-		16358,
+		16302,
 		300,
 		1400,
 		"Karakasa",
-		"Karakasa",
+		"KARAKASA",
 		72,
-		3932416,
+		3932416
 	},
 
 	{
 		"ama_fild01",
-		16359,
+		16303,
 		300,
 		1406,
 		"Kapha",
-		"Kapha",
+		"KAPHA",
 		83,
-		1376517,
+		1376517
 	},
 
 	{
 		"ama_fild01",
-		16360,
+		16304,
 		300,
 		1404,
 		"Miyabi Ningyo",
-		"Miyabi Doll",
+		"MIYABI_NINGYO",
 		85,
-		1769734,
+		1769734
 	},
 
 	{
 		"ama_fild01",
-		16361,
+		16305,
 		300,
 		1402,
 		"Poison Toad",
-		"Poison_Toad",
+		"POISON_TOAD",
 		87,
-		2949378,
+		2949378
 	},
 
 	{
 		"ama_fild01",
-		16362,
+		16306,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"anthell01",
-		16387,
+		16331,
 		300,
 		1121,
 		"Giearth",
-		"Giearth",
+		"GIEARTH",
 		42,
-		1441798,
+		1441798
 	},
 
 	{
 		"anthell01",
-		16388,
+		16332,
 		300,
 		1097,
 		"Ant Egg",
-		"Ant_Egg",
+		"ANT_EGG",
 		28,
-		3932160,
+		3932160
 	},
 
 	{
 		"anthell01",
-		16475,
+		16419,
 		300,
 		1105,
 		"Deniro",
-		"Deniro",
+		"DENIRO",
 		31,
-		1441796,
+		1441796
 	},
 
 	{
 		"anthell01",
-		16476,
+		16420,
 		300,
 		1176,
 		"Vitata",
-		"Vitata",
+		"VITATA",
 		35,
-		1441796,
+		1441796
 	},
 
 	{
 		"anthell01",
-		16477,
+		16421,
 		300,
 		1095,
 		"Andre",
-		"Andre",
+		"ANDRE",
 		33,
-		1441796,
+		1441796
 	},
 
 	{
 		"anthell01",
-		16478,
+		16422,
 		300,
 		1005,
 		"Familiar",
-		"Familiar",
+		"FARMILIAR",
 		24,
-		1769474,
+		1769474
 	},
 
 	{
 		"anthell01",
-		16479,
+		16423,
 		300,
 		1160,
 		"Piere",
-		"Piere",
+		"PIERE",
 		32,
-		1441796,
+		1441796
 	},
 
 	{
 		"anthell02",
-		16480,
+		16424,
 		300,
 		1121,
 		"Giearth",
-		"Giearth",
+		"GIEARTH",
 		42,
-		1441798,
+		1441798
 	},
 
 	{
 		"anthell02",
-		16481,
+		16425,
 		300,
 		1097,
 		"Ant Egg",
-		"Ant_Egg",
+		"ANT_EGG",
 		28,
-		3932160,
+		3932160
 	},
 
 	{
 		"anthell02",
-		16482,
+		16426,
 		300,
 		1105,
 		"Deniro",
-		"Deniro",
+		"DENIRO",
 		31,
-		1441796,
+		1441796
 	},
 
 	{
 		"anthell02",
-		16483,
+		16427,
 		300,
 		1176,
 		"Vitata",
-		"Vitata",
+		"VITATA",
 		35,
-		1441796,
+		1441796
 	},
 
 	{
 		"anthell02",
-		16484,
+		16428,
 		300,
 		1095,
 		"Andre",
-		"Andre",
+		"ANDRE",
 		33,
-		1441796,
+		1441796
 	},
 
 	{
 		"anthell02",
-		16485,
+		16429,
 		300,
 		1005,
 		"Familiar",
-		"Familiar",
+		"FARMILIAR",
 		24,
-		1769474,
+		1769474
 	},
 
 	{
 		"anthell02",
-		16486,
+		16430,
 		300,
 		1160,
 		"Piere",
-		"Piere",
+		"PIERE",
 		32,
-		1441796,
+		1441796
 	},
 
 	{
 		"anthell02",
-		17260,
+		17206,
 		301,
 		1147,
 		"Maya",
-		"Maya",
+		"MAYA",
 		55,
-		5374468,
+		5374468
 	},
 
 	{
 		"arug_dun01",
-		17370,
+		17322,
 		300,
 		1974,
 		"Banshee Master",
-		"Banshee_Master",
+		"BANSHEE_MASTER",
 		118,
-		3080454,
+		3080454
 	},
 
 	{
 		"arug_dun01",
-		17371,
+		17323,
 		300,
 		1870,
 		"Necromancer",
-		"Necromancer",
+		"NECROMANCER",
 		133,
-		5832961,
+		5832961
 	},
 
 	{
 		"arug_dun01",
-		17372,
+		17324,
 		300,
 		1975,
 		"Beholder Master",
-		"Beholder_Master",
+		"BEHOLDER_MASTER",
 		106,
-		2883840,
+		2883840
 	},
 
 	{
 		"arug_dun01",
-		17373,
+		17325,
 		300,
 		1797,
 		"Fanat",
-		"Fanat",
+		"FANAT",
 		120,
-		5243143,
+		5243143
 	},
 
 	{
 		"arug_dun01",
-		17374,
+		17326,
 		300,
 		1796,
 		"Aunoe",
-		"Aunoe",
+		"AUNOE",
 		110,
-		5243143,
+		5243143
 	},
 
 	{
 		"ayo_dun01",
-		16659,
+		16604,
 		300,
 		1036,
 		"Ghoul",
-		"Ghoul",
+		"GHOUL",
 		61,
-		3211521,
+		3211521
 	},
 
 	{
 		"ayo_dun01",
-		16660,
+		16605,
 		300,
 		1586,
 		"Leaf Cat",
-		"Leaf_Cat",
+		"LEAF_CAT",
 		64,
-		1441794,
+		1441794
 	},
 
 	{
 		"ayo_dun01",
-		16661,
+		16606,
 		300,
 		1179,
 		"Whisper",
-		"Whisper",
+		"WHISPER",
 		46,
-		4456454,
+		4456454
 	},
 
 	{
 		"ayo_dun01",
-		16662,
+		16607,
 		300,
 		1587,
 		"Kraben",
-		"Kraben",
+		"KRABEN",
 		70,
-		3145984,
+		3145984
 	},
 
 	{
 		"ayo_dun02",
-		16663,
+		16608,
 		300,
 		1179,
 		"Whisper",
-		"Whisper",
+		"WHISPER",
 		46,
-		4456454,
+		4456454
 	},
 
 	{
 		"ayo_dun02",
-		16664,
+		16609,
 		300,
 		1587,
 		"Kraben",
-		"Kraben",
+		"KRABEN",
 		70,
-		3145984,
+		3145984
 	},
 
 	{
 		"ayo_dun02",
-		16665,
+		16610,
 		300,
 		1584,
 		"Tamruan",
-		"Tamruan",
+		"TAMRUAN",
 		73,
-		4391430,
+		4391430
 	},
 
 	{
 		"ayo_dun02",
-		17261,
+		17207,
 		301,
 		1688,
 		"Lady Tanee",
-		"Lady_Tanee",
+		"LADY_TANEE",
 		80,
-		4194819,
+		4194819
 	},
 
 	{
 		"ayo_fild01",
-		16341,
+		16285,
 		300,
 		1056,
 		"Smokie",
-		"Smokie",
+		"SMOKIE",
 		29,
-		1441794,
+		1441794
 	},
 
 	{
 		"ayo_fild01",
-		16342,
+		16286,
 		300,
 		1104,
 		"Coco",
-		"Coco",
+		"COCO",
 		38,
-		1441794,
+		1441794
 	},
 
 	{
 		"ayo_fild01",
-		16343,
+		16287,
 		300,
 		1057,
 		"Yoyo",
-		"Yoyo",
+		"YOYO",
 		38,
-		1441794,
+		1441794
 	},
 
 	{
 		"ayo_fild01",
-		17641,
+		17576,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ayo_fild02",
-		16344,
+		16288,
 		300,
 		1586,
 		"Leaf Cat",
-		"Leaf_Cat",
+		"LEAF_CAT",
 		64,
-		1441794,
+		1441794
 	},
 
 	{
 		"ayo_fild02",
-		16345,
+		16289,
 		300,
 		1057,
 		"Yoyo",
-		"Yoyo",
+		"YOYO",
 		38,
-		1441794,
+		1441794
 	},
 
 	{
 		"ayo_fild02",
-		16346,
+		16290,
 		300,
 		1587,
 		"Kraben",
-		"Kraben",
+		"KRABEN",
 		70,
-		3145984,
+		3145984
 	},
 
 	{
 		"ayo_fild02",
-		17642,
+		17577,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"beach_dun",
-		16847,
+		16793,
 		300,
 		1255,
 		"Neraid",
-		"Nereid",
+		"NERAID",
 		98,
-		1441794,
+		1441794
 	},
 
 	{
 		"beach_dun",
-		16848,
+		16794,
 		300,
 		1264,
 		"Merman",
-		"Merman",
+		"MERMAN",
 		60,
-		3997959,
+		3997959
 	},
 
 	{
 		"beach_dun",
-		16849,
+		16795,
 		300,
 		1148,
 		"Medusa",
-		"Medusa",
+		"MEDUSA",
 		102,
-		2621702,
+		2621702
 	},
 
 	{
 		"beach_dun",
-		16850,
+		16796,
 		300,
 		1256,
 		"Pest",
-		"Pest",
+		"PEST",
 		89,
-		3080194,
+		3080194
 	},
 
 	{
 		"beach_dun",
-		17262,
+		17208,
 		301,
 		1583,
 		"Tao Gunka",
-		"Tao_Gunka",
+		"TAO_GUNKA",
 		110,
-		3932678,
+		3932678
 	},
 
 	{
 		"beach_dun2",
-		16851,
+		16797,
 		300,
 		1255,
 		"Neraid",
-		"Nereid",
+		"NERAID",
 		98,
-		1441794,
+		1441794
 	},
 
 	{
 		"beach_dun2",
-		16852,
+		16798,
 		300,
 		1274,
 		"Megalith",
-		"Megalith",
+		"MEGALITH",
 		65,
-		5243392,
+		5243392
 	},
 
 	{
 		"beach_dun2",
-		16853,
+		16799,
 		300,
 		1278,
 		"Stalactic Golem",
-		"Stalactic_Golem",
+		"STALACTIC_GOLEM",
 		68,
-		5243392,
+		5243392
 	},
 
 	{
 		"beach_dun2",
-		16854,
+		16800,
 		300,
 		1279,
-		"Trijoint",
-		"Trijoint",
+		"Tri Joint",
+		"TRI_JOINT",
 		66,
-		1441796,
+		1441796
 	},
 
 	{
 		"beach_dun2",
-		16855,
+		16801,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"beach_dun3",
-		16856,
+		16802,
 		300,
 		1255,
 		"Neraid",
-		"Nereid",
+		"NERAID",
 		98,
-		1441794,
+		1441794
 	},
 
 	{
 		"beach_dun3",
-		16857,
+		16803,
 		300,
 		1064,
 		"Megalodon",
-		"Megalodon",
+		"MEGALODON",
 		46,
-		1900801,
+		1900801
 	},
 
 	{
 		"beach_dun3",
-		16858,
+		16804,
 		300,
 		1034,
 		"Thara Frog",
-		"Thara_Frog",
+		"THARA_FROG",
 		40,
-		2687237,
+		2687237
 	},
 
 	{
 		"beach_dun3",
-		16859,
+		16805,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"bif_fild01",
-		15929,
+		15873,
 		300,
 		1994,
 		"Luciola Vespa",
-		"Luciola_Vespa",
+		"LUCIOLA_VESPA",
 		109,
-		1573124,
+		1573124
 	},
 
 	{
 		"bif_fild01",
-		15930,
+		15874,
 		300,
 		1992,
 		"Cornus",
-		"Cornus",
+		"CORNUS",
 		120,
-		4325634,
+		4325634
 	},
 
 	{
 		"bif_fild01",
-		15931,
+		15875,
 		300,
 		2137,
 		"Miming",
-		"Miming",
+		"MIMING",
 		140,
-		1310720,
+		1310720
 	},
 
 	{
 		"bif_fild01",
-		15932,
+		15876,
 		300,
 		2136,
 		"Little Fatum",
-		"Little_Fatum",
+		"LITTLE_FATUM",
 		142,
-		2883591,
+		2883591
 	},
 
 	{
 		"bif_fild01",
-		15933,
+		15877,
 		300,
 		2133,
 		"Angra Mantis",
-		"Angra_Mantis",
+		"ANGRA_MANTIS",
 		144,
-		2752772,
+		2752772
 	},
 
 	{
 		"bif_fild01",
-		15934,
+		15878,
 		300,
 		2132,
 		"Pom Spider",
-		"Pom_Spider",
+		"POM_SPIDER",
 		145,
-		4063492,
+		4063492
 	},
 
 	{
 		"bif_fild02",
-		15935,
+		15879,
 		300,
 		1994,
 		"Luciola Vespa",
-		"Luciola_Vespa",
+		"LUCIOLA_VESPA",
 		109,
-		1573124,
+		1573124
 	},
 
 	{
 		"bif_fild02",
-		15936,
+		15880,
 		300,
 		1992,
 		"Cornus",
-		"Cornus",
+		"CORNUS",
 		120,
-		4325634,
+		4325634
 	},
 
 	{
 		"bif_fild02",
-		15937,
+		15881,
 		300,
 		2137,
 		"Miming",
-		"Miming",
+		"MIMING",
 		140,
-		1310720,
+		1310720
 	},
 
 	{
 		"bif_fild02",
-		15938,
+		15882,
 		300,
 		2136,
 		"Little Fatum",
-		"Little_Fatum",
+		"LITTLE_FATUM",
 		142,
-		2883591,
+		2883591
 	},
 
 	{
 		"bif_fild02",
-		15939,
+		15883,
 		300,
 		2133,
 		"Angra Mantis",
-		"Angra_Mantis",
+		"ANGRA_MANTIS",
 		144,
-		2752772,
+		2752772
 	},
 
 	{
 		"bif_fild02",
-		15940,
+		15884,
 		300,
 		2132,
 		"Pom Spider",
-		"Pom_Spider",
+		"POM_SPIDER",
 		145,
-		4063492,
+		4063492
 	},
 
 	{
 		"bra_dun01",
-		15975,
+		15919,
 		300,
 		2070,
 		"Piranha",
-		"Piranha",
+		"PIRANHA",
 		75,
-		3998213,
+		3998213
 	},
 
 	{
 		"bra_dun01",
-		15976,
+		15920,
 		300,
 		2069,
 		"Iara",
-		"Iara",
+		"IARA",
 		79,
-		3997957,
+		3997957
 	},
 
 	{
 		"bra_dun01",
-		15977,
+		15921,
 		300,
 		1084,
 		"Black Mushroom",
-		"Black_Mushroom",
+		"BLACK_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"bra_dun01",
-		15978,
+		15922,
 		300,
 		1141,
 		"Marina",
-		"Marina",
+		"MARINA",
 		42,
-		2686979,
+		2686979
 	},
 
 	{
 		"bra_dun01",
-		15979,
+		15923,
 		300,
 		1070,
 		"Kukre",
-		"Kukre",
+		"KUKRE",
 		42,
-		1376261,
+		1376261
 	},
 
 	{
 		"bra_dun01",
-		15980,
+		15924,
 		300,
 		1161,
 		"Plankton",
-		"Plankton",
+		"PLANKTON",
 		40,
-		3997699,
+		3997699
 	},
 
 	{
 		"bra_dun01",
-		15981,
+		15925,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"bra_dun02",
-		15982,
+		15926,
 		300,
 		2070,
 		"Piranha",
-		"Piranha",
+		"PIRANHA",
 		75,
-		3998213,
+		3998213
 	},
 
 	{
 		"bra_dun02",
-		15983,
+		15927,
 		300,
 		2069,
 		"Iara",
-		"Iara",
+		"IARA",
 		79,
-		3997957,
+		3997957
 	},
 
 	{
 		"bra_dun02",
-		15984,
+		15928,
 		300,
 		1141,
 		"Marina",
-		"Marina",
+		"MARINA",
 		42,
-		2686979,
+		2686979
 	},
 
 	{
 		"bra_dun02",
-		15985,
+		15929,
 		300,
 		1070,
 		"Kukre",
-		"Kukre",
+		"KUKRE",
 		42,
-		1376261,
+		1376261
 	},
 
 	{
 		"bra_dun02",
-		15986,
+		15930,
 		300,
 		1161,
 		"Plankton",
-		"Plankton",
+		"PLANKTON",
 		40,
-		3997699,
+		3997699
 	},
 
 	{
 		"bra_dun02",
-		15987,
+		15931,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"bra_dun02",
-		15988,
+		15932,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"bra_dun02",
-		15989,
+		15933,
 		300,
 		1084,
 		"Black Mushroom",
-		"Black_Mushroom",
+		"BLACK_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"bra_dun02",
-		15990,
+		15934,
 		301,
 		2068,
 		"Boitata",
-		"Boitata",
+		"BOITATA",
 		93,
-		4129282,
+		4129282
 	},
 
 	{
 		"bra_fild01",
-		15968,
+		15912,
 		300,
 		2074,
 		"Curupira",
-		"Curupira",
+		"CURUPIRA",
 		68,
-		1442055,
+		1442055
 	},
 
 	{
 		"bra_fild01",
-		15969,
+		15913,
 		300,
 		1110,
 		"Dokebi",
-		"Dokebi",
+		"DOKEBI",
 		68,
-		1769478,
+		1769478
 	},
 
 	{
 		"bra_fild01",
-		15970,
+		15914,
 		300,
 		1166,
 		"Savage",
-		"Savage",
+		"SAVAGE",
 		59,
-		2753026,
+		2753026
 	},
 
 	{
 		"bra_fild01",
-		15971,
+		15915,
 		300,
 		2071,
 		"Headless Mule",
-		"Headless_Mule",
+		"HEADLESS_MULE",
 		80,
-		4129286,
+		4129286
 	},
 
 	{
 		"bra_fild01",
-		15972,
+		15916,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"bra_fild01",
-		15973,
+		15917,
 		300,
 		2072,
 		"Jaguar",
-		"Jaguar",
+		"JAGUAR",
 		71,
-		2752770,
+		2752770
 	},
 
 	{
 		"bra_fild01",
-		15974,
+		15918,
 		300,
 		2073,
 		"Toucan",
-		"Toucan",
+		"TOUCAN",
 		70,
-		2883842,
+		2883842
 	},
 
 	{
 		"brasilis",
-		13795,
+		13800,
 		300,
 		2057,
-		"Strange Rat",
-		"Event_Cramp",
+		"Suspicious Mouse",
+		"E_CRAMP",
 		1,
-		2949122,
+		2949122
 	},
 
 	{
 		"c_tower1",
-		16716,
+		16662,
 		300,
 		1195,
 		"Rideword",
-		"Rideword",
+		"RIDEWORD",
 		74,
-		3932160,
+		3932160
 	},
 
 	{
 		"c_tower1",
-		16717,
+		16663,
 		300,
 		1102,
 		"Bathory",
-		"Bathory",
+		"BATHORY",
 		86,
-		1769735,
+		1769735
 	},
 
 	{
 		"c_tower1",
-		16718,
+		16664,
 		300,
 		1270,
 		"Clock Tower Manager",
-		"Clock_Tower_Manager",
+		"C_TOWER_MANAGER",
 		90,
-		5243392,
+		5243392
 	},
 
 	{
 		"c_tower1",
-		16719,
+		16665,
 		300,
 		1199,
 		"Punk",
-		"Punk",
+		"PUNK",
 		82,
-		1572867,
+		1572867
 	},
 
 	{
 		"c_tower2",
-		16720,
-		300,
-		1195,
-		"Rideword",
-		"Rideword",
-		74,
-		3932160,
-	},
-
-	{
-		"c_tower2",
-		16721,
-		300,
-		1191,
-		"Mimic",
-		"Mimic",
-		56,
-		3932416,
-	},
-
-	{
-		"c_tower2",
-		16722,
-		300,
-		1270,
-		"Clock Tower Manager",
-		"Clock_Tower_Manager",
-		90,
-		5243392,
-	},
-
-	{
-		"c_tower2",
-		16723,
-		300,
-		1377,
-		"Elder",
-		"Elder",
-		92,
-		5243399,
-	},
-
-	{
-		"c_tower2",
-		16724,
-		300,
-		1269,
-		"Clock",
-		"Clock",
-		81,
-		2752768,
-	},
-
-	{
-		"c_tower2",
-		16725,
-		300,
-		1199,
-		"Punk",
-		"Punk",
-		82,
-		1572867,
-	},
-
-	{
-		"c_tower3",
-		16726,
-		300,
-		1195,
-		"Rideword",
-		"Rideword",
-		74,
-		3932160,
-	},
-
-	{
-		"c_tower3",
-		16727,
-		300,
-		1191,
-		"Mimic",
-		"Mimic",
-		56,
-		3932416,
-	},
-
-	{
-		"c_tower3",
-		16728,
-		300,
-		1270,
-		"Clock Tower Manager",
-		"Clock_Tower_Manager",
-		90,
-		5243392,
-	},
-
-	{
-		"c_tower3",
-		16729,
-		300,
-		1193,
-		"Alarm",
-		"Alarm",
-		88,
-		3932416,
-	},
-
-	{
-		"c_tower4",
-		16730,
-		300,
-		1195,
-		"Rideword",
-		"Rideword",
-		74,
-		3932160,
-	},
-
-	{
-		"c_tower4",
-		16731,
-		300,
-		1191,
-		"Mimic",
-		"Mimic",
-		56,
-		3932416,
-	},
-
-	{
-		"c_tower4",
-		16732,
-		300,
-		1270,
-		"Clock Tower Manager",
-		"Clock_Tower_Manager",
-		90,
-		5243392,
-	},
-
-	{
-		"c_tower4",
-		16733,
-		300,
-		1320,
-		"Owl Duke",
-		"Owl_Duke",
-		92,
-		3932678,
-	},
-
-	{
-		"c_tower4",
-		16734,
-		300,
-		1193,
-		"Alarm",
-		"Alarm",
-		88,
-		3932416,
-	},
-
-	{
-		"c_tower4",
-		16735,
-		300,
-		1377,
-		"Elder",
-		"Elder",
-		92,
-		5243399,
-	},
-
-	{
-		"c_tower4",
-		16736,
-		300,
-		1179,
-		"Whisper",
-		"Whisper",
-		46,
-		4456454,
-	},
-
-	{
-		"c_tower4",
-		16737,
-		300,
-		1269,
-		"Clock",
-		"Clock",
-		81,
-		2752768,
-	},
-
-	{
-		"cmd_fild01",
-		16162,
-		300,
-		1687,
-		"Green Iguana",
-		"Grove",
-		55,
-		2752770,
-	},
-
-	{
-		"cmd_fild01",
-		16163,
-		300,
-		1118,
-		"Flora",
-		"Flora",
-		59,
-		1442307,
-	},
-
-	{
-		"cmd_fild01",
-		17794,
-		300,
-		1083,
-		"Shining Plant",
-		"ShiningPlant",
-		1,
-		1703939,
-	},
-
-	{
-		"cmd_fild01",
-		17795,
-		300,
-		1079,
-		"Blue Plant",
-		"Blue_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"cmd_fild01",
-		17799,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"cmd_fild02",
-		16125,
-		300,
-		1266,
-		"Aster",
-		"Aster",
-		50,
-		1441797,
-	},
-
-	{
-		"cmd_fild02",
-		16126,
-		300,
-		1317,
-		"Fur Seal",
-		"Seal",
-		47,
-		1376514,
-	},
-
-	{
-		"cmd_fild02",
-		16127,
-		300,
-		1391,
-		"Galapago",
-		"Galapago",
-		45,
-		1441794,
-	},
-
-	{
-		"cmd_fild02",
-		16128,
-		300,
-		1074,
-		"Shellfish",
-		"Shellfish",
-		50,
-		1376261,
-	},
-
-	{
-		"cmd_fild02",
-		16129,
-		300,
-		1073,
-		"Crab",
-		"Crab",
-		43,
-		1376261,
-	},
-
-	{
-		"cmd_fild02",
-		17539,
-		300,
-		1313,
-		"Mobster",
-		"Mobster",
-		58,
-		1310983,
-	},
-
-	{
-		"cmd_fild03",
-		16164,
-		300,
-		1271,
-		"Alligator",
-		"Alligator",
-		57,
-		1376514,
-	},
-
-	{
-		"cmd_fild03",
-		16165,
-		300,
-		1118,
-		"Flora",
-		"Flora",
-		59,
-		1442307,
-	},
-
-	{
-		"cmd_fild03",
-		17444,
-		300,
-		1262,
-		"Mutant Dragon",
-		"Mutant Dragonoid",
-		65,
-		2818569,
-	},
-
-	{
-		"cmd_fild03",
-		17547,
-		300,
-		1089,
-		"Toad",
-		"Toad",
-		27,
-		1376517,
-	},
-
-	{
-		"cmd_fild03",
-		17800,
-		300,
-		1083,
-		"Shining Plant",
-		"ShiningPlant",
-		1,
-		1703939,
-	},
-
-	{
-		"cmd_fild04",
-		16130,
-		300,
-		1266,
-		"Aster",
-		"Aster",
-		50,
-		1441797,
-	},
-
-	{
-		"cmd_fild04",
-		16131,
-		300,
-		1323,
-		"Sea Otter",
-		"Sea_Otter",
-		48,
-		3997954,
-	},
-
-	{
-		"cmd_fild04",
-		16132,
-		300,
-		1391,
-		"Galapago",
-		"Galapago",
-		45,
-		1441794,
-	},
-
-	{
-		"cmd_fild04",
-		16133,
-		300,
-		1074,
-		"Shellfish",
-		"Shellfish",
-		50,
-		1376261,
-	},
-
-	{
-		"cmd_fild04",
-		16134,
-		300,
-		1073,
-		"Crab",
-		"Crab",
-		43,
-		1376261,
-	},
-
-	{
-		"cmd_fild06",
-		16166,
-		300,
-		1058,
-		"Metaller",
-		"Metaller",
-		55,
-		1507588,
-	},
-
-	{
-		"cmd_fild06",
-		16167,
-		300,
-		1040,
-		"Golem",
-		"Golem",
-		61,
-		3932672,
-	},
-
-	{
-		"cmd_fild06",
-		17803,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"cmd_fild07",
-		16135,
-		300,
-		1266,
-		"Aster",
-		"Aster",
-		50,
-		1441797,
-	},
-
-	{
-		"cmd_fild07",
-		16136,
-		300,
-		1074,
-		"Shellfish",
-		"Shellfish",
-		50,
-		1376261,
-	},
-
-	{
-		"cmd_fild07",
-		16137,
-		300,
-		1254,
-		"Raggler",
-		"Raggler",
-		48,
-		1572866,
-	},
-
-	{
-		"cmd_fild07",
-		16138,
-		300,
-		1073,
-		"Crab",
-		"Crab",
-		43,
-		1376261,
-	},
-
-	{
-		"cmd_fild08",
-		16107,
-		300,
-		1097,
-		"Ant Egg",
-		"Ant_Egg",
-		28,
-		3932160,
-	},
-
-	{
-		"cmd_fild08",
-		16108,
-		300,
-		1040,
-		"Golem",
-		"Golem",
-		61,
-		3932672,
-	},
-
-	{
-		"cmd_fild08",
-		16109,
-		300,
-		1105,
-		"Deniro",
-		"Deniro",
-		31,
-		1441796,
-	},
-
-	{
-		"cmd_fild08",
-		16110,
-		300,
-		1160,
-		"Piere",
-		"Piere",
-		32,
-		1441796,
-	},
-
-	{
-		"cmd_fild08",
-		16111,
-		300,
-		1095,
-		"Andre",
-		"Andre",
-		33,
-		1441796,
-	},
-
-	{
-		"cmd_fild08",
-		17805,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"cmd_fild09",
-		16168,
-		300,
-		1097,
-		"Ant Egg",
-		"Ant_Egg",
-		28,
-		3932160,
-	},
-
-	{
-		"cmd_fild09",
-		16169,
-		300,
-		1105,
-		"Deniro",
-		"Deniro",
-		31,
-		1441796,
-	},
-
-	{
-		"cmd_fild09",
-		16170,
-		300,
-		1160,
-		"Piere",
-		"Piere",
-		32,
-		1441796,
-	},
-
-	{
-		"cmd_fild09",
-		16171,
-		300,
-		1095,
-		"Andre",
-		"Andre",
-		33,
-		1441796,
-	},
-
-	{
-		"cmd_fild09",
-		16172,
-		300,
-		1058,
-		"Metaller",
-		"Metaller",
-		55,
-		1507588,
-	},
-
-	{
-		"dew_dun01",
-		15925,
-		300,
-		2152,
-		"Comodo",
-		"Comodo",
-		81,
-		4260098,
-	},
-
-	{
-		"dew_dun01",
-		15926,
-		301,
-		2156,
-		"Leak",
-		"Dreaded Leak",
-		94,
-		3080710,
-	},
-
-	{
-		"dew_dun02",
-		15927,
-		300,
-		2154,
-		"Banaspaty",
-		"Banaspaty",
-		85,
-		4128768,
-	},
-
-	{
-		"dew_dun02",
-		15928,
-		300,
-		2155,
-		"Butoijo",
-		"Butoijo",
-		88,
-		2818566,
-	},
-
-	{
-		"dew_fild01",
-		15922,
-		300,
-		2151,
-		"Alnoldi",
-		"Rafflesia Alnoldi",
-		80,
-		1442051,
-	},
-
-	{
-		"dew_fild01",
-		15923,
-		300,
-		1099,
-		"Argiope",
-		"Argiope",
-		75,
-		1638916,
-	},
-
-	{
-		"dew_fild01",
-		15924,
-		300,
-		2153,
-		"Cendrawasih",
-		"Cendrawasih",
-		84,
-		1573128,
-	},
-
-	{
-		"dic_dun01",
-		15941,
-		300,
-		2083,
-		"One-Horned Scaraba",
-		"One-Horned_Scaraba",
-		130,
-		1441796,
-	},
-
-	{
-		"dic_dun01",
-		15942,
-		300,
-		2084,
-		"Two-Horned Scaraba",
-		"Two-Horned_Scaraba",
-		134,
-		1441796,
-	},
-
-	{
-		"dic_dun01",
-		15943,
-		300,
-		2088,
-		"One-Horned Scaraba Egg",
-		"One-Horned_Scaraba_Egg",
-		125,
-		1310724,
-	},
-
-	{
-		"dic_dun01",
-		15944,
-		300,
-		2089,
-		"Two-Horned Scaraba Egg",
-		"Two-Horned_Scaraba_Egg",
-		126,
-		1310724,
-	},
-
-	{
-		"dic_dun02",
-		15945,
-		300,
-		2085,
-		"Antler Scaraba",
-		"Antler_Scaraba",
-		136,
-		2752772,
-	},
-
-	{
-		"dic_dun02",
-		15946,
-		300,
-		2086,
-		"Rake Scaraba",
-		"Rake_Scaraba",
-		139,
-		2752772,
-	},
-
-	{
-		"dic_dun02",
-		15947,
-		300,
-		2090,
-		"Antler Scaraba Egg",
-		"Antler_Scaraba_Egg",
-		127,
-		1310724,
-	},
-
-	{
-		"dic_dun02",
-		15948,
-		300,
-		2091,
-		"Rake Scaraba Egg",
-		"Rake_Scaraba_Egg",
-		128,
-		1310724,
-	},
-
-	{
-		"dic_dun02",
-		15949,
-		301,
-		2087,
-		"Queen Scaraba",
-		"Scaraba Queen",
-		140,
-		4063748,
-	},
-
-	{
-		"dic_dun03",
-		15950,
-		300,
-		2166,
-		"Gold One-Horned Scaraba Egg",
-		"Gold_One-Horned_Scaraba_Egg",
-		125,
-		1441796,
-	},
-
-	{
-		"dic_dun03",
-		15951,
-		300,
-		2167,
-		"Gold Two-Horned Scaraba Egg",
-		"Gold_Two-Horned_Scaraba_Egg",
-		126,
-		1441796,
-	},
-
-	{
-		"dic_dun03",
-		15952,
-		300,
-		2168,
-		"Gold Antler Scaraba Egg",
-		"Gold_Antler_Scaraba_Egg",
-		127,
-		1441796,
-	},
-
-	{
-		"dic_dun03",
-		15953,
-		300,
-		2169,
-		"Gold Rake Scaraba Egg",
-		"Gold_Rake_Scaraba_Egg",
-		128,
-		1441796,
-	},
-
-	{
-		"dic_dun03",
-		15954,
-		300,
-		2161,
-		"Gold One-Horned Scaraba",
-		"Gold_One-Horned_Scaraba",
-		130,
-		1441796,
-	},
-
-	{
-		"dic_dun03",
-		15955,
-		300,
-		2162,
-		"Gold Two-Horned Scaraba",
-		"Gold_Two-Horned_Scaraba",
-		134,
-		1441796,
-	},
-
-	{
-		"dic_dun03",
-		15956,
-		300,
-		2163,
-		"Gold Antler Scaraba",
-		"Gold_Antler_Scaraba",
-		136,
-		2752772,
-	},
-
-	{
-		"dic_dun03",
-		15957,
-		300,
-		2164,
-		"Gold Rake Scaraba",
-		"Gold_Rake_Scaraba",
-		139,
-		2752772,
-	},
-
-	{
-		"dic_dun03",
-		15958,
-		301,
-		2165,
-		"Gold Queen Scaraba",
-		"Gold Scaraba Queen",
-		140,
-		4063748,
-	},
-
-	{
-		"dic_fild01",
-		15959,
-		300,
-		1987,
-		"Centipede",
-		"Centipede",
-		125,
-		2949380,
-	},
-
-	{
-		"dic_fild01",
-		15960,
-		300,
-		1999,
-		"Centipede Larva",
-		"Centipede_Larva",
-		118,
-		1638404,
-	},
-
-	{
-		"dic_fild01",
-		15961,
-		300,
-		1986,
-		"Tatacho",
-		"Tatacho",
-		128,
-		1442050,
-	},
-
-	{
-		"dic_fild01",
-		15962,
-		300,
-		2092,
-		"Dolomedes",
-		"Dolomedes",
-		132,
-		3998212,
-	},
-
-	{
-		"dic_fild02",
-		15963,
-		300,
-		2024,
-		"Bradium Golem",
-		"Bradium_Golem",
-		133,
-		2753024,
-	},
-
-	{
-		"dic_fild02",
-		15964,
-		300,
-		1987,
-		"Centipede",
-		"Centipede",
-		125,
-		2949380,
-	},
-
-	{
-		"dic_fild02",
-		15965,
-		300,
-		1999,
-		"Centipede Larva",
-		"Centipede_Larva",
-		118,
-		1638404,
-	},
-
-	{
-		"dic_fild02",
-		15966,
-		300,
-		1986,
-		"Tatacho",
-		"Tatacho",
-		128,
-		1442050,
-	},
-
-	{
-		"dic_fild02",
-		15967,
-		300,
-		2092,
-		"Dolomedes",
-		"Dolomedes",
-		132,
-		3998212,
-	},
-
-	{
-		"ecl_fild01",
-		15864,
-		300,
-		2363,
-		"Menblatt",
-		"Menblatt",
-		143,
-		2883844,
-	},
-
-	{
-		"ecl_fild01",
-		15865,
-		300,
-		2364,
-		"Petal",
-		"Petal",
-		141,
-		1573122,
-	},
-
-	{
-		"ecl_tdun01",
-		15866,
-		300,
-		2365,
-		"Cenere",
-		"Cenere",
-		146,
-		1572867,
-	},
-
-	{
-		"ecl_tdun01",
-		15867,
-		300,
-		2366,
-		"Antique Book",
-		"Antique_Book",
-		148,
-		3932160,
-	},
-
-	{
-		"ecl_tdun01",
-		15868,
-		300,
-		2367,
-		"Lichtern",
-		"Lichtern_B",
-		149,
-		5308416,
-	},
-
-	{
-		"ecl_tdun01",
-		15869,
-		300,
-		2368,
-		"Lichtern",
-		"Lichtern_Y",
-		147,
-		5767168,
-	},
-
-	{
-		"ecl_tdun02",
-		15870,
-		300,
-		2365,
-		"Cenere",
-		"Cenere",
-		146,
-		1572867,
-	},
-
-	{
-		"ecl_tdun02",
-		15871,
-		300,
-		2366,
-		"Antique Book",
-		"Antique_Book",
-		148,
-		3932160,
-	},
-
-	{
-		"ecl_tdun02",
-		15872,
-		300,
-		2368,
-		"Lichtern",
-		"Lichtern_Y",
-		147,
-		5767168,
-	},
-
-	{
-		"ecl_tdun02",
-		15873,
-		300,
-		2369,
-		"Lichtern",
-		"Lichtern_R",
-		149,
-		5439488,
-	},
-
-	{
-		"ecl_tdun03",
-		15874,
-		300,
-		2366,
-		"Antique Book",
-		"Antique_Book",
-		148,
-		3932160,
-	},
-
-	{
-		"ecl_tdun03",
-		15875,
-		300,
-		2368,
-		"Lichtern",
-		"Lichtern_Y",
-		147,
-		5767168,
-	},
-
-	{
-		"ecl_tdun03",
-		15876,
-		300,
-		2370,
-		"Lichtern",
-		"Lichtern_G",
-		151,
-		5373952,
-	},
-
-	{
-		"ecl_tdun03",
-		15877,
-		300,
-		2371,
-		"Faithful Manager",
-		"Faithful_Manager",
-		155,
-		5243392,
-	},
-
-	{
-		"ein_dun01",
-		16797,
-		300,
-		1617,
-		"Waste Stove",
-		"Old Stove",
-		92,
-		1311232,
-	},
-
-	{
-		"ein_dun01",
-		16798,
-		300,
-		1620,
-		"Noxious",
-		"Noxious",
-		87,
-		4456704,
-	},
-
-	{
-		"ein_dun01",
-		16799,
-		300,
-		1621,
-		"Venomous",
-		"Venomous",
-		87,
-		1638656,
-	},
-
-	{
-		"ein_dun01",
-		16800,
-		300,
-		1619,
-		"Porcellio",
-		"Porcellio",
-		85,
-		4063236,
-	},
-
-	{
-		"ein_dun01",
-		16801,
-		300,
-		1616,
-		"Pitman",
-		"Pitman",
-		90,
-		2753025,
-	},
-
-	{
-		"ein_dun01",
-		17535,
-		300,
-		1618,
-		"Ungoliant",
-		"Ungoliant",
-		94,
-		2949636,
-	},
-
-	{
-		"ein_dun02",
-		16802,
-		300,
-		1617,
-		"Waste Stove",
-		"Old Stove",
-		92,
-		1311232,
-	},
-
-	{
-		"ein_dun02",
-		16803,
-		300,
-		1622,
-		"Teddy Bear",
-		"Teddy_Bear",
-		91,
-		3932160,
-	},
-
-	{
-		"ein_dun02",
-		16804,
-		300,
-		1614,
-		"Mineral",
-		"Mineral",
-		96,
-		2621440,
-	},
-
-	{
-		"ein_dun02",
-		16805,
-		300,
-		1615,
-		"Obsidian",
-		"Obsidian",
-		97,
-		2752512,
-	},
-
-	{
-		"ein_dun02",
-		17263,
-		301,
-		1623,
-		"RSX 0806",
-		"RSX-0806",
-		100,
-		3932672,
-	},
-
-	{
-		"ein_fild03",
-		16261,
-		300,
-		1622,
-		"Teddy Bear",
-		"Teddy_Bear",
-		91,
-		3932160,
-	},
-
-	{
-		"ein_fild03",
-		16262,
-		300,
-		1621,
-		"Venomous",
-		"Venomous",
-		87,
-		1638656,
-	},
-
-	{
-		"ein_fild03",
-		16263,
-		300,
-		1620,
-		"Noxious",
-		"Noxious",
-		87,
-		4456704,
-	},
-
-	{
-		"ein_fild03",
-		16264,
-		300,
-		1616,
-		"Pitman",
-		"Pitman",
-		90,
-		2753025,
-	},
-
-	{
-		"ein_fild03",
-		17615,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild03",
-		17616,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild04",
-		16265,
-		300,
-		1621,
-		"Venomous",
-		"Venomous",
-		87,
-		1638656,
-	},
-
-	{
-		"ein_fild04",
-		16266,
-		300,
-		1620,
-		"Noxious",
-		"Noxious",
-		87,
-		4456704,
-	},
-
-	{
-		"ein_fild04",
-		16267,
-		300,
-		1616,
-		"Pitman",
-		"Pitman",
-		90,
-		2753025,
-	},
-
-	{
-		"ein_fild04",
-		16268,
-		300,
-		1622,
-		"Teddy Bear",
-		"Teddy_Bear",
-		91,
-		3932160,
-	},
-
-	{
-		"ein_fild04",
-		17429,
-		300,
-		1378,
-		"Demon Pungus",
-		"Demon_Pungus",
-		91,
-		4259846,
-	},
-
-	{
-		"ein_fild04",
-		17617,
-		300,
-		1078,
-		"Red Plant",
-		"Red_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild04",
-		17618,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild04",
-		17619,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild05",
-		16269,
-		300,
-		1620,
-		"Noxious",
-		"Noxious",
-		87,
-		4456704,
-	},
-
-	{
-		"ein_fild05",
-		16270,
-		300,
-		1621,
-		"Venomous",
-		"Venomous",
-		87,
-		1638656,
-	},
-
-	{
-		"ein_fild05",
-		16271,
-		300,
-		1616,
-		"Pitman",
-		"Pitman",
-		90,
-		2753025,
-	},
-
-	{
-		"ein_fild05",
-		16272,
-		300,
-		1622,
-		"Teddy Bear",
-		"Teddy_Bear",
-		91,
-		3932160,
-	},
-
-	{
-		"ein_fild05",
-		17430,
-		300,
-		1378,
-		"Demon Pungus",
-		"Demon_Pungus",
-		91,
-		4259846,
-	},
-
-	{
-		"ein_fild06",
-		16273,
-		300,
-		1628,
-		"Holden",
-		"Mole",
-		85,
-		2752514,
-	},
-
-	{
-		"ein_fild06",
-		16274,
-		300,
-		1613,
-		"Metaling",
-		"Metaling",
-		81,
-		1310720,
-	},
-
-	{
-		"ein_fild06",
-		17620,
-		300,
-		1078,
-		"Red Plant",
-		"Red_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild06",
-		17621,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild07",
-		16275,
-		300,
-		1613,
-		"Metaling",
-		"Metaling",
-		81,
-		1310720,
-	},
-
-	{
-		"ein_fild07",
-		16276,
-		300,
-		1628,
-		"Holden",
-		"Mole",
-		85,
-		2752514,
-	},
-
-	{
-		"ein_fild07",
-		16277,
-		300,
-		1619,
-		"Porcellio",
-		"Porcellio",
-		85,
-		4063236,
-	},
-
-	{
-		"ein_fild07",
-		17474,
-		300,
-		1085,
-		"Red Mushroom",
-		"Red_Mushroom",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild07",
-		17534,
-		300,
-		1618,
-		"Ungoliant",
-		"Ungoliant",
-		94,
-		2949636,
-	},
-
-	{
-		"ein_fild07",
-		17622,
-		300,
-		1078,
-		"Red Plant",
-		"Red_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild07",
-		17623,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild08",
-		16278,
-		300,
-		1613,
-		"Metaling",
-		"Metaling",
-		81,
-		1310720,
-	},
-
-	{
-		"ein_fild08",
-		16279,
-		300,
-		1619,
-		"Porcellio",
-		"Porcellio",
-		85,
-		4063236,
-	},
-
-	{
-		"ein_fild08",
-		17475,
-		300,
-		1085,
-		"Red Mushroom",
-		"Red_Mushroom",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild08",
-		17624,
-		300,
-		1078,
-		"Red Plant",
-		"Red_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild08",
-		17625,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild09",
-		16280,
-		300,
-		1619,
-		"Porcellio",
-		"Porcellio",
-		85,
-		4063236,
-	},
-
-	{
-		"ein_fild09",
-		16281,
-		300,
-		1613,
-		"Metaling",
-		"Metaling",
-		81,
-		1310720,
-	},
-
-	{
-		"ein_fild09",
-		17476,
-		300,
-		1085,
-		"Red Mushroom",
-		"Red_Mushroom",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild09",
-		17626,
-		300,
-		1078,
-		"Red Plant",
-		"Red_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ein_fild09",
-		17627,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_dun00",
-		16584,
-		300,
-		1084,
-		"Black Mushroom",
-		"Black_Mushroom",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_dun00",
-		16585,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_dun00",
-		16586,
-		300,
-		1083,
-		"Shining Plant",
-		"ShiningPlant",
-		1,
-		1703939,
-	},
-
-	{
-		"gef_dun00",
-		16587,
-		300,
-		1078,
-		"Red Plant",
-		"Red_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_dun00",
-		16588,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_dun00",
-		16589,
-		300,
-		1077,
-		"Poison Spore",
-		"Poison_Spore",
-		26,
-		1638659,
-	},
-
-	{
-		"gef_dun00",
-		16590,
-		300,
-		1031,
-		"Poporing",
-		"Poporing",
-		30,
-		1638659,
-	},
-
-	{
-		"gef_dun00",
-		16591,
-		300,
-		1035,
-		"Hunter Fly",
-		"Hunter_Fly",
-		63,
-		2883588,
-	},
-
-	{
-		"gef_dun01",
-		16592,
-		300,
-		1084,
-		"Black Mushroom",
-		"Black_Mushroom",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_dun01",
-		16593,
-		300,
-		1036,
-		"Ghoul",
-		"Ghoul",
-		61,
-		3211521,
-	},
-
-	{
-		"gef_dun01",
-		16594,
-		300,
-		1061,
-		"Nightmare",
-		"Nightmare",
-		69,
-		4456966,
-	},
-
-	{
-		"gef_dun01",
-		16595,
-		300,
-		1111,
-		"Drainliar",
-		"Drainliar",
-		47,
-		3080194,
-	},
-
-	{
-		"gef_dun01",
-		16596,
-		300,
-		1130,
-		"Jakk",
-		"Jakk",
-		63,
-		2818304,
-	},
-
-	{
-		"gef_dun01",
-		16597,
-		300,
-		1015,
-		"Zombie",
-		"Zombie",
-		17,
-		1900801,
-	},
-
-	{
-		"gef_dun01",
-		16598,
-		300,
-		1079,
-		"Blue Plant",
-		"Blue_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_dun01",
-		16599,
-		300,
-		1082,
-		"White Plant",
-		"White_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_dun01",
-		17264,
-		301,
-		1389,
-		"Dracula",
-		"Dracula",
-		75,
-		5702150,
-	},
-
-	{
-		"gef_dun02",
-		16600,
-		300,
-		1036,
-		"Ghoul",
-		"Ghoul",
-		61,
-		3211521,
-	},
-
-	{
-		"gef_dun02",
-		16601,
-		300,
-		1061,
-		"Nightmare",
-		"Nightmare",
-		69,
-		4456966,
-	},
-
-	{
-		"gef_dun02",
-		16602,
-		300,
-		1109,
-		"Deviruchi",
-		"Deviruchi",
-		93,
-		1769478,
-	},
-
-	{
-		"gef_dun02",
-		16603,
-		300,
-		1143,
-		"Marionette",
-		"Marionette",
-		90,
-		4456454,
-	},
-
-	{
-		"gef_dun02",
-		16604,
-		300,
-		1083,
-		"Shining Plant",
-		"ShiningPlant",
-		1,
-		1703939,
-	},
-
-	{
-		"gef_dun02",
-		16605,
-		300,
-		1179,
-		"Whisper",
-		"Whisper",
-		46,
-		4456454,
-	},
-
-	{
-		"gef_dun02",
-		16606,
-		300,
-		1082,
-		"White Plant",
-		"White_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_dun02",
-		16607,
-		300,
-		1035,
-		"Hunter Fly",
-		"Hunter_Fly",
-		63,
-		2883588,
-	},
-
-	{
-		"gef_dun02",
-		17265,
-		301,
-		1046,
-		"Doppelganger",
-		"Doppelganger",
-		77,
-		4391174,
-	},
-
-	{
-		"gef_dun03",
-		16608,
-		300,
-		1192,
-		"Wraith",
-		"Wraith",
-		77,
-		5833217,
-	},
-
-	{
-		"gef_dun03",
-		16609,
-		300,
-		1083,
-		"Shining Plant",
-		"ShiningPlant",
-		1,
-		1703939,
-	},
-
-	{
-		"gef_dun03",
-		16610,
-		300,
-		1263,
-		"Wind Ghost",
-		"Wind_Ghost",
-		80,
-		4194566,
-	},
-
-	{
-		"gef_dun03",
-		16611,
-		300,
-		1082,
-		"White Plant",
-		"White_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_dun03",
-		17426,
-		300,
-		1626,
-		"Hellion Revenant",
-		"Hellion_Revenant",
-		79,
-		4522246,
-	},
-
-	{
-		"gef_fild00",
-		16000,
-		300,
-		1002,
-		"Poring",
-		"Poring",
-		1,
-		1376515,
-	},
-
-	{
-		"gef_fild00",
-		16001,
-		300,
-		1007,
-		"Fabre",
-		"Fabre",
-		6,
-		1441796,
-	},
-
-	{
-		"gef_fild00",
-		16002,
-		300,
-		1011,
-		"Chonchon",
-		"Chonchon",
-		5,
-		1572868,
-	},
-
-	{
-		"gef_fild00",
-		17715,
-		300,
-		1079,
-		"Blue Plant",
-		"Blue_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild00",
-		17717,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild01",
-		16031,
-		300,
-		1012,
-		"Roda Frog",
-		"Roda_Frog",
-		13,
-		1376517,
-	},
-
-	{
-		"gef_fild01",
-		16032,
-		300,
-		1094,
-		"Ambernite",
-		"Ambernite",
-		19,
-		1376772,
-	},
-
-	{
-		"gef_fild01",
-		17546,
-		300,
-		1089,
-		"Toad",
-		"Toad",
-		27,
-		1376517,
-	},
-
-	{
-		"gef_fild01",
-		17659,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild02",
-		16096,
-		300,
-		1031,
-		"Poporing",
-		"Poporing",
-		30,
-		1638659,
-	},
-
-	{
-		"gef_fild02",
-		16097,
-		300,
-		1128,
-		"Horn",
-		"Horn",
-		32,
-		1442052,
-	},
-
-	{
-		"gef_fild02",
-		16098,
-		300,
-		1033,
-		"Elder Willow",
-		"Elder_Willow",
-		34,
-		2818307,
-	},
-
-	{
-		"gef_fild02",
-		16099,
-		300,
-		1104,
-		"Coco",
-		"Coco",
-		38,
-		1441794,
-	},
-
-	{
-		"gef_fild02",
-		17478,
-		300,
-		1085,
-		"Red Mushroom",
-		"Red_Mushroom",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild02",
-		17654,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild02",
-		17655,
-		300,
-		1079,
-		"Blue Plant",
-		"Blue_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild02",
-		17658,
-		300,
-		1083,
-		"Shining Plant",
-		"ShiningPlant",
-		1,
-		1703939,
-	},
-
-	{
-		"gef_fild03",
-		16118,
-		300,
-		1686,
-		"Orc Baby",
-		"Orc_Baby",
-		43,
-		1441799,
-	},
-
-	{
-		"gef_fild03",
-		16119,
-		300,
-		1023,
-		"Orc Warrior",
-		"Orc_Warrior",
-		44,
-		1442055,
-	},
-
-	{
-		"gef_fild03",
-		16120,
-		300,
-		1273,
-		"Orc Lady",
-		"Orc_Lady",
-		45,
-		2752775,
-	},
-
-	{
-		"gef_fild03",
-		17554,
-		301,
-		1087,
-		"Orc Hero",
-		"Orc_Hero",
-		50,
-		2753031,
-	},
-
-	{
-		"gef_fild03",
-		17664,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild04",
-		16041,
-		300,
-		1020,
-		"Mandragora",
-		"Mandragora",
-		13,
-		4063491,
-	},
-
-	{
-		"gef_fild04",
-		16042,
-		300,
-		1063,
-		"Lunatic",
-		"Lunatic",
-		3,
-		3932162,
-	},
-
-	{
-		"gef_fild04",
-		16043,
-		300,
-		1007,
-		"Fabre",
-		"Fabre",
-		6,
-		1441796,
-	},
-
-	{
-		"gef_fild04",
-		16044,
-		300,
-		1011,
-		"Chonchon",
-		"Chonchon",
-		5,
-		1572868,
-	},
-
-	{
-		"gef_fild04",
-		17709,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild05",
-		16067,
-		300,
-		1048,
-		"Thief Bug Egg",
-		"Thief_Bug_Egg",
-		20,
-		1769476,
-	},
-
-	{
-		"gef_fild05",
-		16068,
-		300,
-		1006,
-		"Thief Bug",
-		"Thief Bug",
-		0,
-		0,
-	},
-
-	{
-		"gef_fild05",
-		16069,
-		300,
-		1174,
-		"Stainer",
-		"Stainer",
-		21,
-		1572868,
-	},
-
-	{
-		"gef_fild05",
-		16070,
-		300,
-		1018,
-		"Creamy",
-		"Creamy",
-		23,
-		1572868,
-	},
-
-	{
-		"gef_fild05",
-		16071,
-		300,
-		1056,
-		"Smokie",
-		"Smokie",
-		29,
-		1441794,
-	},
-
-	{
-		"gef_fild05",
-		17685,
-		300,
-		1078,
-		"Red Plant",
-		"Red_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild06",
-		16197,
-		300,
-		1155,
-		"Petite",
-		"Petite",
-		86,
-		1442057,
-	},
-
-	{
-		"gef_fild06",
-		16198,
-		300,
-		1139,
-		"Mantis",
-		"Mantis",
-		65,
-		1442052,
-	},
-
-	{
-		"gef_fild06",
-		16199,
-		300,
-		1037,
-		"Side Winder",
-		"Side_Winder",
-		70,
-		1638658,
-	},
-
-	{
-		"gef_fild06",
-		17708,
-		300,
-		1083,
-		"Shining Plant",
-		"ShiningPlant",
-		1,
-		1703939,
-	},
-
-	{
-		"gef_fild07",
-		16003,
-		300,
-		1002,
-		"Poring",
-		"Poring",
-		1,
-		1376515,
-	},
-
-	{
-		"gef_fild07",
-		16004,
-		300,
-		1008,
-		"Pupa",
-		"Pupa",
-		4,
-		1441796,
-	},
-
-	{
-		"gef_fild07",
-		16005,
-		300,
-		1007,
-		"Fabre",
-		"Fabre",
-		6,
-		1441796,
-	},
-
-	{
-		"gef_fild07",
-		16006,
-		300,
-		1011,
-		"Chonchon",
-		"Chonchon",
-		5,
-		1572868,
-	},
-
-	{
-		"gef_fild07",
-		17711,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild07",
-		17712,
-		300,
-		1083,
-		"Shining Plant",
-		"ShiningPlant",
-		1,
-		1703939,
-	},
-
-	{
-		"gef_fild07",
-		17713,
-		300,
-		1079,
-		"Blue Plant",
-		"Blue_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild08",
-		16200,
-		300,
-		1156,
-		"Petite",
-		"Petite_",
-		79,
-		1573129,
-	},
-
-	{
-		"gef_fild08",
-		16201,
-		300,
-		1139,
-		"Mantis",
-		"Mantis",
-		65,
-		1442052,
-	},
-
-	{
-		"gef_fild08",
-		16202,
-		300,
-		1118,
-		"Flora",
-		"Flora",
-		59,
-		1442307,
-	},
-
-	{
-		"gef_fild08",
-		17700,
-		300,
-		1079,
-		"Blue Plant",
-		"Blue_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild09",
-		16029,
-		300,
-		1094,
-		"Ambernite",
-		"Ambernite",
-		19,
-		1376772,
-	},
-
-	{
-		"gef_fild09",
-		16030,
-		300,
-		1012,
-		"Roda Frog",
-		"Roda_Frog",
-		13,
-		1376517,
-	},
-
-	{
-		"gef_fild09",
-		17479,
-		300,
-		1085,
-		"Red Mushroom",
-		"Red_Mushroom",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild09",
-		17660,
-		300,
-		1079,
-		"Blue Plant",
-		"Blue_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild10",
-		16115,
-		300,
-		1686,
-		"Orc Baby",
-		"Orc_Baby",
-		43,
-		1441799,
-	},
-
-	{
-		"gef_fild10",
-		16116,
-		300,
-		1023,
-		"Orc Warrior",
-		"Orc_Warrior",
-		44,
-		1442055,
-	},
-
-	{
-		"gef_fild10",
-		16117,
-		300,
-		1273,
-		"Orc Lady",
-		"Orc_Lady",
-		45,
-		2752775,
-	},
-
-	{
-		"gef_fild10",
-		17266,
-		301,
-		1190,
-		"Orc Lord",
-		"Orc_Lord",
-		55,
-		5374471,
-	},
-
-	{
-		"gef_fild10",
-		17661,
-		300,
-		1079,
-		"Blue Plant",
-		"Blue_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild10",
-		17663,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gef_fild11",
-		16121,
-		300,
-		1122,
-		"Goblin",
-		"Goblin 1",
-		48,
-		1573127,
-	},
-
-	{
-		"gef_fild11",
-		16122,
-		300,
-		1123,
-		"Goblin",
-		"Goblin 2",
-		44,
-		1507591,
-	},
-
-	{
-		"gef_fild11",
-		16123,
-		300,
-		1124,
-		"Goblin",
-		"Goblin 3",
-		44,
-		1638663,
-	},
-
-	{
-		"gef_fild11",
-		16124,
-		300,
-		1125,
-		"Goblin",
-		"Goblin 4",
-		49,
-		1442055,
-	},
-
-	{
-		"gef_fild11",
-		17417,
-		300,
-		1299,
-		"Goblin Leader",
-		"Goblin_Leader",
-		55,
-		1573127,
-	},
-
-	{
-		"gefenia01",
-		17036,
-		300,
-		1292,
-		"Mini Demon",
-		"Mini_Demon",
-		117,
-		1769478,
-	},
-
-	{
-		"gefenia01",
-		17037,
-		300,
-		1390,
-		"Violy",
-		"Violy",
-		118,
-		2621703,
-	},
-
-	{
-		"gefenia01",
-		17038,
-		300,
-		1370,
-		"Succubus",
-		"Succubus",
-		119,
-		4391174,
-	},
-
-	{
-		"gefenia01",
-		17039,
-		300,
-		1219,
-		"Knight of Abyss",
-		"Abyssmal Knight",
-		122,
-		5702151,
-	},
-
-	{
-		"gefenia01",
-		17040,
-		300,
-		1374,
-		"Incubus",
-		"Incubus",
-		120,
-		4391174,
-	},
-
-	{
-		"gefenia01",
-		17041,
-		300,
-		1371,
-		"Fake Angel",
-		"False Angel",
-		105,
-		4325384,
-	},
-
-	{
-		"gefenia01",
-		17448,
-		300,
-		1203,
-		"Mysteltainn",
-		"Mysteltainn",
-		130,
-		5702144,
-	},
-
-	{
-		"gefenia01",
-		17454,
-		300,
-		1205,
-		"Executioner",
-		"Executioner",
-		101,
-		3080704,
-	},
-
-	{
-		"gefenia01",
-		17458,
-		300,
-		1204,
-		"Ogretooth",
-		"Tirfing",
-		114,
-		4391168,
-	},
-
-	{
-		"gefenia01",
-		17540,
-		300,
-		1268,
-		"Bloody Knight",
-		"Bloody_Knight",
-		116,
-		5702144,
-	},
-
-	{
-		"gefenia02",
-		17042,
-		300,
-		1292,
-		"Mini Demon",
-		"Mini_Demon",
-		117,
-		1769478,
-	},
-
-	{
-		"gefenia02",
-		17043,
-		300,
-		1390,
-		"Violy",
-		"Violy",
-		118,
-		2621703,
-	},
-
-	{
-		"gefenia02",
-		17044,
-		300,
-		1370,
-		"Succubus",
-		"Succubus",
-		119,
-		4391174,
-	},
-
-	{
-		"gefenia02",
-		17045,
-		300,
-		1219,
-		"Knight of Abyss",
-		"Abyssmal Knight",
-		122,
-		5702151,
-	},
-
-	{
-		"gefenia02",
-		17046,
-		300,
-		1374,
-		"Incubus",
-		"Incubus",
-		120,
-		4391174,
-	},
-
-	{
-		"gefenia02",
-		17047,
-		300,
-		1371,
-		"Fake Angel",
-		"False Angel",
-		105,
-		4325384,
-	},
-
-	{
-		"gefenia02",
-		17449,
-		300,
-		1203,
-		"Mysteltainn",
-		"Mysteltainn",
-		130,
-		5702144,
-	},
-
-	{
-		"gefenia02",
-		17455,
-		300,
-		1205,
-		"Executioner",
-		"Executioner",
-		101,
-		3080704,
-	},
-
-	{
-		"gefenia02",
-		17459,
-		300,
-		1204,
-		"Ogretooth",
-		"Tirfing",
-		114,
-		4391168,
-	},
-
-	{
-		"gefenia02",
-		17541,
-		300,
-		1268,
-		"Bloody Knight",
-		"Bloody_Knight",
-		116,
-		5702144,
-	},
-
-	{
-		"gefenia03",
-		17048,
-		300,
-		1292,
-		"Mini Demon",
-		"Mini_Demon",
-		117,
-		1769478,
-	},
-
-	{
-		"gefenia03",
-		17049,
-		300,
-		1390,
-		"Violy",
-		"Violy",
-		118,
-		2621703,
-	},
-
-	{
-		"gefenia03",
-		17050,
-		300,
-		1370,
-		"Succubus",
-		"Succubus",
-		119,
-		4391174,
-	},
-
-	{
-		"gefenia03",
-		17051,
-		300,
-		1219,
-		"Knight of Abyss",
-		"Abyssmal Knight",
-		122,
-		5702151,
-	},
-
-	{
-		"gefenia03",
-		17052,
-		300,
-		1374,
-		"Incubus",
-		"Incubus",
-		120,
-		4391174,
-	},
-
-	{
-		"gefenia03",
-		17053,
-		300,
-		1371,
-		"Fake Angel",
-		"False Angel",
-		105,
-		4325384,
-	},
-
-	{
-		"gefenia03",
-		17450,
-		300,
-		1203,
-		"Mysteltainn",
-		"Mysteltainn",
-		130,
-		5702144,
-	},
-
-	{
-		"gefenia03",
-		17456,
-		300,
-		1205,
-		"Executioner",
-		"Executioner",
-		101,
-		3080704,
-	},
-
-	{
-		"gefenia03",
-		17460,
-		300,
-		1204,
-		"Ogretooth",
-		"Tirfing",
-		114,
-		4391168,
-	},
-
-	{
-		"gefenia03",
-		17542,
-		300,
-		1268,
-		"Bloody Knight",
-		"Bloody_Knight",
-		116,
-		5702144,
-	},
-
-	{
-		"gefenia04",
-		17054,
-		300,
-		1292,
-		"Mini Demon",
-		"Mini_Demon",
-		117,
-		1769478,
-	},
-
-	{
-		"gefenia04",
-		17055,
-		300,
-		1390,
-		"Violy",
-		"Violy",
-		118,
-		2621703,
-	},
-
-	{
-		"gefenia04",
-		17056,
-		300,
-		1370,
-		"Succubus",
-		"Succubus",
-		119,
-		4391174,
-	},
-
-	{
-		"gefenia04",
-		17057,
-		300,
-		1219,
-		"Knight of Abyss",
-		"Abyssmal Knight",
-		122,
-		5702151,
-	},
-
-	{
-		"gefenia04",
-		17058,
-		300,
-		1374,
-		"Incubus",
-		"Incubus",
-		120,
-		4391174,
-	},
-
-	{
-		"gefenia04",
-		17059,
-		300,
-		1371,
-		"Fake Angel",
-		"False Angel",
-		105,
-		4325384,
-	},
-
-	{
-		"gefenia04",
-		17451,
-		300,
-		1203,
-		"Mysteltainn",
-		"Mysteltainn",
-		130,
-		5702144,
-	},
-
-	{
-		"gefenia04",
-		17457,
-		300,
-		1205,
-		"Executioner",
-		"Executioner",
-		101,
-		3080704,
-	},
-
-	{
-		"gefenia04",
-		17461,
-		300,
-		1204,
-		"Ogretooth",
-		"Tirfing",
-		114,
-		4391168,
-	},
-
-	{
-		"gefenia04",
-		17543,
-		300,
-		1268,
-		"Bloody Knight",
-		"Bloody_Knight",
-		116,
-		5702144,
-	},
-
-	{
-		"gl_cas01",
-		16981,
-		300,
-		1260,
-		"Dark Frame",
-		"Dark_Frame",
-		76,
-		4391174,
-	},
-
-	{
-		"gl_cas01",
-		16982,
-		300,
-		1195,
-		"Rideword",
-		"Rideword",
-		74,
-		3932160,
-	},
-
-	{
-		"gl_cas01",
-		16983,
-		300,
-		1281,
-		"Sage Worm",
-		"Sage_Worm",
-		70,
-		3932162,
-	},
-
-	{
-		"gl_cas01",
-		16984,
-		300,
-		1320,
-		"Owl Duke",
-		"Owl_Duke",
-		92,
-		3932678,
-	},
-
-	{
-		"gl_cas01",
-		16985,
-		300,
-		1295,
-		"Owl Baron",
-		"Owl_Baron",
-		120,
-		3932678,
-	},
-
-	{
-		"gl_cas01",
-		16986,
-		300,
-		1275,
-		"Alice",
-		"Alice",
-		100,
-		3932423,
-	},
-
-	{
-		"gl_cas01",
-		16987,
-		300,
-		1179,
-		"Whisper",
-		"Whisper",
-		46,
-		4456454,
-	},
-
-	{
-		"gl_cas01",
-		16988,
-		300,
-		1267,
-		"Carat",
-		"Carat",
-		103,
-		2883846,
-	},
-
-	{
-		"gl_cas02",
-		16989,
-		300,
-		1195,
-		"Rideword",
-		"Rideword",
-		74,
-		3932160,
-	},
-
-	{
-		"gl_cas02",
-		16990,
-		300,
-		1163,
-		"Raydric",
-		"Raydric",
-		115,
-		3080711,
-	},
-
-	{
-		"gl_cas02",
-		16991,
-		300,
-		1276,
-		"Raydric Archer",
-		"Raydric_Archer",
-		82,
-		3080454,
-	},
-
-	{
-		"gl_cas02",
-		16992,
-		300,
-		1191,
-		"Mimic",
-		"Mimic",
-		56,
-		3932416,
-	},
-
-	{
-		"gl_cas02",
-		16993,
-		300,
-		1208,
-		"Wander Man",
-		"Wanderer",
-		120,
-		1573126,
-	},
-
-	{
-		"gl_cas02",
-		16994,
-		300,
-		1219,
-		"Knight of Abyss",
-		"Abyssmal Knight",
-		122,
-		5702151,
-	},
-
-	{
-		"gl_cas02",
-		16995,
-		300,
-		1275,
-		"Alice",
-		"Alice",
-		100,
-		3932423,
-	},
-
-	{
-		"gl_cas02",
-		16996,
-		300,
-		1185,
-		"Whisper",
-		"Whisper_",
-		34,
-		1835009,
-	},
-
-	{
-		"gl_cas02",
-		16997,
-		300,
-		1117,
-		"Evil Druid",
-		"Evil_Druid",
-		80,
-		5833217,
-	},
-
-	{
-		"gl_cas02",
-		16998,
-		300,
-		1132,
-		"Khalitzburg",
-		"Khalitzburg",
-		118,
-		1901057,
-	},
-
-	{
-		"gl_cas02",
-		16999,
-		300,
-		1283,
-		"Chimera",
-		"Chimera",
-		70,
-		4129282,
-	},
-
-	{
-		"gl_cas02",
-		17452,
-		300,
-		1203,
-		"Mysteltainn",
-		"Mysteltainn",
-		130,
-		5702144,
-	},
-
-	{
-		"gl_cas02",
-		17462,
-		300,
-		1204,
-		"Ogretooth",
-		"Tirfing",
-		114,
-		4391168,
-	},
-
-	{
-		"gl_church",
-		16694,
-		300,
-		1192,
-		"Wraith",
-		"Wraith",
-		77,
-		5833217,
-	},
-
-	{
-		"gl_church",
-		16695,
-		300,
-		1191,
-		"Mimic",
-		"Mimic",
-		56,
-		3932416,
-	},
-
-	{
-		"gl_church",
-		16696,
-		300,
-		1117,
-		"Evil Druid",
-		"Evil_Druid",
-		80,
-		5833217,
-	},
-
-	{
-		"gl_chyard",
-		16698,
-		300,
-		1198,
-		"Dark Priest",
-		"Dark_Priest",
-		98,
-		5832966,
-	},
-
-	{
-		"gl_chyard",
-		16699,
-		300,
-		1192,
-		"Wraith",
-		"Wraith",
-		77,
-		5833217,
-	},
-
-	{
-		"gl_chyard",
-		16700,
-		300,
-		1191,
-		"Mimic",
-		"Mimic",
-		56,
-		3932416,
-	},
-
-	{
-		"gl_chyard",
-		16701,
-		300,
-		1117,
-		"Evil Druid",
-		"Evil_Druid",
-		80,
-		5833217,
-	},
-
-	{
-		"gl_chyard",
-		16702,
-		300,
-		1035,
-		"Hunter Fly",
-		"Hunter_Fly",
-		63,
-		2883588,
-	},
-
-	{
-		"gl_chyard",
-		16703,
-		300,
-		1302,
-		"Dark Illusion",
-		"Dark_Illusion",
-		96,
-		5833222,
-	},
-
-	{
-		"gl_chyard",
-		17267,
-		301,
-		1272,
-		"Dark Lord",
-		"Dark_Lord",
-		96,
-		5833222,
-	},
-
-	{
-		"gl_dun01",
-		16873,
-		300,
-		1207,
-		"Sting",
-		"Sting",
-		104,
-		4063488,
-	},
-
-	{
-		"gl_dun01",
-		16874,
-		300,
-		1194,
-		"Arclouse",
-		"Arclouze",
-		107,
-		2752772,
-	},
-
-	{
-		"gl_dun02",
-		16875,
-		300,
-		1253,
-		"Gargoyle",
-		"Gargoyle",
-		100,
-		4194566,
-	},
-
-	{
-		"gl_dun02",
-		16876,
-		300,
-		1310,
-		"Majoruros",
-		"Majoruros",
-		107,
-		2818562,
-	},
-
-	{
-		"gl_in01",
 		16666,
 		300,
-		1260,
-		"Dark Frame",
-		"Dark_Frame",
-		76,
-		4391174,
+		1195,
+		"Rideword",
+		"RIDEWORD",
+		74,
+		3932160
 	},
 
 	{
-		"gl_in01",
+		"c_tower2",
 		16667,
 		300,
-		1195,
-		"Rideword",
-		"Rideword",
-		74,
-		3932160,
+		1191,
+		"Mimic",
+		"MIMIC",
+		56,
+		3932416
 	},
 
 	{
-		"gl_in01",
+		"c_tower2",
 		16668,
 		300,
-		1143,
-		"Marionette",
-		"Marionette",
+		1270,
+		"Clock Tower Manager",
+		"C_TOWER_MANAGER",
 		90,
-		4456454,
+		5243392
 	},
 
 	{
-		"gl_in01",
+		"c_tower2",
 		16669,
 		300,
-		1208,
-		"Wander Man",
-		"Wanderer",
-		120,
-		1573126,
+		1377,
+		"Elder",
+		"ELDER",
+		92,
+		5243399
 	},
 
 	{
-		"gl_in01",
+		"c_tower2",
 		16670,
 		300,
-		1281,
-		"Sage Worm",
-		"Sage_Worm",
-		70,
-		3932162,
+		1269,
+		"Clock",
+		"CLOCK",
+		81,
+		2752768
 	},
 
 	{
-		"gl_in01",
+		"c_tower2",
 		16671,
 		300,
-		1275,
-		"Alice",
-		"Alice",
-		100,
-		3932423,
+		1199,
+		"Punk",
+		"PUNK",
+		82,
+		1572867
 	},
 
 	{
-		"gl_knt01",
-		17000,
-		300,
-		1084,
-		"Black Mushroom",
-		"Black_Mushroom",
-		1,
-		1441795,
-	},
-
-	{
-		"gl_knt01",
-		17001,
+		"c_tower3",
+		16672,
 		300,
 		1195,
 		"Rideword",
-		"Rideword",
+		"RIDEWORD",
 		74,
-		3932160,
+		3932160
 	},
 
 	{
-		"gl_knt01",
-		17002,
-		300,
-		1163,
-		"Raydric",
-		"Raydric",
-		115,
-		3080711,
-	},
-
-	{
-		"gl_knt01",
-		17003,
-		300,
-		1276,
-		"Raydric",
-		"Raydric_Archer",
-		82,
-		3080454,
-	},
-
-	{
-		"gl_knt01",
-		17004,
-		300,
-		1219,
-		"Knight of Abyss",
-		"Abyssmal Knight",
-		122,
-		5702151,
-	},
-
-	{
-		"gl_knt01",
-		17005,
-		300,
-		1275,
-		"Alice",
-		"Alice",
-		100,
-		3932423,
-	},
-
-	{
-		"gl_knt01",
-		17006,
-		300,
-		1132,
-		"Khalitzburg",
-		"Khalitzburg",
-		118,
-		1901057,
-	},
-
-	{
-		"gl_knt01",
-		17304,
-		300,
-		1186,
-		"Giant Whisper",
-		"Giant_Whisper",
-		66,
-		3145734,
-	},
-
-	{
-		"gl_knt02",
-		17007,
-		300,
-		1163,
-		"Raydric",
-		"Raydric",
-		115,
-		3080711,
-	},
-
-	{
-		"gl_knt02",
-		17008,
-		300,
-		1276,
-		"Raydric",
-		"Raydric_Archer",
-		82,
-		3080454,
-	},
-
-	{
-		"gl_knt02",
-		17009,
-		300,
-		1219,
-		"Knight of Abyss",
-		"Abyssmal Knight",
-		122,
-		5702151,
-	},
-
-	{
-		"gl_knt02",
-		17010,
-		300,
-		1275,
-		"Alice",
-		"Alice",
-		100,
-		3932423,
-	},
-
-	{
-		"gl_knt02",
-		17011,
-		300,
-		1132,
-		"Khalitzburg",
-		"Khalitzburg",
-		118,
-		1901057,
-	},
-
-	{
-		"gl_knt02",
-		17453,
-		300,
-		1203,
-		"Mysteltainn",
-		"Mysteltainn",
-		130,
-		5702144,
-	},
-
-	{
-		"gl_knt02",
-		17544,
-		300,
-		1268,
-		"Bloody Knight",
-		"Bloody_Knight",
-		116,
-		5702144,
-	},
-
-	{
-		"gl_prison",
-		16826,
-		300,
-		1201,
-		"Rybio",
-		"Rybio",
-		98,
-		2621958,
-	},
-
-	{
-		"gl_prison",
-		16827,
-		300,
-		1257,
-		"Injustice",
-		"Injustice",
-		95,
-		3080449,
-	},
-
-	{
-		"gl_prison",
-		16828,
-		300,
-		1197,
-		"Zombie Prisoner",
-		"Zombie_Prisoner",
-		89,
-		4522241,
-	},
-
-	{
-		"gl_prison",
-		16829,
-		300,
-		1035,
-		"Hunter Fly",
-		"Hunter_Fly",
-		63,
-		2883588,
-	},
-
-	{
-		"gl_prison1",
-		16830,
-		300,
-		1201,
-		"Rybio",
-		"Rybio",
-		98,
-		2621958,
-	},
-
-	{
-		"gl_prison1",
-		16831,
-		300,
-		1196,
-		"Skeleton Prisoner",
-		"Skeleton_Prisoner",
-		91,
-		4522241,
-	},
-
-	{
-		"gl_prison1",
-		16832,
-		300,
-		1257,
-		"Injustice",
-		"Injustice",
-		95,
-		3080449,
-	},
-
-	{
-		"gl_prison1",
-		16833,
-		300,
-		1209,
-		"Cramp",
-		"Cramp",
-		82,
-		2949122,
-	},
-
-	{
-		"gl_prison1",
-		16834,
-		300,
-		1202,
-		"Phendark",
-		"Phendark",
-		102,
-		2621959,
-	},
-
-	{
-		"gl_prison1",
-		16835,
-		300,
-		1035,
-		"Hunter Fly",
-		"Hunter_Fly",
-		63,
-		2883588,
-	},
-
-	{
-		"gl_prison1",
-		17536,
-		300,
-		1200,
-		"Zherlthsh",
-		"Zealotus",
-		105,
-		3932423,
-	},
-
-	{
-		"gl_sew01",
-		16877,
-		300,
-		1253,
-		"Gargoyle",
-		"Gargoyle",
-		100,
-		4194566,
-	},
-
-	{
-		"gl_sew01",
-		16878,
-		300,
-		1194,
-		"Arclouse",
-		"Arclouze",
-		107,
-		2752772,
-	},
-
-	{
-		"gl_sew01",
-		16879,
-		300,
-		1179,
-		"Whisper",
-		"Whisper",
-		46,
-		4456454,
-	},
-
-	{
-		"gl_sew02",
-		16880,
-		300,
-		1253,
-		"Gargoyle",
-		"Gargoyle",
-		100,
-		4194566,
-	},
-
-	{
-		"gl_sew02",
-		16881,
-		300,
-		1209,
-		"Cramp",
-		"Cramp",
-		82,
-		2949122,
-	},
-
-	{
-		"gl_sew03",
-		16882,
-		300,
-		1253,
-		"Gargoyle",
-		"Gargoyle",
-		100,
-		4194566,
-	},
-
-	{
-		"gl_sew03",
-		16883,
-		300,
-		1207,
-		"Sting",
-		"Sting",
-		104,
-		4063488,
-	},
-
-	{
-		"gl_sew04",
-		16884,
-		300,
-		1253,
-		"Gargoyle",
-		"Gargoyle",
-		100,
-		4194566,
-	},
-
-	{
-		"gl_sew04",
-		16885,
-		300,
-		1111,
-		"Drainliar",
-		"Drainliar",
-		47,
-		3080194,
-	},
-
-	{
-		"gl_sew04",
-		16886,
-		300,
-		1206,
-		"Anolian",
-		"Anolian",
-		109,
-		2687237,
-	},
-
-	{
-		"gl_step",
-		16672,
-		300,
-		1276,
-		"Raydric",
-		"Raydric_Archer",
-		82,
-		3080454,
-	},
-
-	{
-		"gl_step",
+		"c_tower3",
 		16673,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
-		"gl_step",
+		"c_tower3",
 		16674,
 		300,
-		1263,
-		"Wind Ghost",
-		"Wind_Ghost",
-		80,
-		4194566,
+		1270,
+		"Clock Tower Manager",
+		"C_TOWER_MANAGER",
+		90,
+		5243392
 	},
 
 	{
-		"glast_01",
-		17225,
+		"c_tower3",
+		16675,
 		300,
-		1253,
-		"Gargoyle",
-		"Gargoyle",
-		100,
-		4194566,
+		1193,
+		"Alarm",
+		"ALARM",
+		88,
+		3932416
 	},
 
 	{
-		"glast_01",
-		17226,
+		"c_tower4",
+		16676,
 		300,
-		1219,
-		"Knight of Abyss",
-		"Abyssmal Knight",
-		122,
-		5702151,
+		1195,
+		"Rideword",
+		"RIDEWORD",
+		74,
+		3932160
 	},
 
 	{
-		"glast_01",
-		17227,
+		"c_tower4",
+		16677,
 		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
+		1191,
+		"Mimic",
+		"MIMIC",
+		56,
+		3932416
+	},
+
+	{
+		"c_tower4",
+		16678,
+		300,
+		1270,
+		"Clock Tower Manager",
+		"C_TOWER_MANAGER",
+		90,
+		5243392
+	},
+
+	{
+		"c_tower4",
+		16679,
+		300,
+		1320,
+		"Owl Duke",
+		"OWL_DUKE",
+		92,
+		3932678
+	},
+
+	{
+		"c_tower4",
+		16680,
+		300,
+		1193,
+		"Alarm",
+		"ALARM",
+		88,
+		3932416
+	},
+
+	{
+		"c_tower4",
+		16681,
+		300,
+		1377,
+		"Elder",
+		"ELDER",
+		92,
+		5243399
+	},
+
+	{
+		"c_tower4",
+		16682,
+		300,
+		1179,
+		"Whisper",
+		"WHISPER",
+		46,
+		4456454
+	},
+
+	{
+		"c_tower4",
+		16683,
+		300,
+		1269,
+		"Clock",
+		"CLOCK",
+		81,
+		2752768
+	},
+
+	{
+		"cmd_fild01",
+		16106,
+		300,
+		1687,
+		"Green Iguana",
+		"GREEN_IGUANA",
+		55,
+		2752770
+	},
+
+	{
+		"cmd_fild01",
+		16107,
+		300,
+		1118,
+		"Flora",
+		"FLORA",
+		59,
+		1442307
+	},
+
+	{
+		"cmd_fild01",
+		17729,
+		300,
+		1083,
+		"Shining Plant",
+		"SHINING_PLANT",
 		1,
-		1441795,
+		1703939
 	},
 
 	{
-		"glast_01",
-		17228,
+		"cmd_fild01",
+		17730,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
-		"gld2_ald",
-		17388,
+		"cmd_fild01",
+		17734,
 		300,
-		1294,
-		"Killer Mantis",
-		"Killer_Mantis",
-		141,
-		1442052,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
 	},
 
 	{
-		"gld2_ald",
-		17389,
+		"cmd_fild02",
+		16069,
 		300,
-		2133,
-		"Angra Mantis",
-		"Angra_Mantis",
-		144,
-		2752772,
+		1266,
+		"Aster",
+		"ASTER",
+		50,
+		1441797
 	},
 
 	{
-		"gld2_ald",
-		17390,
+		"cmd_fild02",
+		16070,
 		300,
-		1289,
-		"Maya Purple",
-		"Maya_Purple",
-		81,
-		5374468,
+		1317,
+		"Fur Seal",
+		"FUR_SEAL",
+		47,
+		1376514
 	},
 
 	{
-		"gld2_ald",
-		17391,
-		301,
-		2251,
-		"지오이아",
-		"지오이아",
-		146,
-		5505536,
-	},
-
-	{
-		"gld2_ald",
-		17392,
+		"cmd_fild02",
+		16071,
 		300,
-		2252,
-		"엘비아",
-		"엘비아",
-		138,
-		4194304,
+		1391,
+		"Galapago",
+		"GALAPAGO",
+		45,
+		1441794
 	},
 
 	{
-		"gld2_ald",
-		17414,
+		"cmd_fild02",
+		16072,
 		300,
-		2288,
-		"낡은 보물상자",
-		"길드던전_보물상자",
-		140,
-		1703936,
+		1074,
+		"Shellfish",
+		"SHELLFISH",
+		50,
+		1376261
 	},
 
 	{
-		"gld2_gef",
-		17407,
+		"cmd_fild02",
+		16073,
 		300,
-		2282,
-		"심연의 거울",
-		"길드_다크프레임",
-		145,
-		4391174,
+		1073,
+		"Crab",
+		"CRAB",
+		43,
+		1376261
 	},
 
 	{
-		"gld2_gef",
-		17408,
+		"cmd_fild02",
+		17474,
 		300,
-		2283,
-		"심연의 성직자",
-		"길드_다크프리스트",
-		141,
-		5832966,
+		1313,
+		"Mobster",
+		"MOBSTER",
+		58,
+		1310983
 	},
 
 	{
-		"gld2_gef",
-		17409,
+		"cmd_fild03",
+		16108,
 		300,
-		2281,
-		"심연의 그림자",
-		"길드_다크_쉐도우",
-		147,
-		3080192,
+		1271,
+		"Alligator",
+		"ALLIGATOR",
+		57,
+		1376514
 	},
 
 	{
-		"gld2_gef",
-		17410,
+		"cmd_fild03",
+		16109,
 		300,
-		1302,
-		"Dark Illusion",
-		"Dark_Illusion",
-		96,
-		5833222,
+		1118,
+		"Flora",
+		"FLORA",
+		59,
+		1442307
 	},
 
 	{
-		"gld2_gef",
-		17411,
-		301,
-		2255,
-		"망자의 수호자 카데스",
-		"망자의_수호자_카데스",
-		143,
-		4391424,
-	},
-
-	{
-		"gld2_gef",
-		17412,
-		300,
-		2256,
-		"루도",
-		"루도",
-		135,
-		4325384,
-	},
-
-	{
-		"gld2_gef",
-		17416,
-		300,
-		2288,
-		"낡은 보물상자",
-		"길드던전_보물상자",
-		140,
-		1703936,
-	},
-
-	{
-		"gld2_pay",
+		"cmd_fild03",
 		17379,
 		300,
-		1290,
-		"스켈레톤 제네럴",
-		"스켈레톤_제네럴",
-		139,
-		1900801,
+		1262,
+		"Mutant Dragon",
+		"MUTANT_DRAGON",
+		65,
+		2818569
 	},
 
 	{
-		"gld2_pay",
-		17380,
+		"cmd_fild03",
+		17482,
 		300,
-		1301,
-		"암 무트",
-		"암_무트",
-		141,
-		1769478,
+		1089,
+		"Toad",
+		"TOAD",
+		27,
+		1376517
 	},
 
 	{
-		"gld2_pay",
-		17381,
+		"cmd_fild03",
+		17735,
 		300,
-		1309,
-		"가조마르트",
-		"가조마르트",
-		140,
-		5439488,
+		1083,
+		"Shining Plant",
+		"SHINING_PLANT",
+		1,
+		1703939
 	},
 
 	{
-		"gld2_pay",
-		17382,
-		301,
-		2253,
-		"장군 대현",
-		"장군_대현",
-		142,
-		4063751,
-	},
-
-	{
-		"gld2_pay",
-		17383,
+		"cmd_fild04",
+		16074,
 		300,
-		2254,
-		"호위 무사 소현",
-		"호위_무사_소현",
-		137,
-		4194567,
+		1266,
+		"Aster",
+		"ASTER",
+		50,
+		1441797
 	},
 
 	{
-		"gld2_pay",
-		17413,
+		"cmd_fild04",
+		16075,
 		300,
-		2288,
-		"낡은 보물상자",
-		"길드던전_보물상자",
-		140,
-		1703936,
+		1323,
+		"Sea Otter",
+		"SEE_OTTER",
+		48,
+		3997954
 	},
 
 	{
-		"gld2_prt",
-		17396,
+		"cmd_fild04",
+		16076,
 		300,
-		2284,
-		"심연의 코볼트",
-		"길드_코볼트1",
-		145,
-		2883847,
+		1391,
+		"Galapago",
+		"GALAPAGO",
+		45,
+		1441794
 	},
 
 	{
-		"gld2_prt",
-		17397,
+		"cmd_fild04",
+		16077,
 		300,
-		2285,
-		"심연의 코볼트",
-		"길드_코볼트2",
-		142,
-		2949383,
+		1074,
+		"Shellfish",
+		"SHELLFISH",
+		50,
+		1376261
 	},
 
 	{
-		"gld2_prt",
-		17398,
+		"cmd_fild04",
+		16078,
 		300,
-		2286,
-		"심연의 코볼트",
-		"길드_코볼트3",
-		141,
-		2818311,
+		1073,
+		"Crab",
+		"CRAB",
+		43,
+		1376261
 	},
 
 	{
-		"gld2_prt",
-		17399,
+		"cmd_fild06",
+		16110,
 		300,
-		2287,
-		"심연의 코볼트 아쳐",
-		"길드_코볼트아쳐",
-		142,
-		1507335,
+		1058,
+		"Metaller",
+		"METALLER",
+		55,
+		1507588
 	},
 
 	{
-		"gld2_prt",
-		17400,
-		301,
-		2249,
-		"분노한 탈락자 퓨리엘",
-		"분노한_탈락자_퓨리엘",
-		141,
-		5439751,
-	},
-
-	{
-		"gld2_prt",
-		17401,
+		"cmd_fild06",
+		16111,
 		300,
-		2250,
-		"여전사 로라",
-		"여전사_로라",
-		136,
-		2818055,
+		1040,
+		"Golem",
+		"GOLEM",
+		61,
+		3932672
 	},
 
 	{
-		"gld2_prt",
-		17415,
+		"cmd_fild06",
+		17738,
 		300,
-		2288,
-		"낡은 보물상자",
-		"길드던전_보물상자",
-		140,
-		1703936,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
 	},
 
 	{
-		"gld_dun01",
-		17375,
+		"cmd_fild07",
+		16079,
 		300,
-		1311,
-		"Gullinbursti",
-		"Gullinbursti",
-		120,
-		2753026,
+		1266,
+		"Aster",
+		"ASTER",
+		50,
+		1441797
 	},
 
 	{
-		"gld_dun01",
-		17376,
+		"cmd_fild07",
+		16080,
 		300,
-		1306,
-		"Leib Olmai",
-		"Leib_Olmai",
-		118,
-		1442306,
+		1074,
+		"Shellfish",
+		"SHELLFISH",
+		50,
+		1376261
 	},
 
 	{
-		"gld_dun01",
-		17377,
+		"cmd_fild07",
+		16081,
 		300,
-		1307,
-		"Cat o' Nine Tails",
-		"Cat_o'_Nine_Tails",
-		79,
-		4129030,
+		1254,
+		"Raggler",
+		"RAGGLER",
+		48,
+		1572866
 	},
 
 	{
-		"gld_dun01",
-		17378,
-		301,
-		1150,
-		"Moonlight Flower",
-		"Moonlight_Flower",
-		79,
-		4129030,
-	},
-
-	{
-		"gld_dun02",
-		17384,
+		"cmd_fild07",
+		16082,
 		300,
-		1303,
-		"Giant Hornet",
-		"Giant_Hornet",
-		120,
-		1572868,
+		1073,
+		"Crab",
+		"CRAB",
+		43,
+		1376261
 	},
 
 	{
-		"gld_dun02",
-		17385,
+		"cmd_fild08",
+		16051,
+		300,
+		1097,
+		"Ant Egg",
+		"ANT_EGG",
+		28,
+		3932160
+	},
+
+	{
+		"cmd_fild08",
+		16052,
+		300,
+		1040,
+		"Golem",
+		"GOLEM",
+		61,
+		3932672
+	},
+
+	{
+		"cmd_fild08",
+		16053,
+		300,
+		1105,
+		"Deniro",
+		"DENIRO",
+		31,
+		1441796
+	},
+
+	{
+		"cmd_fild08",
+		16054,
+		300,
+		1160,
+		"Piere",
+		"PIERE",
+		32,
+		1441796
+	},
+
+	{
+		"cmd_fild08",
+		16055,
+		300,
+		1095,
+		"Andre",
+		"ANDRE",
+		33,
+		1441796
+	},
+
+	{
+		"cmd_fild08",
+		17740,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"cmd_fild09",
+		16112,
+		300,
+		1097,
+		"Ant Egg",
+		"ANT_EGG",
+		28,
+		3932160
+	},
+
+	{
+		"cmd_fild09",
+		16113,
+		300,
+		1105,
+		"Deniro",
+		"DENIRO",
+		31,
+		1441796
+	},
+
+	{
+		"cmd_fild09",
+		16114,
+		300,
+		1160,
+		"Piere",
+		"PIERE",
+		32,
+		1441796
+	},
+
+	{
+		"cmd_fild09",
+		16115,
+		300,
+		1095,
+		"Andre",
+		"ANDRE",
+		33,
+		1441796
+	},
+
+	{
+		"cmd_fild09",
+		16116,
+		300,
+		1058,
+		"Metaller",
+		"METALLER",
+		55,
+		1507588
+	},
+
+	{
+		"dew_dun01",
+		15865,
+		300,
+		2152,
+		"Comodo",
+		"COMODO",
+		81,
+		4260098
+	},
+
+	{
+		"dew_dun01",
+		15866,
 		300,
 		1305,
 		"Ancient Worm",
-		"Ancient_Worm",
+		"ANCIENT_WORM",
 		121,
-		1638916,
+		1638916
 	},
 
 	{
-		"gld_dun02",
-		17386,
+		"dew_dun01",
+		15867,
 		300,
-		1304,
-		"Giant Spider",
-		"Giant_Spider",
-		117,
-		1638916,
+		1311,
+		"Gullinbursti",
+		"GULLINBURSTI",
+		120,
+		2753026
 	},
 
 	{
-		"gld_dun02",
-		17387,
+		"dew_dun01",
+		15868,
 		301,
-		1059,
-		"Mistress",
-		"Mistress",
-		78,
-		5505028,
+		2156,
+		"Leak",
+		"LEAK",
+		94,
+		3080710
 	},
 
 	{
-		"gld_dun03",
-		17393,
+		"dew_dun02",
+		15869,
 		300,
-		1300,
-		"Caterpillar",
-		"Caterpillar",
-		121,
-		1441796,
+		2154,
+		"Banaspaty",
+		"BANASPATY",
+		85,
+		4128768
 	},
 
 	{
-		"gld_dun03",
-		17394,
+		"dew_dun02",
+		15870,
 		300,
-		1293,
-		"Creamy Fear",
-		"Creamy_Fear",
-		117,
-		1572868,
+		1309,
+		"Gajomart",
+		"GAJOMART",
+		140,
+		5439488
 	},
 
 	{
-		"gld_dun03",
-		17395,
+		"dew_dun02",
+		15871,
+		300,
+		1301,
+		"Am Mut",
+		"AM_MUT",
+		141,
+		1769478
+	},
+
+	{
+		"dew_dun02",
+		15872,
+		300,
+		2155,
+		"Butoijo",
+		"BUTOIJO",
+		88,
+		2818566
+	},
+
+	{
+		"dew_fild01",
+		15862,
+		300,
+		2151,
+		"Alnoldi",
+		"ALNOLDI",
+		80,
+		1442051
+	},
+
+	{
+		"dew_fild01",
+		15863,
+		300,
+		1099,
+		"Argiope",
+		"ARGIOPE",
+		75,
+		1638916
+	},
+
+	{
+		"dew_fild01",
+		15864,
+		300,
+		2153,
+		"Cendrawasih",
+		"CENDRAWASIH",
+		84,
+		1573128
+	},
+
+	{
+		"dic_dun01",
+		15885,
+		300,
+		2083,
+		"Scaraba",
+		"HORN_SCARABA",
+		130,
+		1441796
+	},
+
+	{
+		"dic_dun01",
+		15886,
+		300,
+		2084,
+		"Scaraba",
+		"HORN_SCARABA2",
+		134,
+		1441796
+	},
+
+	{
+		"dic_dun01",
+		15887,
+		300,
+		2088,
+		"Scaraba Egg",
+		"HORN_SCARABA_EGG",
+		125,
+		1310724
+	},
+
+	{
+		"dic_dun01",
+		15888,
+		300,
+		2089,
+		"Scaraba Egg",
+		"HORN_SCARABA2_EGG",
+		126,
+		1310724
+	},
+
+	{
+		"dic_dun02",
+		15889,
+		300,
+		2085,
+		"Antler Scaraba",
+		"ANTLER_SCARABA",
+		136,
+		2752772
+	},
+
+	{
+		"dic_dun02",
+		15890,
+		300,
+		2086,
+		"Rake Scaraba",
+		"RAKE_SCARABA",
+		139,
+		2752772
+	},
+
+	{
+		"dic_dun02",
+		15891,
+		300,
+		2090,
+		"Antler Scaraba Egg",
+		"ANTLER_SCARABA_EGG",
+		127,
+		1310724
+	},
+
+	{
+		"dic_dun02",
+		15892,
+		300,
+		2091,
+		"Rake Scaraba Egg",
+		"RAKE_SCARABA_EGG",
+		128,
+		1310724
+	},
+
+	{
+		"dic_dun02",
+		15893,
 		301,
-		1039,
-		"Baphomet",
-		"Baphomet",
-		81,
-		4391430,
+		2087,
+		"Queen Scaraba",
+		"QUEEN_SCARABA",
+		140,
+		4063748
 	},
 
 	{
-		"gld_dun04",
-		17402,
+		"dic_dun03",
+		15894,
 		300,
-		1292,
-		"Mini Demon",
-		"Mini_Demon",
-		117,
-		1769478,
+		2166,
+		"Gold One-Horn Scaraba Egg",
+		"I_HORN_SCARABA_EGG",
+		125,
+		1441796
 	},
 
 	{
-		"gld_dun04",
-		17403,
+		"dic_dun03",
+		15895,
 		300,
-		1298,
-		"Zombie Master",
-		"Zombie_Master",
-		119,
-		1900801,
+		2167,
+		"Gold Two-Horn Scaraba Egg",
+		"I_HORN_SCARABA2_EGG",
+		126,
+		1441796
 	},
 
 	{
-		"gld_dun04",
-		17404,
+		"dic_dun03",
+		15896,
 		300,
-		1291,
-		"Wraith Dead",
-		"Wraith_Dead",
-		121,
-		5833217,
+		2168,
+		"Gold Antler Scaraba Egg",
+		"I_ANTLER_SCARABA_EGG",
+		127,
+		1441796
 	},
 
 	{
-		"gld_dun04",
-		17405,
+		"dic_dun03",
+		15897,
 		300,
-		1120,
-		"Ghostring",
-		"Ghostring",
+		2169,
+		"Gold Rake Scaraba Egg",
+		"I_RAKE_SCARABA_EGG",
+		128,
+		1441796
+	},
+
+	{
+		"dic_dun03",
+		15898,
+		300,
+		2161,
+		"Gold One-Horn Scaraba",
+		"I_HORN_SCARABA",
+		130,
+		1441796
+	},
+
+	{
+		"dic_dun03",
+		15899,
+		300,
+		2162,
+		"Gold Two-Horn Scaraba",
+		"I_HORN_SCARABA2",
+		134,
+		1441796
+	},
+
+	{
+		"dic_dun03",
+		15900,
+		300,
+		2163,
+		"Gold Antler Scaraba",
+		"I_ANTLER_SCARABA",
+		136,
+		2752772
+	},
+
+	{
+		"dic_dun03",
+		15901,
+		300,
+		2164,
+		"Gold Rake Scaraba",
+		"I_RAKE_SCARABA",
+		139,
+		2752772
+	},
+
+	{
+		"dic_dun03",
+		15902,
+		301,
+		2165,
+		"Gold Queen Scaraba",
+		"I_QUEEN_SCARABA",
+		140,
+		4063748
+	},
+
+	{
+		"dic_fild01",
+		15903,
+		300,
+		1987,
+		"Centipede",
+		"CENTIPEDE",
+		125,
+		2949380
+	},
+
+	{
+		"dic_fild01",
+		15904,
+		300,
+		1999,
+		"Centipede Larva",
+		"CENTIPEDE_LARVA",
+		118,
+		1638404
+	},
+
+	{
+		"dic_fild01",
+		15905,
+		300,
+		1986,
+		"Tatacho",
+		"TATACHO",
+		128,
+		1442050
+	},
+
+	{
+		"dic_fild01",
+		15906,
+		300,
+		2092,
+		"Dolomedes",
+		"DOLOMEDES",
+		132,
+		3998212
+	},
+
+	{
+		"dic_fild02",
+		15907,
+		300,
+		2024,
+		"Bradium Golem",
+		"BRADIUM_GOLEM",
+		133,
+		2753024
+	},
+
+	{
+		"dic_fild02",
+		15908,
+		300,
+		1987,
+		"Centipede",
+		"CENTIPEDE",
+		125,
+		2949380
+	},
+
+	{
+		"dic_fild02",
+		15909,
+		300,
+		1999,
+		"Centipede Larva",
+		"CENTIPEDE_LARVA",
+		118,
+		1638404
+	},
+
+	{
+		"dic_fild02",
+		15910,
+		300,
+		1986,
+		"Tatacho",
+		"TATACHO",
+		128,
+		1442050
+	},
+
+	{
+		"dic_fild02",
+		15911,
+		300,
+		2092,
+		"Dolomedes",
+		"DOLOMEDES",
+		132,
+		3998212
+	},
+
+	{
+		"ein_dun01",
+		16743,
+		300,
+		1617,
+		"Waste Stove",
+		"WASTE_STOVE",
+		92,
+		1311232
+	},
+
+	{
+		"ein_dun01",
+		16744,
+		300,
+		1620,
+		"Noxious",
+		"NOXIOUS",
+		87,
+		4456704
+	},
+
+	{
+		"ein_dun01",
+		16745,
+		300,
+		1621,
+		"Venomous",
+		"VENOMOUS",
+		87,
+		1638656
+	},
+
+	{
+		"ein_dun01",
+		16746,
+		300,
+		1619,
+		"Porcellio",
+		"PORCELLIO",
+		85,
+		4063236
+	},
+
+	{
+		"ein_dun01",
+		16747,
+		300,
+		1616,
+		"Pitman",
+		"PITMAN",
 		90,
-		5767430,
+		2753025
 	},
 
 	{
-		"gld_dun04",
-		17406,
+		"ein_dun01",
+		17470,
+		300,
+		1618,
+		"Ungoliant",
+		"UNGOLIANT",
+		94,
+		2949636
+	},
+
+	{
+		"ein_dun02",
+		16748,
+		300,
+		1617,
+		"Waste Stove",
+		"WASTE_STOVE",
+		92,
+		1311232
+	},
+
+	{
+		"ein_dun02",
+		16749,
+		300,
+		1622,
+		"Teddy Bear",
+		"TEDDY_BEAR",
+		91,
+		3932160
+	},
+
+	{
+		"ein_dun02",
+		16750,
+		300,
+		1614,
+		"Mineral",
+		"MINERAL",
+		96,
+		2621440
+	},
+
+	{
+		"ein_dun02",
+		16751,
+		300,
+		1615,
+		"Obsidian",
+		"OBSIDIAN",
+		97,
+		2752512
+	},
+
+	{
+		"ein_dun02",
+		17209,
 		301,
-		1046,
-		"Doppelganger",
-		"Doppelganger",
-		77,
-		4391174,
+		1623,
+		"RSX 0806",
+		"RSX_0806",
+		100,
+		3932672
 	},
 
 	{
-		"gon_dun01",
-		16767,
+		"ein_fild03",
+		16205,
+		300,
+		1622,
+		"Teddy Bear",
+		"TEDDY_BEAR",
+		91,
+		3932160
+	},
+
+	{
+		"ein_fild03",
+		16206,
+		300,
+		1621,
+		"Venomous",
+		"VENOMOUS",
+		87,
+		1638656
+	},
+
+	{
+		"ein_fild03",
+		16207,
+		300,
+		1620,
+		"Noxious",
+		"NOXIOUS",
+		87,
+		4456704
+	},
+
+	{
+		"ein_fild03",
+		16208,
+		300,
+		1616,
+		"Pitman",
+		"PITMAN",
+		90,
+		2753025
+	},
+
+	{
+		"ein_fild03",
+		17550,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
-		"gon_dun01",
-		16768,
+		"ein_fild03",
+		17551,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"ein_fild04",
+		16209,
+		300,
+		1621,
+		"Venomous",
+		"VENOMOUS",
+		87,
+		1638656
+	},
+
+	{
+		"ein_fild04",
+		16210,
+		300,
+		1620,
+		"Noxious",
+		"NOXIOUS",
+		87,
+		4456704
+	},
+
+	{
+		"ein_fild04",
+		16211,
+		300,
+		1616,
+		"Pitman",
+		"PITMAN",
+		90,
+		2753025
+	},
+
+	{
+		"ein_fild04",
+		16212,
+		300,
+		1622,
+		"Teddy Bear",
+		"TEDDY_BEAR",
+		91,
+		3932160
+	},
+
+	{
+		"ein_fild04",
+		17363,
+		300,
+		1378,
+		"Demon Pungus",
+		"DEMON_PUNGUS",
+		91,
+		4259846
+	},
+
+	{
+		"ein_fild04",
+		17552,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
-		"gon_dun01",
-		16769,
-		300,
-		1410,
-		"Live Peach Tree",
-		"Enchanted Peach Tree",
-		92,
-		2752771,
-	},
-
-	{
-		"gon_dun01",
-		16770,
-		300,
-		1417,
-		"Zipper Bear",
-		"Zipper_Bear",
-		90,
-		1769730,
-	},
-
-	{
-		"gon_dun01",
-		16771,
-		300,
-		1082,
-		"White Plant",
-		"White_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"gon_dun01",
-		16772,
-		300,
-		1408,
-		"Bloody Butterfly",
-		"Bloody_Butterfly",
-		94,
-		2883844,
-	},
-
-	{
-		"gon_dun02",
-		16773,
+		"ein_fild04",
+		17553,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
-		"gon_dun02",
-		16774,
+		"ein_fild04",
+		17554,
 		300,
-		1410,
-		"Live Peach Tree",
-		"Enchanted Peach Tree",
-		92,
-		2752771,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
 	},
 
 	{
-		"gon_dun02",
-		16775,
+		"ein_fild05",
+		16213,
 		300,
-		1415,
-		"Baby Leopard",
-		"Baby_Leopard",
-		68,
-		1835010,
+		1620,
+		"Noxious",
+		"NOXIOUS",
+		87,
+		4456704
 	},
 
 	{
-		"gon_dun02",
-		16776,
+		"ein_fild05",
+		16214,
 		300,
-		1412,
-		"Evil Cloud Hermit",
-		"Taoist Hermit",
-		96,
-		2621952,
+		1621,
+		"Venomous",
+		"VENOMOUS",
+		87,
+		1638656
 	},
 
 	{
-		"gon_dun02",
-		16777,
+		"ein_fild05",
+		16215,
 		300,
-		1408,
-		"Bloody Butterfly",
-		"Bloody_Butterfly",
-		94,
-		2883844,
-	},
-
-	{
-		"gon_dun03",
-		16778,
-		300,
-		1413,
-		"Wild Ginseng",
-		"Hermit Plant",
+		1616,
+		"Pitman",
+		"PITMAN",
 		90,
-		2818051,
+		2753025
 	},
 
 	{
-		"gon_dun03",
-		16779,
+		"ein_fild05",
+		16216,
 		300,
-		1416,
-		"Wicked Nymph",
-		"Evil Nymph",
-		97,
-		4391174,
+		1622,
+		"Teddy Bear",
+		"TEDDY_BEAR",
+		91,
+		3932160
 	},
 
 	{
-		"gon_dun03",
-		16780,
+		"ein_fild05",
+		17364,
 		300,
-		1412,
-		"Evil Cloud Hermit",
-		"Taoist Hermit",
-		96,
-		2621952,
+		1378,
+		"Demon Pungus",
+		"DEMON_PUNGUS",
+		91,
+		4259846
 	},
 
 	{
-		"gon_dun03",
-		16781,
+		"ein_fild06",
+		16217,
+		300,
+		1628,
+		"Mole",
+		"MOLE",
+		85,
+		2752514
+	},
+
+	{
+		"ein_fild06",
+		16218,
+		300,
+		1613,
+		"Metaling",
+		"METALING",
+		81,
+		1310720
+	},
+
+	{
+		"ein_fild06",
+		17555,
+		300,
+		1078,
+		"Red Plant",
+		"RED_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"ein_fild06",
+		17556,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"ein_fild07",
+		16219,
+		300,
+		1613,
+		"Metaling",
+		"METALING",
+		81,
+		1310720
+	},
+
+	{
+		"ein_fild07",
+		16220,
+		300,
+		1628,
+		"Mole",
+		"MOLE",
+		85,
+		2752514
+	},
+
+	{
+		"ein_fild07",
+		16221,
+		300,
+		1619,
+		"Porcellio",
+		"PORCELLIO",
+		85,
+		4063236
+	},
+
+	{
+		"ein_fild07",
+		17409,
+		300,
+		1085,
+		"Red Mushroom",
+		"RED_MUSHROOM",
+		1,
+		1441795
+	},
+
+	{
+		"ein_fild07",
+		17469,
+		300,
+		1618,
+		"Ungoliant",
+		"UNGOLIANT",
+		94,
+		2949636
+	},
+
+	{
+		"ein_fild07",
+		17557,
+		300,
+		1078,
+		"Red Plant",
+		"RED_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"ein_fild07",
+		17558,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"ein_fild08",
+		16222,
+		300,
+		1613,
+		"Metaling",
+		"METALING",
+		81,
+		1310720
+	},
+
+	{
+		"ein_fild08",
+		16223,
+		300,
+		1619,
+		"Porcellio",
+		"PORCELLIO",
+		85,
+		4063236
+	},
+
+	{
+		"ein_fild08",
+		17410,
+		300,
+		1085,
+		"Red Mushroom",
+		"RED_MUSHROOM",
+		1,
+		1441795
+	},
+
+	{
+		"ein_fild08",
+		17559,
+		300,
+		1078,
+		"Red Plant",
+		"RED_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"ein_fild08",
+		17560,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"ein_fild09",
+		16224,
+		300,
+		1619,
+		"Porcellio",
+		"PORCELLIO",
+		85,
+		4063236
+	},
+
+	{
+		"ein_fild09",
+		16225,
+		300,
+		1613,
+		"Metaling",
+		"METALING",
+		81,
+		1310720
+	},
+
+	{
+		"ein_fild09",
+		17411,
+		300,
+		1085,
+		"Red Mushroom",
+		"RED_MUSHROOM",
+		1,
+		1441795
+	},
+
+	{
+		"ein_fild09",
+		17561,
+		300,
+		1078,
+		"Red Plant",
+		"RED_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"ein_fild09",
+		17562,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_dun00",
+		16528,
+		300,
+		1084,
+		"Black Mushroom",
+		"BLACK_MUSHROOM",
+		1,
+		1441795
+	},
+
+	{
+		"gef_dun00",
+		16529,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_dun00",
+		16530,
+		300,
+		1083,
+		"Shining Plant",
+		"SHINING_PLANT",
+		1,
+		1703939
+	},
+
+	{
+		"gef_dun00",
+		16531,
+		300,
+		1078,
+		"Red Plant",
+		"RED_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_dun00",
+		16532,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_dun00",
+		16533,
+		300,
+		1077,
+		"Poison Spore",
+		"POISON_SPORE",
+		26,
+		1638659
+	},
+
+	{
+		"gef_dun00",
+		16534,
+		300,
+		1031,
+		"Poporing",
+		"POPORING",
+		30,
+		1638659
+	},
+
+	{
+		"gef_dun00",
+		16535,
+		300,
+		1035,
+		"Hunter Fly",
+		"HUNTER_FLY",
+		63,
+		2883588
+	},
+
+	{
+		"gef_dun01",
+		16536,
+		300,
+		1084,
+		"Black Mushroom",
+		"BLACK_MUSHROOM",
+		1,
+		1441795
+	},
+
+	{
+		"gef_dun01",
+		16537,
+		300,
+		1036,
+		"Ghoul",
+		"GHOUL",
+		61,
+		3211521
+	},
+
+	{
+		"gef_dun01",
+		16538,
+		300,
+		1061,
+		"Nightmare",
+		"NIGHTMARE",
+		69,
+		4456966
+	},
+
+	{
+		"gef_dun01",
+		16539,
+		300,
+		1111,
+		"Drainliar",
+		"DRAINLIAR",
+		47,
+		3080194
+	},
+
+	{
+		"gef_dun01",
+		16540,
+		300,
+		1130,
+		"Jakk",
+		"JAKK",
+		63,
+		2818304
+	},
+
+	{
+		"gef_dun01",
+		16541,
+		300,
+		1015,
+		"Zombie",
+		"ZOMBIE",
+		17,
+		1900801
+	},
+
+	{
+		"gef_dun01",
+		16542,
+		300,
+		1079,
+		"Blue Plant",
+		"BLUE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_dun01",
+		16543,
 		300,
 		1082,
 		"White Plant",
-		"White_Plant",
+		"WHITE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
-		"gon_dun03",
-		17268,
+		"gef_dun01",
+		17210,
 		301,
-		1418,
-		"Evil Snake Lord",
-		"Evil_Snake_Lord",
-		105,
-		4456962,
+		1389,
+		"Dracula",
+		"DRACULA",
+		75,
+		5702150
 	},
 
 	{
-		"gon_fild01",
-		16347,
+		"gef_dun02",
+		16544,
 		300,
-		1409,
-		"Rice Cake Boy",
-		"Dumpling Child",
-		60,
-		1310727,
+		1036,
+		"Ghoul",
+		"GHOUL",
+		61,
+		3211521
 	},
 
 	{
-		"gon_fild01",
-		16348,
+		"gef_dun02",
+		16545,
 		300,
-		1415,
-		"Baby Leopard",
-		"Baby_Leopard",
-		68,
-		1835010,
+		1061,
+		"Nightmare",
+		"NIGHTMARE",
+		69,
+		4456966
 	},
 
 	{
-		"gon_fild01",
-		16349,
+		"gef_dun02",
+		16546,
 		300,
-		1037,
-		"Side Winder",
-		"Side_Winder",
-		70,
-		1638658,
+		1109,
+		"Deviruchi",
+		"DEVIRUCHI",
+		93,
+		1769478
 	},
 
 	{
-		"gon_fild01",
+		"gef_dun02",
+		16547,
+		300,
+		1143,
+		"Marionette",
+		"MARIONETTE",
+		90,
+		4456454
+	},
+
+	{
+		"gef_dun02",
+		16548,
+		300,
+		1083,
+		"Shining Plant",
+		"SHINING_PLANT",
+		1,
+		1703939
+	},
+
+	{
+		"gef_dun02",
+		16549,
+		300,
+		1179,
+		"Whisper",
+		"WHISPER",
+		46,
+		4456454
+	},
+
+	{
+		"gef_dun02",
+		16550,
+		300,
+		1082,
+		"White Plant",
+		"WHITE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_dun02",
+		16551,
+		300,
+		1035,
+		"Hunter Fly",
+		"HUNTER_FLY",
+		63,
+		2883588
+	},
+
+	{
+		"gef_dun02",
+		17211,
+		301,
+		1046,
+		"Doppelganger",
+		"DOPPELGANGER",
+		77,
+		4391174
+	},
+
+	{
+		"gef_dun03",
+		16552,
+		300,
+		1291,
+		"Wraith Dead",
+		"WRAITH_DEAD",
+		121,
+		5833217
+	},
+
+	{
+		"gef_dun03",
+		16553,
+		300,
+		1192,
+		"Wraith",
+		"WRAITH",
+		77,
+		5833217
+	},
+
+	{
+		"gef_dun03",
+		16554,
+		300,
+		1083,
+		"Shining Plant",
+		"SHINING_PLANT",
+		1,
+		1703939
+	},
+
+	{
+		"gef_dun03",
+		16555,
+		300,
+		1263,
+		"Wind Ghost",
+		"WIND_GHOST",
+		80,
+		4194566
+	},
+
+	{
+		"gef_dun03",
+		16556,
+		300,
+		1082,
+		"White Plant",
+		"WHITE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_dun03",
+		17360,
+		300,
+		1626,
+		"Hellion Revenant",
+		"G_DARK_PRIEST",
+		79,
+		4522246
+	},
+
+	{
+		"gef_fild00",
+		15944,
+		300,
+		1002,
+		"Poring",
+		"PORING",
+		1,
+		1376515
+	},
+
+	{
+		"gef_fild00",
+		15945,
+		300,
+		1007,
+		"Fabre",
+		"FABRE",
+		6,
+		1441796
+	},
+
+	{
+		"gef_fild00",
+		15946,
+		300,
+		1011,
+		"Chonchon",
+		"CHONCHON",
+		5,
+		1572868
+	},
+
+	{
+		"gef_fild00",
+		17650,
+		300,
+		1079,
+		"Blue Plant",
+		"BLUE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild00",
+		17652,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild01",
+		15975,
+		300,
+		1012,
+		"Roda Frog",
+		"RODA_FROG",
+		13,
+		1376517
+	},
+
+	{
+		"gef_fild01",
+		15976,
+		300,
+		1094,
+		"Ambernite",
+		"AMBERNITE",
+		19,
+		1376772
+	},
+
+	{
+		"gef_fild01",
+		17481,
+		300,
+		1089,
+		"Toad",
+		"TOAD",
+		27,
+		1376517
+	},
+
+	{
+		"gef_fild01",
+		17594,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild02",
+		16040,
+		300,
+		1031,
+		"Poporing",
+		"POPORING",
+		30,
+		1638659
+	},
+
+	{
+		"gef_fild02",
+		16041,
+		300,
+		1128,
+		"Horn",
+		"HORN",
+		32,
+		1442052
+	},
+
+	{
+		"gef_fild02",
+		16042,
+		300,
+		1033,
+		"Elder Willow",
+		"ELDER_WILOW",
+		34,
+		2818307
+	},
+
+	{
+		"gef_fild02",
+		16043,
+		300,
+		1104,
+		"Coco",
+		"COCO",
+		38,
+		1441794
+	},
+
+	{
+		"gef_fild02",
+		17413,
+		300,
+		1085,
+		"Red Mushroom",
+		"RED_MUSHROOM",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild02",
+		17589,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild02",
+		17590,
+		300,
+		1079,
+		"Blue Plant",
+		"BLUE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild02",
+		17593,
+		300,
+		1083,
+		"Shining Plant",
+		"SHINING_PLANT",
+		1,
+		1703939
+	},
+
+	{
+		"gef_fild03",
+		16062,
+		300,
+		1686,
+		"Orc Baby",
+		"ORC_BABY",
+		43,
+		1441799
+	},
+
+	{
+		"gef_fild03",
+		16063,
+		300,
+		1023,
+		"Orc Warrior",
+		"ORK_WARRIOR",
+		44,
+		1442055
+	},
+
+	{
+		"gef_fild03",
+		16064,
+		300,
+		1273,
+		"Orc Lady",
+		"ORC_LADY",
+		45,
+		2752775
+	},
+
+	{
+		"gef_fild03",
+		17489,
+		301,
+		1087,
+		"Orc Hero",
+		"ORK_HERO",
+		50,
+		2753031
+	},
+
+	{
+		"gef_fild03",
+		17599,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild04",
+		15985,
+		300,
+		1020,
+		"Mandragora",
+		"MANDRAGORA",
+		13,
+		4063491
+	},
+
+	{
+		"gef_fild04",
+		15986,
+		300,
+		1063,
+		"Lunatic",
+		"LUNATIC",
+		3,
+		3932162
+	},
+
+	{
+		"gef_fild04",
+		15987,
+		300,
+		1007,
+		"Fabre",
+		"FABRE",
+		6,
+		1441796
+	},
+
+	{
+		"gef_fild04",
+		15988,
+		300,
+		1011,
+		"Chonchon",
+		"CHONCHON",
+		5,
+		1572868
+	},
+
+	{
+		"gef_fild04",
 		17644,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
+	},
+
+	{
+		"gef_fild05",
+		16011,
+		300,
+		1048,
+		"Thief Bug Egg",
+		"THIEF_BUG_EGG",
+		20,
+		1769476
+	},
+
+	{
+		"gef_fild05",
+		16012,
+		300,
+		1006,
+		"Thief Bug Larva",
+		"THIEF_BUG_LARVA",
+		0,
+		0
+	},
+
+	{
+		"gef_fild05",
+		16013,
+		300,
+		1174,
+		"Stainer",
+		"STAINER",
+		21,
+		1572868
+	},
+
+	{
+		"gef_fild05",
+		16014,
+		300,
+		1018,
+		"Creamy",
+		"CREAMY",
+		23,
+		1572868
+	},
+
+	{
+		"gef_fild05",
+		16015,
+		300,
+		1056,
+		"Smokie",
+		"SMOKIE",
+		29,
+		1441794
+	},
+
+	{
+		"gef_fild05",
+		17620,
+		300,
+		1078,
+		"Red Plant",
+		"RED_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild06",
+		16141,
+		300,
+		1155,
+		"Petite",
+		"PETIT",
+		86,
+		1442057
+	},
+
+	{
+		"gef_fild06",
+		16142,
+		300,
+		1139,
+		"Mantis",
+		"MANTIS",
+		65,
+		1442052
+	},
+
+	{
+		"gef_fild06",
+		16143,
+		300,
+		1037,
+		"Side Winder",
+		"SIDE_WINDER",
+		70,
+		1638658
+	},
+
+	{
+		"gef_fild06",
+		17643,
+		300,
+		1083,
+		"Shining Plant",
+		"SHINING_PLANT",
+		1,
+		1703939
+	},
+
+	{
+		"gef_fild07",
+		15947,
+		300,
+		1002,
+		"Poring",
+		"PORING",
+		1,
+		1376515
+	},
+
+	{
+		"gef_fild07",
+		15948,
+		300,
+		1008,
+		"Pupa",
+		"PUPA",
+		4,
+		1441796
+	},
+
+	{
+		"gef_fild07",
+		15949,
+		300,
+		1007,
+		"Fabre",
+		"FABRE",
+		6,
+		1441796
+	},
+
+	{
+		"gef_fild07",
+		15950,
+		300,
+		1011,
+		"Chonchon",
+		"CHONCHON",
+		5,
+		1572868
+	},
+
+	{
+		"gef_fild07",
+		17646,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild07",
+		17647,
+		300,
+		1083,
+		"Shining Plant",
+		"SHINING_PLANT",
+		1,
+		1703939
+	},
+
+	{
+		"gef_fild07",
+		17648,
+		300,
+		1079,
+		"Blue Plant",
+		"BLUE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild08",
+		16144,
+		300,
+		1156,
+		"Petite",
+		"PETIT_",
+		79,
+		1573129
+	},
+
+	{
+		"gef_fild08",
+		16145,
+		300,
+		1139,
+		"Mantis",
+		"MANTIS",
+		65,
+		1442052
+	},
+
+	{
+		"gef_fild08",
+		16146,
+		300,
+		1118,
+		"Flora",
+		"FLORA",
+		59,
+		1442307
+	},
+
+	{
+		"gef_fild08",
+		17635,
+		300,
+		1079,
+		"Blue Plant",
+		"BLUE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild09",
+		15973,
+		300,
+		1094,
+		"Ambernite",
+		"AMBERNITE",
+		19,
+		1376772
+	},
+
+	{
+		"gef_fild09",
+		15974,
+		300,
+		1012,
+		"Roda Frog",
+		"RODA_FROG",
+		13,
+		1376517
+	},
+
+	{
+		"gef_fild09",
+		17414,
+		300,
+		1085,
+		"Red Mushroom",
+		"RED_MUSHROOM",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild09",
+		17595,
+		300,
+		1079,
+		"Blue Plant",
+		"BLUE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild10",
+		16059,
+		300,
+		1686,
+		"Orc Baby",
+		"ORC_BABY",
+		43,
+		1441799
+	},
+
+	{
+		"gef_fild10",
+		16060,
+		300,
+		1023,
+		"Orc Warrior",
+		"ORK_WARRIOR",
+		44,
+		1442055
+	},
+
+	{
+		"gef_fild10",
+		16061,
+		300,
+		1273,
+		"Orc Lady",
+		"ORC_LADY",
+		45,
+		2752775
+	},
+
+	{
+		"gef_fild10",
+		17212,
+		301,
+		1190,
+		"Orc Lord",
+		"ORC_LORD",
+		55,
+		5374471
+	},
+
+	{
+		"gef_fild10",
+		17596,
+		300,
+		1079,
+		"Blue Plant",
+		"BLUE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild10",
+		17598,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gef_fild11",
+		16065,
+		300,
+		1122,
+		"Goblin",
+		"GOBLIN_1",
+		48,
+		1573127
+	},
+
+	{
+		"gef_fild11",
+		16066,
+		300,
+		1123,
+		"Goblin",
+		"GOBLIN_2",
+		44,
+		1507591
+	},
+
+	{
+		"gef_fild11",
+		16067,
+		300,
+		1124,
+		"Goblin",
+		"GOBLIN_3",
+		44,
+		1638663
+	},
+
+	{
+		"gef_fild11",
+		16068,
+		300,
+		1125,
+		"Goblin",
+		"GOBLIN_4",
+		49,
+		1442055
+	},
+
+	{
+		"gef_fild11",
+		17351,
+		300,
+		1299,
+		"Goblin Leader",
+		"GOBLIN_LEADER",
+		55,
+		1573127
+	},
+
+	{
+		"gefenia01",
+		16982,
+		300,
+		1292,
+		"Mini Demon",
+		"MINI_DEMON",
+		117,
+		1769478
+	},
+
+	{
+		"gefenia01",
+		16983,
+		300,
+		1390,
+		"Violy",
+		"VIOLY",
+		118,
+		2621703
+	},
+
+	{
+		"gefenia01",
+		16984,
+		300,
+		1370,
+		"Succubus",
+		"SUCCUBUS",
+		119,
+		4391174
+	},
+
+	{
+		"gefenia01",
+		16985,
+		300,
+		1219,
+		"Knight of Abyss",
+		"KNIGHT_OF_ABYSS",
+		122,
+		5702151
+	},
+
+	{
+		"gefenia01",
+		16986,
+		300,
+		1374,
+		"Incubus",
+		"INCUBUS",
+		120,
+		4391174
+	},
+
+	{
+		"gefenia01",
+		16987,
+		300,
+		1371,
+		"Fake Angel",
+		"FAKE_ANGEL",
+		105,
+		4325384
+	},
+
+	{
+		"gefenia01",
+		17383,
+		300,
+		1203,
+		"Mysteltainn",
+		"MYSTELTAINN",
+		130,
+		5702144
+	},
+
+	{
+		"gefenia01",
+		17389,
+		300,
+		1205,
+		"Executioner",
+		"EXECUTIONER",
+		101,
+		3080704
+	},
+
+	{
+		"gefenia01",
+		17393,
+		300,
+		1204,
+		"Tirfing",
+		"TIRFING",
+		114,
+		4391168
+	},
+
+	{
+		"gefenia01",
+		17475,
+		300,
+		1268,
+		"Bloody Knight",
+		"BLOODY_KNIGHT",
+		116,
+		5702144
+	},
+
+	{
+		"gefenia02",
+		16988,
+		300,
+		1292,
+		"Mini Demon",
+		"MINI_DEMON",
+		117,
+		1769478
+	},
+
+	{
+		"gefenia02",
+		16989,
+		300,
+		1390,
+		"Violy",
+		"VIOLY",
+		118,
+		2621703
+	},
+
+	{
+		"gefenia02",
+		16990,
+		300,
+		1370,
+		"Succubus",
+		"SUCCUBUS",
+		119,
+		4391174
+	},
+
+	{
+		"gefenia02",
+		16991,
+		300,
+		1219,
+		"Knight of Abyss",
+		"KNIGHT_OF_ABYSS",
+		122,
+		5702151
+	},
+
+	{
+		"gefenia02",
+		16992,
+		300,
+		1374,
+		"Incubus",
+		"INCUBUS",
+		120,
+		4391174
+	},
+
+	{
+		"gefenia02",
+		16993,
+		300,
+		1371,
+		"Fake Angel",
+		"FAKE_ANGEL",
+		105,
+		4325384
+	},
+
+	{
+		"gefenia02",
+		17384,
+		300,
+		1203,
+		"Mysteltainn",
+		"MYSTELTAINN",
+		130,
+		5702144
+	},
+
+	{
+		"gefenia02",
+		17390,
+		300,
+		1205,
+		"Executioner",
+		"EXECUTIONER",
+		101,
+		3080704
+	},
+
+	{
+		"gefenia02",
+		17394,
+		300,
+		1204,
+		"Tirfing",
+		"TIRFING",
+		114,
+		4391168
+	},
+
+	{
+		"gefenia02",
+		17476,
+		300,
+		1268,
+		"Bloody Knight",
+		"BLOODY_KNIGHT",
+		116,
+		5702144
+	},
+
+	{
+		"gefenia03",
+		16994,
+		300,
+		1292,
+		"Mini Demon",
+		"MINI_DEMON",
+		117,
+		1769478
+	},
+
+	{
+		"gefenia03",
+		16995,
+		300,
+		1390,
+		"Violy",
+		"VIOLY",
+		118,
+		2621703
+	},
+
+	{
+		"gefenia03",
+		16996,
+		300,
+		1370,
+		"Succubus",
+		"SUCCUBUS",
+		119,
+		4391174
+	},
+
+	{
+		"gefenia03",
+		16997,
+		300,
+		1219,
+		"Knight of Abyss",
+		"KNIGHT_OF_ABYSS",
+		122,
+		5702151
+	},
+
+	{
+		"gefenia03",
+		16998,
+		300,
+		1374,
+		"Incubus",
+		"INCUBUS",
+		120,
+		4391174
+	},
+
+	{
+		"gefenia03",
+		16999,
+		300,
+		1371,
+		"Fake Angel",
+		"FAKE_ANGEL",
+		105,
+		4325384
+	},
+
+	{
+		"gefenia03",
+		17385,
+		300,
+		1203,
+		"Mysteltainn",
+		"MYSTELTAINN",
+		130,
+		5702144
+	},
+
+	{
+		"gefenia03",
+		17391,
+		300,
+		1205,
+		"Executioner",
+		"EXECUTIONER",
+		101,
+		3080704
+	},
+
+	{
+		"gefenia03",
+		17395,
+		300,
+		1204,
+		"Tirfing",
+		"TIRFING",
+		114,
+		4391168
+	},
+
+	{
+		"gefenia03",
+		17477,
+		300,
+		1268,
+		"Bloody Knight",
+		"BLOODY_KNIGHT",
+		116,
+		5702144
+	},
+
+	{
+		"gefenia04",
+		17000,
+		300,
+		1292,
+		"Mini Demon",
+		"MINI_DEMON",
+		117,
+		1769478
+	},
+
+	{
+		"gefenia04",
+		17001,
+		300,
+		1390,
+		"Violy",
+		"VIOLY",
+		118,
+		2621703
+	},
+
+	{
+		"gefenia04",
+		17002,
+		300,
+		1370,
+		"Succubus",
+		"SUCCUBUS",
+		119,
+		4391174
+	},
+
+	{
+		"gefenia04",
+		17003,
+		300,
+		1219,
+		"Knight of Abyss",
+		"KNIGHT_OF_ABYSS",
+		122,
+		5702151
+	},
+
+	{
+		"gefenia04",
+		17004,
+		300,
+		1374,
+		"Incubus",
+		"INCUBUS",
+		120,
+		4391174
+	},
+
+	{
+		"gefenia04",
+		17005,
+		300,
+		1371,
+		"Fake Angel",
+		"FAKE_ANGEL",
+		105,
+		4325384
+	},
+
+	{
+		"gefenia04",
+		17386,
+		300,
+		1203,
+		"Mysteltainn",
+		"MYSTELTAINN",
+		130,
+		5702144
+	},
+
+	{
+		"gefenia04",
+		17392,
+		300,
+		1205,
+		"Executioner",
+		"EXECUTIONER",
+		101,
+		3080704
+	},
+
+	{
+		"gefenia04",
+		17396,
+		300,
+		1204,
+		"Tirfing",
+		"TIRFING",
+		114,
+		4391168
+	},
+
+	{
+		"gefenia04",
+		17478,
+		300,
+		1268,
+		"Bloody Knight",
+		"BLOODY_KNIGHT",
+		116,
+		5702144
+	},
+
+	{
+		"gl_cas01",
+		16927,
+		300,
+		1260,
+		"Dark Frame",
+		"DARK_FRAME",
+		76,
+		4391174
+	},
+
+	{
+		"gl_cas01",
+		16928,
+		300,
+		1195,
+		"Rideword",
+		"RIDEWORD",
+		74,
+		3932160
+	},
+
+	{
+		"gl_cas01",
+		16929,
+		300,
+		1281,
+		"Sage Worm",
+		"SAGEWORM",
+		70,
+		3932162
+	},
+
+	{
+		"gl_cas01",
+		16930,
+		300,
+		1320,
+		"Owl Duke",
+		"OWL_DUKE",
+		92,
+		3932678
+	},
+
+	{
+		"gl_cas01",
+		16931,
+		300,
+		1295,
+		"Owl Baron",
+		"OWL_BARON",
+		120,
+		3932678
+	},
+
+	{
+		"gl_cas01",
+		16932,
+		300,
+		1275,
+		"Alice",
+		"ALICE",
+		100,
+		3932423
+	},
+
+	{
+		"gl_cas01",
+		16933,
+		300,
+		1179,
+		"Whisper",
+		"WHISPER",
+		46,
+		4456454
+	},
+
+	{
+		"gl_cas01",
+		16934,
+		300,
+		1267,
+		"Carat",
+		"CARAT",
+		103,
+		2883846
+	},
+
+	{
+		"gl_cas02",
+		16935,
+		300,
+		1195,
+		"Rideword",
+		"RIDEWORD",
+		74,
+		3932160
+	},
+
+	{
+		"gl_cas02",
+		16936,
+		300,
+		1163,
+		"Raydric",
+		"RAYDRIC",
+		115,
+		3080711
+	},
+
+	{
+		"gl_cas02",
+		16937,
+		300,
+		1276,
+		"Raydric Archer",
+		"RAYDRIC_ARCHER",
+		82,
+		3080454
+	},
+
+	{
+		"gl_cas02",
+		16938,
+		300,
+		1191,
+		"Mimic",
+		"MIMIC",
+		56,
+		3932416
+	},
+
+	{
+		"gl_cas02",
+		16939,
+		300,
+		1208,
+		"Wander Man",
+		"WANDER_MAN",
+		120,
+		1573126
+	},
+
+	{
+		"gl_cas02",
+		16940,
+		300,
+		1219,
+		"Knight of Abyss",
+		"KNIGHT_OF_ABYSS",
+		122,
+		5702151
+	},
+
+	{
+		"gl_cas02",
+		16941,
+		300,
+		1275,
+		"Alice",
+		"ALICE",
+		100,
+		3932423
+	},
+
+	{
+		"gl_cas02",
+		16942,
+		300,
+		1185,
+		"Whisper",
+		"WHISPER_",
+		34,
+		1835009
+	},
+
+	{
+		"gl_cas02",
+		16943,
+		300,
+		1117,
+		"Evil Druid",
+		"EVIL_DRUID",
+		80,
+		5833217
+	},
+
+	{
+		"gl_cas02",
+		16944,
+		300,
+		1132,
+		"Khalitzburg",
+		"KHALITZBURG",
+		118,
+		1901057
+	},
+
+	{
+		"gl_cas02",
+		16945,
+		300,
+		1283,
+		"Chimera",
+		"CHIMERA",
+		70,
+		4129282
+	},
+
+	{
+		"gl_cas02",
+		17387,
+		300,
+		1203,
+		"Mysteltainn",
+		"MYSTELTAINN",
+		130,
+		5702144
+	},
+
+	{
+		"gl_cas02",
+		17397,
+		300,
+		1204,
+		"Tirfing",
+		"TIRFING",
+		114,
+		4391168
+	},
+
+	{
+		"gl_church",
+		16639,
+		300,
+		1192,
+		"Wraith",
+		"WRAITH",
+		77,
+		5833217
+	},
+
+	{
+		"gl_church",
+		16640,
+		300,
+		1191,
+		"Mimic",
+		"MIMIC",
+		56,
+		3932416
+	},
+
+	{
+		"gl_church",
+		16641,
+		300,
+		1117,
+		"Evil Druid",
+		"EVIL_DRUID",
+		80,
+		5833217
+	},
+
+	{
+		"gl_church",
+		16643,
+		300,
+		1291,
+		"Wraith Dead",
+		"WRAITH_DEAD",
+		121,
+		5833217
+	},
+
+	{
+		"gl_chyard",
+		16644,
+		300,
+		1198,
+		"Dark Priest",
+		"DARK_PRIEST",
+		98,
+		5832966
+	},
+
+	{
+		"gl_chyard",
+		16645,
+		300,
+		1192,
+		"Wraith",
+		"WRAITH",
+		77,
+		5833217
+	},
+
+	{
+		"gl_chyard",
+		16646,
+		300,
+		1191,
+		"Mimic",
+		"MIMIC",
+		56,
+		3932416
+	},
+
+	{
+		"gl_chyard",
+		16647,
+		300,
+		1117,
+		"Evil Druid",
+		"EVIL_DRUID",
+		80,
+		5833217
+	},
+
+	{
+		"gl_chyard",
+		16648,
+		300,
+		1035,
+		"Hunter Fly",
+		"HUNTER_FLY",
+		63,
+		2883588
+	},
+
+	{
+		"gl_chyard",
+		16649,
+		300,
+		1302,
+		"Dark Illusion",
+		"DARK_ILLUSION",
+		96,
+		5833222
+	},
+
+	{
+		"gl_chyard",
+		17213,
+		301,
+		1272,
+		"Dark Lord",
+		"DARK_LORD",
+		96,
+		5833222
+	},
+
+	{
+		"gl_dun01",
+		16819,
+		300,
+		1207,
+		"Sting",
+		"STING",
+		104,
+		4063488
+	},
+
+	{
+		"gl_dun01",
+		16820,
+		300,
+		1194,
+		"Arclouse",
+		"ARCLOUSE",
+		107,
+		2752772
+	},
+
+	{
+		"gl_dun02",
+		16821,
+		300,
+		1253,
+		"Gargoyle",
+		"GARGOYLE",
+		100,
+		4194566
+	},
+
+	{
+		"gl_dun02",
+		16822,
+		300,
+		1310,
+		"Majoruros",
+		"MAJORUROS",
+		107,
+		2818562
+	},
+
+	{
+		"gl_in01",
+		16611,
+		300,
+		1260,
+		"Dark Frame",
+		"DARK_FRAME",
+		76,
+		4391174
+	},
+
+	{
+		"gl_in01",
+		16612,
+		300,
+		1195,
+		"Rideword",
+		"RIDEWORD",
+		74,
+		3932160
+	},
+
+	{
+		"gl_in01",
+		16613,
+		300,
+		1143,
+		"Marionette",
+		"MARIONETTE",
+		90,
+		4456454
+	},
+
+	{
+		"gl_in01",
+		16614,
+		300,
+		1208,
+		"Wander Man",
+		"WANDER_MAN",
+		120,
+		1573126
+	},
+
+	{
+		"gl_in01",
+		16615,
+		300,
+		1281,
+		"Sage Worm",
+		"SAGEWORM",
+		70,
+		3932162
+	},
+
+	{
+		"gl_in01",
+		16616,
+		300,
+		1275,
+		"Alice",
+		"ALICE",
+		100,
+		3932423
+	},
+
+	{
+		"gl_knt01",
+		16946,
+		300,
+		1084,
+		"Black Mushroom",
+		"BLACK_MUSHROOM",
+		1,
+		1441795
+	},
+
+	{
+		"gl_knt01",
+		16947,
+		300,
+		1195,
+		"Rideword",
+		"RIDEWORD",
+		74,
+		3932160
+	},
+
+	{
+		"gl_knt01",
+		16948,
+		300,
+		1163,
+		"Raydric",
+		"RAYDRIC",
+		115,
+		3080711
+	},
+
+	{
+		"gl_knt01",
+		16949,
+		300,
+		1276,
+		"Raydric Archer",
+		"RAYDRIC_ARCHER",
+		82,
+		3080454
+	},
+
+	{
+		"gl_knt01",
+		16950,
+		300,
+		1219,
+		"Knight of Abyss",
+		"KNIGHT_OF_ABYSS",
+		122,
+		5702151
+	},
+
+	{
+		"gl_knt01",
+		16951,
+		300,
+		1275,
+		"Alice",
+		"ALICE",
+		100,
+		3932423
+	},
+
+	{
+		"gl_knt01",
+		16952,
+		300,
+		1132,
+		"Khalitzburg",
+		"KHALITZBURG",
+		118,
+		1901057
+	},
+
+	{
+		"gl_knt01",
+		17253,
+		300,
+		1186,
+		"Giant Whisper",
+		"WHISPER_BOSS",
+		66,
+		3145734
+	},
+
+	{
+		"gl_knt02",
+		16953,
+		300,
+		1163,
+		"Raydric",
+		"RAYDRIC",
+		115,
+		3080711
+	},
+
+	{
+		"gl_knt02",
+		16954,
+		300,
+		1276,
+		"Raydric Archer",
+		"RAYDRIC_ARCHER",
+		82,
+		3080454
+	},
+
+	{
+		"gl_knt02",
+		16955,
+		300,
+		1219,
+		"Knight of Abyss",
+		"KNIGHT_OF_ABYSS",
+		122,
+		5702151
+	},
+
+	{
+		"gl_knt02",
+		16956,
+		300,
+		1275,
+		"Alice",
+		"ALICE",
+		100,
+		3932423
+	},
+
+	{
+		"gl_knt02",
+		16957,
+		300,
+		1132,
+		"Khalitzburg",
+		"KHALITZBURG",
+		118,
+		1901057
+	},
+
+	{
+		"gl_knt02",
+		17388,
+		300,
+		1203,
+		"Mysteltainn",
+		"MYSTELTAINN",
+		130,
+		5702144
+	},
+
+	{
+		"gl_knt02",
+		17479,
+		300,
+		1268,
+		"Bloody Knight",
+		"BLOODY_KNIGHT",
+		116,
+		5702144
+	},
+
+	{
+		"gl_prison",
+		16772,
+		300,
+		1201,
+		"Rybio",
+		"RYBIO",
+		98,
+		2621958
+	},
+
+	{
+		"gl_prison",
+		16773,
+		300,
+		1257,
+		"Injustice",
+		"INJUSTICE",
+		95,
+		3080449
+	},
+
+	{
+		"gl_prison",
+		16774,
+		300,
+		1197,
+		"Zombie Prisoner",
+		"ZOMBIE_PRISONER",
+		89,
+		4522241
+	},
+
+	{
+		"gl_prison",
+		16775,
+		300,
+		1035,
+		"Hunter Fly",
+		"HUNTER_FLY",
+		63,
+		2883588
+	},
+
+	{
+		"gl_prison1",
+		16776,
+		300,
+		1201,
+		"Rybio",
+		"RYBIO",
+		98,
+		2621958
+	},
+
+	{
+		"gl_prison1",
+		16777,
+		300,
+		1196,
+		"Skeleton Prisoner",
+		"SKEL_PRISONER",
+		91,
+		4522241
+	},
+
+	{
+		"gl_prison1",
+		16778,
+		300,
+		1257,
+		"Injustice",
+		"INJUSTICE",
+		95,
+		3080449
+	},
+
+	{
+		"gl_prison1",
+		16779,
+		300,
+		1209,
+		"Cramp",
+		"CRAMP",
+		82,
+		2949122
+	},
+
+	{
+		"gl_prison1",
+		16780,
+		300,
+		1202,
+		"Phendark",
+		"PHENDARK",
+		102,
+		2621959
+	},
+
+	{
+		"gl_prison1",
+		16781,
+		300,
+		1035,
+		"Hunter Fly",
+		"HUNTER_FLY",
+		63,
+		2883588
+	},
+
+	{
+		"gl_prison1",
+		17471,
+		300,
+		1200,
+		"Zherlthsh",
+		"ZHERLTHSH",
+		105,
+		3932423
+	},
+
+	{
+		"gl_sew01",
+		16823,
+		300,
+		1253,
+		"Gargoyle",
+		"GARGOYLE",
+		100,
+		4194566
+	},
+
+	{
+		"gl_sew01",
+		16824,
+		300,
+		1194,
+		"Arclouse",
+		"ARCLOUSE",
+		107,
+		2752772
+	},
+
+	{
+		"gl_sew01",
+		16825,
+		300,
+		1179,
+		"Whisper",
+		"WHISPER",
+		46,
+		4456454
+	},
+
+	{
+		"gl_sew02",
+		16826,
+		300,
+		1253,
+		"Gargoyle",
+		"GARGOYLE",
+		100,
+		4194566
+	},
+
+	{
+		"gl_sew02",
+		16827,
+		300,
+		1209,
+		"Cramp",
+		"CRAMP",
+		82,
+		2949122
+	},
+
+	{
+		"gl_sew03",
+		16828,
+		300,
+		1253,
+		"Gargoyle",
+		"GARGOYLE",
+		100,
+		4194566
+	},
+
+	{
+		"gl_sew03",
+		16829,
+		300,
+		1207,
+		"Sting",
+		"STING",
+		104,
+		4063488
+	},
+
+	{
+		"gl_sew04",
+		16830,
+		300,
+		1253,
+		"Gargoyle",
+		"GARGOYLE",
+		100,
+		4194566
+	},
+
+	{
+		"gl_sew04",
+		16831,
+		300,
+		1111,
+		"Drainliar",
+		"DRAINLIAR",
+		47,
+		3080194
+	},
+
+	{
+		"gl_sew04",
+		16832,
+		300,
+		1206,
+		"Anolian",
+		"ANOLIAN",
+		109,
+		2687237
+	},
+
+	{
+		"gl_step",
+		16617,
+		300,
+		1276,
+		"Raydric Archer",
+		"RAYDRIC_ARCHER",
+		82,
+		3080454
+	},
+
+	{
+		"gl_step",
+		16618,
+		300,
+		1191,
+		"Mimic",
+		"MIMIC",
+		56,
+		3932416
+	},
+
+	{
+		"gl_step",
+		16619,
+		300,
+		1263,
+		"Wind Ghost",
+		"WIND_GHOST",
+		80,
+		4194566
+	},
+
+	{
+		"glast_01",
+		17171,
+		300,
+		1253,
+		"Gargoyle",
+		"GARGOYLE",
+		100,
+		4194566
+	},
+
+	{
+		"glast_01",
+		17172,
+		300,
+		1219,
+		"Knight of Abyss",
+		"KNIGHT_OF_ABYSS",
+		122,
+		5702151
+	},
+
+	{
+		"glast_01",
+		17173,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"glast_01",
+		17174,
+		300,
+		1079,
+		"Blue Plant",
+		"BLUE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gld_dun01",
+		17327,
+		300,
+		1290,
+		"Skeleton General",
+		"SKELETON_GENERAL",
+		139,
+		1900801
+	},
+
+	{
+		"gld_dun01",
+		17328,
+		300,
+		1301,
+		"Am Mut",
+		"AM_MUT",
+		141,
+		1769478
+	},
+
+	{
+		"gld_dun01",
+		17329,
+		300,
+		1307,
+		"Cat o' Nine Tails",
+		"CAT_O_NINE_TAIL",
+		79,
+		4129030
+	},
+
+	{
+		"gld_dun01",
+		17330,
+		300,
+		1309,
+		"Gajomart",
+		"GAJOMART",
+		140,
+		5439488
+	},
+
+	{
+		"gld_dun01",
+		17331,
+		301,
+		1115,
+		"Eddga",
+		"EDDGA",
+		65,
+		1507842
+	},
+
+	{
+		"gld_dun01",
+		17332,
+		300,
+		1092,
+		"Vagabond Wolf",
+		"VAGABOND_WOLF",
+		93,
+		1442050
+	},
+
+	{
+		"gld_dun02",
+		17333,
+		300,
+		1295,
+		"Owl Baron",
+		"OWL_BARON",
+		120,
+		3932678
+	},
+
+	{
+		"gld_dun02",
+		17334,
+		300,
+		1304,
+		"Giant Spider",
+		"GIANT_SPIDER",
+		117,
+		1638916
+	},
+
+	{
+		"gld_dun02",
+		17335,
+		300,
+		1305,
+		"Ancient Worm",
+		"ANCIENT_WORM",
+		121,
+		1638916
+	},
+
+	{
+		"gld_dun02",
+		17336,
+		300,
+		1294,
+		"Killer Mantis",
+		"KILLER_MANTIS",
+		141,
+		1442052
+	},
+
+	{
+		"gld_dun02",
+		17337,
+		300,
+		1303,
+		"Giant Hornet",
+		"GIANT_HONET",
+		120,
+		1572868
+	},
+
+	{
+		"gld_dun02",
+		17338,
+		301,
+		1046,
+		"Doppelganger",
+		"DOPPELGANGER",
+		77,
+		4391174
+	},
+
+	{
+		"gld_dun03",
+		17339,
+		300,
+		1289,
+		"Maya Purple",
+		"MAYA_PUPLE",
+		81,
+		5374468
+	},
+
+	{
+		"gld_dun03",
+		17340,
+		300,
+		1300,
+		"Caterpillar",
+		"CATERPILLAR",
+		121,
+		1441796
+	},
+
+	{
+		"gld_dun03",
+		17341,
+		300,
+		1311,
+		"Gullinbursti",
+		"GULLINBURSTI",
+		120,
+		2753026
+	},
+
+	{
+		"gld_dun03",
+		17342,
+		300,
+		1293,
+		"Creamy Fear",
+		"CREMY_FEAR",
+		117,
+		1572868
+	},
+
+	{
+		"gld_dun03",
+		17343,
+		300,
+		1306,
+		"Leib Olmai",
+		"LEIB_OLMAI",
+		118,
+		1442306
+	},
+
+	{
+		"gld_dun03",
+		17344,
+		301,
+		1147,
+		"Maya",
+		"MAYA",
+		55,
+		5374468
+	},
+
+	{
+		"gld_dun04",
+		17345,
+		300,
+		1291,
+		"Wraith Dead",
+		"WRAITH_DEAD",
+		121,
+		5833217
+	},
+
+	{
+		"gld_dun04",
+		17346,
+		300,
+		1292,
+		"Mini Demon",
+		"MINI_DEMON",
+		117,
+		1769478
+	},
+
+	{
+		"gld_dun04",
+		17347,
+		300,
+		1298,
+		"Zombie Master",
+		"ZOMBIE_MASTER",
+		119,
+		1900801
+	},
+
+	{
+		"gld_dun04",
+		17348,
+		300,
+		1302,
+		"Dark Illusion",
+		"DARK_ILLUSION",
+		96,
+		5833222
+	},
+
+	{
+		"gld_dun04",
+		17349,
+		301,
+		1272,
+		"Dark Lord",
+		"DARK_LORD",
+		96,
+		5833222
+	},
+
+	{
+		"gld_dun04",
+		17350,
+		300,
+		1120,
+		"Ghostring",
+		"GHOSTRING",
+		90,
+		5767430
+	},
+
+	{
+		"gon_dun01",
+		16713,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gon_dun01",
+		16714,
+		300,
+		1078,
+		"Red Plant",
+		"RED_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gon_dun01",
+		16715,
+		300,
+		1410,
+		"Live Peach Tree",
+		"LIVE_PEACH_TREE",
+		92,
+		2752771
+	},
+
+	{
+		"gon_dun01",
+		16716,
+		300,
+		1417,
+		"Zipper Bear",
+		"ZIPPER_BEAR",
+		90,
+		1769730
+	},
+
+	{
+		"gon_dun01",
+		16717,
+		300,
+		1082,
+		"White Plant",
+		"WHITE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gon_dun01",
+		16718,
+		300,
+		1408,
+		"Bloody Butterfly",
+		"BLOOD_BUTTERFLY",
+		94,
+		2883844
+	},
+
+	{
+		"gon_dun02",
+		16719,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gon_dun02",
+		16720,
+		300,
+		1410,
+		"Live Peach Tree",
+		"LIVE_PEACH_TREE",
+		92,
+		2752771
+	},
+
+	{
+		"gon_dun02",
+		16721,
+		300,
+		1415,
+		"Baby Leopard",
+		"BABY_LEOPARD",
+		68,
+		1835010
+	},
+
+	{
+		"gon_dun02",
+		16722,
+		300,
+		1412,
+		"Evil Cloud Hermit",
+		"EVIL_CLOUD_HERMIT",
+		96,
+		2621952
+	},
+
+	{
+		"gon_dun02",
+		16723,
+		300,
+		1408,
+		"Bloody Butterfly",
+		"BLOOD_BUTTERFLY",
+		94,
+		2883844
+	},
+
+	{
+		"gon_dun03",
+		16724,
+		300,
+		1413,
+		"Wild Ginseng",
+		"WILD_GINSENG",
+		90,
+		2818051
+	},
+
+	{
+		"gon_dun03",
+		16725,
+		300,
+		1416,
+		"Wicked Nymph",
+		"WICKED_NYMPH",
+		97,
+		4391174
+	},
+
+	{
+		"gon_dun03",
+		16726,
+		300,
+		1412,
+		"Evil Cloud Hermit",
+		"EVIL_CLOUD_HERMIT",
+		96,
+		2621952
+	},
+
+	{
+		"gon_dun03",
+		16727,
+		300,
+		1082,
+		"White Plant",
+		"WHITE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gon_dun03",
+		17214,
+		301,
+		1418,
+		"Evil Snake Lord",
+		"DARK_SNAKE_LORD",
+		105,
+		4456962
 	},
 
 	{
 		"gon_fild01",
-		17645,
+		16291,
 		300,
-		1083,
-		"Shining Plant",
-		"ShiningPlant",
-		1,
-		1703939,
+		1409,
+		"Rice Cake Boy",
+		"RICE_CAKE_BOY",
+		60,
+		1310727
 	},
 
 	{
-		"hu_fild01",
-		16245,
+		"gon_fild01",
+		16292,
 		300,
-		1715,
-		"Novus",
-		"Novus",
-		90,
-		1310729,
+		1415,
+		"Baby Leopard",
+		"BABY_LEOPARD",
+		68,
+		1835010
 	},
 
 	{
-		"hu_fild01",
-		16246,
-		300,
-		1718,
-		"Novus",
-		"Novus_",
-		84,
-		1310729,
-	},
-
-	{
-		"hu_fild01",
-		16247,
-		300,
-		1368,
-		"Geographer",
-		"Geographer",
-		73,
-		4063491,
-	},
-
-	{
-		"hu_fild01",
-		16248,
-		300,
-		1721,
-		"Dragon Egg",
-		"Dragon_Egg",
-		119,
-		2621705,
-	},
-
-	{
-		"hu_fild02",
-		16249,
-		300,
-		1715,
-		"Novus",
-		"Novus",
-		90,
-		1310729,
-	},
-
-	{
-		"hu_fild02",
-		16250,
-		300,
-		1718,
-		"Novus",
-		"Novus_",
-		84,
-		1310729,
-	},
-
-	{
-		"hu_fild02",
-		16251,
-		300,
-		1368,
-		"Geographer",
-		"Geographer",
-		73,
-		4063491,
-	},
-
-	{
-		"hu_fild02",
-		16252,
-		300,
-		1721,
-		"Dragon Egg",
-		"Dragon_Egg",
-		119,
-		2621705,
-	},
-
-	{
-		"hu_fild02",
-		17425,
-		300,
-		1259,
-		"Gryphon",
-		"Gryphon",
-		105,
-		5505538,
-	},
-
-	{
-		"hu_fild04",
-		16253,
-		300,
-		1718,
-		"Novus",
-		"Novus_",
-		84,
-		1310729,
-	},
-
-	{
-		"hu_fild04",
-		16254,
-		300,
-		1721,
-		"Dragon Egg",
-		"Dragon_Egg",
-		119,
-		2621705,
-	},
-
-	{
-		"hu_fild04",
-		16255,
-		300,
-		1368,
-		"Geographer",
-		"Geographer",
-		73,
-		4063491,
-	},
-
-	{
-		"hu_fild04",
-		17635,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"hu_fild04",
-		17636,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"hu_fild04",
-		17637,
-		300,
-		1079,
-		"Blue Plant",
-		"Blue_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"hu_fild05",
-		16256,
-		300,
-		1718,
-		"Novus",
-		"Novus_",
-		84,
-		1310729,
-	},
-
-	{
-		"hu_fild05",
-		16257,
-		300,
-		1721,
-		"Dragon Egg",
-		"Dragon_Egg",
-		119,
-		2621705,
-	},
-
-	{
-		"hu_fild06",
-		16258,
-		300,
-		1074,
-		"Shellfish",
-		"Shellfish",
-		50,
-		1376261,
-	},
-
-	{
-		"hu_fild06",
-		16259,
-		300,
-		1073,
-		"Crab",
-		"Crab",
-		43,
-		1376261,
-	},
-
-	{
-		"hu_fild06",
-		16260,
-		300,
-		1266,
-		"Aster",
-		"Aster",
-		50,
-		1441797,
-	},
-
-	{
-		"hu_fild06",
-		17639,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"hu_fild06",
-		17640,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"ice_dun01",
-		16860,
-		300,
-		1778,
-		"Gazeti",
-		"Gazeti",
-		106,
-		1376518,
-	},
-
-	{
-		"ice_dun01",
-		16861,
-		300,
-		1782,
-		"Roween",
-		"Roween",
-		95,
-		1573122,
-	},
-
-	{
-		"ice_dun01",
-		16862,
-		300,
-		1780,
-		"Muscipular",
-		"Muscipular",
-		105,
-		1442051,
-	},
-
-	{
-		"ice_dun01",
-		16863,
-		300,
-		1776,
-		"Siroma",
-		"Siroma",
-		98,
-		3997696,
-	},
-
-	{
-		"ice_dun02",
-		16864,
-		300,
-		1778,
-		"Gazeti",
-		"Gazeti",
-		106,
-		1376518,
-	},
-
-	{
-		"ice_dun02",
-		16865,
-		300,
-		1789,
-		"Iceicle",
-		"Iceicle",
-		100,
-		2686976,
-	},
-
-	{
-		"ice_dun02",
-		16866,
-		300,
-		1775,
-		"Snowier",
-		"Snowier",
-		103,
-		2687488,
-	},
-
-	{
-		"ice_dun02",
-		16867,
-		300,
-		1776,
-		"Siroma",
-		"Siroma",
-		98,
-		3997696,
-	},
-
-	{
-		"ice_dun02",
-		16868,
-		300,
-		1777,
-		"Ice Titan",
-		"Ice_Titan",
-		110,
-		3998208,
-	},
-
-	{
-		"ice_dun02",
-		18919,
-		300,
-		2077,
-		"허상의 그림자",
-		"쉐체_스코글",
-		105,
-		4391174,
-	},
-
-	{
-		"ice_dun03",
-		16869,
-		300,
-		1778,
-		"Gazeti",
-		"Gazeti",
-		106,
-		1376518,
-	},
-
-	{
-		"ice_dun03",
-		16870,
-		300,
-		1789,
-		"Iceicle",
-		"Iceicle",
-		100,
-		2686976,
-	},
-
-	{
-		"ice_dun03",
-		16871,
-		300,
-		1775,
-		"Snowier",
-		"Snowier",
-		103,
-		2687488,
-	},
-
-	{
-		"ice_dun03",
-		16872,
-		300,
-		1777,
-		"Ice Titan",
-		"Ice_Titan",
-		110,
-		3998208,
-	},
-
-	{
-		"in_sphinx1",
-		16675,
-		300,
-		1111,
-		"Drainliar",
-		"Drainliar",
-		47,
-		3080194,
-	},
-
-	{
-		"in_sphinx1",
-		16676,
-		300,
-		1164,
-		"Requiem",
-		"Requiem",
-		71,
-		1769735,
-	},
-
-	{
-		"in_sphinx1",
-		16677,
-		300,
-		1146,
-		"Matyr",
-		"Matyr",
-		58,
-		1769730,
-	},
-
-	{
-		"in_sphinx1",
-		16678,
-		300,
-		1178,
-		"Zerom",
-		"Zerom",
-		70,
-		1507591,
-	},
-
-	{
-		"in_sphinx2",
-		16679,
-		300,
-		1111,
-		"Drainliar",
-		"Drainliar",
-		47,
-		3080194,
-	},
-
-	{
-		"in_sphinx2",
-		16680,
-		300,
-		1164,
-		"Requiem",
-		"Requiem",
-		71,
-		1769735,
-	},
-
-	{
-		"in_sphinx2",
-		16681,
-		300,
-		1146,
-		"Matyr",
-		"Matyr",
-		58,
-		1769730,
-	},
-
-	{
-		"in_sphinx2",
-		16682,
-		300,
-		1178,
-		"Zerom",
-		"Zerom",
-		70,
-		1507591,
-	},
-
-	{
-		"in_sphinx3",
-		16683,
-		300,
-		1140,
-		"Marduk",
-		"Marduk",
-		73,
-		1507847,
-	},
-
-	{
-		"in_sphinx3",
-		16684,
-		300,
-		1146,
-		"Matyr",
-		"Matyr",
-		58,
-		1769730,
-	},
-
-	{
-		"in_sphinx3",
-		16685,
-		300,
-		1191,
-		"Mimic",
-		"Mimic",
-		56,
-		3932416,
-	},
-
-	{
-		"in_sphinx3",
-		16686,
-		300,
-		1154,
-		"Pasana",
-		"Pasana",
-		79,
-		2818311,
-	},
-
-	{
-		"in_sphinx4",
-		16687,
-		300,
-		1149,
-		"Minorous",
-		"Minorous",
-		58,
-		2818562,
-	},
-
-	{
-		"in_sphinx4",
-		16688,
-		300,
-		1191,
-		"Mimic",
-		"Mimic",
-		56,
-		3932416,
-	},
-
-	{
-		"in_sphinx4",
-		16689,
-		300,
-		1154,
-		"Pasana",
-		"Pasana",
-		79,
-		2818311,
-	},
-
-	{
-		"in_sphinx4",
-		17445,
-		300,
-		1098,
-		"Anubis",
-		"Anubis",
-		105,
-		3211783,
-	},
-
-	{
-		"in_sphinx5",
-		16690,
-		300,
-		1146,
-		"Matyr",
-		"Matyr",
-		58,
-		1769730,
-	},
-
-	{
-		"in_sphinx5",
-		16691,
-		300,
-		1191,
-		"Mimic",
-		"Mimic",
-		56,
-		3932416,
-	},
-
-	{
-		"in_sphinx5",
-		16692,
+		"gon_fild01",
+		16293,
 		300,
 		1037,
 		"Side Winder",
-		"Side_Winder",
+		"SIDE_WINDER",
 		70,
-		1638658,
+		1638658
 	},
 
 	{
-		"in_sphinx5",
-		16693,
+		"gon_fild01",
+		17579,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"gon_fild01",
+		17580,
+		300,
+		1083,
+		"Shining Plant",
+		"SHINING_PLANT",
+		1,
+		1703939
+	},
+
+	{
+		"hu_fild01",
+		16189,
+		300,
+		1715,
+		"Novus",
+		"NOVUS",
+		90,
+		1310729
+	},
+
+	{
+		"hu_fild01",
+		16190,
+		300,
+		1718,
+		"Novus",
+		"NOVUS_",
+		84,
+		1310729
+	},
+
+	{
+		"hu_fild01",
+		16191,
+		300,
+		1368,
+		"Geographer",
+		"GEOGRAPHER",
+		73,
+		4063491
+	},
+
+	{
+		"hu_fild01",
+		16192,
+		300,
+		1721,
+		"Dragon Egg",
+		"DRAGON_EGG",
+		119,
+		2621705
+	},
+
+	{
+		"hu_fild02",
+		16193,
+		300,
+		1715,
+		"Novus",
+		"NOVUS",
+		90,
+		1310729
+	},
+
+	{
+		"hu_fild02",
+		16194,
+		300,
+		1718,
+		"Novus",
+		"NOVUS_",
+		84,
+		1310729
+	},
+
+	{
+		"hu_fild02",
+		16195,
+		300,
+		1368,
+		"Geographer",
+		"GEOGRAPHER",
+		73,
+		4063491
+	},
+
+	{
+		"hu_fild02",
+		16196,
+		300,
+		1721,
+		"Dragon Egg",
+		"DRAGON_EGG",
+		119,
+		2621705
+	},
+
+	{
+		"hu_fild02",
+		17359,
+		300,
+		1259,
+		"Gryphon",
+		"GRYPHON",
+		105,
+		5505538
+	},
+
+	{
+		"hu_fild04",
+		16197,
+		300,
+		1718,
+		"Novus",
+		"NOVUS_",
+		84,
+		1310729
+	},
+
+	{
+		"hu_fild04",
+		16198,
+		300,
+		1721,
+		"Dragon Egg",
+		"DRAGON_EGG",
+		119,
+		2621705
+	},
+
+	{
+		"hu_fild04",
+		16199,
+		300,
+		1368,
+		"Geographer",
+		"GEOGRAPHER",
+		73,
+		4063491
+	},
+
+	{
+		"hu_fild04",
+		17570,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"hu_fild04",
+		17571,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"hu_fild04",
+		17572,
+		300,
+		1079,
+		"Blue Plant",
+		"BLUE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"hu_fild05",
+		16200,
+		300,
+		1718,
+		"Novus",
+		"NOVUS_",
+		84,
+		1310729
+	},
+
+	{
+		"hu_fild05",
+		16201,
+		300,
+		1721,
+		"Dragon Egg",
+		"DRAGON_EGG",
+		119,
+		2621705
+	},
+
+	{
+		"hu_fild06",
+		16202,
+		300,
+		1074,
+		"Shellfish",
+		"SHELLFISH",
+		50,
+		1376261
+	},
+
+	{
+		"hu_fild06",
+		16203,
+		300,
+		1073,
+		"Crab",
+		"CRAB",
+		43,
+		1376261
+	},
+
+	{
+		"hu_fild06",
+		16204,
+		300,
+		1266,
+		"Aster",
+		"ASTER",
+		50,
+		1441797
+	},
+
+	{
+		"hu_fild06",
+		17574,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"hu_fild06",
+		17575,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"ice_dun01",
+		16806,
+		300,
+		1778,
+		"Gazeti",
+		"GAZETI",
+		106,
+		1376518
+	},
+
+	{
+		"ice_dun01",
+		16807,
+		300,
+		1782,
+		"Roween",
+		"ROWEEN",
+		95,
+		1573122
+	},
+
+	{
+		"ice_dun01",
+		16808,
+		300,
+		1780,
+		"Muscipular",
+		"MUSCIPULAR",
+		105,
+		1442051
+	},
+
+	{
+		"ice_dun01",
+		16809,
+		300,
+		1776,
+		"Siroma",
+		"SIROMA",
+		98,
+		3997696
+	},
+
+	{
+		"ice_dun02",
+		16810,
+		300,
+		1778,
+		"Gazeti",
+		"GAZETI",
+		106,
+		1376518
+	},
+
+	{
+		"ice_dun02",
+		16811,
+		300,
+		1789,
+		"Iceicle",
+		"ICEICLE",
+		100,
+		2686976
+	},
+
+	{
+		"ice_dun02",
+		16812,
+		300,
+		1775,
+		"Snowier",
+		"SNOWIER",
+		103,
+		2687488
+	},
+
+	{
+		"ice_dun02",
+		16813,
+		300,
+		1776,
+		"Siroma",
+		"SIROMA",
+		98,
+		3997696
+	},
+
+	{
+		"ice_dun02",
+		16814,
+		300,
+		1777,
+		"Ice Titan",
+		"ICE_TITAN",
+		110,
+		3998208
+	},
+
+	{
+		"ice_dun02",
+		18854,
+		300,
+		2077,
+		"Skogul",
+		"S_SKOGUL",
+		105,
+		4391174
+	},
+
+	{
+		"ice_dun03",
+		16815,
+		300,
+		1778,
+		"Gazeti",
+		"GAZETI",
+		106,
+		1376518
+	},
+
+	{
+		"ice_dun03",
+		16816,
+		300,
+		1789,
+		"Iceicle",
+		"ICEICLE",
+		100,
+		2686976
+	},
+
+	{
+		"ice_dun03",
+		16817,
+		300,
+		1775,
+		"Snowier",
+		"SNOWIER",
+		103,
+		2687488
+	},
+
+	{
+		"ice_dun03",
+		16818,
+		300,
+		1777,
+		"Ice Titan",
+		"ICE_TITAN",
+		110,
+		3998208
+	},
+
+	{
+		"in_sphinx1",
+		16620,
+		300,
+		1111,
+		"Drainliar",
+		"DRAINLIAR",
+		47,
+		3080194
+	},
+
+	{
+		"in_sphinx1",
+		16621,
+		300,
+		1164,
+		"Requiem",
+		"REQUIEM",
+		71,
+		1769735
+	},
+
+	{
+		"in_sphinx1",
+		16622,
+		300,
+		1146,
+		"Matyr",
+		"MATYR",
+		58,
+		1769730
+	},
+
+	{
+		"in_sphinx1",
+		16623,
+		300,
+		1178,
+		"Zerom",
+		"ZEROM",
+		70,
+		1507591
+	},
+
+	{
+		"in_sphinx2",
+		16624,
+		300,
+		1111,
+		"Drainliar",
+		"DRAINLIAR",
+		47,
+		3080194
+	},
+
+	{
+		"in_sphinx2",
+		16625,
+		300,
+		1164,
+		"Requiem",
+		"REQUIEM",
+		71,
+		1769735
+	},
+
+	{
+		"in_sphinx2",
+		16626,
+		300,
+		1146,
+		"Matyr",
+		"MATYR",
+		58,
+		1769730
+	},
+
+	{
+		"in_sphinx2",
+		16627,
+		300,
+		1178,
+		"Zerom",
+		"ZEROM",
+		70,
+		1507591
+	},
+
+	{
+		"in_sphinx3",
+		16628,
+		300,
+		1140,
+		"Marduk",
+		"MARDUK",
+		73,
+		1507847
+	},
+
+	{
+		"in_sphinx3",
+		16629,
+		300,
+		1146,
+		"Matyr",
+		"MATYR",
+		58,
+		1769730
+	},
+
+	{
+		"in_sphinx3",
+		16630,
+		300,
+		1191,
+		"Mimic",
+		"MIMIC",
+		56,
+		3932416
+	},
+
+	{
+		"in_sphinx3",
+		16631,
 		300,
 		1154,
 		"Pasana",
-		"Pasana",
+		"PASANA",
 		79,
-		2818311,
+		2818311
 	},
 
 	{
-		"in_sphinx5",
-		17269,
-		301,
-		1157,
-		"Pharaoh",
-		"Pharaoh",
-		85,
-		4391431,
+		"in_sphinx4",
+		16632,
+		300,
+		1149,
+		"Minorous",
+		"MINOROUS",
+		58,
+		2818562
 	},
 
 	{
-		"in_sphinx5",
-		17446,
+		"in_sphinx4",
+		16633,
+		300,
+		1191,
+		"Mimic",
+		"MIMIC",
+		56,
+		3932416
+	},
+
+	{
+		"in_sphinx4",
+		16634,
+		300,
+		1154,
+		"Pasana",
+		"PASANA",
+		79,
+		2818311
+	},
+
+	{
+		"in_sphinx4",
+		17380,
 		300,
 		1098,
 		"Anubis",
-		"Anubis",
+		"ANUBIS",
 		105,
-		3211783,
+		3211783
+	},
+
+	{
+		"in_sphinx5",
+		16635,
+		300,
+		1146,
+		"Matyr",
+		"MATYR",
+		58,
+		1769730
+	},
+
+	{
+		"in_sphinx5",
+		16636,
+		300,
+		1191,
+		"Mimic",
+		"MIMIC",
+		56,
+		3932416
+	},
+
+	{
+		"in_sphinx5",
+		16637,
+		300,
+		1037,
+		"Side Winder",
+		"SIDE_WINDER",
+		70,
+		1638658
+	},
+
+	{
+		"in_sphinx5",
+		16638,
+		300,
+		1154,
+		"Pasana",
+		"PASANA",
+		79,
+		2818311
+	},
+
+	{
+		"in_sphinx5",
+		17215,
+		301,
+		1157,
+		"Pharaoh",
+		"PHARAOH",
+		85,
+		4391431
+	},
+
+	{
+		"in_sphinx5",
+		17381,
+		300,
+		1098,
+		"Anubis",
+		"ANUBIS",
+		105,
+		3211783
 	},
 
 	{
 		"iz_dun00",
-		16553,
+		16497,
 		300,
 		1084,
 		"Black Mushroom",
-		"Black_Mushroom",
+		"BLACK_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"iz_dun00",
-		16554,
+		16498,
 		300,
 		1141,
 		"Marina",
-		"Marina",
+		"MARINA",
 		42,
-		2686979,
+		2686979
 	},
 
 	{
 		"iz_dun00",
-		16555,
+		16499,
 		300,
 		1066,
 		"Vadon",
-		"Vadon",
+		"VADON",
 		45,
-		1376261,
+		1376261
 	},
 
 	{
 		"iz_dun00",
-		16556,
+		16500,
 		300,
 		1070,
 		"Kukre",
-		"Kukre",
+		"KUKRE",
 		42,
-		1376261,
+		1376261
 	},
 
 	{
 		"iz_dun00",
-		16557,
+		16501,
 		300,
 		1161,
 		"Plankton",
-		"Plankton",
+		"PLANKTON",
 		40,
-		3997699,
+		3997699
 	},
 
 	{
 		"iz_dun00",
-		16558,
+		16502,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"iz_dun01",
-		16559,
+		16503,
 		300,
 		1084,
 		"Black Mushroom",
-		"Black_Mushroom",
+		"BLACK_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"iz_dun01",
-		16560,
+		16504,
 		300,
 		1141,
 		"Marina",
-		"Marina",
+		"MARINA",
 		42,
-		2686979,
+		2686979
 	},
 
 	{
 		"iz_dun01",
-		16561,
+		16505,
 		300,
 		1066,
 		"Vadon",
-		"Vadon",
+		"VADON",
 		45,
-		1376261,
+		1376261
 	},
 
 	{
 		"iz_dun01",
-		16562,
+		16506,
 		300,
 		1067,
 		"Cornutus",
-		"Cornutus",
+		"CORNUTUS",
 		48,
-		1376261,
+		1376261
 	},
 
 	{
 		"iz_dun01",
-		16563,
+		16507,
 		300,
 		1070,
 		"Kukre",
-		"Kukre",
+		"KUKRE",
 		42,
-		1376261,
+		1376261
 	},
 
 	{
 		"iz_dun01",
-		16564,
+		16508,
 		300,
 		1161,
 		"Plankton",
-		"Plankton",
+		"PLANKTON",
 		40,
-		3997699,
+		3997699
 	},
 
 	{
 		"iz_dun01",
-		16565,
+		16509,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"iz_dun02",
-		16566,
+		16510,
 		300,
 		1084,
 		"Black Mushroom",
-		"Black_Mushroom",
+		"BLACK_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"iz_dun02",
-		16567,
+		16511,
 		300,
 		1144,
 		"Marse",
-		"Marse",
+		"MARSE",
 		47,
-		2686981,
+		2686981
 	},
 
 	{
 		"iz_dun02",
-		16568,
+		16512,
 		300,
 		1264,
 		"Merman",
-		"Merman",
+		"MERMAN",
 		60,
-		3997959,
+		3997959
 	},
 
 	{
 		"iz_dun02",
-		16569,
+		16513,
 		300,
 		1044,
 		"Obeaune",
-		"Obeaune",
+		"OBEAUNE",
 		53,
-		2687237,
+		2687237
 	},
 
 	{
 		"iz_dun02",
-		16570,
+		16514,
 		300,
 		1067,
 		"Cornutus",
-		"Cornutus",
+		"CORNUTUS",
 		48,
-		1376261,
+		1376261
 	},
 
 	{
 		"iz_dun02",
-		16571,
+		16515,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"iz_dun03",
-		16572,
+		16516,
 		300,
 		1045,
 		"Marc",
-		"Marc",
+		"MARC",
 		56,
-		2687237,
+		2687237
 	},
 
 	{
 		"iz_dun03",
-		16573,
+		16517,
 		300,
 		1142,
 		"Marine Sphere",
-		"Marine_Sphere",
+		"MARINE_SPHERE",
 		51,
-		2686979,
+		2686979
 	},
 
 	{
 		"iz_dun03",
-		16574,
+		16518,
 		300,
 		1264,
 		"Merman",
-		"Merman",
+		"MERMAN",
 		60,
-		3997959,
+		3997959
 	},
 
 	{
 		"iz_dun03",
-		16575,
+		16519,
 		300,
 		1069,
 		"Swordfish",
-		"Swordfish",
+		"SWORD_FISH",
 		57,
-		2687493,
+		2687493
 	},
 
 	{
 		"iz_dun03",
-		16576,
+		16520,
 		300,
 		1158,
 		"Phen",
-		"Phen",
+		"PHEN",
 		52,
-		2687237,
+		2687237
 	},
 
 	{
 		"iz_dun03",
-		16577,
+		16521,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"iz_dun04",
-		16578,
+		16522,
 		300,
 		1108,
 		"Deviace",
-		"Deviace",
+		"DEVIACE",
 		60,
-		5308677,
+		5308677
 	},
 
 	{
 		"iz_dun04",
-		16579,
+		16523,
 		300,
 		1142,
 		"Marine Sphere",
-		"Marine_Sphere",
+		"MARINE_SPHERE",
 		51,
-		2686979,
+		2686979
 	},
 
 	{
 		"iz_dun04",
-		16580,
+		16524,
 		300,
 		1264,
 		"Merman",
-		"Merman",
+		"MERMAN",
 		60,
-		3997959,
+		3997959
 	},
 
 	{
 		"iz_dun04",
-		16581,
+		16525,
 		300,
 		1069,
 		"Swordfish",
-		"Swordfish",
+		"SWORD_FISH",
 		57,
-		2687493,
+		2687493
 	},
 
 	{
 		"iz_dun04",
-		16582,
+		16526,
 		300,
 		1065,
 		"Strouf",
-		"Strouf",
+		"STROUF",
 		61,
-		3998213,
+		3998213
 	},
 
 	{
 		"iz_dun04",
-		16583,
+		16527,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
-		"iz_dun05",
-		15911,
+		"iz_ng01",
+		19090,
 		300,
-		2201,
-		"Sropho",
-		"Sropho",
-		113,
-		2687237,
-	},
-
-	{
-		"iz_dun05",
-		15912,
-		300,
-		2204,
-		"Sedora",
-		"Sedora",
-		110,
-		2687237,
-	},
-
-	{
-		"iz_dun05",
-		15913,
-		300,
-		2203,
-		"Pot Dofle",
-		"Pot_Dofle",
-		115,
-		2686981,
-	},
-
-	{
-		"iz_dun05",
-		15914,
-		300,
-		2198,
-		"King Dramoh",
-		"King_Dramoh",
-		117,
-		2687493,
-	},
-
-	{
-		"iz_dun05",
-		15915,
-		301,
-		2202,
-		"Kraken",
-		"Kraken",
-		124,
-		5308933,
+		1031,
+		"Poporing",
+		"POPORING",
+		30,
+		1638659
 	},
 
 	{
 		"jawaii_in",
-		17477,
+		17412,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"job3_gen01",
-		18994,
+		18929,
 		300,
 		1428,
 		"Poison Spore",
 		"G_POISON_SPORE",
 		26,
-		1638659,
+		1638659
 	},
 
 	{
 		"job_monk",
-		18706,
+		18641,
 		300,
 		1182,
-		"Mushroom",
-		"Thief_Mushroom",
+		"Thief Mushroom",
+		"THIEF_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"jupe_core",
-		16960,
+		16906,
 		300,
 		1670,
 		"Dimik",
-		"Dimik_1",
+		"DIMIK_1",
 		116,
-		2883840,
+		2883840
 	},
 
 	{
 		"jupe_core",
-		16961,
+		16907,
 		300,
 		1671,
 		"Dimik",
-		"Dimik_2",
+		"DIMIK_2",
 		116,
-		2687232,
+		2687232
 	},
 
 	{
 		"jupe_core",
-		16962,
+		16908,
 		300,
 		1672,
 		"Dimik",
-		"Dimik_3",
+		"DIMIK_3",
 		116,
-		2752768,
+		2752768
 	},
 
 	{
 		"jupe_core",
-		16963,
+		16909,
 		300,
 		1673,
 		"Dimik",
-		"Dimik_4",
+		"DIMIK_4",
 		116,
-		2818304,
+		2818304
 	},
 
 	{
 		"jupe_core",
-		16964,
+		16910,
 		300,
 		1676,
 		"Venatu",
-		"Venatu_1",
+		"VENATU_1",
 		113,
-		2621696,
+		2621696
 	},
 
 	{
 		"jupe_core",
-		16965,
+		16911,
 		300,
 		1677,
 		"Venatu",
-		"Venatu_2",
+		"VENATU_2",
 		113,
-		2883840,
+		2883840
 	},
 
 	{
 		"jupe_core",
-		16966,
+		16912,
 		300,
 		1678,
 		"Venatu",
-		"Venatu_3",
+		"VENATU_3",
 		113,
-		2752768,
+		2752768
 	},
 
 	{
 		"jupe_core",
-		16967,
+		16913,
 		300,
 		1668,
 		"Archdam",
-		"Archdam",
+		"ARCHDAM",
 		119,
-		3932679,
+		3932679
 	},
 
 	{
 		"jupe_core",
-		17270,
+		17216,
 		301,
 		1685,
 		"Vesper",
-		"Apocalips_H",
+		"APOCALIPS_H",
 		128,
-		3015170,
+		3015170
 	},
 
 	{
 		"jupe_core2",
-		18850,
+		18785,
 		300,
 		2053,
 		"Dimik",
-		"Mechanic_Dimik",
+		"NC_DIMIK",
 		77,
-		2621696,
+		2621696
 	},
 
 	{
 		"juperos_01",
-		16968,
+		16914,
 		300,
 		1670,
 		"Dimik",
-		"Dimik_1",
+		"DIMIK_1",
 		116,
-		2883840,
+		2883840
 	},
 
 	{
 		"juperos_01",
-		16969,
+		16915,
 		300,
 		1671,
 		"Dimik",
-		"Dimik_2",
+		"DIMIK_2",
 		116,
-		2687232,
+		2687232
 	},
 
 	{
 		"juperos_01",
-		16970,
+		16916,
 		300,
 		1672,
 		"Dimik",
-		"Dimik_3",
+		"DIMIK_3",
 		116,
-		2752768,
+		2752768
 	},
 
 	{
 		"juperos_01",
-		16971,
+		16917,
 		300,
 		1673,
 		"Dimik",
-		"Dimik_4",
+		"DIMIK_4",
 		116,
-		2818304,
+		2818304
 	},
 
 	{
 		"juperos_01",
-		16972,
+		16918,
 		300,
 		1676,
 		"Venatu",
-		"Venatu_1",
+		"VENATU_1",
 		113,
-		2621696,
+		2621696
 	},
 
 	{
 		"juperos_01",
-		16973,
+		16919,
 		300,
 		1677,
 		"Venatu",
-		"Venatu_2",
+		"VENATU_2",
 		113,
-		2883840,
+		2883840
 	},
 
 	{
 		"juperos_01",
-		16974,
+		16920,
 		300,
 		1678,
 		"Venatu",
-		"Venatu_3",
+		"VENATU_3",
 		113,
-		2752768,
+		2752768
 	},
 
 	{
 		"juperos_01",
-		16975,
+		16921,
 		300,
 		1679,
 		"Venatu",
-		"Venatu_4",
+		"VENATU_4",
 		113,
-		2687232,
+		2687232
 	},
 
 	{
 		"juperos_02",
-		16976,
+		16922,
 		300,
 		1676,
 		"Venatu",
-		"Venatu_1",
+		"VENATU_1",
 		113,
-		2621696,
+		2621696
 	},
 
 	{
 		"juperos_02",
-		16977,
+		16923,
 		300,
 		1677,
 		"Venatu",
-		"Venatu_2",
+		"VENATU_2",
 		113,
-		2883840,
+		2883840
 	},
 
 	{
 		"juperos_02",
-		16978,
+		16924,
 		300,
 		1678,
 		"Venatu",
-		"Venatu_3",
+		"VENATU_3",
 		113,
-		2752768,
+		2752768
 	},
 
 	{
 		"juperos_02",
-		16979,
+		16925,
 		300,
 		1679,
 		"Venatu",
-		"Venatu_4",
+		"VENATU_4",
 		113,
-		2687232,
+		2687232
 	},
 
 	{
 		"juperos_02",
-		16980,
+		16926,
 		300,
 		1365,
 		"Apocalypse",
-		"Apocalypse",
+		"APOCALIPS",
 		121,
-		3932672,
+		3932672
 	},
 
 	{
 		"kh_dun01",
-		16903,
+		16849,
 		300,
 		1735,
 		"Alicel",
-		"Alicel",
+		"ALICEL",
 		115,
-		3932422,
+		3932422
 	},
 
 	{
 		"kh_dun01",
-		16904,
+		16850,
 		300,
 		1275,
 		"Alice",
-		"Alice",
+		"ALICE",
 		100,
-		3932423,
+		3932423
 	},
 
 	{
 		"kh_dun01",
-		16905,
+		16851,
 		300,
 		1736,
 		"Aliot",
-		"Aliot",
+		"ALIOT",
 		112,
-		3932422,
+		3932422
 	},
 
 	{
 		"kh_dun01",
-		16906,
+		16852,
 		300,
 		1737,
 		"Aliza",
-		"Aliza",
+		"ALIZA",
 		112,
-		3932423,
+		3932423
 	},
 
 	{
 		"kh_dun01",
-		16907,
+		16853,
 		300,
 		1738,
 		"Constant",
-		"Constant",
+		"CONSTANT",
 		108,
-		4390912,
+		4390912
 	},
 
 	{
 		"kh_dun01",
-		16908,
+		16854,
 		300,
 		1745,
 		"Constant",
-		"G_Constant",
+		"G_CONSTANT",
 		108,
-		4390918,
+		4390918
 	},
 
 	{
 		"kh_dun02",
-		16909,
+		16855,
 		300,
 		1735,
 		"Alicel",
-		"Alicel",
+		"ALICEL",
 		115,
-		3932422,
+		3932422
 	},
 
 	{
 		"kh_dun02",
-		16910,
+		16856,
 		300,
 		1736,
 		"Aliot",
-		"Aliot",
+		"ALIOT",
 		112,
-		3932422,
+		3932422
 	},
 
 	{
 		"kh_dun02",
-		16911,
+		16857,
 		300,
 		1737,
 		"Aliza",
-		"Aliza",
+		"ALIZA",
 		112,
-		3932423,
+		3932423
 	},
 
 	{
 		"kh_dun02",
-		16912,
+		16858,
 		300,
 		1738,
 		"Constant",
-		"Constant",
+		"CONSTANT",
 		108,
-		4390912,
+		4390912
 	},
 
 	{
 		"kh_dun02",
-		16913,
+		16859,
 		300,
 		1745,
 		"Constant",
-		"G_Constant",
+		"G_CONSTANT",
 		108,
-		4390918,
+		4390918
 	},
 
 	{
 		"kh_dun02",
-		17271,
+		17217,
 		301,
 		1734,
 		"Kiel D-01",
-		"Kiel",
+		"KIEL_",
 		125,
-		3080448,
+		3080448
 	},
 
 	{
 		"kh_kiehl01",
-		17349,
+		17301,
 		300,
 		1745,
 		"Constant",
-		"G_Constant",
+		"G_CONSTANT",
 		108,
-		4390918,
+		4390918
 	},
 
 	{
 		"kh_kiehl01",
-		17350,
+		17302,
 		300,
 		1740,
 		"Aliot",
-		"G_Aliot",
+		"G_ALIOT",
 		112,
-		3932422,
+		3932422
 	},
 
 	{
 		"kh_kiehl01",
-		17351,
+		17303,
 		300,
 		1746,
 		"Aliza",
-		"G_Aliza",
+		"G_ALIZA",
 		112,
-		3932423,
+		3932423
 	},
 
 	{
 		"kh_kiehl01",
-		17352,
+		17304,
 		300,
 		1739,
 		"Alicel",
-		"G_Alicel",
+		"G_ALICEL",
 		115,
-		3932422,
+		3932422
 	},
 
 	{
 		"lhz_dun01",
-		17200,
+		17146,
 		300,
 		1657,
-		"Laurell Weinder",
-		"Laurell",
+		"Rawrel",
+		"RAWREL",
 		133,
-		3145991,
+		3145991
 	},
 
 	{
 		"lhz_dun01",
-		17201,
+		17147,
 		300,
 		1682,
-		"Remover",
 		"Removal",
+		"REMOVAL",
 		121,
-		3211521,
+		3211521
 	},
 
 	{
 		"lhz_dun01",
-		17202,
+		17148,
 		300,
 		1613,
 		"Metaling",
-		"Metaling",
+		"METALING",
 		81,
-		1310720,
+		1310720
 	},
 
 	{
 		"lhz_dun01",
-		17203,
+		17149,
 		300,
 		1654,
-		"Armeyer Dinze",
 		"Armaia",
+		"ARMAIA",
 		134,
-		4063495,
+		4063495
 	},
 
 	{
 		"lhz_dun01",
-		17204,
+		17150,
 		300,
 		1627,
 		"Anopheles",
-		"Anopheles",
+		"ANOPHELES",
 		95,
-		4194308,
+		4194308
 	},
 
 	{
 		"lhz_dun01",
-		17205,
+		17151,
 		300,
 		1652,
-		"Egnigem Cenia",
 		"Ygnizem",
+		"YGNIZEM",
 		136,
-		2818311,
+		2818311
 	},
 
 	{
 		"lhz_dun01",
-		17206,
+		17152,
 		300,
 		1655,
-		"Errende Ebecee",
 		"Erend",
+		"EREND",
 		133,
-		3014919,
+		3014919
 	},
 
 	{
 		"lhz_dun01",
-		17207,
+		17153,
 		300,
 		1681,
 		"Gemini-S58",
-		"Gemini",
+		"GEMINI",
 		135,
-		1376512,
+		1376512
 	},
 
 	{
 		"lhz_dun01",
-		17208,
+		17154,
 		300,
 		1656,
-		"Kavach Icarus",
 		"Kavac",
+		"KAVAC",
 		135,
-		2883847,
+		2883847
 	},
 
 	{
 		"lhz_dun01",
-		17209,
+		17155,
 		300,
 		1653,
-		"Wickebine Tres",
 		"Whikebain",
+		"WHIKEBAIN",
 		132,
-		4260103,
+		4260103
 	},
 
 	{
 		"lhz_dun02",
-		17210,
+		17156,
 		300,
 		1657,
-		"Laurell Weinder",
-		"Laurell",
+		"Rawrel",
+		"RAWREL",
 		133,
-		3145991,
+		3145991
 	},
 
 	{
 		"lhz_dun02",
-		17211,
+		17157,
 		300,
 		1682,
-		"Remover",
 		"Removal",
+		"REMOVAL",
 		121,
-		3211521,
+		3211521
 	},
 
 	{
 		"lhz_dun02",
-		17212,
+		17158,
 		300,
 		1654,
-		"Armeyer Dinze",
 		"Armaia",
+		"ARMAIA",
 		134,
-		4063495,
+		4063495
 	},
 
 	{
 		"lhz_dun02",
-		17213,
+		17159,
 		300,
 		1635,
-		"Eremes Guile",
 		"Eremes",
+		"EREMES",
 		140,
-		5570822,
+		5570822
 	},
 
 	{
 		"lhz_dun02",
-		17214,
+		17160,
 		300,
 		1652,
-		"Egnigem Cenia",
 		"Ygnizem",
+		"YGNIZEM",
 		136,
-		2818311,
+		2818311
 	},
 
 	{
 		"lhz_dun02",
-		17215,
+		17161,
 		300,
 		1655,
-		"Errende Ebecee",
 		"Erend",
+		"EREND",
 		133,
-		3014919,
+		3014919
 	},
 
 	{
 		"lhz_dun02",
-		17216,
+		17162,
 		300,
 		1681,
 		"Gemini-S58",
-		"Gemini",
+		"GEMINI",
 		135,
-		1376512,
+		1376512
 	},
 
 	{
 		"lhz_dun02",
-		17217,
+		17163,
 		300,
 		1656,
-		"Kavach Icarus",
 		"Kavac",
+		"KAVAC",
 		135,
-		2883847,
+		2883847
+	},
+
+	{
+		"lhz_dun02",
+		17164,
+		300,
+		1653,
+		"Whikebain",
+		"WHIKEBAIN",
+		132,
+		4260103
 	},
 
 	{
 		"lhz_dun02",
 		17218,
-		300,
-		1653,
-		"Wickebine Tres",
-		"Whikebain",
-		132,
-		4260103,
-	},
-
-	{
-		"lhz_dun02",
-		17272,
 		301,
 		1658,
-		"Egnigem Cenia",
-		"Ygnizem ",
+		"Ygnizem",
+		"B_YGNIZEM",
 		141,
-		2818311,
+		2818311
 	},
 
 	{
 		"lhz_dun03",
-		17219,
+		17165,
 		300,
 		1637,
-		"Margaretha Sorin",
 		"Magaleta",
+		"MAGALETA",
 		140,
-		4325639,
+		4325639
 	},
 
 	{
 		"lhz_dun03",
-		17220,
+		17166,
 		300,
 		1634,
-		"Seyren Windsor",
 		"Seyren",
+		"SEYREN",
 		142,
-		4129030,
+		4129030
 	},
 
 	{
 		"lhz_dun03",
-		17221,
+		17167,
 		300,
 		1638,
-		"Cecil Damon",
 		"Shecil",
+		"SHECIL",
 		141,
-		4194567,
+		4194567
 	},
 
 	{
 		"lhz_dun03",
-		17222,
+		17168,
 		300,
 		1635,
-		"Eremes Guile",
 		"Eremes",
+		"EREMES",
 		140,
-		5570822,
+		5570822
 	},
 
 	{
 		"lhz_dun03",
-		17223,
+		17169,
 		300,
 		1639,
-		"Kathryne Keyron",
 		"Katrinn",
+		"KATRINN",
 		141,
-		4456711,
+		4456711
 	},
 
 	{
 		"lhz_dun03",
-		17224,
+		17170,
 		300,
 		1636,
-		"Howard Alt-Eisen",
 		"Harword",
+		"HARWORD",
 		142,
-		5308679,
+		5308679
 	},
 
 	{
 		"lhz_dun03",
-		17419,
+		17353,
 		300,
 		1643,
-		"High Priest Margaretha",
 		"High Priest Magaleta",
+		"G_MAGALETA",
 		160,
-		5636359,
+		5636359
 	},
 
 	{
 		"lhz_dun03",
-		17420,
+		17354,
 		300,
 		1640,
-		"로드나이트 세이렌",
-		"고스트_세이렌",
+		"Lord Knight Seyren",
+		"G_SEYREN",
 		160,
-		5439751,
+		5439751
 	},
 
 	{
 		"lhz_dun03",
-		17421,
+		17355,
 		300,
 		1644,
-		"Sniper Cecil",
 		"Sniper Shecil",
+		"G_SHECIL",
 		160,
-		5505287,
+		5505287
 	},
 
 	{
 		"lhz_dun03",
-		17422,
+		17356,
 		300,
 		1641,
 		"Assassin Cross Eremes",
-		"Assassin_Cross_Eremes",
+		"G_EREMES",
 		160,
-		5570823,
+		5570823
 	},
 
 	{
 		"lhz_dun03",
-		17423,
+		17357,
 		300,
 		1645,
-		"High Wizard Kathryne",
 		"High Wizard Katrinn",
+		"G_KATRINN",
 		160,
-		4456711,
+		4456711
 	},
 
 	{
 		"lhz_dun03",
-		17424,
+		17358,
 		300,
 		1642,
-		"Whitesmith Howard",
 		"Whitesmith Harword",
+		"G_HARWORD",
 		160,
-		5374215,
-	},
-
-	{
-		"lhz_dun04",
-		15897,
-		300,
-		2221,
-		"Randel",
-		"Randel",
-		141,
-		4325639,
-	},
-
-	{
-		"lhz_dun04",
-		15898,
-		300,
-		2222,
-		"Flamel",
-		"Flamel",
-		141,
-		4129031,
-	},
-
-	{
-		"lhz_dun04",
-		15899,
-		300,
-		2223,
-		"Celia",
-		"Celia",
-		141,
-		4456711,
-	},
-
-	{
-		"lhz_dun04",
-		15900,
-		300,
-		2224,
-		"Chen",
-		"Chen",
-		141,
-		5308678,
-	},
-
-	{
-		"lhz_dun04",
-		15901,
-		300,
-		2225,
-		"Gertie",
-		"Gertie",
-		141,
-		5570822,
-	},
-
-	{
-		"lhz_dun04",
-		15902,
-		300,
-		2226,
-		"Alphoccio",
-		"Alphoccio",
-		142,
-		4194567,
-	},
-
-	{
-		"lhz_dun04",
-		15903,
-		300,
-		2227,
-		"Trentini",
-		"Trentini",
-		142,
-		4194567,
-	},
-
-	{
-		"lhz_dun04",
-		15904,
-		300,
-		2228,
-		"Paladin Randel",
-		"Paladin_Randel",
-		160,
-		5636359,
-	},
-
-	{
-		"lhz_dun04",
-		15905,
-		300,
-		2229,
-		"Creator Flamel",
-		"Creator_Flamel",
-		160,
-		5439751,
-	},
-
-	{
-		"lhz_dun04",
-		15906,
-		300,
-		2230,
-		"Professor Celia",
-		"Professor_Celia",
-		160,
-		4456711,
-	},
-
-	{
-		"lhz_dun04",
-		15907,
-		300,
-		2231,
-		"Champion Chen",
-		"Champion_Chen",
-		160,
-		5308679,
-	},
-
-	{
-		"lhz_dun04",
-		15908,
-		300,
-		2232,
-		"Stalker Gertie",
-		"Stalker_Gertie",
-		160,
-		5570823,
-	},
-
-	{
-		"lhz_dun04",
-		15909,
-		300,
-		2233,
-		"Clown Alphoccio",
-		"Clown_Alphoccio",
-		160,
-		5505287,
-	},
-
-	{
-		"lhz_dun04",
-		15910,
-		300,
-		2234,
-		"Gypsy Tretini",
-		"Gypsy_Tretini",
-		160,
-		5505287,
+		5374215
 	},
 
 	{
 		"lhz_fild01",
-		16282,
+		16226,
 		300,
 		1162,
 		"Rafflesia",
-		"Rafflesia",
+		"RAFFLESIA",
 		86,
-		1441795,
+		1441795
 	},
 
 	{
 		"lhz_fild01",
-		16283,
+		16227,
 		300,
 		1215,
 		"Stem Worm",
-		"Stem Worm",
+		"STEM_WORM",
 		84,
-		1573123,
+		1573123
 	},
 
 	{
 		"lhz_fild01",
-		16284,
+		16228,
 		300,
 		1613,
 		"Metaling",
-		"Metaling",
+		"METALING",
 		81,
-		1310720,
+		1310720
 	},
 
 	{
 		"lhz_fild01",
-		17628,
+		17563,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"lhz_fild01",
-		17629,
+		17564,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"lhz_fild01",
-		17630,
+		17565,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"lhz_fild02",
-		16285,
+		16229,
 		300,
 		1215,
 		"Stem Worm",
-		"Stem Worm",
+		"STEM_WORM",
 		84,
-		1573123,
+		1573123
 	},
 
 	{
 		"lhz_fild02",
-		16286,
+		16230,
 		300,
 		1692,
 		"Breeze",
-		"Breeze",
+		"BREEZE",
 		92,
-		4194560,
+		4194560
 	},
 
 	{
 		"lhz_fild02",
-		16287,
+		16231,
 		300,
 		1162,
 		"Rafflesia",
-		"Rafflesia",
+		"RAFFLESIA",
 		86,
-		1441795,
+		1441795
 	},
 
 	{
 		"lhz_fild02",
-		16288,
+		16232,
 		300,
 		1613,
 		"Metaling",
-		"Metaling",
+		"METALING",
 		81,
-		1310720,
+		1310720
 	},
 
 	{
 		"lhz_fild02",
-		17427,
+		17361,
 		300,
 		1378,
 		"Demon Pungus",
-		"Demon_Pungus",
+		"DEMON_PUNGUS",
 		91,
-		4259846,
+		4259846
 	},
 
 	{
 		"lhz_fild02",
-		17631,
+		17566,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"lhz_fild02",
-		17632,
+		17567,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"lhz_fild03",
-		16289,
+		16233,
 		300,
 		1692,
 		"Breeze",
-		"Breeze",
+		"BREEZE",
 		92,
-		4194560,
+		4194560
 	},
 
 	{
 		"lhz_fild03",
-		16290,
+		16234,
 		300,
 		1215,
 		"Stem Worm",
-		"Stem Worm",
+		"STEM_WORM",
 		84,
-		1573123,
+		1573123
 	},
 
 	{
 		"lhz_fild03",
-		16291,
+		16235,
 		300,
 		1162,
 		"Rafflesia",
-		"Rafflesia",
+		"RAFFLESIA",
 		86,
-		1441795,
+		1441795
 	},
 
 	{
 		"lhz_fild03",
-		16292,
+		16236,
 		300,
 		1613,
 		"Metaling",
-		"Metaling",
+		"METALING",
 		81,
-		1310720,
+		1310720
 	},
 
 	{
 		"lhz_fild03",
-		17428,
+		17362,
 		300,
 		1378,
 		"Demon Pungus",
-		"Demon_Pungus",
+		"DEMON_PUNGUS",
 		91,
-		4259846,
+		4259846
 	},
 
 	{
 		"lhz_fild03",
-		17633,
+		17568,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"lhz_fild03",
-		17634,
+		17569,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"lhz_in01",
-		12453,
+		12458,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"lou_dun01",
-		16738,
+		16684,
 		300,
 		1084,
 		"Black Mushroom",
-		"Black_Mushroom",
+		"BLACK_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"lou_dun01",
-		16739,
+		16685,
 		300,
 		1381,
 		"Grizzly",
-		"Grizzly",
+		"GRIZZLY",
 		66,
-		4129282,
+		4129282
 	},
 
 	{
 		"lou_dun01",
-		16740,
+		16686,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"lou_dun01",
-		16741,
+		16687,
 		300,
 		1037,
 		"Side Winder",
-		"Side_Winder",
+		"SIDE_WINDER",
 		70,
-		1638658,
+		1638658
 	},
 
 	{
 		"lou_dun01",
-		16742,
+		16688,
 		300,
 		1516,
 		"Increase Soil",
-		"Mi Gao",
+		"INCREASE_SOIL",
 		83,
-		4063488,
+		4063488
 	},
 
 	{
 		"lou_dun01",
-		16743,
+		16689,
 		300,
 		1517,
 		"Li Me Mang Ryang",
-		"Jing Guai",
+		"LI_ME_MANG_RYANG",
 		80,
-		4063494,
+		4063494
 	},
 
 	{
 		"lou_dun01",
-		16744,
+		16690,
 		300,
 		1129,
 		"Horong",
-		"Horong",
+		"HORONG",
 		66,
-		5439488,
+		5439488
+	},
+
+	{
+		"lou_dun01",
+		17246,
+		300,
+		1306,
+		"Leib Olmai",
+		"LEIB_OLMAI",
+		118,
+		1442306
 	},
 
 	{
 		"lou_dun02",
-		16745,
+		16691,
 		300,
 		1026,
 		"Munak",
-		"Munak",
+		"MUNAK",
 		58,
-		1900801,
+		1900801
 	},
 
 	{
 		"lou_dun02",
-		16746,
+		16692,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"lou_dun02",
-		16747,
+		16693,
 		300,
 		1514,
 		"Dancing Dragon",
-		"Zhu Po Long",
+		"DANCING_DRAGON",
 		82,
-		2883849,
+		2883849
 	},
 
 	{
 		"lou_dun02",
-		16748,
+		16694,
 		300,
 		1512,
 		"Hyegun",
-		"Yao Jun",
+		"HYEGUN",
 		87,
-		3211521,
+		3211521
 	},
 
 	{
 		"lou_dun03",
-		16749,
+		16695,
 		300,
 		1513,
 		"Civil Servant",
-		"Mao Guai",
+		"CIVIL_SERVANT",
 		89,
-		2883842,
+		2883842
 	},
 
 	{
 		"lou_dun03",
-		16750,
+		16696,
 		300,
 		1514,
 		"Dancing Dragon",
-		"Zhu Po Long",
+		"DANCING_DRAGON",
 		82,
-		2883849,
+		2883849
 	},
 
 	{
 		"lou_dun03",
-		16751,
+		16697,
 		300,
 		1631,
 		"Chung E",
-		"Green Maiden",
+		"CHUNG_E_",
 		82,
-		2883847,
+		2883847
 	},
 
 	{
 		"lou_dun03",
-		16752,
+		16698,
 		300,
 		1512,
 		"Hyegun",
-		"Yao Jun",
+		"HYEGUN",
 		87,
-		3211521,
+		3211521
 	},
 
 	{
 		"lou_dun03",
-		17273,
+		17219,
 		301,
 		1630,
 		"Bacsojin",
-		"White Lady",
+		"BACSOJIN_",
 		97,
-		4194823,
+		4194823
 	},
 
 	{
 		"lou_fild01",
-		16354,
+		16298,
 		300,
 		1516,
 		"Increase Soil",
-		"Mi Gao",
+		"INCREASE_SOIL",
 		83,
-		4063488,
+		4063488
 	},
 
 	{
 		"lou_fild01",
-		16355,
+		16299,
 		300,
 		1139,
 		"Mantis",
-		"Mantis",
+		"MANTIS",
 		65,
-		1442052,
+		1442052
 	},
 
 	{
 		"lou_fild01",
-		16356,
+		16300,
 		300,
 		1368,
 		"Geographer",
-		"Geographer",
+		"GEOGRAPHER",
 		73,
-		4063491,
+		4063491
 	},
 
 	{
 		"lou_fild01",
-		17643,
+		17578,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
-	},
-
-	{
-		"ma_dun01",
-		15894,
-		300,
-		2315,
-		"Wakwak",
-		"Wakwak",
-		111,
-		3080198,
-	},
-
-	{
-		"ma_dun01",
-		15895,
-		300,
-		2311,
-		"Manananggal",
-		"Manananggal",
-		107,
-		3080454,
-	},
-
-	{
-		"ma_dun01",
-		15896,
-		300,
-		2314,
-		"Tiyanak",
-		"Tiyanak",
-		105,
-		3080198,
-	},
-
-	{
-		"ma_fild01",
-		15886,
-		300,
-		2316,
-		"Jejeling",
-		"Jejeling",
-		100,
-		2753027,
-	},
-
-	{
-		"ma_fild01",
-		15887,
-		300,
-		2314,
-		"Tiyanak",
-		"Tiyanak",
-		105,
-		3080198,
-	},
-
-	{
-		"ma_fild01",
-		15888,
-		300,
-		2313,
-		"Tikbalang",
-		"Tikbalang",
-		115,
-		4194818,
-	},
-
-	{
-		"ma_fild02",
-		15889,
-		300,
-		2316,
-		"Jejeling",
-		"Jejeling",
-		100,
-		2753027,
-	},
-
-	{
-		"ma_fild02",
-		15890,
-		300,
-		2309,
-		"Bungisngis",
-		"Bungisngis",
-		121,
-		2753031,
-	},
-
-	{
-		"ma_fild02",
-		15891,
-		300,
-		2310,
-		"Engkanto",
-		"Engkanto",
-		125,
-		2621703,
-	},
-
-	{
-		"ma_fild02",
-		15892,
-		300,
-		2312,
-		"Mangkukulam",
-		"Mangkukulam",
-		110,
-		2621702,
-	},
-
-	{
-		"ma_fild02",
-		15893,
-		300,
-		2315,
-		"Wakwak",
-		"Wakwak",
-		111,
-		3080198,
+		1441795
 	},
 
 	{
 		"mag_dun01",
-		16836,
+		16782,
 		300,
 		1381,
 		"Grizzly",
-		"Grizzly",
+		"GRIZZLY",
 		66,
-		4129282,
+		4129282
 	},
 
 	{
 		"mag_dun01",
-		16837,
+		16783,
 		300,
 		1366,
 		"Lava Golem",
-		"Lava_Golem",
+		"LAVA_GOLEM",
 		103,
-		5440000,
+		5440000
 	},
 
 	{
 		"mag_dun01",
-		16838,
+		16784,
 		300,
 		1367,
 		"Blazer",
-		"Blazer",
+		"BLAZZER",
 		101,
-		2818310,
+		2818310
 	},
 
 	{
 		"mag_dun01",
-		16839,
+		16785,
 		300,
 		1383,
 		"Explosion",
-		"Explosion",
+		"EXPLOSION",
 		100,
-		4128770,
+		4128770
 	},
 
 	{
 		"mag_dun01",
-		16840,
+		16786,
 		300,
 		1072,
 		"Kaho",
-		"Kaho",
+		"KAHO",
 		98,
-		5439750,
+		5439750
 	},
 
 	{
 		"mag_dun02",
-		16841,
+		16787,
 		300,
 		1387,
 		"Gig",
-		"Gig",
+		"GIG",
 		100,
-		2818050,
+		2818050
 	},
 
 	{
 		"mag_dun02",
-		16842,
+		16788,
 		300,
 		1379,
 		"Nightmare Terror",
-		"Nightmare_Terror",
+		"NIGHTMARE_TERROR",
 		107,
-		4391430,
+		4391430
 	},
 
 	{
 		"mag_dun02",
-		16843,
+		16789,
 		300,
 		1382,
 		"Diabolic",
-		"Diabolic",
+		"DIABOLIC",
 		104,
-		3080198,
+		3080198
 	},
 
 	{
 		"mag_dun02",
-		16844,
+		16790,
 		300,
 		1384,
 		"Deleter",
-		"Deleter",
+		"DELETER",
 		105,
-		2818313,
+		2818313
 	},
 
 	{
 		"mag_dun02",
-		16846,
+		16792,
 		300,
 		1367,
 		"Blazer",
-		"Blazer",
+		"BLAZZER",
 		101,
-		2818310,
-	},
-
-	{
-		"mal_dun01",
-		15916,
-		300,
-		2199,
-		"Siorava",
-		"Siorava",
-		87,
-		1376256,
-	},
-
-	{
-		"mal_dun01",
-		15917,
-		300,
-		2197,
-		"Red Eruma",
-		"Red_Eruma",
-		91,
-		2687237,
-	},
-
-	{
-		"mal_dun01",
-		15918,
-		300,
-		2208,
-		"Wild Rider",
-		"Wild_Rider",
-		95,
-		2687493,
-	},
-
-	{
-		"mal_dun01",
-		15919,
-		300,
-		1074,
-		"Shellfish",
-		"Shellfish",
-		50,
-		1376261,
-	},
-
-	{
-		"mal_dun01",
-		15920,
-		300,
-		1073,
-		"Crab",
-		"Crab",
-		43,
-		1376261,
-	},
-
-	{
-		"mal_dun01",
-		15921,
-		300,
-		1266,
-		"Aster",
-		"Aster",
-		50,
-		1441797,
+		2818310
 	},
 
 	{
 		"man_fild01",
-		17240,
+		17186,
 		300,
 		1988,
 		"Nepenthes",
-		"Nepenthes",
+		"NEPENTHES",
 		114,
-		2949379,
+		2949379
 	},
 
 	{
 		"man_fild01",
-		17241,
+		17187,
 		300,
 		1989,
 		"Hillslion",
-		"Hillthrion",
+		"HILLSRION",
 		123,
-		1441794,
+		1441794
 	},
 
 	{
 		"man_fild01",
-		17242,
+		17188,
 		300,
 		1999,
 		"Centipede Larva",
-		"Centipede_Larva",
+		"CENTIPEDE_LARVA",
 		118,
-		1638404,
+		1638404
 	},
 
 	{
 		"man_fild01",
-		17243,
+		17189,
 		300,
 		1987,
 		"Centipede",
-		"Centipede",
+		"CENTIPEDE",
 		125,
-		2949380,
+		2949380
 	},
 
 	{
 		"man_fild02",
-		17232,
+		17178,
 		300,
 		2024,
 		"Bradium Golem",
-		"Bradium_Golem",
+		"BRADIUM_GOLEM",
 		133,
-		2753024,
+		2753024
 	},
 
 	{
 		"man_fild02",
-		17233,
+		17179,
 		300,
 		1987,
 		"Centipede",
-		"Centipede",
+		"CENTIPEDE",
 		125,
-		2949380,
+		2949380
 	},
 
 	{
 		"man_fild02",
-		17234,
+		17180,
 		300,
 		1986,
 		"Tatacho",
-		"Tatacho",
+		"TATACHO",
 		128,
-		1442050,
+		1442050
 	},
 
 	{
 		"man_fild03",
-		17244,
+		17190,
 		300,
 		1989,
 		"Hillslion",
-		"Hillthrion",
+		"HILLSRION",
 		123,
-		1441794,
+		1441794
 	},
 
 	{
 		"man_fild03",
-		17245,
+		17191,
 		300,
 		1986,
 		"Tatacho",
-		"Tatacho",
+		"TATACHO",
 		128,
-		1442050,
+		1442050
 	},
 
 	{
 		"man_fild03",
-		17246,
+		17192,
 		300,
 		1987,
 		"Centipede",
-		"Centipede",
+		"CENTIPEDE",
 		125,
-		2949380,
+		2949380
 	},
 
 	{
 		"man_fild03",
-		17247,
+		17193,
 		300,
 		1990,
 		"Hardrock Mammoth",
-		"Hardrock_Mammoth",
+		"HARDROCK_MOMMOTH",
 		137,
-		4063746,
+		4063746
 	},
 
 	{
 		"mjo_dun01",
-		16496,
+		16440,
 		300,
 		1145,
 		"Martin",
-		"Martin",
+		"MARTIN",
 		39,
-		2752514,
+		2752514
 	},
 
 	{
 		"mjo_dun01",
-		16497,
+		16441,
 		300,
 		1175,
 		"Tarou",
-		"Tarou",
+		"TAROU",
 		22,
-		1769474,
+		1769474
 	},
 
 	{
 		"mjo_dun01",
-		16498,
+		16442,
 		300,
 		1005,
 		"Familiar",
-		"Familiar",
+		"FARMILIAR",
 		24,
-		1769474,
+		1769474
 	},
 
 	{
 		"mjo_dun02",
-		16499,
+		16443,
 		300,
 		1121,
 		"Giearth",
-		"Giearth",
+		"GIEARTH",
 		42,
-		1441798,
+		1441798
 	},
 
 	{
 		"mjo_dun02",
-		16500,
+		16444,
 		300,
 		1111,
 		"Drainliar",
-		"Drainliar",
+		"DRAINLIAR",
 		47,
-		3080194,
+		3080194
 	},
 
 	{
 		"mjo_dun02",
-		16501,
+		16445,
 		300,
 		1145,
 		"Martin",
-		"Martin",
+		"MARTIN",
 		39,
-		2752514,
+		2752514
 	},
 
 	{
 		"mjo_dun02",
-		16502,
+		16446,
 		300,
 		1169,
 		"Skeleton Worker",
-		"Skeleton_Worker",
+		"SKEL_WORKER",
 		44,
-		1900801,
+		1900801
 	},
 
 	{
 		"mjo_dun03",
-		16503,
+		16447,
 		300,
 		1121,
 		"Giearth",
-		"Giearth",
+		"GIEARTH",
 		42,
-		1441798,
+		1441798
 	},
 
 	{
 		"mjo_dun03",
-		16504,
+		16448,
 		300,
 		1145,
 		"Martin",
-		"Martin",
+		"MARTIN",
 		39,
-		2752514,
+		2752514
 	},
 
 	{
 		"mjo_dun03",
-		16505,
+		16449,
 		300,
 		1151,
 		"Myst",
-		"Myst",
+		"MYST",
 		49,
-		1638912,
+		1638912
 	},
 
 	{
 		"mjo_dun03",
-		16506,
+		16450,
 		300,
 		1169,
 		"Skeleton Worker",
-		"Skeleton_Worker",
+		"SKEL_WORKER",
 		44,
-		1900801,
+		1900801
 	},
 
 	{
 		"mjo_dun03",
-		16507,
+		16451,
 		300,
 		1209,
 		"Cramp",
-		"Cramp",
+		"CRAMP",
 		82,
-		2949122,
+		2949122
 	},
 
 	{
 		"mjolnir_01",
-		16060,
+		16004,
 		300,
 		1174,
 		"Stainer",
-		"Stainer",
+		"STAINER",
 		21,
-		1572868,
+		1572868
 	},
 
 	{
 		"mjolnir_01",
-		16061,
+		16005,
 		300,
 		1018,
 		"Creamy",
-		"Creamy",
+		"CREAMY",
 		23,
-		1572868,
+		1572868
 	},
 
 	{
 		"mjolnir_01",
-		16062,
+		16006,
 		300,
 		1103,
 		"Caramel",
-		"Caramel",
+		"CARAMEL",
 		25,
-		1441794,
+		1441794
 	},
 
 	{
 		"mjolnir_01",
-		16063,
+		16007,
 		300,
 		1060,
 		"Bigfoot",
-		"Bigfoot",
+		"BIGFOOT",
 		29,
-		1442306,
+		1442306
 	},
 
 	{
 		"mjolnir_02",
-		16089,
+		16033,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"mjolnir_02",
-		16090,
+		16034,
 		300,
 		1128,
 		"Horn",
-		"Horn",
+		"HORN",
 		32,
-		1442052,
+		1442052
 	},
 
 	{
 		"mjolnir_02",
-		16091,
+		16035,
 		300,
 		1033,
 		"Elder Willow",
-		"Elder_Willow",
+		"ELDER_WILOW",
 		34,
-		2818307,
+		2818307
 	},
 
 	{
 		"mjolnir_02",
-		16092,
+		16036,
 		300,
 		1057,
 		"Yoyo",
-		"Yoyo",
+		"YOYO",
 		38,
-		1441794,
+		1441794
 	},
 
 	{
 		"mjolnir_03",
-		16185,
+		16129,
 		300,
 		1380,
 		"Driller",
-		"Driller",
+		"DRILLER",
 		65,
-		1442050,
+		1442050
 	},
 
 	{
 		"mjolnir_03",
-		16186,
+		16130,
 		300,
 		1139,
 		"Mantis",
-		"Mantis",
+		"MANTIS",
 		65,
-		1442052,
+		1442052
 	},
 
 	{
 		"mjolnir_03",
-		16187,
+		16131,
 		300,
 		1037,
 		"Side Winder",
-		"Side_Winder",
+		"SIDE_WINDER",
 		70,
-		1638658,
+		1638658
 	},
 
 	{
 		"mjolnir_04",
-		16188,
+		16132,
 		300,
 		1380,
 		"Driller",
-		"Driller",
+		"DRILLER",
 		65,
-		1442050,
+		1442050
 	},
 
 	{
 		"mjolnir_04",
-		16189,
+		16133,
 		300,
 		1139,
 		"Mantis",
-		"Mantis",
+		"MANTIS",
 		65,
-		1442052,
+		1442052
 	},
 
 	{
 		"mjolnir_04",
-		16190,
+		16134,
 		300,
 		1037,
 		"Side Winder",
-		"Side_Winder",
+		"SIDE_WINDER",
 		70,
-		1638658,
+		1638658
 	},
 
 	{
 		"mjolnir_04",
-		17274,
+		17220,
 		301,
 		1059,
 		"Mistress",
-		"Mistress",
+		"MISTRESS",
 		78,
-		5505028,
+		5505028
 	},
 
 	{
 		"mjolnir_05",
-		16191,
+		16135,
 		300,
 		1099,
 		"Argiope",
-		"Argiope",
+		"ARGIOPE",
 		75,
-		1638916,
+		1638916
 	},
 
 	{
 		"mjolnir_05",
-		16192,
+		16136,
 		300,
 		1139,
 		"Mantis",
-		"Mantis",
+		"MANTIS",
 		65,
-		1442052,
+		1442052
 	},
 
 	{
 		"mjolnir_05",
-		16193,
+		16137,
 		300,
 		1380,
 		"Driller",
-		"Driller",
+		"DRILLER",
 		65,
-		1442050,
+		1442050
 	},
 
 	{
 		"mjolnir_06",
-		16064,
+		16008,
 		300,
 		1018,
 		"Creamy",
-		"Creamy",
+		"CREAMY",
 		23,
-		1572868,
+		1572868
 	},
 
 	{
 		"mjolnir_06",
-		16065,
+		16009,
 		300,
 		1077,
 		"Poison Spore",
-		"Poison_Spore",
+		"POISON_SPORE",
 		26,
-		1638659,
+		1638659
 	},
 
 	{
 		"mjolnir_06",
-		16066,
+		16010,
 		300,
 		1056,
 		"Smokie",
-		"Smokie",
+		"SMOKIE",
 		29,
-		1441794,
+		1441794
 	},
 
 	{
 		"mjolnir_06",
-		17502,
+		17437,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"mjolnir_07",
-		16149,
+		16093,
 		300,
 		1494,
 		"Beetle King",
-		"Beetle_King",
+		"KIND_OF_BEETLE",
 		55,
-		1441796,
+		1441796
 	},
 
 	{
 		"mjolnir_07",
-		16150,
+		16094,
 		300,
 		1166,
 		"Savage",
-		"Savage",
+		"SAVAGE",
 		59,
-		2753026,
+		2753026
 	},
 
 	{
 		"mjolnir_07",
-		16151,
+		16095,
 		300,
 		1118,
 		"Flora",
-		"Flora",
+		"FLORA",
 		59,
-		1442307,
+		1442307
 	},
 
 	{
 		"mjolnir_07",
-		17510,
+		17445,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"mjolnir_08",
-		16152,
+		16096,
 		300,
 		1494,
 		"Beetle King",
-		"Beetle_King",
+		"KIND_OF_BEETLE",
 		55,
-		1441796,
+		1441796
 	},
 
 	{
 		"mjolnir_08",
-		16153,
+		16097,
 		300,
 		1166,
 		"Savage",
-		"Savage",
+		"SAVAGE",
 		59,
-		2753026,
+		2753026
 	},
 
 	{
 		"mjolnir_08",
-		16154,
+		16098,
 		300,
 		1118,
 		"Flora",
-		"Flora",
+		"FLORA",
 		59,
-		1442307,
+		1442307
 	},
 
 	{
 		"mjolnir_09",
-		16038,
+		15982,
 		300,
 		1010,
 		"Willow",
-		"Willow",
+		"WILOW",
 		8,
-		1442051,
+		1442051
 	},
 
 	{
 		"mjolnir_09",
-		16039,
+		15983,
 		300,
 		1004,
 		"Hornet",
-		"Hornet",
+		"HORNET",
 		11,
-		1572868,
+		1572868
 	},
 
 	{
 		"mjolnir_09",
-		16040,
+		15984,
 		300,
 		1167,
 		"Savage Babe",
-		"Savage_Babe",
+		"SAVAGE_BABE",
 		14,
-		1441794,
+		1441794
 	},
 
 	{
 		"mjolnir_09",
-		17512,
+		17447,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"mjolnir_10",
-		16112,
+		16056,
 		300,
 		1494,
 		"Beetle King",
-		"Beetle_King",
+		"KIND_OF_BEETLE",
 		55,
-		1441796,
+		1441796
 	},
 
 	{
 		"mjolnir_10",
-		16113,
+		16057,
 		300,
 		1118,
 		"Flora",
-		"Flora",
+		"FLORA",
 		59,
-		1442307,
+		1442307
 	},
 
 	{
 		"mjolnir_10",
-		16114,
+		16058,
 		300,
 		1100,
 		"Argos",
-		"Argos",
+		"ARGOS",
 		47,
-		1638916,
+		1638916
 	},
 
 	{
 		"mjolnir_11",
-		16194,
+		16138,
 		300,
 		1099,
 		"Argiope",
-		"Argiope",
+		"ARGIOPE",
 		75,
-		1638916,
+		1638916
 	},
 
 	{
 		"mjolnir_11",
-		16195,
+		16139,
 		300,
 		1100,
 		"Argos",
-		"Argos",
+		"ARGOS",
 		47,
-		1638916,
+		1638916
 	},
 
 	{
 		"mjolnir_11",
-		16196,
+		16140,
 		300,
 		1118,
 		"Flora",
-		"Flora",
+		"FLORA",
 		59,
-		1442307,
+		1442307
 	},
 
 	{
 		"mjolnir_12",
-		16182,
+		16126,
 		300,
 		1114,
 		"Dustiness",
-		"Dustiness",
+		"DUSTINESS",
 		62,
-		2883588,
+		2883588
 	},
 
 	{
 		"mjolnir_12",
-		16183,
+		16127,
 		300,
 		1035,
 		"Hunter Fly",
-		"Hunter_Fly",
+		"HUNTER_FLY",
 		63,
-		2883588,
+		2883588
 	},
 
 	{
 		"mjolnir_12",
-		16184,
+		16128,
 		300,
 		1139,
 		"Mantis",
-		"Mantis",
+		"MANTIS",
 		65,
-		1442052,
+		1442052
 	},
 
 	{
 		"moc_fild01",
-		16075,
-		300,
-		1055,
-		"Muka",
-		"Muka",
-		23,
-		1442307,
-	},
-
-	{
-		"moc_fild01",
-		16076,
-		300,
-		1047,
-		"Peco Peco Egg",
-		"Peco_Peco_Egg",
-		7,
-		3932160,
-	},
-
-	{
-		"moc_fild01",
-		16077,
-		300,
-		1019,
-		"Peco Peco",
-		"Peco_Peco",
-		25,
-		1507842,
-	},
-
-	{
-		"moc_fild01",
-		17720,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"moc_fild02",
-		16078,
-		300,
-		1055,
-		"Muka",
-		"Muka",
-		23,
-		1442307,
-	},
-
-	{
-		"moc_fild02",
-		16079,
-		300,
-		1047,
-		"Peco Peco Egg",
-		"Peco_Peco_Egg",
-		7,
-		3932160,
-	},
-
-	{
-		"moc_fild02",
-		16080,
-		300,
-		1019,
-		"Peco Peco",
-		"Peco_Peco",
-		25,
-		1507842,
-	},
-
-	{
-		"moc_fild02",
-		17721,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"moc_fild02",
-		17728,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"moc_fild03",
-		16141,
-		300,
-		1013,
-		"Wolf",
-		"Wolf",
-		45,
-		1442050,
-	},
-
-	{
-		"moc_fild03",
-		16142,
-		300,
-		1100,
-		"Argos",
-		"Argos",
-		47,
-		1638916,
-	},
-
-	{
-		"moc_fild03",
-		16143,
-		300,
-		1042,
-		"Steel Chonchon",
-		"Steel_Chonchon",
-		48,
-		1572868,
-	},
-
-	{
-		"moc_fild03",
-		17744,
-		300,
-		1080,
-		"Green Plant",
-		"Green_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"moc_fild07",
-		16014,
-		300,
-		1113,
-		"Drops",
-		"Drops",
-		2,
-		1507587,
-	},
-
-	{
-		"moc_fild07",
-		16015,
-		300,
-		1011,
-		"Chonchon",
-		"Chonchon",
-		5,
-		1572868,
-	},
-
-	{
-		"moc_fild07",
-		16016,
-		300,
-		1047,
-		"Peco Peco Egg",
-		"Peco_Peco_Egg",
-		7,
-		3932160,
-	},
-
-	{
-		"moc_fild07",
-		16017,
-		300,
-		1049,
-		"Picky",
-		"Picky",
-		9,
-		1507330,
-	},
-
-	{
-		"moc_fild07",
-		16018,
-		300,
-		1050,
-		"Picky",
-		"Picky_",
-		10,
-		1507330,
-	},
-
-	{
-		"moc_fild07",
-		17719,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"moc_fild11",
-		16045,
-		300,
-		1009,
-		"Condor",
-		"Condor",
-		12,
-		1573122,
-	},
-
-	{
-		"moc_fild11",
-		16046,
-		300,
-		1107,
-		"Desert Wolf Baby",
-		"Baby Desert Wolf",
-		14,
-		1507330,
-	},
-
-	{
-		"moc_fild11",
-		16047,
-		300,
-		1001,
-		"Scorpion",
-		"Scorpion",
-		16,
-		1507332,
-	},
-
-	{
-		"moc_fild12",
 		16019,
 		300,
-		1113,
-		"Drops",
-		"Drops",
-		2,
-		1507587,
+		1055,
+		"Muka",
+		"MUKA",
+		23,
+		1442307
 	},
 
 	{
-		"moc_fild12",
+		"moc_fild01",
 		16020,
 		300,
 		1047,
 		"Peco Peco Egg",
-		"Peco_Peco_Egg",
+		"PECOPECO_EGG",
 		7,
-		3932160,
+		3932160
 	},
 
 	{
-		"moc_fild12",
+		"moc_fild01",
 		16021,
 		300,
-		1049,
-		"Picky",
-		"Picky",
-		9,
-		1507330,
+		1019,
+		"Peco Peco",
+		"PECOPECO",
+		25,
+		1507842
 	},
 
 	{
-		"moc_fild12",
-		16022,
-		300,
-		1050,
-		"Picky",
-		"Picky_",
-		10,
-		1507330,
-	},
-
-	{
-		"moc_fild12",
-		16023,
-		300,
-		1009,
-		"Condor",
-		"Condor",
-		12,
-		1573122,
-	},
-
-	{
-		"moc_fild12",
-		17751,
+		"moc_fild01",
+		17655,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
-		"moc_fild13",
-		16144,
+		"moc_fild02",
+		16022,
+		300,
+		1055,
+		"Muka",
+		"MUKA",
+		23,
+		1442307
+	},
+
+	{
+		"moc_fild02",
+		16023,
+		300,
+		1047,
+		"Peco Peco Egg",
+		"PECOPECO_EGG",
+		7,
+		3932160
+	},
+
+	{
+		"moc_fild02",
+		16024,
+		300,
+		1019,
+		"Peco Peco",
+		"PECOPECO",
+		25,
+		1507842
+	},
+
+	{
+		"moc_fild02",
+		17656,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"moc_fild02",
+		17663,
+		300,
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"moc_fild03",
+		16085,
 		300,
 		1013,
 		"Wolf",
-		"Wolf",
+		"WOLF",
 		45,
-		1442050,
+		1442050
 	},
 
 	{
-		"moc_fild13",
-		16145,
+		"moc_fild03",
+		16086,
 		300,
 		1100,
 		"Argos",
-		"Argos",
+		"ARGOS",
 		47,
-		1638916,
+		1638916
 	},
 
 	{
-		"moc_fild13",
-		16146,
+		"moc_fild03",
+		16087,
 		300,
 		1042,
 		"Steel Chonchon",
-		"Steel_Chonchon",
+		"STEEL_CHONCHON",
 		48,
-		1572868,
+		1572868
 	},
 
 	{
-		"moc_fild13",
-		16147,
+		"moc_fild03",
+		17679,
 		300,
-		1058,
-		"Metaller",
-		"Metaller",
-		55,
-		1507588,
-	},
-
-	{
-		"moc_fild13",
-		16148,
-		300,
-		1138,
-		"Magnolia",
-		"Magnolia",
-		53,
-		1376262,
-	},
-
-	{
-		"moc_fild13",
-		17489,
-		300,
-		1085,
-		"Red Mushroom",
-		"Red_Mushroom",
+		1080,
+		"Green Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
-		"moc_fild13",
-		17735,
+		"moc_fild07",
+		15958,
+		300,
+		1113,
+		"Drops",
+		"DROPS",
+		2,
+		1507587
+	},
+
+	{
+		"moc_fild07",
+		15959,
+		300,
+		1011,
+		"Chonchon",
+		"CHONCHON",
+		5,
+		1572868
+	},
+
+	{
+		"moc_fild07",
+		15960,
+		300,
+		1047,
+		"Peco Peco Egg",
+		"PECOPECO_EGG",
+		7,
+		3932160
+	},
+
+	{
+		"moc_fild07",
+		15961,
+		300,
+		1049,
+		"Picky",
+		"PICKY",
+		9,
+		1507330
+	},
+
+	{
+		"moc_fild07",
+		15962,
+		300,
+		1050,
+		"Picky",
+		"PICKY_",
+		10,
+		1507330
+	},
+
+	{
+		"moc_fild07",
+		17654,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
-		"moc_fild16",
-		16176,
-		300,
-		1119,
-		"Frilldora",
-		"Frilldora",
-		57,
-		1507586,
-	},
-
-	{
-		"moc_fild16",
-		16177,
-		300,
-		1165,
-		"Sandman",
-		"Sandman",
-		61,
-		4063488,
-	},
-
-	{
-		"moc_fild16",
-		16178,
-		300,
-		1127,
-		"Hode",
-		"Hode",
-		63,
-		2752770,
-	},
-
-	{
-		"moc_fild17",
-		16179,
-		300,
-		1119,
-		"Frilldora",
-		"Frilldora",
-		57,
-		1507586,
-	},
-
-	{
-		"moc_fild17",
-		16180,
-		300,
-		1165,
-		"Sandman",
-		"Sandman",
-		61,
-		4063488,
-	},
-
-	{
-		"moc_fild17",
-		16181,
-		300,
-		1127,
-		"Hode",
-		"Hode",
-		63,
-		2752770,
-	},
-
-	{
-		"moc_fild17",
-		17275,
-		301,
-		1159,
-		"Phreeoni",
-		"Phreeoni",
-		71,
-		3932674,
-	},
-
-	{
-		"moc_fild17",
-		17760,
-		300,
-		1081,
-		"Yellow Plant",
-		"Yellow_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"moc_fild17",
-		17763,
-		300,
-		1079,
-		"Blue Plant",
-		"Blue_Plant",
-		1,
-		1441795,
-	},
-
-	{
-		"moc_fild18",
-		16048,
+		"moc_fild11",
+		15989,
 		300,
 		1009,
 		"Condor",
-		"Condor",
+		"CONDOR",
 		12,
-		1573122,
+		1573122
 	},
 
 	{
-		"moc_fild18",
-		16049,
+		"moc_fild11",
+		15990,
 		300,
 		1107,
 		"Desert Wolf Baby",
-		"Baby Desert Wolf",
+		"DESERT_WOLF_B",
 		14,
-		1507330,
+		1507330
 	},
 
 	{
-		"moc_fild18",
-		16050,
+		"moc_fild11",
+		15991,
 		300,
 		1001,
 		"Scorpion",
-		"Scorpion",
+		"SCORPION",
 		16,
-		1507332,
+		1507332
 	},
 
 	{
-		"moc_fild18",
-		17545,
+		"moc_fild12",
+		15963,
 		300,
-		1091,
-		"Dragon Fly",
-		"Dragon_Fly",
-		47,
-		1572868,
+		1113,
+		"Drops",
+		"DROPS",
+		2,
+		1507587
 	},
 
 	{
-		"moc_fild18",
-		17752,
+		"moc_fild12",
+		15964,
+		300,
+		1047,
+		"Peco Peco Egg",
+		"PECOPECO_EGG",
+		7,
+		3932160
+	},
+
+	{
+		"moc_fild12",
+		15965,
+		300,
+		1049,
+		"Picky",
+		"PICKY",
+		9,
+		1507330
+	},
+
+	{
+		"moc_fild12",
+		15966,
+		300,
+		1050,
+		"Picky",
+		"PICKY_",
+		10,
+		1507330
+	},
+
+	{
+		"moc_fild12",
+		15967,
+		300,
+		1009,
+		"Condor",
+		"CONDOR",
+		12,
+		1573122
+	},
+
+	{
+		"moc_fild12",
+		17686,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
+	},
+
+	{
+		"moc_fild13",
+		16088,
+		300,
+		1013,
+		"Wolf",
+		"WOLF",
+		45,
+		1442050
+	},
+
+	{
+		"moc_fild13",
+		16089,
+		300,
+		1100,
+		"Argos",
+		"ARGOS",
+		47,
+		1638916
+	},
+
+	{
+		"moc_fild13",
+		16090,
+		300,
+		1042,
+		"Steel Chonchon",
+		"STEEL_CHONCHON",
+		48,
+		1572868
+	},
+
+	{
+		"moc_fild13",
+		16091,
+		300,
+		1058,
+		"Metaller",
+		"METALLER",
+		55,
+		1507588
+	},
+
+	{
+		"moc_fild13",
+		16092,
+		300,
+		1138,
+		"Magnolia",
+		"MAGNOLIA",
+		53,
+		1376262
+	},
+
+	{
+		"moc_fild13",
+		17424,
+		300,
+		1085,
+		"Red Mushroom",
+		"RED_MUSHROOM",
+		1,
+		1441795
+	},
+
+	{
+		"moc_fild13",
+		17670,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"moc_fild16",
+		16120,
+		300,
+		1119,
+		"Frilldora",
+		"FRILLDORA",
+		57,
+		1507586
+	},
+
+	{
+		"moc_fild16",
+		16121,
+		300,
+		1165,
+		"Sandman",
+		"SAND_MAN",
+		61,
+		4063488
+	},
+
+	{
+		"moc_fild16",
+		16122,
+		300,
+		1127,
+		"Hode",
+		"HODE",
+		63,
+		2752770
+	},
+
+	{
+		"moc_fild17",
+		16123,
+		300,
+		1119,
+		"Frilldora",
+		"FRILLDORA",
+		57,
+		1507586
+	},
+
+	{
+		"moc_fild17",
+		16124,
+		300,
+		1165,
+		"Sandman",
+		"SAND_MAN",
+		61,
+		4063488
+	},
+
+	{
+		"moc_fild17",
+		16125,
+		300,
+		1127,
+		"Hode",
+		"HODE",
+		63,
+		2752770
+	},
+
+	{
+		"moc_fild17",
+		17221,
+		301,
+		1159,
+		"Phreeoni",
+		"PHREEONI",
+		71,
+		3932674
+	},
+
+	{
+		"moc_fild17",
+		17695,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"moc_fild17",
+		17698,
+		300,
+		1079,
+		"Blue Plant",
+		"BLUE_PLANT",
+		1,
+		1441795
+	},
+
+	{
+		"moc_fild18",
+		15992,
+		300,
+		1009,
+		"Condor",
+		"CONDOR",
+		12,
+		1573122
+	},
+
+	{
+		"moc_fild18",
+		15993,
+		300,
+		1107,
+		"Desert Wolf Baby",
+		"DESERT_WOLF_B",
+		14,
+		1507330
+	},
+
+	{
+		"moc_fild18",
+		15994,
+		300,
+		1001,
+		"Scorpion",
+		"SCORPION",
+		16,
+		1507332
+	},
+
+	{
+		"moc_fild18",
+		17480,
+		300,
+		1091,
+		"Dragon Fly",
+		"DRAGON_FLY",
+		47,
+		1572868
+	},
+
+	{
+		"moc_fild18",
+		17687,
+		300,
+		1081,
+		"Yellow Plant",
+		"YELLOW_PLANT",
+		1,
+		1441795
 	},
 
 	{
 		"moc_fild20",
-		17432,
+		17367,
 		300,
 		1918,
 		"Incarnation of Morroc",
-		"Incarnation_of_Morroc_1",
+		"MOROCC_1",
 		132,
-		1769992,
+		1769992
 	},
 
 	{
 		"moc_fild20",
-		17435,
+		17370,
 		300,
 		1919,
 		"Incarnation of Morroc",
-		"Incarnation_of_Morroc_2",
+		"MOROCC_2",
 		132,
-		4391174,
+		4391174
 	},
 
 	{
 		"moc_fild20",
-		17438,
+		17373,
 		300,
 		1920,
 		"Incarnation of Morroc",
-		"Incarnation_of_Morroc_3",
+		"MOROCC_3",
 		133,
-		4522246,
+		4522246
 	},
 
 	{
 		"moc_fild20",
-		17441,
+		17376,
 		300,
 		1921,
 		"Incarnation of Morroc",
-		"Incarnation_of_Morroc_4",
+		"MOROCC_4",
 		134,
-		4456710,
+		4456710
 	},
 
 	{
 		"moc_fild21",
-		17433,
+		17368,
 		300,
 		1918,
 		"Incarnation of Morroc",
-		"Incarnation_of_Morroc_1",
+		"MOROCC_1",
 		132,
-		1769992,
+		1769992
 	},
 
 	{
 		"moc_fild21",
-		17436,
+		17371,
 		300,
 		1919,
 		"Incarnation of Morroc",
-		"Incarnation_of_Morroc_2",
+		"MOROCC_2",
 		132,
-		4391174,
+		4391174
 	},
 
 	{
 		"moc_fild21",
-		17439,
+		17374,
 		300,
 		1920,
 		"Incarnation of Morroc",
-		"Incarnation_of_Morroc_3",
+		"MOROCC_3",
 		133,
-		4522246,
+		4522246
 	},
 
 	{
 		"moc_fild21",
-		17442,
+		17377,
 		300,
 		1921,
 		"Incarnation of Morroc",
-		"Incarnation_of_Morroc_4",
+		"MOROCC_4",
 		134,
-		4456710,
+		4456710
 	},
 
 	{
 		"moc_fild22",
-		17431,
+		17366,
 		301,
 		1917,
 		"Wounded Morroc",
-		"Morroc_",
+		"MOROCC_",
 		151,
-		5702150,
+		5702150
 	},
 
 	{
 		"moc_fild22",
-		17434,
+		17369,
 		300,
 		1918,
 		"Incarnation of Morroc",
-		"Incarnation_of_Morroc_1",
+		"MOROCC_1",
 		132,
-		1769992,
+		1769992
 	},
 
 	{
 		"moc_fild22",
-		17437,
+		17372,
 		300,
 		1919,
 		"Incarnation of Morroc",
-		"Incarnation_of_Morroc_2",
+		"MOROCC_2",
 		132,
-		4391174,
+		4391174
 	},
 
 	{
 		"moc_fild22",
-		17440,
+		17375,
 		300,
 		1920,
 		"Incarnation of Morroc",
-		"Incarnation_of_Morroc_3",
+		"MOROCC_3",
 		133,
-		4522246,
+		4522246
 	},
 
 	{
 		"moc_fild22",
-		17443,
+		17378,
 		300,
 		1921,
 		"Incarnation of Morroc",
-		"Incarnation_of_Morroc_4",
+		"MOROCC_4",
 		134,
-		4456710,
+		4456710
 	},
 
 	{
 		"moc_pryd01",
-		16535,
+		16479,
 		300,
 		1005,
 		"Familiar",
-		"Familiar",
+		"FARMILIAR",
 		24,
-		1769474,
+		1769474
 	},
 
 	{
 		"moc_pryd01",
-		16536,
+		16480,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"moc_pryd02",
-		16537,
+		16481,
 		300,
 		1111,
 		"Drainliar",
-		"Drainliar",
+		"DRAINLIAR",
 		47,
-		3080194,
+		3080194
 	},
 
 	{
 		"moc_pryd02",
-		16538,
+		16482,
 		300,
 		1041,
 		"Mummy",
-		"Mummy",
+		"MUMMY",
 		55,
-		3211521,
+		3211521
 	},
 
 	{
 		"moc_pryd02",
-		16539,
+		16483,
 		300,
 		1028,
 		"Soldier Skeleton",
-		"Soldier_Skeleton",
+		"SOLDIER_SKELETON",
 		34,
-		1900801,
+		1900801
 	},
 
 	{
 		"moc_pryd02",
-		16540,
+		16484,
 		300,
 		1016,
 		"Archer Skeleton",
-		"Archer_Skeleton",
+		"ARCHER_SKELETON",
 		50,
-		1900801,
+		1900801
 	},
 
 	{
 		"moc_pryd02",
-		16541,
+		16485,
 		300,
 		1029,
 		"Isis",
-		"Isis",
+		"ISIS",
 		59,
-		1769990,
+		1769990
 	},
 
 	{
 		"moc_pryd02",
-		16542,
+		16486,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"moc_pryd03",
-		16543,
+		16487,
 		300,
 		1111,
 		"Drainliar",
-		"Drainliar",
+		"DRAINLIAR",
 		47,
-		3080194,
+		3080194
 	},
 
 	{
 		"moc_pryd03",
-		16544,
+		16488,
 		300,
 		1146,
 		"Matyr",
-		"Matyr",
+		"MATYR",
 		58,
-		1769730,
+		1769730
 	},
 
 	{
 		"moc_pryd03",
-		16545,
+		16489,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"moc_pryd03",
-		16546,
+		16490,
 		300,
 		1041,
 		"Mummy",
-		"Mummy",
+		"MUMMY",
 		55,
-		3211521,
+		3211521
 	},
 
 	{
 		"moc_pryd03",
-		16547,
+		16491,
 		300,
 		1032,
 		"Verit",
-		"Verit",
+		"VERIT",
 		52,
-		1900801,
+		1900801
 	},
 
 	{
 		"moc_pryd04",
-		16548,
+		16492,
 		300,
 		1146,
 		"Matyr",
-		"Matyr",
+		"MATYR",
 		58,
-		1769730,
+		1769730
 	},
 
 	{
 		"moc_pryd04",
-		16549,
+		16493,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"moc_pryd04",
-		16550,
+		16494,
 		300,
 		1041,
 		"Mummy",
-		"Mummy",
+		"MUMMY",
 		55,
-		3211521,
+		3211521
 	},
 
 	{
 		"moc_pryd04",
-		16551,
+		16495,
 		300,
 		1297,
 		"Ancient Mummy",
-		"Ancient_Mummy",
+		"ANCIENT_MUMMY",
 		114,
-		3211521,
+		3211521
 	},
 
 	{
 		"moc_pryd04",
-		16552,
+		16496,
 		300,
 		1029,
 		"Isis",
-		"Isis",
+		"ISIS",
 		59,
-		1769990,
+		1769990
 	},
 
 	{
 		"moc_pryd04",
-		17276,
+		17222,
 		301,
 		1038,
 		"Osiris",
-		"Osiris",
+		"OSIRIS",
 		68,
-		5832961,
+		5832961
 	},
 
 	{
 		"moc_pryd05",
-		16914,
+		16860,
 		300,
 		1149,
 		"Minorous",
-		"Minorous",
+		"MINOROUS",
 		58,
-		2818562,
+		2818562
 	},
 
 	{
 		"moc_pryd05",
-		16915,
+		16861,
 		300,
 		1041,
 		"Mummy",
-		"Mummy",
+		"MUMMY",
 		55,
-		3211521,
+		3211521
 	},
 
 	{
 		"moc_pryd05",
-		16916,
+		16862,
 		300,
 		1032,
 		"Verit",
-		"Verit",
+		"VERIT",
 		52,
-		1900801,
+		1900801
 	},
 
 	{
 		"moc_pryd06",
-		16917,
+		16863,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"moc_pryd06",
-		16918,
+		16864,
 		300,
 		1032,
 		"Verit",
-		"Verit",
+		"VERIT",
 		52,
-		1900801,
+		1900801
 	},
 
 	{
 		"moc_pryd06",
-		16919,
+		16865,
 		300,
 		1194,
 		"Arclouse",
-		"Arclouze",
+		"ARCLOUSE",
 		107,
-		2752772,
+		2752772
 	},
 
 	{
 		"moc_pryd06",
-		16920,
+		16866,
 		300,
 		1297,
 		"Ancient Mummy",
-		"Ancient_Mummy",
+		"ANCIENT_MUMMY",
 		114,
-		3211521,
+		3211521
 	},
 
 	{
 		"moc_pryd06",
-		17277,
+		17223,
 		301,
 		1511,
 		"Amon Ra",
-		"Amon_Ra",
+		"AMON_RA",
 		69,
-		4063751,
-	},
-
-	{
-		"moc_prydn1",
-		15878,
-		300,
-		2353,
-		"Minorous",
-		"N_MINOROUS",
-		121,
-		2818562,
-	},
-
-	{
-		"moc_prydn1",
-		15879,
-		300,
-		2354,
-		"Mummy",
-		"N_MUMMY",
-		117,
-		3211521,
-	},
-
-	{
-		"moc_prydn1",
-		15880,
-		300,
-		2355,
-		"Verit",
-		"N_VERIT",
-		115,
-		1900801,
-	},
-
-	{
-		"moc_prydn2",
-		15881,
-		300,
-		2356,
-		"Mimic",
-		"N_MIMIC",
-		137,
-		3932416,
-	},
-
-	{
-		"moc_prydn2",
-		15882,
-		300,
-		2355,
-		"Verit",
-		"N_VERIT",
-		115,
-		1900801,
-	},
-
-	{
-		"moc_prydn2",
-		15883,
-		300,
-		2358,
-		"Arclouse",
-		"N_ARCLOUSE",
-		134,
-		2752772,
-	},
-
-	{
-		"moc_prydn2",
-		15884,
-		300,
-		2360,
-		"Ancient Mummy",
-		"N_ANCIENT_MUMMY",
-		141,
-		3211521,
-	},
-
-	{
-		"moc_prydn2",
-		15885,
-		301,
-		2362,
-		"Amon Ra",
-		"N_AMON_RA",
-		145,
-		4063751,
+		4063751
 	},
 
 	{
 		"monk_test",
-		18730,
+		18665,
 		300,
 		1015,
 		"Zombie",
-		"Zombie",
+		"ZOMBIE",
 		17,
-		1900801,
+		1900801
 	},
 
 	{
 		"mosk_dun01",
-		16753,
+		16699,
 		300,
 		1881,
 		"Les",
-		"Les",
+		"LES",
 		82,
-		5374211,
+		5374211
 	},
 
 	{
 		"mosk_dun01",
-		16754,
+		16700,
 		300,
 		1139,
 		"Mantis",
-		"Mantis",
+		"MANTIS",
 		65,
-		1442052,
+		1442052
 	},
 
 	{
 		"mosk_dun01",
-		16755,
+		16701,
 		300,
 		1880,
 		"Wood Goblin",
-		"Wood_Goblin",
+		"WOOD_GOBLIN",
 		81,
-		4063491,
+		4063491
 	},
 
 	{
 		"mosk_dun01",
-		16756,
+		16702,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"mosk_dun02",
-		16757,
+		16703,
 		300,
 		1881,
 		"Les",
-		"Les",
+		"LES",
 		82,
-		5374211,
+		5374211
 	},
 
 	{
 		"mosk_dun02",
-		16758,
+		16704,
 		300,
 		1882,
 		"Baba Yaga",
-		"Baba-Yaga",
+		"VAVAYAGA",
 		87,
-		1376519,
+		1376519
 	},
 
 	{
 		"mosk_dun02",
-		16759,
+		16705,
 		300,
 		1880,
 		"Wood Goblin",
-		"Wood_Goblin",
+		"WOOD_GOBLIN",
 		81,
-		4063491,
+		4063491
 	},
 
 	{
 		"mosk_dun02",
-		16760,
+		16706,
 		300,
 		1883,
 		"Uzhas",
-		"Uzhas",
+		"UZHAS",
 		85,
-		3997959,
+		3997959
 	},
 
 	{
 		"mosk_dun03",
-		16761,
+		16707,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"mosk_dun03",
-		16762,
+		16708,
 		300,
 		1884,
 		"Mavka",
-		"Mavka",
+		"MAVKA",
 		84,
-		4063491,
+		4063491
 	},
 
 	{
 		"mosk_dun03",
-		16763,
+		16709,
 		300,
 		1882,
 		"Baba Yaga",
-		"Baba-Yaga",
+		"VAVAYAGA",
 		87,
-		1376519,
+		1376519
 	},
 
 	{
 		"mosk_dun03",
-		16764,
+		16710,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"mosk_dun03",
-		16765,
+		16711,
 		300,
 		1883,
 		"Uzhas",
-		"Uzhas",
+		"UZHAS",
 		85,
-		3997959,
+		3997959
 	},
 
 	{
 		"mosk_dun03",
-		16766,
+		16712,
 		300,
 		1082,
 		"White Plant",
-		"White_Plant",
+		"WHITE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"mosk_dun03",
-		17278,
+		17224,
 		301,
 		1885,
 		"Gopinich",
-		"Gopinich",
+		"GOPINICH",
 		97,
-		4063746,
+		4063746
 	},
 
 	{
 		"mosk_fild02",
-		16350,
+		16294,
 		300,
 		1368,
 		"Geographer",
-		"Geographer",
+		"GEOGRAPHER",
 		73,
-		4063491,
+		4063491
 	},
 
 	{
 		"mosk_fild02",
-		16351,
+		16295,
 		300,
 		1037,
 		"Side Winder",
-		"Side_Winder",
+		"SIDE_WINDER",
 		70,
-		1638658,
+		1638658
 	},
 
 	{
 		"mosk_fild02",
-		16352,
+		16296,
 		300,
 		1099,
 		"Argiope",
-		"Argiope",
+		"ARGIOPE",
 		75,
-		1638916,
+		1638916
 	},
 
 	{
 		"mosk_fild02",
-		16353,
+		16297,
 		300,
 		1139,
 		"Mantis",
-		"Mantis",
+		"MANTIS",
 		65,
-		1442052,
+		1442052
 	},
 
 	{
 		"mosk_fild02",
-		17565,
+		17500,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"mosk_fild02",
-		17566,
+		17501,
 		300,
 		1082,
 		"White Plant",
-		"White_Plant",
+		"WHITE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"nameless_n",
-		17164,
+		17110,
 		300,
 		1036,
 		"Ghoul",
-		"Ghoul",
+		"GHOUL",
 		61,
-		3211521,
+		3211521
 	},
 
 	{
 		"nameless_n",
-		17165,
+		17111,
 		300,
 		1865,
 		"Ragged Zombie",
-		"Ragged_Zombie",
+		"RAGGED_ZOMBIE",
 		123,
-		4522241,
+		4522241
 	},
 
 	{
 		"nameless_n",
-		17166,
+		17112,
 		300,
 		1867,
 		"Banshee",
-		"Banshee",
+		"BANSHEE",
 		130,
-		3080454,
+		3080454
 	},
 
 	{
 		"nameless_n",
-		17167,
+		17113,
 		300,
 		1864,
 		"Zombie Slaughter",
-		"Zombie_Slaughter",
+		"ZOMBIE_SLAUGHTER",
 		124,
-		4522241,
+		4522241
 	},
 
 	{
 		"nameless_n",
-		17168,
+		17114,
 		300,
 		1869,
 		"Flame Skull",
-		"Flame_Skull",
+		"FLAME_SKULL",
 		121,
-		4456454,
+		4456454
 	},
 
 	{
 		"nameless_n",
-		17169,
+		17115,
 		300,
 		1866,
 		"Hell Poodle",
-		"Hellhound",
+		"HELL_POODLE",
 		115,
-		1769478,
+		1769478
 	},
 
 	{
 		"nif_fild01",
-		16887,
+		16833,
 		300,
 		1504,
 		"Dullahan",
-		"Dullahan",
+		"DULLAHAN",
 		108,
-		3211521,
+		3211521
 	},
 
 	{
 		"nif_fild01",
-		16888,
+		16834,
 		300,
 		1506,
 		"Disguise",
-		"Disguise",
+		"DISGUISE",
 		103,
-		5374214,
+		5374214
 	},
 
 	{
 		"nif_fild01",
-		16889,
+		16835,
 		300,
 		1503,
 		"Gibbet",
-		"Gibbet",
+		"GIBBET",
 		105,
-		1769990,
+		1769990
 	},
 
 	{
 		"nif_fild01",
-		16890,
+		16836,
 		300,
 		1508,
 		"Quve",
-		"Quve",
+		"QUVE",
 		100,
-		1900545,
+		1900545
 	},
 
 	{
 		"nif_fild01",
-		16891,
+		16837,
 		300,
 		1510,
 		"Hylozoist",
-		"Heirozoist",
+		"HYLOZOIST",
 		102,
-		3080198,
+		3080198
 	},
 
 	{
 		"nif_fild02",
-		16892,
+		16838,
 		300,
 		1504,
 		"Dullahan",
-		"Dullahan",
+		"DULLAHAN",
 		108,
-		3211521,
+		3211521
 	},
 
 	{
 		"nif_fild02",
-		16893,
+		16839,
 		300,
 		1505,
 		"Loli Ruri",
-		"Loli_Ruri",
+		"LOLI_RURI",
 		109,
-		5702150,
+		5702150
 	},
 
 	{
 		"nif_fild02",
-		16894,
+		16840,
 		300,
 		1509,
 		"Lude",
-		"Lude",
+		"LUDE",
 		101,
-		1900545,
+		1900545
 	},
 
 	{
 		"nif_fild02",
-		16895,
+		16841,
 		300,
 		1507,
 		"Bloody Murderer",
-		"Bloody_Murderer",
+		"BLOODY_MURDERER",
 		110,
-		4391431,
+		4391431
 	},
 
 	{
 		"nif_fild02",
-		16896,
+		16842,
 		300,
 		1503,
 		"Gibbet",
-		"Gibbet",
+		"GIBBET",
 		105,
-		1769990,
+		1769990
 	},
 
 	{
 		"nif_fild02",
-		16897,
+		16843,
 		300,
 		1510,
 		"Hylozoist",
-		"Heirozoist",
+		"HYLOZOIST",
 		102,
-		3080198,
+		3080198
 	},
 
 	{
 		"niflheim",
-		16898,
+		16844,
 		300,
 		1504,
 		"Dullahan",
-		"Dullahan",
+		"DULLAHAN",
 		108,
-		3211521,
+		3211521
 	},
 
 	{
 		"niflheim",
-		16899,
+		16845,
 		300,
 		1509,
 		"Lude",
-		"Lude",
+		"LUDE",
 		101,
-		1900545,
+		1900545
 	},
 
 	{
 		"niflheim",
-		16900,
+		16846,
 		300,
 		1503,
 		"Gibbet",
-		"Gibbet",
+		"GIBBET",
 		105,
-		1769990,
+		1769990
 	},
 
 	{
 		"niflheim",
-		16901,
+		16847,
 		300,
 		1508,
 		"Quve",
-		"Quve",
+		"QUVE",
 		100,
-		1900545,
+		1900545
 	},
 
 	{
 		"niflheim",
-		16902,
+		16848,
 		300,
 		1510,
 		"Hylozoist",
-		"Heirozoist",
+		"HYLOZOIST",
 		102,
-		3080198,
+		3080198
 	},
 
 	{
 		"niflheim",
-		18920,
+		18855,
 		300,
 		2078,
-		"환락의 그림자",
-		"쉐체_서큐버스",
+		"Succubus",
+		"S_SUCCUBUS",
 		105,
-		4391174,
+		4391174
 	},
 
 	{
 		"nyd_dun01",
-		17235,
+		17181,
 		300,
 		2013,
 		"Draco",
-		"Draco",
+		"DRACO",
 		114,
-		1442057,
+		1442057
 	},
 
 	{
 		"nyd_dun01",
-		17236,
+		17182,
 		300,
 		2016,
 		"Aqua Elemental",
-		"Aqua_Elemental",
+		"AQUA_ELEMENTAL",
 		121,
-		5308928,
+		5308928
 	},
 
 	{
 		"nyd_dun01",
-		17237,
+		17183,
 		300,
 		2015,
 		"Dark Pinguicula",
-		"Dark_Pinguicula",
+		"PINGUICULA_D",
 		113,
-		2949379,
+		2949379
 	},
 
 	{
 		"nyd_dun01",
-		17238,
+		17184,
 		300,
 		2017,
 		"Rata",
-		"Rata",
+		"RATA",
 		131,
-		4063495,
+		4063495
 	},
 
 	{
 		"nyd_dun01",
-		17239,
+		17185,
 		300,
 		2018,
 		"Duneyrr",
-		"Duneyrr",
+		"DUNEYRR",
 		135,
-		4063495,
+		4063495
 	},
 
 	{
 		"nyd_dun01",
-		17555,
+		17490,
 		300,
 		2014,
 		"Draco Egg",
-		"Draco_Egg",
+		"DRACO_EGG",
 		101,
-		5374217,
+		5374217
 	},
 
 	{
 		"odin_tem01",
-		17135,
+		17081,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"odin_tem01",
-		17136,
+		17082,
 		300,
 		1692,
 		"Breeze",
-		"Breeze",
+		"BREEZE",
 		92,
-		4194560,
+		4194560
 	},
 
 	{
 		"odin_tem01",
-		17137,
+		17083,
 		300,
 		1752,
 		"Skogul",
-		"Skogul",
+		"SKOGUL",
 		126,
-		4391174,
+		4391174
 	},
 
 	{
 		"odin_tem01",
-		17138,
+		17084,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"odin_tem01",
-		17139,
+		17085,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"odin_tem01",
-		17140,
+		17086,
 		300,
 		1753,
 		"Frus",
-		"Frus",
+		"FRUS",
 		128,
-		4391174,
+		4391174
 	},
 
 	{
 		"odin_tem01",
-		17141,
+		17087,
 		300,
 		1697,
 		"Plasma",
-		"Plasma_B",
+		"PLASMA_B",
 		115,
-		5308416,
+		5308416
 	},
 
 	{
 		"odin_tem01",
-		17142,
+		17088,
 		300,
 		1695,
 		"Plasma",
-		"Plasma_G",
+		"PLASMA_G",
 		116,
-		5373952,
+		5373952
 	},
 
 	{
 		"odin_tem01",
-		17143,
+		17089,
 		300,
 		1696,
 		"Plasma",
-		"Plasma_P",
+		"PLASMA_P",
 		117,
-		5701632,
+		5701632
 	},
 
 	{
 		"odin_tem01",
-		17144,
+		17090,
 		300,
 		1694,
 		"Plasma",
-		"Plasma_R",
+		"PLASMA_R",
 		118,
-		5439488,
+		5439488
 	},
 
 	{
 		"odin_tem01",
-		17145,
+		17091,
 		300,
 		1693,
 		"Plasma",
-		"Plasma_Y",
+		"PLASMA_Y",
 		119,
-		5767168,
+		5767168
 	},
 
 	{
 		"odin_tem02",
-		17146,
+		17092,
 		300,
 		1754,
 		"Skeggiold",
-		"Skeggiold",
+		"SKEGGIOLD",
 		131,
-		3014664,
+		3014664
 	},
 
 	{
 		"odin_tem02",
-		17148,
+		17094,
 		300,
 		1752,
 		"Skogul",
-		"Skogul",
+		"SKOGUL",
 		126,
-		4391174,
+		4391174
 	},
 
 	{
 		"odin_tem02",
-		17150,
+		17096,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"odin_tem02",
-		17151,
+		17097,
 		300,
 		1753,
 		"Frus",
-		"Frus",
+		"FRUS",
 		128,
-		4391174,
+		4391174
 	},
 
 	{
 		"odin_tem02",
-		17153,
+		17099,
 		300,
 		1693,
 		"Plasma",
-		"Plasma_Y",
+		"PLASMA_Y",
 		119,
-		5767168,
+		5767168
 	},
 
 	{
 		"odin_tem03",
-		17154,
+		17100,
 		300,
 		1765,
 		"Valkyrie",
-		"Valkyrie",
+		"G_RANDGRIS",
 		141,
-		5636616,
+		5636616
 	},
 
 	{
 		"odin_tem03",
-		17155,
+		17101,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"odin_tem03",
-		17156,
+		17102,
 		300,
 		1754,
 		"Skeggiold",
-		"Skeggiold",
+		"SKEGGIOLD",
 		131,
-		3014664,
+		3014664
 	},
 
 	{
 		"odin_tem03",
-		17158,
+		17104,
 		300,
 		1752,
 		"Skogul",
-		"Skogul",
+		"SKOGUL",
 		126,
-		4391174,
+		4391174
 	},
 
 	{
 		"odin_tem03",
-		17160,
+		17106,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"odin_tem03",
-		17161,
+		17107,
 		300,
 		1753,
 		"Frus",
-		"Frus",
+		"FRUS",
 		128,
-		4391174,
+		4391174
 	},
 
 	{
 		"odin_tem03",
-		17163,
+		17109,
 		300,
 		1693,
 		"Plasma",
-		"Plasma_Y",
+		"PLASMA_Y",
 		119,
-		5767168,
+		5767168
 	},
 
 	{
 		"odin_tem03",
-		17279,
+		17225,
 		301,
 		1751,
 		"Valkyrie Randgris",
-		"Randgris",
+		"RANDGRIS",
 		141,
-		5636616,
+		5636616
 	},
 
 	{
 		"orcsdun01",
-		16521,
+		16465,
 		300,
 		1084,
 		"Black Mushroom",
-		"Black_Mushroom",
+		"BLACK_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"orcsdun01",
-		16522,
+		16466,
 		300,
 		1111,
 		"Drainliar",
-		"Drainliar",
+		"DRAINLIAR",
 		47,
-		3080194,
+		3080194
 	},
 
 	{
 		"orcsdun01",
-		16523,
+		16467,
 		300,
 		1042,
 		"Steel Chonchon",
-		"Steel_Chonchon",
+		"STEEL_CHONCHON",
 		48,
-		1572868,
+		1572868
 	},
 
 	{
 		"orcsdun01",
-		16524,
+		16468,
 		300,
 		1152,
 		"Orc Skeleton",
-		"Orc_Skeleton",
+		"ORC_SKELETON",
 		53,
-		1900801,
+		1900801
 	},
 
 	{
 		"orcsdun01",
-		16525,
+		16469,
 		300,
 		1153,
 		"Orc Zombie",
-		"Orc_Zombie",
+		"ORC_ZOMBIE",
 		51,
-		1900801,
+		1900801
 	},
 
 	{
 		"orcsdun01",
-		16526,
+		16470,
 		300,
 		1005,
 		"Familiar",
-		"Familiar",
+		"FARMILIAR",
 		24,
-		1769474,
+		1769474
 	},
 
 	{
 		"orcsdun01",
-		16527,
+		16471,
 		300,
 		1082,
 		"White Plant",
-		"White_Plant",
+		"WHITE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"orcsdun02",
-		16528,
+		16472,
 		300,
 		1084,
 		"Black Mushroom",
-		"Black_Mushroom",
+		"BLACK_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"orcsdun02",
-		16529,
+		16473,
 		300,
 		1111,
 		"Drainliar",
-		"Drainliar",
+		"DRAINLIAR",
 		47,
-		3080194,
+		3080194
 	},
 
 	{
 		"orcsdun02",
-		16530,
+		16474,
 		300,
 		1042,
 		"Steel Chonchon",
-		"Steel_Chonchon",
+		"STEEL_CHONCHON",
 		48,
-		1572868,
+		1572868
 	},
 
 	{
 		"orcsdun02",
-		16531,
+		16475,
 		300,
 		1152,
 		"Orc Skeleton",
-		"Orc_Skeleton",
+		"ORC_SKELETON",
 		53,
-		1900801,
+		1900801
 	},
 
 	{
 		"orcsdun02",
-		16532,
+		16476,
 		300,
 		1189,
 		"Orc Archer",
-		"Orc_Archer",
+		"ORC_ARCHER",
 		78,
-		1442055,
+		1442055
 	},
 
 	{
 		"orcsdun02",
-		16533,
+		16477,
 		300,
 		1177,
 		"Zenorc",
-		"Zenorc",
+		"ZENORC",
 		54,
-		1769735,
+		1769735
 	},
 
 	{
 		"orcsdun02",
-		16534,
+		16478,
 		300,
 		1082,
 		"White Plant",
-		"White_Plant",
+		"WHITE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun00",
-		16612,
+		16557,
 		300,
 		1084,
 		"Black Mushroom",
-		"Black_Mushroom",
+		"BLACK_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun00",
-		16613,
+		16558,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun00",
-		16614,
+		16559,
 		300,
 		1076,
 		"Skeleton",
-		"Skeleton",
+		"SKELETON",
 		27,
-		1900801,
+		1900801
 	},
 
 	{
 		"pay_dun00",
-		16615,
+		16560,
 		300,
 		1015,
 		"Zombie",
-		"Zombie",
+		"ZOMBIE",
 		17,
-		1900801,
+		1900801
 	},
 
 	{
 		"pay_dun00",
-		16616,
+		16561,
 		300,
 		1005,
 		"Familiar",
-		"Familiar",
+		"FARMILIAR",
 		24,
-		1769474,
+		1769474
 	},
 
 	{
 		"pay_dun00",
-		16617,
+		16562,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"pay_dun01",
-		16618,
+		16563,
 		300,
 		1084,
 		"Black Mushroom",
-		"Black_Mushroom",
+		"BLACK_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun01",
-		16619,
+		16564,
 		300,
 		1111,
 		"Drainliar",
-		"Drainliar",
+		"DRAINLIAR",
 		47,
-		3080194,
+		3080194
 	},
 
 	{
 		"pay_dun01",
-		16620,
+		16565,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun01",
-		16621,
+		16566,
 		300,
 		1028,
 		"Soldier Skeleton",
-		"Soldier_Skeleton",
+		"SOLDIER_SKELETON",
 		34,
-		1900801,
+		1900801
 	},
 
 	{
 		"pay_dun01",
-		16622,
+		16567,
 		300,
 		1016,
 		"Archer Skeleton",
-		"Archer_Skeleton",
+		"ARCHER_SKELETON",
 		50,
-		1900801,
+		1900801
 	},
 
 	{
 		"pay_dun01",
-		16623,
+		16568,
 		300,
 		1116,
 		"Eggyra",
-		"Eggyra",
+		"EGGYRA",
 		53,
-		3145984,
+		3145984
 	},
 
 	{
 		"pay_dun02",
-		16624,
+		16569,
 		300,
 		1084,
 		"Black Mushroom",
-		"Black_Mushroom",
+		"BLACK_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun02",
-		16625,
+		16570,
 		300,
 		1180,
 		"Nine Tail",
-		"Nine_Tail",
+		"NINE_TAIL",
 		72,
-		4129026,
+		4129026
 	},
 
 	{
 		"pay_dun02",
-		16626,
+		16571,
 		300,
 		1020,
 		"Mandragora",
-		"Mandragora",
+		"MANDRAGORA",
 		13,
-		4063491,
+		4063491
 	},
 
 	{
 		"pay_dun02",
-		16627,
+		16572,
 		300,
 		1026,
 		"Munak",
-		"Munak",
+		"MUNAK",
 		58,
-		1900801,
+		1900801
 	},
 
 	{
 		"pay_dun02",
-		16628,
+		16573,
 		300,
 		1188,
 		"Bongun",
-		"Bongun",
+		"BON_GUN",
 		59,
-		1900801,
+		1900801
 	},
 
 	{
 		"pay_dun02",
-		16629,
+		16574,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun02",
-		16630,
+		16575,
 		300,
 		1028,
 		"Soldier Skeleton",
-		"Soldier_Skeleton",
+		"SOLDIER_SKELETON",
 		34,
-		1900801,
+		1900801
 	},
 
 	{
 		"pay_dun02",
-		16631,
+		16576,
 		300,
 		1016,
 		"Archer Skeleton",
-		"Archer_Skeleton",
+		"ARCHER_SKELETON",
 		50,
-		1900801,
+		1900801
 	},
 
 	{
 		"pay_dun02",
-		16632,
+		16577,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"pay_dun02",
-		16633,
+		16578,
 		300,
 		1082,
 		"White Plant",
-		"White_Plant",
+		"WHITE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun02",
-		16634,
+		16579,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"pay_dun03",
-		16635,
+		16580,
 		300,
 		1180,
 		"Nine Tail",
-		"Nine_Tail",
+		"NINE_TAIL",
 		72,
-		4129026,
+		4129026
 	},
 
 	{
 		"pay_dun03",
-		16636,
+		16581,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun03",
-		16637,
+		16582,
 		300,
 		1020,
 		"Mandragora",
-		"Mandragora",
+		"MANDRAGORA",
 		13,
-		4063491,
+		4063491
 	},
 
 	{
 		"pay_dun03",
-		16638,
+		16583,
 		300,
 		1026,
 		"Munak",
-		"Munak",
+		"MUNAK",
 		58,
-		1900801,
+		1900801
 	},
 
 	{
 		"pay_dun03",
-		16639,
+		16584,
 		300,
 		1188,
 		"Bongun",
-		"Bongun",
+		"BON_GUN",
 		59,
-		1900801,
+		1900801
 	},
 
 	{
 		"pay_dun03",
-		16640,
+		16585,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun03",
-		16641,
+		16586,
 		300,
 		1170,
 		"Sohee",
-		"Sohee",
+		"SOHEE",
 		64,
-		1376518,
+		1376518
 	},
 
 	{
 		"pay_dun03",
-		16642,
+		16587,
 		300,
 		1185,
 		"Whisper",
-		"Whisper_",
+		"WHISPER_",
 		34,
-		1835009,
+		1835009
 	},
 
 	{
 		"pay_dun03",
-		16646,
+		16591,
 		300,
 		1277,
 		"Greatest General",
-		"Greatest_General",
+		"GREATEST_GENERAL",
 		55,
-		2818304,
+		2818304
 	},
 
 	{
 		"pay_dun03",
-		16647,
+		16592,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun03",
-		16648,
+		16593,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun03",
-		16649,
+		16594,
 		300,
 		1082,
 		"White Plant",
-		"White_Plant",
+		"WHITE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun03",
-		16650,
+		16595,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"pay_dun03",
-		17303,
+		17252,
 		300,
 		1186,
 		"Giant Whisper",
-		"Giant_Whisper",
+		"WHISPER_BOSS",
 		66,
-		3145734,
+		3145734
 	},
 
 	{
 		"pay_dun04",
-		16651,
+		16596,
 		300,
 		1180,
 		"Nine Tail",
-		"Nine_Tail",
+		"NINE_TAIL",
 		72,
-		4129026,
+		4129026
 	},
 
 	{
 		"pay_dun04",
-		16652,
+		16597,
 		300,
 		1110,
 		"Dokebi",
-		"Dokebi",
+		"DOKEBI",
 		68,
-		1769478,
+		1769478
 	},
 
 	{
 		"pay_dun04",
-		16653,
+		16598,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"pay_dun04",
-		16654,
+		16599,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun04",
-		16655,
+		16600,
 		300,
 		1016,
 		"Archer Skeleton",
-		"Archer_Skeleton",
+		"ARCHER_SKELETON",
 		50,
-		1900801,
+		1900801
 	},
 
 	{
 		"pay_dun04",
-		16656,
+		16601,
 		300,
 		1277,
 		"Greatest General",
-		"Greatest_General",
+		"GREATEST_GENERAL",
 		55,
-		2818304,
+		2818304
 	},
 
 	{
 		"pay_dun04",
-		16657,
+		16602,
 		300,
 		1082,
 		"White Plant",
-		"White_Plant",
+		"WHITE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_dun04",
-		16658,
+		16603,
 		300,
 		1129,
 		"Horong",
-		"Horong",
+		"HORONG",
 		66,
-		5439488,
+		5439488
 	},
 
 	{
 		"pay_dun04",
-		17280,
+		17226,
 		301,
 		1150,
 		"Moonlight Flower",
-		"Moonlight_Flower",
+		"MOONLIGHT",
 		79,
-		4129030,
+		4129030
 	},
 
 	{
 		"pay_dun04",
-		17296,
+		17238,
+		300,
+		1301,
+		"Am Mut",
+		"AM_MUT",
+		141,
+		1769478
+	},
+
+	{
+		"pay_dun04",
+		17243,
 		300,
 		1307,
 		"Cat o' Nine Tails",
-		"Cat_o'_Nine_Tails",
+		"CAT_O_NINE_TAIL",
 		79,
-		4129030,
+		4129030
+	},
+
+	{
+		"pay_dun04",
+		17247,
+		300,
+		1290,
+		"Skeleton General",
+		"SKELETON_GENERAL",
+		139,
+		1900801
 	},
 
 	{
 		"pay_fild01",
-		16007,
+		15951,
 		300,
 		1002,
 		"Poring",
-		"Poring",
+		"PORING",
 		1,
-		1376515,
+		1376515
 	},
 
 	{
 		"pay_fild01",
-		16008,
+		15952,
 		300,
 		1007,
 		"Fabre",
-		"Fabre",
+		"FABRE",
 		6,
-		1441796,
+		1441796
 	},
 
 	{
 		"pay_fild01",
-		16009,
+		15953,
 		300,
 		1010,
 		"Willow",
-		"Willow",
+		"WILOW",
 		8,
-		1442051,
+		1442051
 	},
 
 	{
 		"pay_fild01",
-		17767,
+		17702,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_fild02",
-		16051,
+		15995,
 		300,
 		1024,
 		"Wormtail",
-		"Wormtail",
+		"WORM_TAIL",
 		17,
-		1442051,
+		1442051
 	},
 
 	{
 		"pay_fild02",
-		16052,
+		15996,
 		300,
 		1025,
 		"Snake",
-		"Snake",
+		"SNAKE",
 		18,
-		1442050,
+		1442050
 	},
 
 	{
 		"pay_fild02",
-		16053,
+		15997,
 		300,
 		1014,
 		"Spore",
-		"Spore",
+		"SPORE",
 		18,
-		1376515,
+		1376515
 	},
 
 	{
 		"pay_fild02",
-		17523,
+		17458,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_fild02",
-		17771,
+		17706,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_fild03",
-		16010,
+		15954,
 		300,
 		1002,
 		"Poring",
-		"Poring",
+		"PORING",
 		1,
-		1376515,
+		1376515
 	},
 
 	{
 		"pay_fild03",
-		16011,
+		15955,
 		300,
 		1010,
 		"Willow",
-		"Willow",
+		"WILOW",
 		8,
-		1442051,
+		1442051
 	},
 
 	{
 		"pay_fild03",
-		16012,
+		15956,
 		300,
 		1007,
 		"Fabre",
-		"Fabre",
+		"FABRE",
 		6,
-		1441796,
+		1441796
 	},
 
 	{
 		"pay_fild03",
-		16013,
+		15957,
 		300,
 		1008,
 		"Pupa",
-		"Pupa",
+		"PUPA",
 		4,
-		1441796,
+		1441796
 	},
 
 	{
 		"pay_fild03",
-		17524,
+		17459,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_fild03",
-		17772,
+		17707,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_fild04",
-		16081,
+		16025,
 		300,
 		1002,
 		"Poring",
-		"Poring",
+		"PORING",
 		1,
-		1376515,
+		1376515
 	},
 
 	{
 		"pay_fild04",
-		16082,
+		16026,
 		300,
 		1113,
 		"Drops",
-		"Drops",
+		"DROPS",
 		2,
-		1507587,
+		1507587
 	},
 
 	{
 		"pay_fild04",
-		16083,
+		16027,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"pay_fild04",
-		16084,
+		16028,
 		300,
 		1242,
 		"Marin",
-		"Marin",
+		"MARIN",
 		37,
-		2687235,
+		2687235
 	},
 
 	{
 		"pay_fild04",
-		17465,
+		17400,
 		300,
 		1582,
 		"Deviling",
-		"Deviling",
+		"DEVILING",
 		66,
-		5701894,
+		5701894
 	},
 
 	{
 		"pay_fild04",
-		17467,
+		17402,
 		300,
 		1096,
 		"Angeling",
-		"Angeling",
+		"ANGELING",
 		77,
-		5636360,
+		5636360
 	},
 
 	{
 		"pay_fild04",
-		17469,
+		17404,
 		300,
 		1120,
 		"Ghostring",
-		"Ghostring",
+		"GHOSTRING",
 		90,
-		5767430,
+		5767430
 	},
 
 	{
 		"pay_fild04",
-		17472,
+		17407,
 		300,
 		1090,
 		"Mastering",
-		"Mastering",
+		"MASTERING",
 		42,
-		1376515,
+		1376515
 	},
 
 	{
 		"pay_fild04",
-		17775,
+		17710,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"pay_fild04",
-		17776,
+		17711,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_fild06",
-		16054,
+		15998,
 		300,
 		1024,
 		"Wormtail",
-		"Wormtail",
+		"WORM_TAIL",
 		17,
-		1442051,
+		1442051
 	},
 
 	{
 		"pay_fild06",
-		16055,
+		15999,
 		300,
 		1025,
 		"Snake",
-		"Snake",
+		"SNAKE",
 		18,
-		1442050,
+		1442050
 	},
 
 	{
 		"pay_fild06",
-		16056,
+		16000,
 		300,
 		1014,
 		"Spore",
-		"Spore",
+		"SPORE",
 		18,
-		1376515,
+		1376515
 	},
 
 	{
 		"pay_fild06",
-		17525,
+		17460,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_fild06",
-		17773,
+		17708,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_fild06",
-		17774,
+		17709,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"pay_fild07",
-		16085,
+		16029,
 		300,
 		1174,
 		"Stainer",
-		"Stainer",
+		"STAINER",
 		21,
-		1572868,
+		1572868
 	},
 
 	{
 		"pay_fild07",
-		16086,
+		16030,
 		300,
 		1018,
 		"Creamy",
-		"Creamy",
+		"CREAMY",
 		23,
-		1572868,
+		1572868
 	},
 
 	{
 		"pay_fild07",
-		16087,
+		16031,
 		300,
 		1103,
 		"Caramel",
-		"Caramel",
+		"CARAMEL",
 		25,
-		1441794,
+		1441794
 	},
 
 	{
 		"pay_fild07",
-		16088,
+		16032,
 		300,
 		1060,
 		"Bigfoot",
-		"Bigfoot",
+		"BIGFOOT",
 		29,
-		1442306,
+		1442306
 	},
 
 	{
 		"pay_fild07",
-		17770,
+		17705,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_fild08",
-		16057,
+		16001,
 		300,
 		1024,
 		"Wormtail",
-		"Wormtail",
+		"WORM_TAIL",
 		17,
-		1442051,
+		1442051
 	},
 
 	{
 		"pay_fild08",
-		16058,
+		16002,
 		300,
 		1025,
 		"Snake",
-		"Snake",
+		"SNAKE",
 		18,
-		1442050,
+		1442050
 	},
 
 	{
 		"pay_fild08",
-		16059,
+		16003,
 		300,
 		1014,
 		"Spore",
-		"Spore",
+		"SPORE",
 		18,
-		1376515,
+		1376515
 	},
 
 	{
 		"pay_fild08",
-		17768,
+		17703,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_fild08",
-		17769,
+		17704,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"pay_fild09",
-		16104,
+		16048,
 		300,
 		1033,
 		"Elder Willow",
-		"Elder_Willow",
+		"ELDER_WILOW",
 		34,
-		2818307,
+		2818307
 	},
 
 	{
 		"pay_fild09",
-		16105,
+		16049,
 		300,
 		1128,
 		"Horn",
-		"Horn",
+		"HORN",
 		32,
-		1442052,
+		1442052
 	},
 
 	{
 		"pay_fild09",
-		16106,
+		16050,
 		300,
 		1104,
 		"Coco",
-		"Coco",
+		"COCO",
 		38,
-		1441794,
+		1441794
 	},
 
 	{
 		"pay_fild09",
-		17646,
+		17581,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_fild09",
-		17647,
+		17582,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"pay_fild10",
-		16173,
+		16117,
 		300,
 		1277,
 		"Greatest General",
-		"Greatest_General",
+		"GREATEST_GENERAL",
 		55,
-		2818304,
+		2818304
 	},
 
 	{
 		"pay_fild10",
-		16174,
+		16118,
 		300,
 		1494,
 		"Beetle King",
-		"Beetle_King",
+		"KIND_OF_BEETLE",
 		55,
-		1441796,
+		1441796
 	},
 
 	{
 		"pay_fild10",
-		16175,
+		16119,
 		300,
 		1166,
 		"Savage",
-		"Savage",
+		"SAVAGE",
 		59,
-		2753026,
+		2753026
 	},
 
 	{
 		"pay_fild10",
-		17447,
+		17382,
 		301,
 		1115,
 		"Eddga",
-		"Eddga",
+		"EDDGA",
 		65,
-		1507842,
+		1507842
 	},
 
 	{
 		"pay_fild10",
-		17648,
+		17583,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"pay_fild10",
-		17651,
+		17586,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild00",
-		16024,
+		15968,
 		300,
 		1012,
 		"Roda Frog",
-		"Roda_Frog",
+		"RODA_FROG",
 		13,
-		1376517,
+		1376517
 	},
 
 	{
 		"prt_fild00",
-		16025,
+		15969,
 		300,
 		1094,
 		"Ambernite",
-		"Ambernite",
+		"AMBERNITE",
 		19,
-		1376772,
+		1376772
 	},
 
 	{
 		"prt_fild00",
-		16026,
+		15970,
 		300,
 		1167,
 		"Savage Babe",
-		"Savage_Babe",
+		"SAVAGE_BABE",
 		14,
-		1441794,
+		1441794
 	},
 
 	{
 		"prt_fild00",
-		17790,
+		17725,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"prt_fild00",
-		17791,
+		17726,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild01",
-		15991,
+		15935,
 		300,
 		1002,
 		"Poring",
-		"Poring",
+		"PORING",
 		1,
-		1376515,
+		1376515
 	},
 
 	{
 		"prt_fild01",
-		15992,
+		15936,
 		300,
 		1063,
 		"Lunatic",
-		"Lunatic",
+		"LUNATIC",
 		3,
-		3932162,
+		3932162
 	},
 
 	{
 		"prt_fild01",
-		15993,
+		15937,
 		300,
 		1007,
 		"Fabre",
-		"Fabre",
+		"FABRE",
 		6,
-		1441796,
+		1441796
 	},
 
 	{
 		"prt_fild01",
-		17781,
+		17716,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild01",
-		17782,
+		17717,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild02",
-		16072,
+		16016,
 		300,
 		1174,
 		"Stainer",
-		"Stainer",
+		"STAINER",
 		21,
-		1572868,
+		1572868
 	},
 
 	{
 		"prt_fild02",
-		16073,
+		16017,
 		300,
 		1018,
 		"Creamy",
-		"Creamy",
+		"CREAMY",
 		23,
-		1572868,
+		1572868
 	},
 
 	{
 		"prt_fild02",
-		16074,
+		16018,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"prt_fild02",
-		17550,
+		17485,
 		300,
 		1093,
 		"Eclipse",
-		"Eclipse",
+		"ECLIPSE",
 		31,
-		3932418,
+		3932418
 	},
 
 	{
 		"prt_fild02",
-		17783,
+		17718,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"prt_fild03",
-		16093,
+		16037,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"prt_fild03",
-		16094,
+		16038,
 		300,
 		1128,
 		"Horn",
-		"Horn",
+		"HORN",
 		32,
-		1442052,
+		1442052
 	},
 
 	{
 		"prt_fild03",
-		16095,
+		16039,
 		300,
 		1057,
 		"Yoyo",
-		"Yoyo",
+		"YOYO",
 		38,
-		1441794,
+		1441794
 	},
 
 	{
 		"prt_fild03",
-		17553,
+		17488,
 		300,
 		1214,
 		"Choco",
-		"Choco",
+		"CHOCO",
 		48,
-		1507330,
+		1507330
 	},
 
 	{
 		"prt_fild03",
-		17785,
+		17720,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild03",
-		17786,
+		17721,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild04",
-		16027,
+		15971,
 		300,
 		1094,
 		"Ambernite",
-		"Ambernite",
+		"AMBERNITE",
 		19,
-		1376772,
+		1376772
 	},
 
 	{
 		"prt_fild04",
-		16028,
+		15972,
 		300,
 		1012,
 		"Roda Frog",
-		"Roda_Frog",
+		"RODA_FROG",
 		13,
-		1376517,
+		1376517
 	},
 
 	{
 		"prt_fild04",
-		17548,
+		17483,
 		300,
 		1088,
 		"Vocal",
-		"Vocal",
+		"VOCAL",
 		18,
-		1442052,
+		1442052
 	},
 
 	{
 		"prt_fild04",
-		17777,
+		17712,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild05",
-		16033,
+		15977,
 		300,
 		1004,
 		"Hornet",
-		"Hornet",
+		"HORNET",
 		11,
-		1572868,
+		1572868
 	},
 
 	{
 		"prt_fild05",
-		16034,
+		15978,
 		300,
 		1048,
 		"Thief Bug Egg",
-		"Thief_Bug_Egg",
+		"THIEF_BUG_EGG",
 		20,
-		1769476,
+		1769476
 	},
 
 	{
 		"prt_fild05",
-		16035,
+		15979,
 		300,
 		1006,
-		"Thief Bug",
-		"Thief Bug",
+		"Thief Bug Larva",
+		"THIEF_BUG_LARVA",
 		0,
-		0,
+		0
 	},
 
 	{
 		"prt_fild05",
-		17778,
+		17713,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild05",
-		17779,
+		17714,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild06",
-		15994,
+		15938,
 		300,
 		1002,
 		"Poring",
-		"Poring",
+		"PORING",
 		1,
-		1376515,
+		1376515
 	},
 
 	{
 		"prt_fild06",
-		15995,
+		15939,
 		300,
 		1063,
 		"Lunatic",
-		"Lunatic",
+		"LUNATIC",
 		3,
-		3932162,
+		3932162
 	},
 
 	{
 		"prt_fild06",
-		15996,
+		15940,
 		300,
 		1007,
 		"Fabre",
-		"Fabre",
+		"FABRE",
 		6,
-		1441796,
+		1441796
 	},
 
 	{
 		"prt_fild06",
-		17780,
+		17715,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild07",
-		16036,
+		15980,
 		300,
 		1167,
 		"Savage Babe",
-		"Savage_Babe",
+		"SAVAGE_BABE",
 		14,
-		1441794,
+		1441794
 	},
 
 	{
 		"prt_fild07",
-		16037,
+		15981,
 		300,
 		1052,
 		"Rocker",
-		"Rocker",
+		"ROCKER",
 		15,
-		1442052,
+		1442052
 	},
 
 	{
 		"prt_fild07",
-		17549,
+		17484,
 		300,
 		1088,
 		"Vocal",
-		"Vocal",
+		"VOCAL",
 		18,
-		1442052,
+		1442052
 	},
 
 	{
 		"prt_fild08",
-		15997,
+		15941,
 		300,
 		1002,
 		"Poring",
-		"Poring",
+		"PORING",
 		1,
-		1376515,
+		1376515
 	},
 
 	{
 		"prt_fild08",
-		15998,
+		15942,
 		300,
 		1063,
 		"Lunatic",
-		"Lunatic",
+		"LUNATIC",
 		3,
-		3932162,
+		3932162
 	},
 
 	{
 		"prt_fild08",
-		15999,
+		15943,
 		300,
 		1007,
 		"Fabre",
-		"Fabre",
+		"FABRE",
 		6,
-		1441796,
+		1441796
 	},
 
 	{
 		"prt_fild09",
-		16139,
+		16083,
 		300,
 		1138,
 		"Magnolia",
-		"Magnolia",
+		"MAGNOLIA",
 		53,
-		1376262,
+		1376262
 	},
 
 	{
 		"prt_fild09",
-		16140,
+		16084,
 		300,
 		1058,
 		"Metaller",
-		"Metaller",
+		"METALLER",
 		55,
-		1507588,
+		1507588
 	},
 
 	{
 		"prt_fild09",
-		17792,
+		17727,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild10",
-		16100,
+		16044,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"prt_fild10",
-		16101,
+		16045,
 		300,
 		1128,
 		"Horn",
-		"Horn",
+		"HORN",
 		32,
-		1442052,
+		1442052
 	},
 
 	{
 		"prt_fild10",
-		16102,
+		16046,
 		300,
 		1033,
 		"Elder Willow",
-		"Elder_Willow",
+		"ELDER_WILOW",
 		34,
-		2818307,
+		2818307
 	},
 
 	{
 		"prt_fild10",
-		16103,
+		16047,
 		300,
 		1104,
 		"Coco",
-		"Coco",
+		"COCO",
 		38,
-		1441794,
+		1441794
 	},
 
 	{
 		"prt_fild10",
-		17526,
+		17461,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild10",
-		17793,
+		17728,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"prt_fild11",
-		16155,
+		16099,
 		300,
 		1258,
 		"Goblin Archer",
-		"Goblin_Archer",
+		"GOBLIN_ARCHER",
 		55,
-		1638407,
+		1638407
 	},
 
 	{
 		"prt_fild11",
-		16156,
+		16100,
 		300,
 		1122,
 		"Goblin",
-		"Goblin 1",
+		"GOBLIN_1",
 		48,
-		1573127,
+		1573127
 	},
 
 	{
 		"prt_fild11",
-		16157,
+		16101,
 		300,
 		1123,
 		"Goblin",
-		"Goblin 2",
+		"GOBLIN_2",
 		44,
-		1507591,
+		1507591
 	},
 
 	{
 		"prt_fild11",
-		16158,
+		16102,
 		300,
 		1124,
 		"Goblin",
-		"Goblin 3",
+		"GOBLIN_3",
 		44,
-		1638663,
+		1638663
 	},
 
 	{
 		"prt_fild11",
-		16159,
+		16103,
 		300,
 		1125,
 		"Goblin",
-		"Goblin 4",
+		"GOBLIN_4",
 		49,
-		1442055,
+		1442055
 	},
 
 	{
 		"prt_fild11",
-		16160,
+		16104,
 		300,
 		1126,
 		"Goblin",
-		"Goblin 5",
+		"GOBLIN_5",
 		56,
-		1376519,
+		1376519
 	},
 
 	{
 		"prt_fild11",
-		16161,
+		16105,
 		300,
 		1392,
 		"Rotar Zairo",
-		"Rotar_Zairo",
+		"ROTAR_ZAIRO",
 		48,
-		2884096,
+		2884096
 	},
 
 	{
 		"prt_fild11",
-		17418,
+		17352,
 		300,
 		1280,
 		"Steam Goblin",
-		"Goblin Steamrider",
+		"STEAM_GOBLIN",
 		66,
-		2883847,
+		2883847
 	},
 
 	{
 		"prt_fild11",
-		17527,
+		17462,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_fild11",
-		17538,
+		17473,
 		300,
 		1308,
 		"Panzer Goblin",
-		"Panzer_Goblin",
+		"PANZER_GOBLIN",
 		52,
-		2883847,
+		2883847
 	},
 
 	{
 		"prt_maze01",
-		17305,
+		17255,
 		300,
 		1002,
 		"Poring",
-		"Poring",
+		"PORING",
 		1,
-		1376515,
+		1376515
 	},
 
 	{
 		"prt_maze01",
-		17306,
+		17256,
 		300,
 		1063,
 		"Lunatic",
-		"Lunatic",
+		"LUNATIC",
 		3,
-		3932162,
+		3932162
 	},
 
 	{
 		"prt_maze01",
-		17307,
+		17257,
 		300,
 		1007,
 		"Fabre",
-		"Fabre",
+		"FABRE",
 		6,
-		1441796,
+		1441796
 	},
 
 	{
 		"prt_maze01",
-		17308,
+		17258,
 		300,
 		1018,
 		"Creamy",
-		"Creamy",
+		"CREAMY",
 		23,
-		1572868,
+		1572868
 	},
 
 	{
 		"prt_maze01",
-		17309,
+		17259,
 		300,
 		1008,
 		"Pupa",
-		"Pupa",
+		"PUPA",
 		4,
-		1441796,
+		1441796
 	},
 
 	{
 		"prt_maze01",
-		17310,
+		17260,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"prt_maze01",
-		17311,
+		17261,
 		300,
 		1052,
 		"Rocker",
-		"Rocker",
+		"ROCKER",
 		15,
-		1442052,
+		1442052
 	},
 
 	{
 		"prt_maze01",
-		17312,
+		17262,
 		300,
 		1060,
 		"Bigfoot",
-		"Bigfoot",
+		"BIGFOOT",
 		29,
-		1442306,
+		1442306
 	},
 
 	{
 		"prt_maze01",
-		17313,
+		17263,
 		300,
 		1056,
 		"Smokie",
-		"Smokie",
+		"SMOKIE",
 		29,
-		1441794,
+		1441794
 	},
 
 	{
 		"prt_maze01",
-		17314,
+		17264,
 		300,
 		1025,
 		"Snake",
-		"Snake",
+		"SNAKE",
 		18,
-		1442050,
+		1442050
 	},
 
 	{
 		"prt_maze01",
-		17315,
+		17265,
 		300,
 		1013,
 		"Wolf",
-		"Wolf",
+		"WOLF",
 		45,
-		1442050,
+		1442050
 	},
 
 	{
 		"prt_maze01",
-		17316,
+		17266,
 		300,
 		1099,
 		"Argiope",
-		"Argiope",
+		"ARGIOPE",
 		75,
-		1638916,
+		1638916
 	},
 
 	{
 		"prt_maze01",
-		17317,
+		17267,
 		300,
 		1100,
 		"Argos",
-		"Argos",
+		"ARGOS",
 		47,
-		1638916,
+		1638916
 	},
 
 	{
 		"prt_maze01",
-		17318,
+		17268,
 		300,
 		1011,
 		"Chonchon",
-		"Chonchon",
+		"CHONCHON",
 		5,
-		1572868,
+		1572868
 	},
 
 	{
 		"prt_maze01",
-		17319,
+		17269,
 		300,
 		1128,
 		"Horn",
-		"Horn",
+		"HORN",
 		32,
-		1442052,
+		1442052
 	},
 
 	{
 		"prt_maze01",
-		17320,
+		17270,
 		300,
 		1035,
 		"Hunter Fly",
-		"Hunter_Fly",
+		"HUNTER_FLY",
 		63,
-		2883588,
+		2883588
 	},
 
 	{
 		"prt_maze01",
-		17321,
+		17271,
 		300,
 		1139,
 		"Mantis",
-		"Mantis",
+		"MANTIS",
 		65,
-		1442052,
+		1442052
 	},
 
 	{
 		"prt_maze01",
-		17322,
+		17272,
 		300,
 		1174,
 		"Stainer",
-		"Stainer",
+		"STAINER",
 		21,
-		1572868,
+		1572868
 	},
 
 	{
 		"prt_maze01",
-		17323,
+		17273,
 		300,
 		1037,
 		"Side Winder",
-		"Side_Winder",
+		"SIDE_WINDER",
 		70,
-		1638658,
+		1638658
 	},
 
 	{
 		"prt_maze01",
-		17324,
+		17274,
 		300,
 		1057,
 		"Yoyo",
-		"Yoyo",
+		"YOYO",
 		38,
-		1441794,
+		1441794
 	},
 
 	{
 		"prt_maze01",
-		17325,
+		17275,
 		300,
 		1214,
 		"Choco",
-		"Choco",
+		"CHOCO",
 		48,
-		1507330,
+		1507330
 	},
 
 	{
 		"prt_maze01",
-		17326,
+		17276,
 		300,
 		1042,
 		"Steel Chonchon",
-		"Steel_Chonchon",
+		"STEEL_CHONCHON",
 		48,
-		1572868,
+		1572868
 	},
 
 	{
 		"prt_maze01",
-		17327,
+		17277,
 		300,
 		1104,
 		"Coco",
-		"Coco",
+		"COCO",
 		38,
-		1441794,
+		1441794
 	},
 
 	{
 		"prt_maze01",
-		17328,
+		17278,
 		300,
 		1103,
 		"Caramel",
-		"Caramel",
+		"CARAMEL",
 		25,
-		1441794,
+		1441794
 	},
 
 	{
 		"prt_maze01",
-		17329,
+		17279,
 		300,
 		1114,
 		"Dustiness",
-		"Dustiness",
+		"DUSTINESS",
 		62,
-		2883588,
+		2883588
 	},
 
 	{
 		"prt_maze01",
-		17330,
+		17280,
 		300,
 		1145,
 		"Martin",
-		"Martin",
+		"MARTIN",
 		39,
-		2752514,
+		2752514
 	},
 
 	{
 		"prt_maze01",
-		17331,
+		17281,
 		300,
 		1166,
 		"Savage",
-		"Savage",
+		"SAVAGE",
 		59,
-		2753026,
+		2753026
 	},
 
 	{
 		"prt_maze01",
-		17333,
+		17283,
 		300,
 		1092,
 		"Vagabond Wolf",
-		"Vagabond_Wolf",
+		"VAGABOND_WOLF",
 		93,
-		1442050,
+		1442050
 	},
 
 	{
 		"prt_maze01",
-		17528,
+		17463,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_maze02",
-		17334,
+		17284,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"prt_maze02",
-		17335,
+		17285,
 		300,
 		1060,
 		"Bigfoot",
-		"Bigfoot",
+		"BIGFOOT",
 		29,
-		1442306,
+		1442306
 	},
 
 	{
 		"prt_maze02",
-		17336,
+		17286,
 		300,
 		1243,
 		"Sasquatch",
-		"Sasquatch",
+		"SASQUATCH",
 		72,
-		3932674,
+		3932674
+	},
+
+	{
+		"prt_maze02",
+		17287,
+		300,
+		1306,
+		"Leib Olmai",
+		"LEIB_OLMAI",
+		118,
+		1442306
 	},
 
 	{
 		"prt_maze03",
-		17337,
+		17288,
 		300,
 		1037,
 		"Side Winder",
-		"Side_Winder",
+		"SIDE_WINDER",
 		70,
-		1638658,
+		1638658
 	},
 
 	{
 		"prt_maze03",
-		17338,
+		17289,
 		300,
 		1035,
 		"Hunter Fly",
-		"Hunter_Fly",
+		"HUNTER_FLY",
 		63,
-		2883588,
+		2883588
 	},
 
 	{
 		"prt_maze03",
-		17339,
+		17290,
 		300,
 		1120,
 		"Ghostring",
-		"Ghostring",
+		"GHOSTRING",
 		90,
-		5767430,
+		5767430
 	},
 
 	{
 		"prt_maze03",
-		17341,
+		17291,
+		300,
+		1294,
+		"Killer Mantis",
+		"KILLER_MANTIS",
+		141,
+		1442052
+	},
+
+	{
+		"prt_maze03",
+		17293,
 		300,
 		1088,
 		"Vocal",
-		"Vocal",
+		"VOCAL",
 		18,
-		1442052,
+		1442052
 	},
 
 	{
 		"prt_maze03",
-		17342,
+		17294,
 		300,
 		1215,
 		"Stem Worm",
-		"Stem Worm",
+		"STEM_WORM",
 		84,
-		1573123,
+		1573123
 	},
 
 	{
 		"prt_maze03",
-		17343,
+		17295,
 		300,
 		1092,
 		"Vagabond Wolf",
-		"Vagabond_Wolf",
+		"VAGABOND_WOLF",
 		93,
-		1442050,
+		1442050
 	},
 
 	{
 		"prt_maze03",
-		17344,
+		17296,
 		300,
 		1139,
 		"Mantis",
-		"Mantis",
+		"MANTIS",
 		65,
-		1442052,
+		1442052
 	},
 
 	{
 		"prt_maze03",
-		17345,
+		17297,
 		300,
 		1093,
 		"Eclipse",
-		"Eclipse",
+		"ECLIPSE",
 		31,
-		3932418,
+		3932418
 	},
 
 	{
 		"prt_maze03",
-		17346,
+		17298,
 		300,
 		1090,
 		"Mastering",
-		"Mastering",
+		"MASTERING",
 		42,
-		1376515,
+		1376515
 	},
 
 	{
 		"prt_maze03",
-		17347,
+		17299,
 		300,
 		1101,
 		"Baphomet Jr.",
-		"Baphomet Junior",
+		"BAPHOMET_",
 		57,
-		1769478,
+		1769478
 	},
 
 	{
 		"prt_maze03",
-		17348,
+		17300,
 		301,
 		1039,
 		"Baphomet",
-		"Baphomet",
+		"BAPHOMET",
 		81,
-		4391430,
+		4391430
 	},
 
 	{
 		"prt_maze03",
-		17530,
+		17465,
 		300,
 		1085,
 		"Red Mushroom",
-		"Red_Mushroom",
+		"RED_MUSHROOM",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"prt_sewb1",
-		16363,
+		16307,
 		300,
 		1006,
-		"Thief Bug",
-		"Thief Bug",
+		"Thief Bug Larva",
+		"THIEF_BUG_LARVA",
 		0,
-		0,
+		0
 	},
 
 	{
 		"prt_sewb1",
-		16364,
+		16308,
 		300,
 		1048,
 		"Thief Bug Egg",
-		"Thief_Bug_Egg",
+		"THIEF_BUG_EGG",
 		20,
-		1769476,
+		1769476
 	},
 
 	{
 		"prt_sewb1",
-		16365,
+		16309,
 		300,
 		1175,
 		"Tarou",
-		"Tarou",
+		"TAROU",
 		22,
-		1769474,
+		1769474
 	},
 
 	{
 		"prt_sewb1",
-		16366,
+		16310,
 		300,
 		1005,
 		"Familiar",
-		"Familiar",
+		"FARMILIAR",
 		24,
-		1769474,
+		1769474
 	},
 
 	{
 		"prt_sewb2",
-		16367,
+		16311,
 		300,
 		1006,
-		"Thief Bug",
-		"Thief Bug",
+		"Thief Bug Larva",
+		"THIEF_BUG_LARVA",
 		0,
-		0,
+		0
 	},
 
 	{
 		"prt_sewb2",
-		16369,
+		16313,
 		300,
 		1048,
 		"Thief Bug Egg",
-		"Thief_Bug_Egg",
+		"THIEF_BUG_EGG",
 		20,
-		1769476,
+		1769476
 	},
 
 	{
 		"prt_sewb2",
-		16370,
+		16314,
 		300,
 		1014,
 		"Spore",
-		"Spore",
+		"SPORE",
 		18,
-		1376515,
+		1376515
 	},
 
 	{
 		"prt_sewb2",
-		16371,
+		16315,
 		300,
 		1175,
 		"Tarou",
-		"Tarou",
+		"TAROU",
 		22,
-		1769474,
+		1769474
 	},
 
 	{
 		"prt_sewb2",
-		16372,
+		16316,
 		300,
 		1005,
 		"Familiar",
-		"Familiar",
+		"FARMILIAR",
 		24,
-		1769474,
+		1769474
 	},
 
 	{
 		"prt_sewb2",
-		16373,
+		16317,
 		300,
 		1161,
 		"Plankton",
-		"Plankton",
+		"PLANKTON",
 		40,
-		3997699,
+		3997699
 	},
 
 	{
 		"prt_sewb3",
-		16374,
+		16318,
 		300,
 		1006,
-		"Thief Bug",
-		"Thief Bug",
+		"Thief Bug Larva",
+		"THIEF_BUG_LARVA",
 		0,
-		0,
+		0
 	},
 
 	{
 		"prt_sewb3",
-		16377,
+		16321,
 		300,
 		1048,
 		"Thief Bug Egg",
-		"Thief_Bug_Egg",
+		"THIEF_BUG_EGG",
 		20,
-		1769476,
+		1769476
 	},
 
 	{
 		"prt_sewb3",
-		16378,
+		16322,
 		300,
 		1175,
 		"Tarou",
-		"Tarou",
+		"TAROU",
 		22,
-		1769474,
+		1769474
 	},
 
 	{
 		"prt_sewb3",
-		16379,
+		16323,
 		300,
 		1005,
 		"Familiar",
-		"Familiar",
+		"FARMILIAR",
 		24,
-		1769474,
+		1769474
 	},
 
 	{
 		"prt_sewb3",
-		16380,
+		16324,
 		300,
 		1077,
 		"Poison Spore",
-		"Poison_Spore",
+		"POISON_SPORE",
 		26,
-		1638659,
+		1638659
 	},
 
 	{
 		"prt_sewb4",
-		16381,
+		16325,
 		300,
 		1006,
-		"Thief Bug",
-		"Thief Bug",
+		"Thief Bug Larva",
+		"THIEF_BUG_LARVA",
 		0,
-		0,
+		0
 	},
 
 	{
 		"prt_sewb4",
-		16384,
+		16328,
 		300,
 		1048,
 		"Thief Bug Egg",
-		"Thief_Bug_Egg",
+		"THIEF_BUG_EGG",
 		20,
-		1769476,
+		1769476
 	},
 
 	{
 		"prt_sewb4",
-		16385,
+		16329,
 		300,
 		1111,
 		"Drainliar",
-		"Drainliar",
+		"DRAINLIAR",
 		47,
-		3080194,
+		3080194
 	},
 
 	{
 		"prt_sewb4",
-		16386,
+		16330,
 		300,
 		1209,
 		"Cramp",
-		"Cramp",
+		"CRAMP",
 		82,
-		2949122,
+		2949122
 	},
 
 	{
 		"prt_sewb4",
-		17281,
+		17227,
 		301,
 		1086,
 		"Golden Thief Bug",
-		"Golden_Thief_Bug",
+		"GOLDEN_BUG",
 		65,
-		2818564,
+		2818564
 	},
 
 	{
 		"que_qsch01",
-		18041,
+		17981,
 		300,
 		1932,
 		"Garden Keeper",
-		"Garden_Keeper",
+		"GARDEN_KEEPER",
 		80,
-		2752512,
+		2752512
 	},
 
 	{
 		"que_qsch01",
-		18058,
+		17998,
 		300,
 		1933,
 		"Garden Watcher",
-		"Garden_Watcher",
+		"GARDEN_WATCHER",
 		81,
-		5243144,
+		5243144
 	},
 
 	{
 		"ra_fild01",
-		16293,
+		16237,
 		300,
 		1106,
 		"Desert Wolf",
-		"Desert_Wolf",
+		"DESERT_WOLF",
 		103,
-		1507586,
+		1507586
 	},
 
 	{
 		"ra_fild01",
-		16294,
+		16238,
 		300,
 		1107,
 		"Desert Wolf Baby",
-		"Baby Desert Wolf",
+		"DESERT_WOLF_B",
 		14,
-		1507330,
+		1507330
 	},
 
 	{
 		"ra_fild01",
-		16295,
+		16239,
 		300,
 		1782,
 		"Roween",
-		"Roween",
+		"ROWEEN",
 		95,
-		1573122,
+		1573122
 	},
 
 	{
 		"ra_fild01",
-		16296,
+		16240,
 		300,
 		1627,
 		"Anopheles",
-		"Anopheles",
+		"ANOPHELES",
 		95,
-		4194308,
+		4194308
 	},
 
 	{
 		"ra_fild03",
-		16297,
+		16241,
 		300,
 		1680,
 		"Hill Wind",
-		"Hill_Wind",
+		"HILL_WIND_1",
 		101,
-		4194562,
+		4194562
 	},
 
 	{
 		"ra_fild03",
-		16298,
+		16242,
 		300,
 		1030,
 		"Anacondaq",
-		"Anacondaq",
+		"ANACONDAQ",
 		100,
-		1638658,
+		1638658
 	},
 
 	{
 		"ra_fild03",
-		16299,
+		16243,
 		300,
 		1782,
 		"Roween",
-		"Roween",
+		"ROWEEN",
 		95,
-		1573122,
+		1573122
 	},
 
 	{
 		"ra_fild03",
-		16300,
+		16244,
 		300,
 		1627,
 		"Anopheles",
-		"Anopheles",
+		"ANOPHELES",
 		95,
-		4194308,
+		4194308
 	},
 
 	{
 		"ra_fild03",
-		17288,
+		17234,
 		301,
 		1785,
 		"Atroce",
-		"Atroce",
+		"ATROCE",
 		113,
-		4391426,
+		4391426
 	},
 
 	{
 		"ra_fild04",
-		16301,
+		16245,
 		300,
 		1680,
 		"Hill Wind",
-		"Hill_Wind",
+		"HILL_WIND_1",
 		101,
-		4194562,
+		4194562
 	},
 
 	{
 		"ra_fild04",
-		16302,
+		16246,
 		300,
 		1106,
 		"Desert Wolf",
-		"Desert_Wolf",
+		"DESERT_WOLF",
 		103,
-		1507586,
+		1507586
 	},
 
 	{
 		"ra_fild04",
-		16303,
+		16247,
 		300,
 		1782,
 		"Roween",
-		"Roween",
+		"ROWEEN",
 		95,
-		1573122,
+		1573122
 	},
 
 	{
 		"ra_fild04",
-		16304,
+		16248,
 		300,
 		1627,
 		"Anopheles",
-		"Anopheles",
+		"ANOPHELES",
 		95,
-		4194308,
+		4194308
 	},
 
 	{
 		"ra_fild04",
-		17289,
+		17235,
 		301,
 		1785,
 		"Atroce",
-		"Atroce",
+		"ATROCE",
 		113,
-		4391426,
+		4391426
 	},
 
 	{
 		"ra_fild05",
-		16305,
+		16249,
 		300,
 		1133,
 		"Kobold",
-		"Kobold 1",
+		"KOBOLD_1",
 		107,
-		2883847,
+		2883847
 	},
 
 	{
 		"ra_fild05",
-		16306,
+		16250,
 		300,
 		1134,
 		"Kobold",
-		"Kobold 2",
+		"KOBOLD_2",
 		102,
-		2949383,
+		2949383
 	},
 
 	{
 		"ra_fild05",
-		16307,
+		16251,
 		300,
 		1135,
 		"Kobold",
-		"Kobold 3",
+		"KOBOLD_3",
 		101,
-		2818311,
+		2818311
 	},
 
 	{
 		"ra_fild05",
-		16308,
+		16252,
 		300,
 		1627,
 		"Anopheles",
-		"Anopheles",
+		"ANOPHELES",
 		95,
-		4194308,
+		4194308
 	},
 
 	{
 		"ra_fild06",
-		16309,
+		16253,
 		300,
 		1282,
 		"Kobold Archer",
-		"Kobold_Archer",
+		"KOBOLD_ARCHER",
 		108,
-		1507335,
+		1507335
 	},
 
 	{
 		"ra_fild06",
-		16310,
+		16254,
 		300,
 		1133,
 		"Kobold",
-		"Kobold 1",
+		"KOBOLD_1",
 		107,
-		2883847,
+		2883847
 	},
 
 	{
 		"ra_fild06",
-		16311,
+		16255,
 		300,
 		1134,
 		"Kobold",
-		"Kobold 2",
+		"KOBOLD_2",
 		102,
-		2949383,
+		2949383
 	},
 
 	{
 		"ra_fild06",
-		16312,
+		16256,
 		300,
 		1135,
 		"Kobold",
-		"Kobold 3",
+		"KOBOLD_3",
 		101,
-		2818311,
+		2818311
 	},
 
 	{
 		"ra_fild06",
-		16313,
+		16257,
 		300,
 		1627,
 		"Anopheles",
-		"Anopheles",
+		"ANOPHELES",
 		95,
-		4194308,
+		4194308
 	},
 
 	{
 		"ra_fild06",
-		17537,
+		17472,
 		300,
 		1296,
 		"Kobold Leader",
-		"Kobold_Leader",
+		"KOBOLD_LEADER",
 		112,
-		2883847,
+		2883847
 	},
 
 	{
 		"ra_fild08",
-		16314,
+		16258,
 		300,
 		1030,
 		"Anacondaq",
-		"Anacondaq",
+		"ANACONDAQ",
 		100,
-		1638658,
+		1638658
 	},
 
 	{
 		"ra_fild08",
-		16315,
+		16259,
 		300,
 		1680,
 		"Hill Wind",
-		"Hill_Wind",
+		"HILL_WIND_1",
 		101,
-		4194562,
+		4194562
 	},
 
 	{
 		"ra_fild08",
-		16316,
+		16260,
 		300,
 		1782,
 		"Roween",
-		"Roween",
+		"ROWEEN",
 		95,
-		1573122,
+		1573122
 	},
 
 	{
 		"ra_fild08",
-		16317,
+		16261,
 		300,
 		1107,
 		"Desert Wolf Baby",
-		"Baby Desert Wolf",
+		"DESERT_WOLF_B",
 		14,
-		1507330,
+		1507330
 	},
 
 	{
 		"ra_fild08",
-		16318,
+		16262,
 		300,
 		1627,
 		"Anopheles",
-		"Anopheles",
+		"ANOPHELES",
 		95,
-		4194308,
+		4194308
 	},
 
 	{
 		"ra_fild12",
-		16319,
+		16263,
 		300,
 		1782,
 		"Roween",
-		"Roween",
+		"ROWEEN",
 		95,
-		1573122,
+		1573122
 	},
 
 	{
 		"ra_fild12",
-		16320,
+		16264,
 		300,
 		1107,
 		"Desert Wolf Baby",
-		"Baby Desert Wolf",
+		"DESERT_WOLF_B",
 		14,
-		1507330,
+		1507330
 	},
 
 	{
 		"ra_fild12",
-		16321,
+		16265,
 		300,
 		1627,
 		"Anopheles",
-		"Anopheles",
+		"ANOPHELES",
 		95,
-		4194308,
+		4194308
 	},
 
 	{
 		"ra_fild12",
-		17579,
+		17514,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ra_fild12",
-		17580,
+		17515,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ra_san01",
-		17060,
+		17006,
 		300,
 		1632,
 		"Gremlin",
-		"Gremlin",
+		"GREMLIN",
 		118,
-		3080710,
+		3080710
 	},
 
 	{
 		"ra_san01",
-		17061,
+		17007,
 		300,
 		1633,
 		"Beholder",
-		"Beholder",
+		"BEHOLDER",
 		120,
-		2883584,
+		2883584
 	},
 
 	{
 		"ra_san01",
-		17062,
+		17008,
 		300,
 		1772,
 		"Isilla",
-		"Isilla",
+		"ISILLA",
 		124,
-		5243143,
+		5243143
 	},
 
 	{
 		"ra_san01",
-		17063,
+		17009,
 		300,
 		1771,
 		"Vanberk",
-		"Vanberk",
+		"VANBERK",
 		123,
-		5243143,
+		5243143
 	},
 
 	{
 		"ra_san01",
-		17064,
+		17010,
 		300,
 		1773,
 		"Hodremlin",
-		"Hodremlin",
+		"HODREMLIN",
 		122,
-		4391174,
+		4391174
 	},
 
 	{
 		"ra_san02",
-		17065,
+		17011,
 		300,
 		1632,
 		"Gremlin",
-		"Gremlin",
+		"GREMLIN",
 		118,
-		3080710,
+		3080710
 	},
 
 	{
 		"ra_san02",
-		17066,
+		17012,
 		300,
 		1633,
 		"Beholder",
-		"Beholder",
+		"BEHOLDER",
 		120,
-		2883584,
+		2883584
 	},
 
 	{
 		"ra_san02",
-		17067,
+		17013,
 		300,
 		1774,
 		"Seeker",
-		"Seeker",
+		"SEEKER",
 		124,
-		4194304,
+		4194304
 	},
 
 	{
 		"ra_san02",
-		17068,
+		17014,
 		300,
 		1772,
 		"Isilla",
-		"Isilla",
+		"ISILLA",
 		124,
-		5243143,
+		5243143
 	},
 
 	{
 		"ra_san02",
-		17069,
+		17015,
 		300,
 		1771,
 		"Vanberk",
-		"Vanberk",
+		"VANBERK",
 		123,
-		5243143,
+		5243143
 	},
 
 	{
 		"ra_san02",
-		17070,
+		17016,
 		300,
 		1773,
 		"Hodremlin",
-		"Hodremlin",
+		"HODREMLIN",
 		122,
-		4391174,
+		4391174
 	},
 
 	{
 		"ra_san03",
-		17071,
+		17017,
 		300,
 		1632,
 		"Gremlin",
-		"Gremlin",
+		"GREMLIN",
 		118,
-		3080710,
+		3080710
 	},
 
 	{
 		"ra_san03",
-		17072,
+		17018,
 		300,
 		1633,
 		"Beholder",
-		"Beholder",
+		"BEHOLDER",
 		120,
-		2883584,
+		2883584
 	},
 
 	{
 		"ra_san03",
-		17073,
+		17019,
 		300,
 		1774,
 		"Seeker",
-		"Seeker",
+		"SEEKER",
 		124,
-		4194304,
+		4194304
 	},
 
 	{
 		"ra_san03",
-		17074,
+		17020,
 		300,
 		1773,
 		"Hodremlin",
-		"Hodremlin",
+		"HODREMLIN",
 		122,
-		4391174,
+		4391174
 	},
 
 	{
 		"ra_san04",
-		17075,
+		17021,
 		300,
 		1774,
 		"Seeker",
-		"Seeker",
+		"SEEKER",
 		124,
-		4194304,
+		4194304
 	},
 
 	{
 		"ra_san04",
-		17076,
+		17022,
 		300,
 		1769,
 		"Agav",
-		"Agav",
+		"AGAV",
 		128,
-		5243143,
+		5243143
 	},
 
 	{
 		"ra_san04",
-		17077,
+		17023,
 		300,
 		1770,
 		"Echio",
-		"Echio",
+		"ECHIO",
 		126,
-		5243143,
+		5243143
 	},
 
 	{
 		"ra_san04",
-		17078,
+		17024,
 		300,
 		1773,
 		"Hodremlin",
-		"Hodremlin",
+		"HODREMLIN",
 		122,
-		4391174,
+		4391174
 	},
 
 	{
 		"ra_san05",
-		17079,
+		17025,
 		300,
 		1774,
 		"Seeker",
-		"Seeker",
+		"SEEKER",
 		124,
-		4194304,
+		4194304
 	},
 
 	{
 		"ra_san05",
-		17080,
+		17026,
 		300,
 		1769,
 		"Agav",
-		"Agav",
+		"AGAV",
 		128,
-		5243143,
+		5243143
 	},
 
 	{
 		"ra_san05",
-		17081,
+		17027,
 		300,
 		1770,
 		"Echio",
-		"Echio",
+		"ECHIO",
 		126,
-		5243143,
+		5243143
 	},
 
 	{
 		"ra_san05",
-		17082,
+		17028,
 		300,
 		1772,
 		"Isilla",
-		"Isilla",
+		"ISILLA",
 		124,
-		5243143,
+		5243143
 	},
 
 	{
 		"ra_san05",
-		17083,
+		17029,
 		300,
 		1773,
 		"Hodremlin",
-		"Hodremlin",
+		"HODREMLIN",
 		122,
-		4391174,
+		4391174
 	},
 
 	{
 		"ra_san05",
-		17284,
+		17230,
 		301,
 		1768,
 		"Gloom Under Night",
-		"Gloom_Under_Night",
+		"GLOOMUNDERNIGHT",
 		139,
-		4456960,
+		4456960
 	},
 
 	{
 		"schg_dun01",
-		17366,
+		17318,
 		300,
 		1978,
 		"Hell Apocalips",
-		"Hell Vesper",
+		"HELL_APOCALIPS",
 		121,
-		3932672,
+		3932672
 	},
 
 	{
 		"schg_dun01",
-		17367,
+		17319,
 		300,
 		1979,
-		"Zakudam",
 		"Zukadam",
+		"ZAKUDAM",
 		115,
-		3932679,
+		3932679
 	},
 
 	{
 		"schg_dun01",
-		17368,
+		17320,
 		300,
 		1977,
 		"Heavy Metaling",
-		"Heavy_Metaling",
+		"HEAVY_METALING",
 		107,
-		1310720,
+		1310720
 	},
 
 	{
 		"schg_dun01",
-		17369,
+		17321,
 		300,
 		1976,
 		"Cobalt Mineral",
-		"Cobalt_Mineral",
+		"COBALT_MINERAL",
 		113,
-		2621696,
+		2621696
 	},
 
 	{
 		"spl_fild01",
-		17229,
+		17175,
 		300,
 		2015,
 		"Dark Pinguicula",
-		"Dark_Pinguicula",
+		"PINGUICULA_D",
 		113,
-		2949379,
+		2949379
 	},
 
 	{
 		"spl_fild01",
-		17230,
+		17176,
 		300,
 		1993,
 		"Naga",
-		"Naga",
+		"NAGA",
 		117,
-		2753026,
+		2753026
 	},
 
 	{
 		"spl_fild01",
-		17231,
+		17177,
 		300,
 		1992,
 		"Cornus",
-		"Cornus",
+		"CORNUS",
 		120,
-		4325634,
+		4325634
 	},
 
 	{
 		"spl_fild02",
-		17248,
+		17194,
 		300,
 		1995,
 		"Pinguicula",
-		"Pinguicula",
+		"PINGUICULA",
 		105,
-		4063491,
+		4063491
 	},
 
 	{
 		"spl_fild02",
-		17249,
+		17195,
 		300,
 		1994,
 		"Luciola Vespa",
-		"Luciola_Vespa",
+		"LUCIOLA_VESPA",
 		109,
-		1573124,
+		1573124
 	},
 
 	{
 		"spl_fild02",
-		17250,
+		17196,
 		300,
 		2049,
 		"Bradium Golem",
-		"Bradium_Golem",
+		"W_BRADIUM_GOLEM",
 		99,
-		2753024,
+		2753024
 	},
 
 	{
 		"spl_fild02",
-		17251,
+		17197,
 		300,
 		2047,
-		"마력에 취한 나가",
-		"워록_나가",
+		"Naga",
+		"W_NAGA",
 		99,
-		2753026,
+		2753026
 	},
 
 	{
 		"spl_fild03",
-		17252,
+		17198,
 		300,
 		1994,
 		"Luciola Vespa",
-		"Luciola_Vespa",
+		"LUCIOLA_VESPA",
 		109,
-		1573124,
+		1573124
 	},
 
 	{
 		"spl_fild03",
-		17253,
+		17199,
 		300,
 		1992,
 		"Cornus",
-		"Cornus",
+		"CORNUS",
 		120,
-		4325634,
+		4325634
 	},
 
 	{
 		"spl_fild03",
-		17254,
+		17200,
 		300,
 		1993,
 		"Naga",
-		"Naga",
+		"NAGA",
 		117,
-		2753026,
+		2753026
 	},
 
 	{
 		"spl_fild03",
-		17255,
+		17201,
 		300,
 		1991,
 		"Tendrillion",
-		"Tendrillion",
+		"TENDRILRION",
 		126,
-		2752770,
+		2752770
 	},
 
 	{
 		"tha_t01",
-		16921,
+		16867,
 		300,
 		1195,
 		"Rideword",
-		"Rideword",
+		"RIDEWORD",
 		74,
-		3932160,
+		3932160
 	},
 
 	{
 		"tha_t01",
-		16922,
+		16868,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"tha_t01",
-		16923,
+		16869,
 		300,
 		1275,
 		"Alice",
-		"Alice",
+		"ALICE",
 		100,
-		3932423,
+		3932423
 	},
 
 	{
 		"tha_t01",
-		16924,
+		16870,
 		300,
 		1703,
 		"Solace",
-		"Lady Solace",
+		"SOLACE",
 		123,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t01",
-		16925,
+		16871,
 		300,
 		1695,
 		"Plasma",
-		"Plasma_G",
+		"PLASMA_G",
 		116,
-		5373952,
+		5373952
 	},
 
 	{
 		"tha_t02",
-		16926,
+		16872,
 		300,
 		1698,
-		"Death Word",
 		"Deathword",
+		"DEATHWORD",
 		114,
-		3932416,
+		3932416
 	},
 
 	{
 		"tha_t02",
-		16927,
+		16873,
 		300,
 		1195,
 		"Rideword",
-		"Rideword",
+		"RIDEWORD",
 		74,
-		3932160,
+		3932160
 	},
 
 	{
 		"tha_t02",
-		16928,
+		16874,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"tha_t02",
-		16929,
+		16875,
 		300,
 		1702,
 		"Retribution",
-		"Baroness of Retribution",
+		"RETRIBUTION",
 		121,
-		4391176,
+		4391176
 	},
 
 	{
 		"tha_t02",
-		16930,
+		16876,
 		300,
 		1699,
 		"Ancient Mimic",
-		"Ancient_Mimic",
+		"ANCIENT_MIMIC",
 		112,
-		3932672,
+		3932672
 	},
 
 	{
 		"tha_t02",
-		16931,
+		16877,
 		300,
 		1377,
 		"Elder",
-		"Elder",
+		"ELDER",
 		92,
-		5243399,
+		5243399
 	},
 
 	{
 		"tha_t02",
-		16932,
+		16878,
 		300,
 		1275,
 		"Alice",
-		"Alice",
+		"ALICE",
 		100,
-		3932423,
+		3932423
 	},
 
 	{
 		"tha_t02",
-		16933,
+		16879,
 		300,
 		1697,
 		"Plasma",
-		"Plasma_B",
+		"PLASMA_B",
 		115,
-		5308416,
+		5308416
 	},
 
 	{
 		"tha_t03",
-		16934,
+		16880,
 		300,
 		1698,
-		"Death Word",
 		"Deathword",
+		"DEATHWORD",
 		114,
-		3932416,
+		3932416
 	},
 
 	{
 		"tha_t03",
-		16935,
+		16881,
 		300,
 		1195,
 		"Rideword",
-		"Rideword",
+		"RIDEWORD",
 		74,
-		3932160,
+		3932160
 	},
 
 	{
 		"tha_t03",
-		16936,
+		16882,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"tha_t03",
-		16937,
+		16883,
 		300,
 		1701,
 		"Shelter",
-		"Mistress of Shelter",
+		"SHELTER",
 		125,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t03",
-		16938,
+		16884,
 		300,
 		1699,
 		"Ancient Mimic",
-		"Ancient_Mimic",
+		"ANCIENT_MIMIC",
 		112,
-		3932672,
+		3932672
 	},
 
 	{
 		"tha_t03",
-		16939,
+		16885,
 		300,
 		1377,
 		"Elder",
-		"Elder",
+		"ELDER",
 		92,
-		5243399,
+		5243399
 	},
 
 	{
 		"tha_t03",
-		16940,
+		16886,
 		300,
 		1696,
 		"Plasma",
-		"Plasma_P",
+		"PLASMA_P",
 		117,
-		5701632,
+		5701632
 	},
 
 	{
 		"tha_t04",
-		16941,
+		16887,
 		300,
 		1700,
 		"Observation",
-		"Dame of Sentinel",
+		"OBSERVATION",
 		127,
-		5243144,
+		5243144
 	},
 
 	{
 		"tha_t04",
-		16942,
+		16888,
 		300,
 		1698,
-		"Death Word",
 		"Deathword",
+		"DEATHWORD",
 		114,
-		3932416,
+		3932416
 	},
 
 	{
 		"tha_t04",
-		16943,
+		16889,
 		300,
 		1195,
 		"Rideword",
-		"Rideword",
+		"RIDEWORD",
 		74,
-		3932160,
+		3932160
 	},
 
 	{
 		"tha_t04",
-		16944,
+		16890,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"tha_t04",
-		16945,
+		16891,
 		300,
 		1320,
 		"Owl Duke",
-		"Owl_Duke",
+		"OWL_DUKE",
 		92,
-		3932678,
+		3932678
 	},
 
 	{
 		"tha_t04",
-		16946,
+		16892,
 		300,
 		1295,
 		"Owl Baron",
-		"Owl_Baron",
+		"OWL_BARON",
 		120,
-		3932678,
+		3932678
 	},
 
 	{
 		"tha_t04",
-		16947,
+		16893,
 		300,
 		1699,
 		"Ancient Mimic",
-		"Ancient_Mimic",
+		"ANCIENT_MIMIC",
 		112,
-		3932672,
+		3932672
 	},
 
 	{
 		"tha_t04",
-		16948,
+		16894,
 		300,
 		1377,
 		"Elder",
-		"Elder",
+		"ELDER",
 		92,
-		5243399,
+		5243399
 	},
 
 	{
 		"tha_t04",
-		16949,
+		16895,
 		300,
 		1694,
 		"Plasma",
-		"Plasma_R",
+		"PLASMA_R",
 		118,
-		5439488,
+		5439488
 	},
 
 	{
 		"tha_t05",
-		16950,
+		16896,
 		300,
 		1698,
-		"Death Word",
 		"Deathword",
+		"DEATHWORD",
 		114,
-		3932416,
+		3932416
 	},
 
 	{
 		"tha_t05",
-		16951,
+		16897,
 		300,
 		1320,
 		"Owl Duke",
-		"Owl_Duke",
+		"OWL_DUKE",
 		92,
-		3932678,
+		3932678
 	},
 
 	{
 		"tha_t05",
-		16952,
+		16898,
 		300,
 		1295,
 		"Owl Baron",
-		"Owl_Baron",
+		"OWL_BARON",
 		120,
-		3932678,
+		3932678
 	},
 
 	{
 		"tha_t05",
-		16953,
+		16899,
 		300,
 		1699,
 		"Ancient Mimic",
-		"Ancient_Mimic",
+		"ANCIENT_MIMIC",
 		112,
-		3932672,
+		3932672
 	},
 
 	{
 		"tha_t05",
-		16954,
+		16900,
 		300,
 		1377,
 		"Elder",
-		"Elder",
+		"ELDER",
 		92,
-		5243399,
+		5243399
 	},
 
 	{
 		"tha_t05",
-		16955,
+		16901,
 		300,
 		1707,
 		"Thanatos Dolor",
-		"Dolor of Thanatos",
+		"THA_DOLOR",
 		129,
-		5767169,
+		5767169
 	},
 
 	{
 		"tha_t05",
-		16956,
+		16902,
 		300,
 		1697,
 		"Plasma",
-		"Plasma_B",
+		"PLASMA_B",
 		115,
-		5308416,
+		5308416
 	},
 
 	{
 		"tha_t05",
-		16957,
+		16903,
 		300,
 		1695,
 		"Plasma",
-		"Plasma_G",
+		"PLASMA_G",
 		116,
-		5373952,
+		5373952
 	},
 
 	{
 		"tha_t05",
-		16958,
+		16904,
 		300,
 		1696,
 		"Plasma",
-		"Plasma_P",
+		"PLASMA_P",
 		117,
-		5701632,
+		5701632
 	},
 
 	{
 		"tha_t05",
-		16959,
+		16905,
 		300,
 		1694,
 		"Plasma",
-		"Plasma_R",
+		"PLASMA_R",
 		118,
-		5439488,
+		5439488
 	},
 
 	{
 		"tha_t06",
-		17084,
+		17030,
 		300,
 		1698,
-		"Death Word",
 		"Deathword",
+		"DEATHWORD",
 		114,
-		3932416,
+		3932416
 	},
 
 	{
 		"tha_t06",
-		17085,
+		17031,
 		300,
 		1320,
 		"Owl Duke",
-		"Owl_Duke",
+		"OWL_DUKE",
 		92,
-		3932678,
+		3932678
 	},
 
 	{
 		"tha_t06",
-		17086,
+		17032,
 		300,
 		1295,
 		"Owl Baron",
-		"Owl_Baron",
+		"OWL_BARON",
 		120,
-		3932678,
+		3932678
 	},
 
 	{
 		"tha_t06",
-		17087,
+		17033,
 		300,
 		1699,
 		"Ancient Mimic",
-		"Ancient_Mimic",
+		"ANCIENT_MIMIC",
 		112,
-		3932672,
+		3932672
 	},
 
 	{
 		"tha_t06",
-		17088,
+		17034,
 		300,
 		1377,
 		"Elder",
-		"Elder",
+		"ELDER",
 		92,
-		5243399,
+		5243399
 	},
 
 	{
 		"tha_t06",
-		17089,
+		17035,
 		300,
 		1706,
 		"Thanatos Maero",
-		"Maero of Thanatos",
+		"THA_MAERO",
 		129,
-		5767425,
+		5767425
 	},
 
 	{
 		"tha_t06",
-		17090,
+		17036,
 		300,
 		1697,
 		"Plasma",
-		"Plasma_B",
+		"PLASMA_B",
 		115,
-		5308416,
+		5308416
 	},
 
 	{
 		"tha_t06",
-		17091,
+		17037,
 		300,
 		1695,
 		"Plasma",
-		"Plasma_G",
+		"PLASMA_G",
 		116,
-		5373952,
+		5373952
 	},
 
 	{
 		"tha_t06",
-		17092,
+		17038,
 		300,
 		1696,
 		"Plasma",
-		"Plasma_P",
+		"PLASMA_P",
 		117,
-		5701632,
+		5701632
 	},
 
 	{
 		"tha_t06",
-		17093,
+		17039,
 		300,
 		1694,
 		"Plasma",
-		"Plasma_R",
+		"PLASMA_R",
 		118,
-		5439488,
+		5439488
 	},
 
 	{
 		"tha_t07",
-		17094,
+		17040,
 		300,
 		1700,
 		"Observation",
-		"Dame of Sentinel",
+		"OBSERVATION",
 		127,
-		5243144,
+		5243144
 	},
 
 	{
 		"tha_t07",
-		17095,
+		17041,
 		300,
 		1698,
-		"Death Word",
 		"Deathword",
+		"DEATHWORD",
 		114,
-		3932416,
+		3932416
 	},
 
 	{
 		"tha_t07",
-		17096,
+		17042,
 		300,
 		1702,
 		"Retribution",
-		"Baroness of Retribution",
+		"RETRIBUTION",
 		121,
-		4391176,
+		4391176
 	},
 
 	{
 		"tha_t07",
-		17097,
+		17043,
 		300,
 		1701,
 		"Shelter",
-		"Mistress of Shelter",
+		"SHELTER",
 		125,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t07",
-		17098,
+		17044,
 		300,
 		1699,
 		"Ancient Mimic",
-		"Ancient_Mimic",
+		"ANCIENT_MIMIC",
 		112,
-		3932672,
+		3932672
 	},
 
 	{
 		"tha_t07",
-		17099,
+		17045,
 		300,
 		1703,
 		"Solace",
-		"Lady Solace",
+		"SOLACE",
 		123,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t07",
-		17100,
+		17046,
 		300,
 		1705,
 		"Thanatos Despero",
-		"Despero of Thanatos",
+		"THA_DESPERO",
 		129,
-		5767681,
+		5767681
 	},
 
 	{
 		"tha_t08",
-		17101,
+		17047,
 		300,
 		1700,
 		"Observation",
-		"Dame of Sentinel",
+		"OBSERVATION",
 		127,
-		5243144,
+		5243144
 	},
 
 	{
 		"tha_t08",
-		17102,
+		17048,
 		300,
 		1698,
-		"Death Word",
 		"Deathword",
+		"DEATHWORD",
 		114,
-		3932416,
+		3932416
 	},
 
 	{
 		"tha_t08",
-		17103,
+		17049,
 		300,
 		1702,
 		"Retribution",
-		"Baroness of Retribution",
+		"RETRIBUTION",
 		121,
-		4391176,
+		4391176
 	},
 
 	{
 		"tha_t08",
-		17104,
+		17050,
 		300,
 		1701,
 		"Shelter",
-		"Mistress of Shelter",
+		"SHELTER",
 		125,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t08",
-		17105,
+		17051,
 		300,
 		1699,
 		"Ancient Mimic",
-		"Ancient_Mimic",
+		"ANCIENT_MIMIC",
 		112,
-		3932672,
+		3932672
 	},
 
 	{
 		"tha_t08",
-		17106,
+		17052,
 		300,
 		1703,
 		"Solace",
-		"Lady Solace",
+		"SOLACE",
 		123,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t08",
-		17107,
+		17053,
 		300,
 		1704,
 		"Thanatos Odium",
-		"Odium of Thanatos",
+		"THA_ODIUM",
 		129,
-		5767681,
+		5767681
 	},
 
 	{
 		"tha_t09",
-		17108,
+		17054,
 		300,
 		1700,
 		"Observation",
-		"Dame of Sentinel",
+		"OBSERVATION",
 		127,
-		5243144,
+		5243144
 	},
 
 	{
 		"tha_t09",
-		17109,
+		17055,
 		300,
 		1702,
 		"Retribution",
-		"Baroness of Retribution",
+		"RETRIBUTION",
 		121,
-		4391176,
+		4391176
 	},
 
 	{
 		"tha_t09",
-		17110,
+		17056,
 		300,
 		1701,
 		"Shelter",
-		"Mistress of Shelter",
+		"SHELTER",
 		125,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t09",
-		17111,
+		17057,
 		300,
 		1703,
 		"Solace",
-		"Lady Solace",
+		"SOLACE",
 		123,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t09",
-		17112,
+		17058,
 		300,
 		1707,
 		"Thanatos Dolor",
-		"Dolor of Thanatos",
+		"THA_DOLOR",
 		129,
-		5767169,
+		5767169
 	},
 
 	{
 		"tha_t09",
-		17114,
+		17060,
 		300,
 		1694,
 		"Plasma",
-		"Plasma_R",
+		"PLASMA_R",
 		118,
-		5439488,
+		5439488
 	},
 
 	{
 		"tha_t10",
-		17115,
+		17061,
 		300,
 		1700,
 		"Observation",
-		"Dame of Sentinel",
+		"OBSERVATION",
 		127,
-		5243144,
+		5243144
 	},
 
 	{
 		"tha_t10",
-		17116,
+		17062,
 		300,
 		1702,
 		"Retribution",
-		"Baroness of Retribution",
+		"RETRIBUTION",
 		121,
-		4391176,
+		4391176
 	},
 
 	{
 		"tha_t10",
-		17117,
+		17063,
 		300,
 		1701,
 		"Shelter",
-		"Mistress of Shelter",
+		"SHELTER",
 		125,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t10",
-		17118,
+		17064,
 		300,
 		1703,
 		"Solace",
-		"Lady Solace",
+		"SOLACE",
 		123,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t10",
-		17119,
+		17065,
 		300,
 		1706,
 		"Thanatos Maero",
-		"Maero of Thanatos",
+		"THA_MAERO",
 		129,
-		5767425,
+		5767425
 	},
 
 	{
 		"tha_t10",
-		17121,
+		17067,
 		300,
 		1697,
 		"Plasma",
-		"Plasma_B",
+		"PLASMA_B",
 		115,
-		5308416,
+		5308416
 	},
 
 	{
 		"tha_t11",
-		17122,
+		17068,
 		300,
 		1700,
 		"Observation",
-		"Dame of Sentinel",
+		"OBSERVATION",
 		127,
-		5243144,
+		5243144
 	},
 
 	{
 		"tha_t11",
-		17123,
+		17069,
 		300,
 		1702,
 		"Retribution",
-		"Baroness of Retribution",
+		"RETRIBUTION",
 		121,
-		4391176,
+		4391176
 	},
 
 	{
 		"tha_t11",
-		17124,
+		17070,
 		300,
 		1701,
 		"Shelter",
-		"Mistress of Shelter",
+		"SHELTER",
 		125,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t11",
-		17125,
+		17071,
 		300,
 		1703,
 		"Solace",
-		"Lady Solace",
+		"SOLACE",
 		123,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t11",
-		17126,
+		17072,
 		300,
 		1705,
 		"Thanatos Despero",
-		"Despero of Thanatos",
+		"THA_DESPERO",
 		129,
-		5767681,
+		5767681
 	},
 
 	{
 		"tha_t11",
-		17128,
+		17074,
 		300,
 		1695,
 		"Plasma",
-		"Plasma_G",
+		"PLASMA_G",
 		116,
-		5373952,
+		5373952
 	},
 
 	{
 		"tha_t12",
-		17129,
+		17075,
 		300,
 		1700,
 		"Observation",
-		"Dame of Sentinel",
+		"OBSERVATION",
 		127,
-		5243144,
+		5243144
 	},
 
 	{
 		"tha_t12",
-		17130,
+		17076,
 		300,
 		1702,
 		"Retribution",
-		"Baroness of Retribution",
+		"RETRIBUTION",
 		121,
-		4391176,
+		4391176
 	},
 
 	{
 		"tha_t12",
-		17131,
+		17077,
 		300,
 		1701,
 		"Shelter",
-		"Mistress of Shelter",
+		"SHELTER",
 		125,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t12",
-		17132,
+		17078,
 		300,
 		1703,
 		"Solace",
-		"Lady Solace",
+		"SOLACE",
 		123,
-		4325640,
+		4325640
 	},
 
 	{
 		"tha_t12",
-		17133,
+		17079,
 		300,
 		1709,
 		"Thanatos Odium",
-		"Odium of Thanatos",
+		"G_THA_ODIUM",
 		129,
-		5767681,
+		5767681
 	},
 
 	{
 		"tha_t12",
-		17134,
+		17080,
 		300,
 		1693,
 		"Plasma",
-		"Plasma_Y",
+		"PLASMA_Y",
 		119,
-		5767168,
+		5767168
 	},
 
 	{
 		"thor_v01",
-		17183,
+		17129,
 		300,
 		1836,
 		"Magmaring",
-		"Magmaring",
+		"MAGMARING",
 		110,
-		2818048,
+		2818048
 	},
 
 	{
 		"thor_v01",
-		17184,
+		17130,
 		300,
 		1830,
 		"Bow Guardian",
-		"Bow_Guardian",
+		"BOW_GUARDIAN",
 		132,
-		5243399,
+		5243399
 	},
 
 	{
 		"thor_v01",
-		17185,
+		17131,
 		300,
 		1839,
 		"Byorgue",
-		"Byorgue",
+		"BYORGUE",
 		135,
-		1310983,
+		1310983
 	},
 
 	{
 		"thor_v01",
-		17186,
+		17132,
 		300,
 		1831,
 		"Salamander",
-		"Salamander",
+		"SALAMANDER",
 		138,
-		4129280,
+		4129280
 	},
 
 	{
 		"thor_v01",
-		17187,
+		17133,
 		300,
 		1829,
 		"Sword Guardian",
-		"Sword_Guardian",
+		"SWORD_GUARDIAN",
 		133,
-		5243399,
+		5243399
 	},
 
 	{
 		"thor_v01",
-		17188,
+		17134,
 		300,
 		1837,
 		"Imp",
-		"Imp",
+		"IMP",
 		129,
-		4128774,
+		4128774
 	},
 
 	{
 		"thor_v01",
-		17189,
+		17135,
 		300,
 		1833,
 		"Kasa",
-		"Kasa",
+		"KASA",
 		135,
-		4129280,
+		4129280
 	},
 
 	{
 		"thor_v02",
-		17190,
+		17136,
 		300,
 		1838,
 		"Knocker",
-		"Knocker",
+		"KNOCKER",
 		126,
-		1441798,
+		1441798
 	},
 
 	{
 		"thor_v02",
-		17191,
+		17137,
 		300,
 		1836,
 		"Magmaring",
-		"Magmaring",
+		"MAGMARING",
 		110,
-		2818048,
+		2818048
 	},
 
 	{
 		"thor_v02",
-		17192,
+		17138,
 		300,
 		1831,
 		"Salamander",
-		"Salamander",
+		"SALAMANDER",
 		138,
-		4129280,
+		4129280
 	},
 
 	{
 		"thor_v02",
-		17193,
+		17139,
 		300,
 		1837,
 		"Imp",
-		"Imp",
+		"IMP",
 		129,
-		4128774,
+		4128774
 	},
 
 	{
 		"thor_v02",
-		17194,
+		17140,
 		300,
 		1072,
 		"Kaho",
-		"Kaho",
+		"KAHO",
 		98,
-		5439750,
+		5439750
 	},
 
 	{
 		"thor_v02",
-		17293,
+		17240,
 		300,
 		1830,
 		"Bow Guardian",
-		"Bow_Guardian",
+		"BOW_GUARDIAN",
 		132,
-		5243399,
+		5243399
 	},
 
 	{
 		"thor_v02",
-		17300,
+		17249,
 		300,
 		1829,
 		"Sword Guardian",
-		"Sword_Guardian",
+		"SWORD_GUARDIAN",
 		133,
-		5243399,
+		5243399
 	},
 
 	{
 		"thor_v03",
-		17195,
+		17141,
 		300,
 		1830,
 		"Bow Guardian",
-		"Bow_Guardian",
+		"BOW_GUARDIAN",
 		132,
-		5243399,
+		5243399
 	},
 
 	{
 		"thor_v03",
-		17196,
+		17142,
 		300,
 		1839,
 		"Byorgue",
-		"Byorgue",
+		"BYORGUE",
 		135,
-		1310983,
+		1310983
 	},
 
 	{
 		"thor_v03",
-		17197,
+		17143,
 		300,
 		1831,
 		"Salamander",
-		"Salamander",
+		"SALAMANDER",
 		138,
-		4129280,
+		4129280
 	},
 
 	{
 		"thor_v03",
-		17198,
+		17144,
 		300,
 		1829,
 		"Sword Guardian",
-		"Sword_Guardian",
+		"SWORD_GUARDIAN",
 		133,
-		5243399,
+		5243399
 	},
 
 	{
 		"thor_v03",
-		17199,
+		17145,
 		300,
 		1833,
 		"Kasa",
-		"Kasa",
+		"KASA",
 		135,
-		4129280,
+		4129280
 	},
 
 	{
 		"thor_v03",
-		17285,
+		17231,
 		301,
 		1832,
 		"Ifrit",
-		"Ifrit",
+		"IFRIT",
 		146,
-		5440000,
+		5440000
 	},
 
 	{
 		"treasure01",
-		16508,
+		16452,
 		300,
 		1179,
 		"Whisper",
-		"Whisper",
+		"WHISPER",
 		46,
-		4456454,
+		4456454
 	},
 
 	{
 		"treasure01",
-		16509,
+		16453,
 		300,
 		1070,
 		"Kukre",
-		"Kukre",
+		"KUKRE",
 		42,
-		1376261,
+		1376261
 	},
 
 	{
 		"treasure01",
-		16510,
+		16454,
 		300,
 		1071,
 		"Pirate Skeleton",
-		"Pirate_Skeleton",
+		"PIRATE_SKEL",
 		48,
-		1900801,
+		1900801
 	},
 
 	{
 		"treasure01",
-		16511,
+		16455,
 		300,
 		1077,
 		"Poison Spore",
-		"Poison_Spore",
+		"POISON_SPORE",
 		26,
-		1638659,
+		1638659
 	},
 
 	{
 		"treasure01",
-		16512,
+		16456,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"treasure02",
-		16513,
+		16457,
 		300,
 		1143,
 		"Marionette",
-		"Marionette",
+		"MARIONETTE",
 		90,
-		4456454,
+		4456454
 	},
 
 	{
 		"treasure02",
-		16514,
+		16458,
 		300,
 		1191,
 		"Mimic",
-		"Mimic",
+		"MIMIC",
 		56,
-		3932416,
+		3932416
 	},
 
 	{
 		"treasure02",
-		16515,
+		16459,
 		300,
 		1208,
 		"Wander Man",
-		"Wanderer",
+		"WANDER_MAN",
 		120,
-		1573126,
+		1573126
 	},
 
 	{
 		"treasure02",
-		16516,
+		16460,
 		300,
 		1179,
 		"Whisper",
-		"Whisper",
+		"WHISPER",
 		46,
-		4456454,
+		4456454
 	},
 
 	{
 		"treasure02",
-		16517,
+		16461,
 		300,
 		1070,
 		"Kukre",
-		"Kukre",
+		"KUKRE",
 		42,
-		1376261,
+		1376261
 	},
 
 	{
 		"treasure02",
-		16518,
+		16462,
 		300,
 		1071,
 		"Pirate Skeleton",
-		"Pirate_Skeleton",
+		"PIRATE_SKEL",
 		48,
-		1900801,
+		1900801
 	},
 
 	{
 		"treasure02",
-		16519,
+		16463,
 		300,
 		1216,
 		"Penomena",
-		"Penomena",
+		"PENOMENA",
 		85,
-		1638661,
+		1638661
 	},
 
 	{
 		"treasure02",
-		16520,
+		16464,
 		300,
 		1068,
 		"Hydra",
-		"Hydra",
+		"HYDRA",
 		34,
-		2686979,
+		2686979
 	},
 
 	{
 		"treasure02",
-		17286,
+		17232,
 		301,
 		1112,
 		"Drake",
-		"Drake",
+		"DRAKE",
 		91,
-		1900801,
+		1900801
 	},
 
 	{
 		"treasure02",
-		17470,
+		17405,
 		300,
 		1120,
 		"Ghostring",
-		"Ghostring",
+		"GHOSTRING",
 		90,
-		5767430,
+		5767430
 	},
 
 	{
 		"tur_dun01",
-		16806,
+		16752,
 		300,
 		1321,
 		"Dragon Tail",
-		"Dragon_Tail",
+		"DRAGON_TAIL",
 		86,
-		2883844,
+		2883844
 	},
 
 	{
 		"tur_dun01",
-		16807,
+		16753,
 		300,
 		1322,
 		"Spring Rabbit",
-		"Spring_Rabbit",
+		"SPRING_RABBIT",
 		88,
-		2752770,
+		2752770
 	},
 
 	{
 		"tur_dun01",
-		16808,
+		16754,
 		300,
 		1034,
 		"Thara Frog",
-		"Thara_Frog",
+		"THARA_FROG",
 		40,
-		2687237,
+		2687237
 	},
 
 	{
 		"tur_dun01",
-		16809,
+		16755,
 		300,
 		1314,
 		"Permeter",
-		"Permeter",
+		"PERMETER",
 		90,
-		2621698,
+		2621698
 	},
 
 	{
 		"tur_dun01",
-		16810,
+		16756,
 		300,
 		1256,
 		"Pest",
-		"Pest",
+		"PEST",
 		89,
-		3080194,
+		3080194
 	},
 
 	{
 		"tur_dun02",
-		16811,
+		16757,
 		300,
 		1316,
 		"Solider",
-		"Solider",
+		"SOLIDER",
 		92,
-		2752770,
+		2752770
 	},
 
 	{
 		"tur_dun02",
-		16812,
+		16758,
 		300,
 		1314,
 		"Permeter",
-		"Permeter",
+		"PERMETER",
 		90,
-		2621698,
+		2621698
 	},
 
 	{
 		"tur_dun02",
-		16813,
+		16759,
 		300,
 		1256,
 		"Pest",
-		"Pest",
+		"PEST",
 		89,
-		3080194,
+		3080194
 	},
 
 	{
 		"tur_dun02",
-		16814,
+		16760,
 		300,
 		1319,
 		"Freezer",
-		"Freezer",
+		"FREEZER",
 		94,
-		2687234,
+		2687234
 	},
 
 	{
 		"tur_dun03",
-		16815,
+		16761,
 		300,
 		1315,
 		"Assaulter",
-		"Assaulter",
+		"ASSULTER",
 		100,
-		2883847,
+		2883847
 	},
 
 	{
 		"tur_dun03",
-		16816,
+		16762,
 		300,
 		1314,
 		"Permeter",
-		"Permeter",
+		"PERMETER",
 		90,
-		2621698,
+		2621698
 	},
 
 	{
 		"tur_dun03",
-		16817,
+		16763,
 		300,
 		1319,
 		"Freezer",
-		"Freezer",
+		"FREEZER",
 		94,
-		2687234,
+		2687234
 	},
 
 	{
 		"tur_dun03",
-		16818,
+		16764,
 		300,
 		1318,
 		"Heater",
-		"Heater",
+		"HEATER",
 		98,
-		2818306,
+		2818306
 	},
 
 	{
 		"tur_dun03",
-		18918,
+		18853,
 		300,
 		2076,
-		"기만의 그림자",
-		"쉐체_윈드고스트",
+		"Wind Ghost",
+		"S_WIND_GHOST",
 		105,
-		4194566,
+		4194566
 	},
 
 	{
 		"tur_dun04",
-		16819,
+		16765,
 		300,
 		1315,
 		"Assaulter",
-		"Assaulter",
+		"ASSULTER",
 		100,
-		2883847,
+		2883847
 	},
 
 	{
 		"tur_dun04",
-		16820,
+		16766,
 		300,
 		1314,
 		"Permeter",
-		"Permeter",
+		"PERMETER",
 		90,
-		2621698,
+		2621698
 	},
 
 	{
 		"tur_dun04",
-		16821,
+		16767,
 		300,
 		1319,
 		"Freezer",
-		"Freezer",
+		"FREEZER",
 		94,
-		2687234,
+		2687234
 	},
 
 	{
 		"tur_dun04",
-		16822,
+		16768,
 		300,
 		1318,
 		"Heater",
-		"Heater",
+		"HEATER",
 		98,
-		2818306,
+		2818306
 	},
 
 	{
 		"tur_dun04",
-		17287,
+		17233,
 		301,
 		1312,
 		"Turtle General",
-		"Turtle_General",
+		"TURTLE_GENERAL",
 		110,
-		2753026,
+		2753026
 	},
 
 	{
 		"tur_dun05",
-		16823,
+		16769,
 		300,
 		1315,
 		"Assaulter",
-		"Assaulter",
+		"ASSULTER",
 		100,
-		2883847,
+		2883847
 	},
 
 	{
 		"tur_dun05",
-		16824,
+		16770,
 		300,
 		1314,
 		"Permeter",
-		"Permeter",
+		"PERMETER",
 		90,
-		2621698,
+		2621698
 	},
 
 	{
 		"tur_dun05",
-		16825,
+		16771,
 		300,
 		1319,
 		"Freezer",
-		"Freezer",
+		"FREEZER",
 		94,
-		2687234,
+		2687234
 	},
 
 	{
 		"um_fild01",
-		16203,
+		16147,
 		300,
 		1495,
 		"Stone Shooter",
-		"Stone_Shooter",
+		"STONE_SHOOTER",
 		64,
-		4129027,
+		4129027
 	},
 
 	{
 		"um_fild01",
-		16204,
+		16148,
 		300,
 		1498,
 		"Wootan Shooter",
-		"Wootan_Shooter",
+		"WOOTAN_SHOOTER",
 		67,
-		2752775,
+		2752775
 	},
 
 	{
 		"um_fild01",
-		16205,
+		16149,
 		300,
 		1499,
-		"Wootan_Fighter",
 		"Wootan Fighter",
+		"WOOTAN_FIGHTER",
 		67,
-		2818311,
+		2818311
 	},
 
 	{
 		"um_fild01",
-		16206,
+		16150,
 		300,
 		1493,
 		"Dryad",
-		"Dryad",
+		"DRYAD",
 		68,
-		5374211,
+		5374211
 	},
 
 	{
 		"um_fild01",
-		17533,
+		17468,
 		300,
 		1497,
 		"Wooden Golem",
-		"Wooden_Golem",
+		"WOODEN_GOLEM",
 		72,
-		5374467,
+		5374467
 	},
 
 	{
 		"um_fild01",
-		17807,
+		17742,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"um_fild01",
-		17808,
+		17743,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"um_fild01",
-		17809,
+		17744,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"um_fild02",
-		16207,
+		16151,
 		300,
 		1495,
 		"Stone Shooter",
-		"Stone_Shooter",
+		"STONE_SHOOTER",
 		64,
-		4129027,
+		4129027
 	},
 
 	{
 		"um_fild02",
-		16208,
+		16152,
 		300,
 		1498,
 		"Wootan Shooter",
-		"Wootan_Shooter",
+		"WOOTAN_SHOOTER",
 		67,
-		2752775,
+		2752775
 	},
 
 	{
 		"um_fild02",
-		16209,
+		16153,
 		300,
 		1499,
-		"Wootan_Fighter",
 		"Wootan Fighter",
+		"WOOTAN_FIGHTER",
 		67,
-		2818311,
+		2818311
 	},
 
 	{
 		"um_fild02",
-		17551,
+		17486,
 		300,
 		1214,
 		"Choco",
-		"Choco",
+		"CHOCO",
 		48,
-		1507330,
+		1507330
 	},
 
 	{
 		"um_fild02",
-		17810,
+		17745,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"um_fild02",
-		17811,
+		17746,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"um_fild03",
-		16210,
+		16154,
 		300,
 		1495,
 		"Stone Shooter",
-		"Stone_Shooter",
+		"STONE_SHOOTER",
 		64,
-		4129027,
+		4129027
 	},
 
 	{
 		"um_fild03",
-		16211,
+		16155,
 		300,
 		1498,
 		"Wootan Shooter",
-		"Wootan_Shooter",
+		"WOOTAN_SHOOTER",
 		67,
-		2752775,
+		2752775
 	},
 
 	{
 		"um_fild03",
-		16212,
+		16156,
 		300,
 		1499,
-		"Wootan_Fighter",
 		"Wootan Fighter",
+		"WOOTAN_FIGHTER",
 		67,
-		2818311,
+		2818311
 	},
 
 	{
 		"um_fild03",
-		16213,
+		16157,
 		300,
 		1500,
 		"Parasite",
-		"Parasite",
+		"PARASITE",
 		76,
-		2883843,
+		2883843
 	},
 
 	{
 		"um_fild03",
-		17812,
+		17747,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"um_fild03",
-		17813,
+		17748,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"um_fild03",
-		17814,
+		17749,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"um_fild04",
-		16214,
+		16158,
 		300,
 		1495,
 		"Stone Shooter",
-		"Stone_Shooter",
+		"STONE_SHOOTER",
 		64,
-		4129027,
+		4129027
 	},
 
 	{
 		"um_fild04",
-		16215,
+		16159,
 		300,
 		1498,
 		"Wootan Shooter",
-		"Wootan_Shooter",
+		"WOOTAN_SHOOTER",
 		67,
-		2752775,
+		2752775
 	},
 
 	{
 		"um_fild04",
-		16216,
+		16160,
 		300,
 		1499,
-		"Wootan_Fighter",
 		"Wootan Fighter",
+		"WOOTAN_FIGHTER",
 		67,
-		2818311,
+		2818311
 	},
 
 	{
 		"um_fild04",
-		16217,
+		16161,
 		300,
 		1261,
 		"Wild Rose",
-		"Wild_Rose",
+		"WILD_ROSE",
 		70,
-		1572866,
+		1572866
 	},
 
 	{
 		"um_fild04",
-		17532,
+		17467,
 		300,
 		1497,
 		"Wooden Golem",
-		"Wooden_Golem",
+		"WOODEN_GOLEM",
 		72,
-		5374467,
+		5374467
 	},
 
 	{
 		"um_fild04",
-		17552,
+		17487,
 		300,
 		1214,
 		"Choco",
-		"Choco",
+		"CHOCO",
 		48,
-		1507330,
+		1507330
 	},
 
 	{
 		"um_fild04",
-		17815,
+		17750,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"um_fild04",
-		17816,
+		17751,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ve_fild01",
-		16322,
+		16266,
 		300,
 		1783,
 		"Galion",
-		"Galion",
+		"GALION",
 		100,
-		2883842,
+		2883842
 	},
 
 	{
 		"ve_fild01",
-		16323,
+		16267,
 		300,
 		1784,
 		"Stapo",
-		"Stapo",
+		"STAPO",
 		95,
-		2752512,
+		2752512
 	},
 
 	{
 		"ve_fild01",
-		16324,
+		16268,
 		300,
 		1781,
 		"Drosera",
-		"Drosera",
+		"DROSERA",
 		101,
-		1442051,
+		1442051
 	},
 
 	{
 		"ve_fild01",
-		16325,
+		16269,
 		300,
 		1780,
 		"Muscipular",
-		"Muscipular",
+		"MUSCIPULAR",
 		105,
-		1442051,
+		1442051
 	},
 
 	{
 		"ve_fild01",
-		17282,
+		17228,
 		301,
 		1785,
 		"Atroce",
-		"Atroce",
+		"ATROCE",
 		113,
-		4391426,
+		4391426
 	},
 
 	{
 		"ve_fild01",
-		17567,
+		17502,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ve_fild01",
-		17568,
+		17503,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ve_fild01",
-		17569,
+		17504,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ve_fild01",
-		17570,
+		17505,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"ve_fild02",
-		16326,
+		16270,
 		300,
 		1781,
 		"Drosera",
-		"Drosera",
+		"DROSERA",
 		101,
-		1442051,
+		1442051
 	},
 
 	{
 		"ve_fild02",
-		16327,
+		16271,
 		300,
 		1780,
 		"Muscipular",
-		"Muscipular",
+		"MUSCIPULAR",
 		105,
-		1442051,
+		1442051
 	},
 
 	{
 		"ve_fild02",
-		16328,
+		16272,
 		300,
 		1783,
 		"Galion",
-		"Galion",
+		"GALION",
 		100,
-		2883842,
+		2883842
 	},
 
 	{
 		"ve_fild02",
-		17283,
+		17229,
 		301,
 		1785,
 		"Atroce",
-		"Atroce",
+		"ATROCE",
 		113,
-		4391426,
+		4391426
 	},
 
 	{
 		"ve_fild02",
-		17571,
+		17506,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ve_fild02",
-		17572,
+		17507,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ve_fild03",
-		16329,
+		16273,
 		300,
 		1836,
 		"Magmaring",
-		"Magmaring",
+		"MAGMARING",
 		110,
-		2818048,
+		2818048
 	},
 
 	{
 		"ve_fild03",
-		16330,
+		16274,
 		300,
 		1780,
 		"Muscipular",
-		"Muscipular",
+		"MUSCIPULAR",
 		105,
-		1442051,
+		1442051
 	},
 
 	{
 		"ve_fild03",
-		16331,
+		16275,
 		300,
 		1781,
 		"Drosera",
-		"Drosera",
+		"DROSERA",
 		101,
-		1442051,
+		1442051
 	},
 
 	{
 		"ve_fild03",
-		17573,
+		17508,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ve_fild03",
-		17574,
+		17509,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ve_fild04",
-		16332,
+		16276,
 		300,
 		1780,
 		"Muscipular",
-		"Muscipular",
+		"MUSCIPULAR",
 		105,
-		1442051,
+		1442051
 	},
 
 	{
 		"ve_fild04",
-		16333,
+		16277,
 		300,
 		1781,
 		"Drosera",
-		"Drosera",
+		"DROSERA",
 		101,
-		1442051,
+		1442051
 	},
 
 	{
 		"ve_fild04",
-		16334,
+		16278,
 		300,
 		1783,
 		"Galion",
-		"Galion",
+		"GALION",
 		100,
-		2883842,
+		2883842
 	},
 
 	{
 		"ve_fild04",
-		17575,
+		17510,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ve_fild04",
-		17576,
+		17511,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"ve_fild06",
-		17577,
+		17512,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"ve_fild07",
-		16335,
+		16279,
 		300,
 		1784,
 		"Stapo",
-		"Stapo",
+		"STAPO",
 		95,
-		2752512,
+		2752512
 	},
 
 	{
 		"ve_fild07",
-		16336,
+		16280,
 		300,
 		1781,
 		"Drosera",
-		"Drosera",
+		"DROSERA",
 		101,
-		1442051,
+		1442051
 	},
 
 	{
 		"ve_fild07",
-		16337,
+		16281,
 		300,
 		1780,
 		"Muscipular",
-		"Muscipular",
+		"MUSCIPULAR",
 		105,
-		1442051,
+		1442051
 	},
 
 	{
 		"ve_fild07",
-		17578,
+		17513,
 		300,
 		1082,
 		"White Plant",
-		"White_Plant",
+		"WHITE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"xmas_dun01",
-		16487,
+		16431,
 		300,
 		1113,
 		"Drops",
-		"Drops",
+		"DROPS",
 		2,
-		1507587,
+		1507587
 	},
 
 	{
 		"xmas_dun01",
-		16488,
+		16432,
 		300,
 		1242,
 		"Marin",
-		"Marin",
+		"MARIN",
 		37,
-		2687235,
+		2687235
 	},
 
 	{
 		"xmas_dun01",
-		16489,
+		16433,
 		300,
 		1249,
 		"Myst Case",
-		"Myst_Case",
+		"MYSTCASE",
 		39,
-		3932416,
+		3932416
 	},
 
 	{
 		"xmas_dun01",
-		16490,
+		16434,
 		300,
 		1265,
 		"Cookie",
-		"Green Cookie",
+		"COOKIE",
 		35,
-		3932167,
+		3932167
 	},
 
 	{
 		"xmas_dun01",
-		16491,
+		16435,
 		300,
 		1002,
 		"Poring",
-		"Poring",
+		"PORING",
 		1,
-		1376515,
+		1376515
 	},
 
 	{
 		"xmas_dun01",
-		16492,
+		16436,
 		300,
 		1031,
 		"Poporing",
-		"Poporing",
+		"POPORING",
 		30,
-		1638659,
+		1638659
 	},
 
 	{
 		"xmas_dun01",
-		17297,
+		17244,
 		300,
 		1250,
 		"Chepet",
-		"Chepet",
+		"CHEPET",
 		42,
-		1507591,
+		1507591
 	},
 
 	{
 		"xmas_dun01",
-		17468,
+		17403,
 		300,
 		1096,
 		"Angeling",
-		"Angeling",
+		"ANGELING",
 		77,
-		5636360,
+		5636360
 	},
 
 	{
 		"xmas_dun01",
-		17473,
+		17408,
 		300,
 		1090,
 		"Mastering",
-		"Mastering",
+		"MASTERING",
 		42,
-		1376515,
+		1376515
 	},
 
 	{
 		"xmas_dun02",
-		16493,
+		16437,
 		300,
 		1249,
 		"Myst Case",
-		"Myst_Case",
+		"MYSTCASE",
 		39,
-		3932416,
+		3932416
 	},
 
 	{
 		"xmas_dun02",
-		16494,
+		16438,
 		300,
 		1265,
 		"Cookie",
-		"Green Cookie",
+		"COOKIE",
 		35,
-		3932167,
+		3932167
 	},
 
 	{
 		"xmas_dun02",
-		16495,
+		16439,
 		300,
 		1248,
 		"Cruiser",
-		"Cruiser",
+		"CRUISER",
 		41,
-		3932416,
+		3932416
 	},
 
 	{
 		"xmas_dun02",
-		17290,
+		17236,
 		301,
 		1251,
-		"Stormy Knight",
 		"Knight of Windstorm",
+		"KNIGHT_OF_WINDSTORM",
 		92,
-		5505536,
+		5505536
 	},
 
 	{
 		"xmas_fild01",
-		16338,
+		16282,
 		300,
 		1242,
 		"Marin",
-		"Marin",
+		"MARIN",
 		37,
-		2687235,
+		2687235
 	},
 
 	{
 		"xmas_fild01",
-		16339,
+		16283,
 		300,
 		1243,
 		"Sasquatch",
-		"Sasquatch",
+		"SASQUATCH",
 		72,
-		3932674,
+		3932674
 	},
 
 	{
 		"xmas_fild01",
-		16340,
+		16284,
 		300,
 		1515,
 		"Garm Baby",
-		"Hatii Baby",
+		"GARM_BABY",
 		94,
-		2687234,
+		2687234
 	},
 
 	{
 		"xmas_fild01",
-		17291,
+		17237,
 		301,
 		1252,
 		"Garm",
-		"Hatii",
+		"GARM",
 		98,
-		5308930,
+		5308930
 	},
 
 	{
 		"yuno_fild01",
-		16218,
+		16162,
 		300,
 		1368,
 		"Geographer",
-		"Geographer",
+		"GEOGRAPHER",
 		73,
-		4063491,
+		4063491
 	},
 
 	{
 		"yuno_fild01",
-		16219,
+		16163,
 		300,
 		1114,
 		"Dustiness",
-		"Dustiness",
+		"DUSTINESS",
 		62,
-		2883588,
+		2883588
 	},
 
 	{
 		"yuno_fild01",
-		16220,
+		16164,
 		300,
 		1139,
 		"Mantis",
-		"Mantis",
+		"MANTIS",
 		65,
-		1442052,
+		1442052
 	},
 
 	{
 		"yuno_fild01",
-		17581,
+		17516,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild01",
-		17582,
+		17517,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild01",
-		17583,
+		17518,
 		300,
 		1083,
 		"Shining Plant",
-		"ShiningPlant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"yuno_fild01",
-		17584,
+		17519,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild01",
-		17588,
+		17523,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild02",
-		16221,
+		16165,
 		300,
 		1386,
 		"Sleeper",
-		"Sleeper",
+		"SLEEPER",
 		81,
-		2752768,
+		2752768
 	},
 
 	{
 		"yuno_fild02",
-		16222,
+		16166,
 		300,
 		1369,
 		"Grand Peco",
-		"Grand_Peco",
+		"GRAND_PECO",
 		75,
-		2818562,
+		2818562
 	},
 
 	{
 		"yuno_fild02",
-		16223,
+		16167,
 		300,
 		1376,
 		"Harpy",
-		"Harpy",
+		"HARPY",
 		83,
-		4194566,
+		4194566
 	},
 
 	{
 		"yuno_fild02",
-		17589,
+		17524,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild02",
-		17590,
+		17525,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild02",
-		17591,
+		17526,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild03",
-		16224,
+		16168,
 		300,
 		1376,
 		"Harpy",
-		"Harpy",
+		"HARPY",
 		83,
-		4194566,
+		4194566
 	},
 
 	{
 		"yuno_fild03",
-		16225,
+		16169,
 		300,
 		1372,
 		"Goat",
-		"Goat",
+		"GOAT",
 		80,
-		4129026,
+		4129026
 	},
 
 	{
 		"yuno_fild03",
-		16226,
+		16170,
 		300,
 		1386,
 		"Sleeper",
-		"Sleeper",
+		"SLEEPER",
 		81,
-		2752768,
+		2752768
 	},
 
 	{
 		"yuno_fild03",
-		17464,
+		17399,
 		300,
 		1582,
 		"Deviling",
-		"Deviling",
+		"DEVILING",
 		66,
-		5701894,
+		5701894
 	},
 
 	{
 		"yuno_fild03",
-		17466,
+		17401,
 		300,
 		1096,
 		"Angeling",
-		"Angeling",
+		"ANGELING",
 		77,
-		5636360,
+		5636360
 	},
 
 	{
 		"yuno_fild03",
-		17592,
+		17527,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild03",
-		17593,
+		17528,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild03",
-		17594,
+		17529,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild03",
-		17595,
+		17530,
 		300,
 		1083,
 		"Shining Plant",
-		"Shining_Plant",
+		"SHINING_PLANT",
 		1,
-		1703939,
+		1703939
 	},
 
 	{
 		"yuno_fild03",
-		17596,
+		17531,
 		300,
 		1079,
 		"Blue Plant",
-		"Blue_Plant",
+		"BLUE_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild04",
-		16227,
+		16171,
 		300,
 		1376,
 		"Harpy",
-		"Harpy",
+		"HARPY",
 		83,
-		4194566,
+		4194566
 	},
 
 	{
 		"yuno_fild04",
-		16228,
+		16172,
 		300,
 		1372,
 		"Goat",
-		"Goat",
+		"GOAT",
 		80,
-		4129026,
+		4129026
 	},
 
 	{
 		"yuno_fild04",
-		16229,
+		16173,
 		300,
 		1368,
 		"Geographer",
-		"Geographer",
+		"GEOGRAPHER",
 		73,
-		4063491,
+		4063491
 	},
 
 	{
 		"yuno_fild04",
-		17463,
+		17398,
 		300,
 		1388,
 		"Archangeling",
-		"Archangeling",
+		"ARCHANGELING",
 		84,
-		4325640,
+		4325640
 	},
 
 	{
 		"yuno_fild04",
-		17471,
+		17406,
 		300,
 		1090,
 		"Mastering",
-		"Mastering",
+		"MASTERING",
 		42,
-		1376515,
+		1376515
 	},
 
 	{
 		"yuno_fild04",
-		17597,
+		17532,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild04",
-		17598,
+		17533,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild04",
-		17599,
+		17534,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild06",
-		16230,
+		16174,
 		300,
 		1386,
 		"Sleeper",
-		"Sleeper",
+		"SLEEPER",
 		81,
-		2752768,
+		2752768
 	},
 
 	{
 		"yuno_fild06",
-		16231,
+		16175,
 		300,
 		1368,
 		"Geographer",
-		"Geographer",
+		"GEOGRAPHER",
 		73,
-		4063491,
+		4063491
 	},
 
 	{
 		"yuno_fild06",
-		17600,
+		17535,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild06",
-		17601,
+		17536,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild06",
-		17602,
+		17537,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild07",
-		16232,
+		16176,
 		300,
 		1372,
 		"Goat",
-		"Goat",
+		"GOAT",
 		80,
-		4129026,
+		4129026
 	},
 
 	{
 		"yuno_fild07",
-		16233,
+		16177,
 		300,
 		1376,
 		"Harpy",
-		"Harpy",
+		"HARPY",
 		83,
-		4194566,
+		4194566
 	},
 
 	{
 		"yuno_fild07",
-		16234,
+		16178,
 		300,
 		1369,
 		"Grand Peco",
-		"Grand_Peco",
+		"GRAND_PECO",
 		75,
-		2818562,
+		2818562
 	},
 
 	{
 		"yuno_fild07",
-		17603,
+		17538,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild07",
-		17604,
+		17539,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild07",
-		17605,
+		17540,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild08",
-		16235,
+		16179,
 		300,
 		1369,
 		"Grand Peco",
-		"Grand_Peco",
+		"GRAND_PECO",
 		75,
-		2818562,
+		2818562
 	},
 
 	{
 		"yuno_fild08",
-		16236,
+		16180,
 		300,
 		1372,
 		"Goat",
-		"Goat",
+		"GOAT",
 		80,
-		4129026,
+		4129026
 	},
 
 	{
 		"yuno_fild08",
-		16237,
+		16181,
 		300,
 		1368,
 		"Geographer",
-		"Geographer",
+		"GEOGRAPHER",
 		73,
-		4063491,
+		4063491
 	},
 
 	{
 		"yuno_fild08",
-		17606,
+		17541,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild08",
-		17607,
+		17542,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild08",
-		17608,
+		17543,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild09",
-		16238,
+		16182,
 		300,
 		1369,
 		"Grand Peco",
-		"Grand_Peco",
+		"GRAND_PECO",
 		75,
-		2818562,
+		2818562
 	},
 
 	{
 		"yuno_fild09",
-		16239,
+		16183,
 		300,
 		1386,
 		"Sleeper",
-		"Sleeper",
+		"SLEEPER",
 		81,
-		2752768,
+		2752768
 	},
 
 	{
 		"yuno_fild09",
-		16240,
+		16184,
 		300,
 		1368,
 		"Geographer",
-		"Geographer",
+		"GEOGRAPHER",
 		73,
-		4063491,
+		4063491
 	},
 
 	{
 		"yuno_fild09",
-		17609,
+		17544,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild09",
-		17610,
+		17545,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild09",
-		17611,
+		17546,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild11",
-		16241,
+		16185,
 		300,
 		1372,
 		"Goat",
-		"Goat",
+		"GOAT",
 		80,
-		4129026,
+		4129026
 	},
 
 	{
 		"yuno_fild11",
-		16242,
+		16186,
 		300,
 		1368,
 		"Geographer",
-		"Geographer",
+		"GEOGRAPHER",
 		73,
-		4063491,
+		4063491
 	},
 
 	{
 		"yuno_fild11",
-		17612,
+		17547,
 		300,
 		1078,
 		"Red Plant",
-		"Red_Plant",
+		"RED_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild11",
-		17613,
+		17548,
 		300,
 		1080,
 		"Green Plant",
-		"Green_Plant",
+		"GREEN_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild11",
-		17614,
+		17549,
 		300,
 		1081,
 		"Yellow Plant",
-		"Yellow_Plant",
+		"YELLOW_PLANT",
 		1,
-		1441795,
+		1441795
 	},
 
 	{
 		"yuno_fild12",
-		16243,
+		16187,
 		300,
 		1368,
 		"Geographer",
-		"Geographer",
+		"GEOGRAPHER",
 		73,
-		4063491,
+		4063491
 	},
 
 	{
 		"yuno_fild12",
-		16244,
+		16188,
 		300,
 		1139,
 		"Mantis",
-		"Mantis",
+		"MANTIS",
 		65,
-		1442052,
-	},
+		1442052
+	}
 }

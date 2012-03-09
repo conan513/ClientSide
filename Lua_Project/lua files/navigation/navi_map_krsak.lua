@@ -5,7 +5,7 @@ Navi_Map = {
 		"Cursed Abbey F1",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -13,7 +13,7 @@ Navi_Map = {
 		"Cursed Abbey B1",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -21,7 +21,7 @@ Navi_Map = {
 		"Cursed Abbey B2",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -29,7 +29,7 @@ Navi_Map = {
 		"Abyss Lake Underground Cave F1",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -37,7 +37,7 @@ Navi_Map = {
 		"Abyss Lake Underground Cave F2",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -45,7 +45,7 @@ Navi_Map = {
 		"Abyss Lake Underground Cave F3",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -53,7 +53,7 @@ Navi_Map = {
 		"Airship",
 		5002,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -61,7 +61,7 @@ Navi_Map = {
 		"Airship",
 		5002,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -69,7 +69,7 @@ Navi_Map = {
 		"Airport",
 		5002,
 		300,
-		120,
+		120
 	},
 
 	{
@@ -77,7 +77,7 @@ Navi_Map = {
 		"Alberta Island",
 		5001,
 		140,
-		140,
+		140
 	},
 
 	{
@@ -85,7 +85,7 @@ Navi_Map = {
 		"Alberta Ship",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -93,7 +93,7 @@ Navi_Map = {
 		"Alberta",
 		5001,
 		280,
-		280,
+		280
 	},
 
 	{
@@ -101,7 +101,7 @@ Navi_Map = {
 		"Inside Alberta",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -109,7 +109,7 @@ Navi_Map = {
 		"Alchemist Realm",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -117,7 +117,7 @@ Navi_Map = {
 		"Clock Tower B1F",
 		5001,
 		320,
-		320,
+		320
 	},
 
 	{
@@ -125,7 +125,7 @@ Navi_Map = {
 		"Clock Tower B2F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -133,7 +133,7 @@ Navi_Map = {
 		"Clock Tower B3F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -141,7 +141,7 @@ Navi_Map = {
 		"Clock Tower B4F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -149,7 +149,7 @@ Navi_Map = {
 		"Luina the satellite of Al De Baran",
 		5001,
 		320,
-		320,
+		320
 	},
 
 	{
@@ -157,7 +157,7 @@ Navi_Map = {
 		"Inside Al De Baran",
 		5003,
 		260,
-		260,
+		260
 	},
 
 	{
@@ -165,7 +165,7 @@ Navi_Map = {
 		"Al De Baran",
 		5001,
 		280,
-		280,
+		280
 	},
 
 	{
@@ -173,7 +173,7 @@ Navi_Map = {
 		"Tatami Maze",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -181,7 +181,7 @@ Navi_Map = {
 		"Battle Field in the Underground Forest",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -189,7 +189,7 @@ Navi_Map = {
 		"Amatsu Underground Shrine",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -197,7 +197,7 @@ Navi_Map = {
 		"Amatsu Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -205,7 +205,7 @@ Navi_Map = {
 		"Inside Amatsu",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -213,7 +213,7 @@ Navi_Map = {
 		"Inside Himezi Castle",
 		5003,
 		240,
-		200,
+		200
 	},
 
 	{
@@ -221,7 +221,7 @@ Navi_Map = {
 		"Momotaro Experience Place",
 		5001,
 		100,
-		132,
+		132
 	},
 
 	{
@@ -229,7 +229,7 @@ Navi_Map = {
 		"Amatsu, the Land of Destiny",
 		5001,
 		316,
-		316,
+		316
 	},
 
 	{
@@ -237,7 +237,7 @@ Navi_Map = {
 		"Ant Hell F1",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -245,7 +245,7 @@ Navi_Map = {
 		"Ant Hell F2",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -253,7 +253,7 @@ Navi_Map = {
 		"Waiting room",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -261,7 +261,7 @@ Navi_Map = {
 		"Valfreyja",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -269,7 +269,7 @@ Navi_Map = {
 		"Subterranean Guild Dungeon",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -277,7 +277,7 @@ Navi_Map = {
 		"Morestone Prairie",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -285,7 +285,7 @@ Navi_Map = {
 		"Ancient Shrine Maze",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -293,7 +293,7 @@ Navi_Map = {
 		"Inside Ancient Shrine",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -301,7 +301,7 @@ Navi_Map = {
 		"Ayotaya Field",
 		5001,
 		360,
-		360,
+		360
 	},
 
 	{
@@ -309,7 +309,7 @@ Navi_Map = {
 		"Ayotaya Field",
 		5001,
 		360,
-		300,
+		300
 	},
 
 	{
@@ -317,7 +317,7 @@ Navi_Map = {
 		"Inside Ayotaya",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -325,7 +325,7 @@ Navi_Map = {
 		"Inside Ayotaya",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -333,7 +333,7 @@ Navi_Map = {
 		"Ayotaya",
 		5001,
 		320,
-		320,
+		320
 	},
 
 	{
@@ -341,7 +341,7 @@ Navi_Map = {
 		"Battle Field Waiting Room",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -349,7 +349,7 @@ Navi_Map = {
 		"Karu, the West cave",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -357,7 +357,7 @@ Navi_Map = {
 		"Ruande the northern cave",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -365,7 +365,7 @@ Navi_Map = {
 		"Mao, the East Cave",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -373,7 +373,7 @@ Navi_Map = {
 		"Bifrost Bridge",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -381,7 +381,7 @@ Navi_Map = {
 		"Bifrost Bridge",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -389,7 +389,7 @@ Navi_Map = {
 		"Waterfall Cave Entrance",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -397,7 +397,7 @@ Navi_Map = {
 		"Inside Waterfall Cave",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -405,7 +405,7 @@ Navi_Map = {
 		"Brasilis Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -413,7 +413,7 @@ Navi_Map = {
 		"Inside Brasilis",
 		5003,
 		220,
-		200,
+		200
 	},
 
 	{
@@ -421,7 +421,7 @@ Navi_Map = {
 		"Brasilis",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -429,7 +429,7 @@ Navi_Map = {
 		"Clock Tower F1",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -437,7 +437,7 @@ Navi_Map = {
 		"Clock Tower F2",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -445,7 +445,7 @@ Navi_Map = {
 		"Clock Tower F3",
 		5001,
 		260,
-		260,
+		260
 	},
 
 	{
@@ -453,7 +453,7 @@ Navi_Map = {
 		"Clock Tower F4",
 		5001,
 		216,
-		216,
+		216
 	},
 
 	{
@@ -461,7 +461,7 @@ Navi_Map = {
 		"Cave",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -469,7 +469,7 @@ Navi_Map = {
 		"Papuchicha Forest",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -477,7 +477,7 @@ Navi_Map = {
 		"Kokomo beach",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -485,7 +485,7 @@ Navi_Map = {
 		"Zenhai Marsh",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -493,7 +493,7 @@ Navi_Map = {
 		"Kokomo beach",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -501,7 +501,7 @@ Navi_Map = {
 		"Fortress Saint Darmain(West)",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -509,7 +509,7 @@ Navi_Map = {
 		"Beacon Island, Pharos",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -517,7 +517,7 @@ Navi_Map = {
 		"Fortress Saint Darmain (East)",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -525,7 +525,7 @@ Navi_Map = {
 		"Fortress Saint Darmain (South)",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -533,7 +533,7 @@ Navi_Map = {
 		"Inside Comodo",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -541,7 +541,7 @@ Navi_Map = {
 		"Inside Comodo",
 		5003,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -549,7 +549,7 @@ Navi_Map = {
 		"Beach town, Comodo",
 		5001,
 		360,
-		380,
+		380
 	},
 
 	{
@@ -557,7 +557,7 @@ Navi_Map = {
 		"Karakatoa, Volcanic Island",
 		5001,
 		360,
-		360,
+		360
 	},
 
 	{
@@ -565,7 +565,7 @@ Navi_Map = {
 		"Istana Cave",
 		5001,
 		320,
-		320,
+		320
 	},
 
 	{
@@ -573,7 +573,7 @@ Navi_Map = {
 		"Dewata Field - Jati Tribal Village",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -581,7 +581,7 @@ Navi_Map = {
 		"Inside Jati Tribal Village",
 		5003,
 		60,
-		60,
+		60
 	},
 
 	{
@@ -589,7 +589,7 @@ Navi_Map = {
 		"Dewata",
 		5001,
 		340,
-		340,
+		340
 	},
 
 	{
@@ -597,7 +597,7 @@ Navi_Map = {
 		"Kamidal Tunnel",
 		5001,
 		400,
-		256,
+		256
 	},
 
 	{
@@ -605,7 +605,7 @@ Navi_Map = {
 		"Scaraba Hole",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -613,7 +613,7 @@ Navi_Map = {
 		"Scaraba Hole",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -621,7 +621,7 @@ Navi_Map = {
 		"Foot of Kamidal Mountain",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -629,7 +629,7 @@ Navi_Map = {
 		"Foot of Kamidal Mountain",
 		5001,
 		300,
-		400,
+		400
 	},
 
 	{
@@ -637,7 +637,7 @@ Navi_Map = {
 		"Inside of El Dicastes",
 		5003,
 		400,
-		300,
+		300
 	},
 
 	{
@@ -645,7 +645,7 @@ Navi_Map = {
 		"El Dicastes, the Sapha Capital",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -653,7 +653,7 @@ Navi_Map = {
 		"Dicastes Diel",
 		5001,
 		240,
-		360,
+		360
 	},
 
 	{
@@ -661,7 +661,7 @@ Navi_Map = {
 		"Misty Island",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -669,7 +669,7 @@ Navi_Map = {
 		"Land of Blooming Flowers",
 		5001,
 		320,
-		360,
+		360
 	},
 
 	{
@@ -677,7 +677,7 @@ Navi_Map = {
 		"Eclage Detour",
 		5001,
 		200,
-		180,
+		180
 	},
 
 	{
@@ -685,7 +685,7 @@ Navi_Map = {
 		"Inside Eclage",
 		5003,
 		100,
-		120,
+		120
 	},
 
 	{
@@ -693,7 +693,7 @@ Navi_Map = {
 		"Inside Eclage",
 		5003,
 		200,
-		140,
+		140
 	},
 
 	{
@@ -701,7 +701,7 @@ Navi_Map = {
 		"Inside Eclage",
 		5003,
 		280,
-		116,
+		116
 	},
 
 	{
@@ -709,7 +709,7 @@ Navi_Map = {
 		"Bifrost Tower 1F",
 		5001,
 		120,
-		120,
+		120
 	},
 
 	{
@@ -717,7 +717,7 @@ Navi_Map = {
 		"Bifrost Tower 2F",
 		5001,
 		120,
-		100,
+		100
 	},
 
 	{
@@ -725,7 +725,7 @@ Navi_Map = {
 		"Bifrost Tower 3F",
 		5001,
 		100,
-		100,
+		100
 	},
 
 	{
@@ -733,7 +733,7 @@ Navi_Map = {
 		"Bifrost Tower 4F",
 		5001,
 		60,
-		60,
+		60
 	},
 
 	{
@@ -741,7 +741,7 @@ Navi_Map = {
 		"Eclage, the Raffine Capital",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -749,7 +749,7 @@ Navi_Map = {
 		"Mine Dungeon F1",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -757,7 +757,7 @@ Navi_Map = {
 		"Mine Dungeon F2",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -765,7 +765,7 @@ Navi_Map = {
 		"Einbroch Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -773,7 +773,7 @@ Navi_Map = {
 		"Einbroch Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -781,7 +781,7 @@ Navi_Map = {
 		"Einbroch Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -789,7 +789,7 @@ Navi_Map = {
 		"Einbroch Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -797,7 +797,7 @@ Navi_Map = {
 		"Einbroch Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -805,7 +805,7 @@ Navi_Map = {
 		"Einbroch Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -813,7 +813,7 @@ Navi_Map = {
 		"Einbroch Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -821,7 +821,7 @@ Navi_Map = {
 		"Einbroch Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -829,7 +829,7 @@ Navi_Map = {
 		"Inside Einbroch",
 		5003,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -837,7 +837,7 @@ Navi_Map = {
 		"Einbech, the mining village",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -845,7 +845,7 @@ Navi_Map = {
 		"Einbroch, the city of steel",
 		5001,
 		340,
-		380,
+		380
 	},
 
 	{
@@ -853,7 +853,7 @@ Navi_Map = {
 		"Geffen Dungeon F1",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -861,7 +861,7 @@ Navi_Map = {
 		"Geffen Dungeon F2",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -869,7 +869,7 @@ Navi_Map = {
 		"Geffen Dungeon F3",
 		5001,
 		260,
-		260,
+		260
 	},
 
 	{
@@ -877,7 +877,7 @@ Navi_Map = {
 		"Geffenia",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -885,7 +885,7 @@ Navi_Map = {
 		"Geffen Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -893,7 +893,7 @@ Navi_Map = {
 		"Geffen Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -901,7 +901,7 @@ Navi_Map = {
 		"Geffen Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -909,7 +909,7 @@ Navi_Map = {
 		"Geffen Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -917,7 +917,7 @@ Navi_Map = {
 		"Geffen Field",
 		5001,
 		380,
-		380,
+		380
 	},
 
 	{
@@ -925,7 +925,7 @@ Navi_Map = {
 		"Gypsy Village",
 		5001,
 		380,
-		380,
+		380
 	},
 
 	{
@@ -933,7 +933,7 @@ Navi_Map = {
 		"Geffen Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -941,7 +941,7 @@ Navi_Map = {
 		"Geffen Field",
 		5001,
 		380,
-		380,
+		380
 	},
 
 	{
@@ -949,7 +949,7 @@ Navi_Map = {
 		"Geffen Field",
 		5001,
 		380,
-		380,
+		380
 	},
 
 	{
@@ -957,7 +957,7 @@ Navi_Map = {
 		"Geffen Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -965,7 +965,7 @@ Navi_Map = {
 		"Orc Village",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -973,7 +973,7 @@ Navi_Map = {
 		"Geffen Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -981,7 +981,7 @@ Navi_Map = {
 		"Britoniah",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -989,7 +989,7 @@ Navi_Map = {
 		"Geffen Tower",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -997,7 +997,7 @@ Navi_Map = {
 		"Geffenia",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1005,7 +1005,7 @@ Navi_Map = {
 		"Geffenia",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1013,7 +1013,7 @@ Navi_Map = {
 		"Geffenia",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1021,7 +1021,7 @@ Navi_Map = {
 		"Geffenia",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1029,7 +1029,7 @@ Navi_Map = {
 		"Geffen, the Magical City",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -1037,7 +1037,7 @@ Navi_Map = {
 		"Inside Geffen",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1045,7 +1045,7 @@ Navi_Map = {
 		"Glast Heim 1F",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1053,7 +1053,7 @@ Navi_Map = {
 		"Glast Heim 2F",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1061,7 +1061,7 @@ Navi_Map = {
 		"Glast Heim St. Abbey",
 		5001,
 		312,
-		312,
+		312
 	},
 
 	{
@@ -1069,7 +1069,7 @@ Navi_Map = {
 		"Glast Heim Churchyard",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1077,7 +1077,7 @@ Navi_Map = {
 		"The Lowest Cave in Glast Heim 1F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1085,7 +1085,7 @@ Navi_Map = {
 		"The Lowest Cave in Glast Heim 2F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1093,7 +1093,7 @@ Navi_Map = {
 		"Inside Glast Heim",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1101,7 +1101,7 @@ Navi_Map = {
 		"Inside Glast Heim Chivalry 1F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1109,7 +1109,7 @@ Navi_Map = {
 		"Inside Glast Heim Chivalry 2F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1117,7 +1117,7 @@ Navi_Map = {
 		"Glast Heim Underprison 1F",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1125,7 +1125,7 @@ Navi_Map = {
 		"Glast Heim Underprison 2F",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1133,7 +1133,7 @@ Navi_Map = {
 		"Glast Heim Culvert 1F",
 		5001,
 		280,
-		280,
+		280
 	},
 
 	{
@@ -1141,7 +1141,7 @@ Navi_Map = {
 		"Glast Heim Culvert 2F",
 		5001,
 		316,
-		316,
+		316
 	},
 
 	{
@@ -1149,7 +1149,7 @@ Navi_Map = {
 		"Glast Heim Culvert 3F",
 		5001,
 		340,
-		300,
+		300
 	},
 
 	{
@@ -1157,7 +1157,7 @@ Navi_Map = {
 		"Glast Heim Culvert 4F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1165,7 +1165,7 @@ Navi_Map = {
 		"Glast Heim Staircase Dungeon",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -1173,7 +1173,7 @@ Navi_Map = {
 		"Glast Heim",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1181,7 +1181,7 @@ Navi_Map = {
 		"Corridor of the Abyss: Hero's Tears",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1189,7 +1189,7 @@ Navi_Map = {
 		"Corridor of the Abyss: The Hill of the Dead",
 		5001,
 		260,
-		240,
+		240
 	},
 
 	{
@@ -1197,7 +1197,7 @@ Navi_Map = {
 		"Corridor of the Abyss: Ancient Wind",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -1205,7 +1205,7 @@ Navi_Map = {
 		"Corridor of the Abyss: The Road Warrior",
 		5001,
 		280,
-		280,
+		280
 	},
 
 	{
@@ -1213,7 +1213,7 @@ Navi_Map = {
 		"Guild Dungeon",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -1221,7 +1221,7 @@ Navi_Map = {
 		"Guild Dungeon",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1229,7 +1229,7 @@ Navi_Map = {
 		"Guild Dungeon",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1237,7 +1237,7 @@ Navi_Map = {
 		"Guild Dungeon",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1245,7 +1245,7 @@ Navi_Map = {
 		"Shrine of Gonryun Queen",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1253,7 +1253,7 @@ Navi_Map = {
 		"Hermit's Checkers",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1261,7 +1261,7 @@ Navi_Map = {
 		"Arcadia",
 		5001,
 		240,
-		300,
+		300
 	},
 
 	{
@@ -1269,7 +1269,7 @@ Navi_Map = {
 		"Gonryun Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1277,7 +1277,7 @@ Navi_Map = {
 		"Inside Gonryun",
 		5003,
 		200,
-		120,
+		120
 	},
 
 	{
@@ -1285,7 +1285,7 @@ Navi_Map = {
 		"Arena",
 		5001,
 		100,
-		120,
+		120
 	},
 
 	{
@@ -1293,7 +1293,7 @@ Navi_Map = {
 		"Gonryun, the Hermit Land",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1301,7 +1301,7 @@ Navi_Map = {
 		"Thanatos Tower Entrance",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1309,7 +1309,7 @@ Navi_Map = {
 		"Hugel Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1317,7 +1317,7 @@ Navi_Map = {
 		"Hugel Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1325,7 +1325,7 @@ Navi_Map = {
 		"Hugel The Abyss Lake",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1333,7 +1333,7 @@ Navi_Map = {
 		"Hugel Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1341,7 +1341,7 @@ Navi_Map = {
 		"Inside Hugel",
 		5003,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1349,7 +1349,7 @@ Navi_Map = {
 		"Hugel, the Quaint Garden Village",
 		5001,
 		268,
-		280,
+		280
 	},
 
 	{
@@ -1357,7 +1357,7 @@ Navi_Map = {
 		"Ice Cave 1F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1365,7 +1365,7 @@ Navi_Map = {
 		"Ice Cave 2F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1373,7 +1373,7 @@ Navi_Map = {
 		"Ice Cave 3F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1381,7 +1381,7 @@ Navi_Map = {
 		"Ice Cave - Sealed Place",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1389,7 +1389,7 @@ Navi_Map = {
 		"Hunter Guild",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1397,7 +1397,7 @@ Navi_Map = {
 		"Assassin Clan",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1405,7 +1405,7 @@ Navi_Map = {
 		"Orc village",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1413,7 +1413,7 @@ Navi_Map = {
 		"Inside the Rogue Guild",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1421,7 +1421,7 @@ Navi_Map = {
 		"Sphinx B1",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1429,7 +1429,7 @@ Navi_Map = {
 		"Sphinx B2",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1437,7 +1437,7 @@ Navi_Map = {
 		"Sphinx B3",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -1445,7 +1445,7 @@ Navi_Map = {
 		"Sphinx B4",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -1453,7 +1453,23 @@ Navi_Map = {
 		"Sphinx B5",
 		5001,
 		200,
+		200
+	},
+
+	{
+		"iz_ac01",
+		"¾ÆÄ«µ¥¹Ì1Ãþ",
+		5003,
+		220,
+		200
+	},
+
+	{
+		"iz_ac02",
+		"¾ÆÄ«µ¥¹Ì2Ãþ",
+		5003,
 		200,
+		240
 	},
 
 	{
@@ -1461,7 +1477,7 @@ Navi_Map = {
 		"Undersea Tunnel F1",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1469,7 +1485,7 @@ Navi_Map = {
 		"Undersea Tunnel F2",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1477,7 +1493,7 @@ Navi_Map = {
 		"Undersea Tunnel F3",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1485,7 +1501,7 @@ Navi_Map = {
 		"Undersea Tunnel F4",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1493,7 +1509,7 @@ Navi_Map = {
 		"Undersea Tunnel F5",
 		5001,
 		280,
-		300,
+		300
 	},
 
 	{
@@ -1501,7 +1517,15 @@ Navi_Map = {
 		"Undersea Tunnel F6",
 		5001,
 		280,
-		280,
+		280
+	},
+
+	{
+		"iz_ng01",
+		"´ÑÀÚÆ©Åä¸®¾ó¸Ê",
+		5003,
+		160,
+		100
 	},
 
 	{
@@ -1509,7 +1533,7 @@ Navi_Map = {
 		"Byalan Island",
 		5001,
 		216,
-		232,
+		232
 	},
 
 	{
@@ -1517,7 +1541,7 @@ Navi_Map = {
 		"Izlude Town",
 		5001,
 		268,
-		268,
+		300
 	},
 
 	{
@@ -1525,7 +1549,7 @@ Navi_Map = {
 		"Inside Izlude",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1533,7 +1557,7 @@ Navi_Map = {
 		"Jawaii, the Honeymoon Island",
 		5001,
 		340,
-		360,
+		360
 	},
 
 	{
@@ -1541,7 +1565,7 @@ Navi_Map = {
 		"Inside Jawaii",
 		5003,
 		200,
-		140,
+		140
 	},
 
 	{
@@ -1549,7 +1573,7 @@ Navi_Map = {
 		"Geneticist Lab",
 		5001,
 		100,
-		100,
+		100
 	},
 
 	{
@@ -1557,7 +1581,7 @@ Navi_Map = {
 		"Secret Tavern",
 		5001,
 		160,
-		100,
+		100
 	},
 
 	{
@@ -1565,7 +1589,7 @@ Navi_Map = {
 		"Inside of Rune Knight Templar",
 		5001,
 		160,
-		100,
+		100
 	},
 
 	{
@@ -1573,7 +1597,7 @@ Navi_Map = {
 		"Comodo Theatre",
 		5001,
 		140,
-		172,
+		172
 	},
 
 	{
@@ -1581,7 +1605,7 @@ Navi_Map = {
 		"Saint Capitolina Abbey",
 		5001,
 		400,
-		300,
+		300
 	},
 
 	{
@@ -1589,7 +1613,7 @@ Navi_Map = {
 		"The Sun, the Moon and the Stars",
 		5001,
 		200,
-		184,
+		184
 	},
 
 	{
@@ -1597,7 +1621,7 @@ Navi_Map = {
 		"Juperos, Restricted Zone",
 		5001,
 		164,
-		300,
+		300
 	},
 
 	{
@@ -1605,7 +1629,7 @@ Navi_Map = {
 		"Juperos, Restricted Zone",
 		5001,
 		164,
-		300,
+		300
 	},
 
 	{
@@ -1613,7 +1637,7 @@ Navi_Map = {
 		"Ruins of Juperos Entrance",
 		5001,
 		232,
-		100,
+		100
 	},
 
 	{
@@ -1621,7 +1645,7 @@ Navi_Map = {
 		"Center of Juperos",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1629,7 +1653,7 @@ Navi_Map = {
 		"The center of Juperos",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1637,7 +1661,7 @@ Navi_Map = {
 		"Juperos Elevator",
 		5001,
 		100,
-		124,
+		124
 	},
 
 	{
@@ -1645,7 +1669,7 @@ Navi_Map = {
 		"Juperos Elevator",
 		5001,
 		100,
-		160,
+		160
 	},
 
 	{
@@ -1653,7 +1677,7 @@ Navi_Map = {
 		"Juperos, Restricted Zone",
 		5001,
 		100,
-		200,
+		200
 	},
 
 	{
@@ -1661,7 +1685,7 @@ Navi_Map = {
 		"Ruins of Juperos Outside",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1669,7 +1693,7 @@ Navi_Map = {
 		"Inside Ruins of Juperos",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1677,7 +1701,7 @@ Navi_Map = {
 		"Robot Factory level 1F",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -1685,7 +1709,7 @@ Navi_Map = {
 		"Robot Factory level 2F",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -1693,7 +1717,7 @@ Navi_Map = {
 		"Kiehl's Room",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1701,7 +1725,7 @@ Navi_Map = {
 		"Kiehl's Last Room",
 		5001,
 		100,
-		100,
+		100
 	},
 
 	{
@@ -1709,7 +1733,7 @@ Navi_Map = {
 		"Kiel Hyre's Mansion",
 		5001,
 		100,
-		100,
+		100
 	},
 
 	{
@@ -1717,7 +1741,7 @@ Navi_Map = {
 		"The Rosimier's Mansion",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1725,7 +1749,7 @@ Navi_Map = {
 		"Kiel Hyre Academy",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1733,7 +1757,7 @@ Navi_Map = {
 		"Kiel Hyre's Cottage",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1741,7 +1765,7 @@ Navi_Map = {
 		"Lighthalzen Airport",
 		5002,
 		300,
-		120,
+		120
 	},
 
 	{
@@ -1749,7 +1773,7 @@ Navi_Map = {
 		"Somatology Laboratory 1F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1757,7 +1781,7 @@ Navi_Map = {
 		"Somatology Laboratory 2F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1765,7 +1789,7 @@ Navi_Map = {
 		"Somatology Laboratory F3",
 		5001,
 		280,
-		280,
+		280
 	},
 
 	{
@@ -1773,7 +1797,7 @@ Navi_Map = {
 		"Somatology Laboratory F4",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1781,7 +1805,7 @@ Navi_Map = {
 		"Lighthalzen Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1789,7 +1813,7 @@ Navi_Map = {
 		"Lighthalzen Field(Grim Reaper's Valley)",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1797,7 +1821,7 @@ Navi_Map = {
 		"Lighthalzen Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1805,7 +1829,7 @@ Navi_Map = {
 		"Rekenber Corporation Headquarters",
 		5003,
 		300,
-		280,
+		280
 	},
 
 	{
@@ -1813,7 +1837,7 @@ Navi_Map = {
 		"Inside Lighthalzen",
 		5003,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1821,7 +1845,7 @@ Navi_Map = {
 		"Inside Lighthalzen",
 		5003,
 		280,
-		280,
+		280
 	},
 
 	{
@@ -1829,7 +1853,7 @@ Navi_Map = {
 		"Inside Lighthalzen",
 		5001,
 		120,
-		180,
+		180
 	},
 
 	{
@@ -1837,7 +1861,7 @@ Navi_Map = {
 		"Lighthalzen, the City-State of Prosperity",
 		5001,
 		400,
-		360,
+		360
 	},
 
 	{
@@ -1845,7 +1869,7 @@ Navi_Map = {
 		"The Royal Tomb",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1853,7 +1877,7 @@ Navi_Map = {
 		"Inside the Royal Tomb",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1861,7 +1885,7 @@ Navi_Map = {
 		"Suei Long Gon",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -1869,7 +1893,7 @@ Navi_Map = {
 		"Louyang Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1877,7 +1901,7 @@ Navi_Map = {
 		"Inside Louyang",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1885,7 +1909,7 @@ Navi_Map = {
 		"Inside Louyang",
 		5003,
 		300,
-		200,
+		200
 	},
 
 	{
@@ -1893,7 +1917,7 @@ Navi_Map = {
 		"Louyang, the highland",
 		5001,
 		360,
-		360,
+		360
 	},
 
 	{
@@ -1901,7 +1925,7 @@ Navi_Map = {
 		"Malaya Hospital F1",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1909,7 +1933,7 @@ Navi_Map = {
 		"Barrio Malaya",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1917,7 +1941,7 @@ Navi_Map = {
 		"Malaya Forest",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -1925,7 +1949,7 @@ Navi_Map = {
 		"Inside Malaya",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -1933,7 +1957,7 @@ Navi_Map = {
 		"Bakunawa Lake",
 		5001,
 		340,
-		360,
+		360
 	},
 
 	{
@@ -1941,7 +1965,7 @@ Navi_Map = {
 		"Inside Jeepney",
 		5001,
 		60,
-		60,
+		60
 	},
 
 	{
@@ -1949,7 +1973,7 @@ Navi_Map = {
 		"Inside Jeepney",
 		5001,
 		60,
-		60,
+		60
 	},
 
 	{
@@ -1957,7 +1981,7 @@ Navi_Map = {
 		"Inside Jeepney",
 		5001,
 		60,
-		60,
+		60
 	},
 
 	{
@@ -1965,7 +1989,7 @@ Navi_Map = {
 		"Inside Jeepney",
 		5001,
 		60,
-		60,
+		60
 	},
 
 	{
@@ -1973,7 +1997,7 @@ Navi_Map = {
 		"Inside Jeepney",
 		5001,
 		60,
-		60,
+		60
 	},
 
 	{
@@ -1981,7 +2005,7 @@ Navi_Map = {
 		"Inside Jeepney",
 		5001,
 		60,
-		60,
+		60
 	},
 
 	{
@@ -1989,7 +2013,7 @@ Navi_Map = {
 		"Inside Jeepney",
 		5001,
 		60,
-		60,
+		60
 	},
 
 	{
@@ -1997,7 +2021,7 @@ Navi_Map = {
 		"Inside Jeepney",
 		5001,
 		60,
-		60,
+		60
 	},
 
 	{
@@ -2005,7 +2029,7 @@ Navi_Map = {
 		"Inside Jeepney",
 		5001,
 		60,
-		60,
+		60
 	},
 
 	{
@@ -2013,7 +2037,7 @@ Navi_Map = {
 		"Nogg Road 1F",
 		5001,
 		260,
-		260,
+		260
 	},
 
 	{
@@ -2021,7 +2045,7 @@ Navi_Map = {
 		"Nogg Road 2F",
 		5001,
 		260,
-		260,
+		260
 	},
 
 	{
@@ -2029,7 +2053,7 @@ Navi_Map = {
 		"Starlight Reef",
 		5001,
 		260,
-		260,
+		260
 	},
 
 	{
@@ -2037,7 +2061,7 @@ Navi_Map = {
 		"Inside Malangdo Island",
 		5003,
 		200,
-		240,
+		240
 	},
 
 	{
@@ -2045,7 +2069,7 @@ Navi_Map = {
 		"Inside Malangdo Island",
 		5003,
 		200,
-		120,
+		120
 	},
 
 	{
@@ -2053,7 +2077,7 @@ Navi_Map = {
 		"Malangdo",
 		5001,
 		360,
-		380,
+		380
 	},
 
 	{
@@ -2061,7 +2085,7 @@ Navi_Map = {
 		"Port of Malaya",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2069,7 +2093,7 @@ Navi_Map = {
 		"Manuk Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2077,7 +2101,7 @@ Navi_Map = {
 		"Manuk Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2085,7 +2109,7 @@ Navi_Map = {
 		"Manuk Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2093,7 +2117,7 @@ Navi_Map = {
 		"Inside Manuk",
 		5003,
 		400,
-		300,
+		300
 	},
 
 	{
@@ -2101,7 +2125,7 @@ Navi_Map = {
 		"Manuk, The mining town",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2109,7 +2133,7 @@ Navi_Map = {
 		"Rune Midgard Allied Forces Post",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2117,7 +2141,7 @@ Navi_Map = {
 		"Inside of the Rune Midgard Allied Forces Post",
 		5003,
 		400,
-		200,
+		200
 	},
 
 	{
@@ -2125,7 +2149,7 @@ Navi_Map = {
 		"Mjolnir Dead Pit B1",
 		5001,
 		280,
-		340,
+		340
 	},
 
 	{
@@ -2133,7 +2157,7 @@ Navi_Map = {
 		"Mjolnir Dead Pit B2",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2141,7 +2165,7 @@ Navi_Map = {
 		"Mjolnir Dead Pit B3",
 		5001,
 		340,
-		280,
+		280
 	},
 
 	{
@@ -2149,7 +2173,7 @@ Navi_Map = {
 		"Mt. Mjolnir - North",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2157,7 +2181,7 @@ Navi_Map = {
 		"Mt. Mjolnir - North",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2165,7 +2189,7 @@ Navi_Map = {
 		"Mt. Mjolnir - North",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2173,7 +2197,7 @@ Navi_Map = {
 		"Mt. Mjolnir - North",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2181,7 +2205,7 @@ Navi_Map = {
 		"Mt. Mjolnir - North",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2189,7 +2213,7 @@ Navi_Map = {
 		"Mt. Mjolnir - South",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2197,7 +2221,7 @@ Navi_Map = {
 		"Mt. Mjolnir - South",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2205,7 +2229,7 @@ Navi_Map = {
 		"Mt. Mjolnir - South",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2213,7 +2237,7 @@ Navi_Map = {
 		"Mt. Mjolnir - Southern Foothills",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2221,7 +2245,7 @@ Navi_Map = {
 		"Mt. Mjolnir - South",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2229,7 +2253,7 @@ Navi_Map = {
 		"Mt. Mjolnir - South",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2237,7 +2261,7 @@ Navi_Map = {
 		"Mt. Mjolnir - Northern Foothills",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2245,7 +2269,7 @@ Navi_Map = {
 		"Sograt Desert",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2253,7 +2277,7 @@ Navi_Map = {
 		"Sograt Desert",
 		5001,
 		400,
-		360,
+		360
 	},
 
 	{
@@ -2261,7 +2285,7 @@ Navi_Map = {
 		"Sograt Desert",
 		5001,
 		320,
-		360,
+		360
 	},
 
 	{
@@ -2269,7 +2293,7 @@ Navi_Map = {
 		"Sograt Desert",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2277,7 +2301,7 @@ Navi_Map = {
 		"Sograt Desert",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2285,7 +2309,7 @@ Navi_Map = {
 		"Sograt Desert",
 		5001,
 		320,
-		400,
+		400
 	},
 
 	{
@@ -2293,7 +2317,7 @@ Navi_Map = {
 		"Sograt Desert",
 		5001,
 		340,
-		400,
+		400
 	},
 
 	{
@@ -2301,7 +2325,7 @@ Navi_Map = {
 		"Sograt Desert",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2309,7 +2333,7 @@ Navi_Map = {
 		"Sograt Desert",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2317,7 +2341,7 @@ Navi_Map = {
 		"Sograt Desert",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2325,7 +2349,7 @@ Navi_Map = {
 		"Sograt Desert",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2333,7 +2357,7 @@ Navi_Map = {
 		"Sograt Desert - Continental Guard Quarantine",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2341,7 +2365,7 @@ Navi_Map = {
 		"Dimensional Gorge",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2349,7 +2373,7 @@ Navi_Map = {
 		"Dimensional Gorge",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2357,7 +2381,7 @@ Navi_Map = {
 		"Dimensional Gorge",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2365,7 +2389,7 @@ Navi_Map = {
 		"Inside of Paradise Group Building in Morroc",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2373,7 +2397,7 @@ Navi_Map = {
 		"Inside Pyramid F1",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2381,7 +2405,7 @@ Navi_Map = {
 		"Inside Pyramid F2",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2389,7 +2413,7 @@ Navi_Map = {
 		"Inside Pyramid F3",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2397,7 +2421,7 @@ Navi_Map = {
 		"Inside Pyramid F4",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2405,7 +2429,7 @@ Navi_Map = {
 		"Inside Pyramid B1",
 		5001,
 		232,
-		232,
+		232
 	},
 
 	{
@@ -2413,7 +2437,7 @@ Navi_Map = {
 		"Inside Pyramid B2",
 		5001,
 		204,
-		204,
+		204
 	},
 
 	{
@@ -2421,7 +2445,7 @@ Navi_Map = {
 		"Thief Guild",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2429,7 +2453,7 @@ Navi_Map = {
 		"Morroc Pyramid B1 - Nightmare Mode ",
 		5001,
 		232,
-		232,
+		232
 	},
 
 	{
@@ -2437,7 +2461,7 @@ Navi_Map = {
 		"Morroc Pyramid B2 - Nightmare Mode ",
 		5001,
 		204,
-		204,
+		204
 	},
 
 	{
@@ -2445,7 +2469,7 @@ Navi_Map = {
 		"Morroc Ruins",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2453,7 +2477,7 @@ Navi_Map = {
 		"Inside St. Abbey",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2461,7 +2485,7 @@ Navi_Map = {
 		"Saint Capitolina Abbey",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2469,7 +2493,7 @@ Navi_Map = {
 		"Mora Village",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -2477,7 +2501,7 @@ Navi_Map = {
 		"Morroc Town",
 		5001,
 		320,
-		320,
+		320
 	},
 
 	{
@@ -2485,7 +2509,7 @@ Navi_Map = {
 		"Inside Morroc",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2493,7 +2517,7 @@ Navi_Map = {
 		"Moscovia",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2501,7 +2525,7 @@ Navi_Map = {
 		"Les Forest",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -2509,7 +2533,7 @@ Navi_Map = {
 		"Temny Forest",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -2517,7 +2541,7 @@ Navi_Map = {
 		"Dremuci Forest",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -2525,7 +2549,7 @@ Navi_Map = {
 		"somewhere in Moscovia",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2533,7 +2557,7 @@ Navi_Map = {
 		"Okrestnosti of Moscovia",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -2541,7 +2565,7 @@ Navi_Map = {
 		"Inside Moscovia",
 		5003,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -2549,7 +2573,7 @@ Navi_Map = {
 		"Charabel",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2557,7 +2581,7 @@ Navi_Map = {
 		"Nameless Island",
 		5001,
 		340,
-		340,
+		340
 	},
 
 	{
@@ -2565,7 +2589,7 @@ Navi_Map = {
 		"Inside Nameless Island",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2573,7 +2597,7 @@ Navi_Map = {
 		"Nameless Island",
 		5001,
 		340,
-		340,
+		340
 	},
 
 	{
@@ -2581,7 +2605,7 @@ Navi_Map = {
 		"Skellington, a Solitary Village in Nifflheim",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2589,7 +2613,7 @@ Navi_Map = {
 		"Valley of Gyoll",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2597,7 +2621,7 @@ Navi_Map = {
 		"Inside Nifflheim",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2605,7 +2629,7 @@ Navi_Map = {
 		"Nifflheim, Realm of the Dead",
 		5001,
 		400,
-		300,
+		300
 	},
 
 	{
@@ -2613,7 +2637,7 @@ Navi_Map = {
 		"Yggdrasil Root 1F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -2621,7 +2645,7 @@ Navi_Map = {
 		"Yggdrasil Root 2F",
 		5001,
 		260,
-		400,
+		400
 	},
 
 	{
@@ -2629,7 +2653,7 @@ Navi_Map = {
 		"Odin Temple West",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2637,7 +2661,7 @@ Navi_Map = {
 		"Odin Temple South",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2645,7 +2669,7 @@ Navi_Map = {
 		"Odin Temple North",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2653,7 +2677,7 @@ Navi_Map = {
 		"Orc Dungeon 1F",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2661,7 +2685,7 @@ Navi_Map = {
 		"Orc Dungeon 2F",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2669,7 +2693,7 @@ Navi_Map = {
 		"Battle Ordeal Mode",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -2677,7 +2701,7 @@ Navi_Map = {
 		"Battle Ordeal Mode",
 		5001,
 		308,
-		308,
+		308
 	},
 
 	{
@@ -2685,7 +2709,7 @@ Navi_Map = {
 		"Battle Ordeal Mode",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -2693,7 +2717,7 @@ Navi_Map = {
 		"Battle Ordeal Mode",
 		5001,
 		308,
-		308,
+		308
 	},
 
 	{
@@ -2701,7 +2725,7 @@ Navi_Map = {
 		"Monster Race Arena",
 		5001,
 		100,
-		80,
+		80
 	},
 
 	{
@@ -2709,7 +2733,7 @@ Navi_Map = {
 		"Monster Race Arena",
 		5001,
 		100,
-		80,
+		80
 	},
 
 	{
@@ -2717,7 +2741,7 @@ Navi_Map = {
 		"Archer Village",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2725,7 +2749,7 @@ Navi_Map = {
 		"Payon Cave F1",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2733,7 +2757,7 @@ Navi_Map = {
 		"Payon Cave F2",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -2741,7 +2765,7 @@ Navi_Map = {
 		"Payon Cave F3",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -2749,7 +2773,7 @@ Navi_Map = {
 		"Payon Cave F4 (Underground Temple)",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -2757,7 +2781,7 @@ Navi_Map = {
 		"Payon Cave F5 (Underground Temple)",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -2765,7 +2789,7 @@ Navi_Map = {
 		"Payon Forest",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2773,7 +2797,7 @@ Navi_Map = {
 		"Payon Forest",
 		5001,
 		300,
-		404,
+		404
 	},
 
 	{
@@ -2781,7 +2805,7 @@ Navi_Map = {
 		"Payon Forest",
 		5001,
 		416,
-		300,
+		300
 	},
 
 	{
@@ -2789,7 +2813,7 @@ Navi_Map = {
 		"Sograt Desert",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2797,7 +2821,7 @@ Navi_Map = {
 		"Payon Forest",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2805,7 +2829,7 @@ Navi_Map = {
 		"Payon Forest",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2813,7 +2837,7 @@ Navi_Map = {
 		"Payon Forest",
 		5001,
 		280,
-		400,
+		400
 	},
 
 	{
@@ -2821,7 +2845,7 @@ Navi_Map = {
 		"Payon Forest",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2829,7 +2853,7 @@ Navi_Map = {
 		"Payon Forest",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2837,7 +2861,7 @@ Navi_Map = {
 		"Greenwood Lake",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2845,7 +2869,7 @@ Navi_Map = {
 		"Payon Town",
 		5001,
 		300,
-		360,
+		360
 	},
 
 	{
@@ -2853,7 +2877,7 @@ Navi_Map = {
 		"Inside Payon",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2861,7 +2885,7 @@ Navi_Map = {
 		"Inside Payon",
 		5003,
 		100,
-		100,
+		100
 	},
 
 	{
@@ -2869,7 +2893,7 @@ Navi_Map = {
 		"Inside Payon",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2877,7 +2901,7 @@ Navi_Map = {
 		"Poring War - Waiting Room",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2885,7 +2909,7 @@ Navi_Map = {
 		"Poring War",
 		5001,
 		200,
-		240,
+		240
 	},
 
 	{
@@ -2893,7 +2917,7 @@ Navi_Map = {
 		"The Sanctum",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2901,7 +2925,7 @@ Navi_Map = {
 		"The Sanctum",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2909,7 +2933,7 @@ Navi_Map = {
 		"The Sanctum",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2917,7 +2941,7 @@ Navi_Map = {
 		"Prontera City, Capitol of Rune-Midgarts",
 		5001,
 		312,
-		392,
+		392
 	},
 
 	{
@@ -2925,7 +2949,7 @@ Navi_Map = {
 		"Arena",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -2933,7 +2957,7 @@ Navi_Map = {
 		"Arena - Waiting Room",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2941,7 +2965,7 @@ Navi_Map = {
 		"Prontera Castle",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2949,7 +2973,7 @@ Navi_Map = {
 		"Prontera Inside the Cathedral",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -2957,7 +2981,7 @@ Navi_Map = {
 		"Prontera Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2965,7 +2989,7 @@ Navi_Map = {
 		"Prontera Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2973,7 +2997,7 @@ Navi_Map = {
 		"Prontera Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2981,7 +3005,7 @@ Navi_Map = {
 		"Prontera Field",
 		5001,
 		400,
-		300,
+		300
 	},
 
 	{
@@ -2989,7 +3013,7 @@ Navi_Map = {
 		"Prontera Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -2997,7 +3021,7 @@ Navi_Map = {
 		"Prontera Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3005,7 +3029,7 @@ Navi_Map = {
 		"Prontera Field",
 		5001,
 		380,
-		340,
+		340
 	},
 
 	{
@@ -3013,7 +3037,7 @@ Navi_Map = {
 		"Prontera Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3021,7 +3045,7 @@ Navi_Map = {
 		"Prontera Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3029,7 +3053,7 @@ Navi_Map = {
 		"Prontera Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3037,7 +3061,7 @@ Navi_Map = {
 		"Prontera Field",
 		5001,
 		360,
-		320,
+		320
 	},
 
 	{
@@ -3045,7 +3069,7 @@ Navi_Map = {
 		"Prontera Field",
 		5001,
 		380,
-		320,
+		320
 	},
 
 	{
@@ -3053,7 +3077,7 @@ Navi_Map = {
 		"Valkyrie Realm",
 		5001,
 		320,
-		320,
+		320
 	},
 
 	{
@@ -3061,7 +3085,7 @@ Navi_Map = {
 		"Inside Prontera",
 		5003,
 		300,
-		200,
+		200
 	},
 
 	{
@@ -3069,7 +3093,7 @@ Navi_Map = {
 		"Labyrinth Forest F1",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3077,7 +3101,7 @@ Navi_Map = {
 		"Labyrinth Forest F2",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3085,7 +3109,7 @@ Navi_Map = {
 		"Labyrinth Forest F3",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3093,7 +3117,7 @@ Navi_Map = {
 		"St. Capitolina Abbey",
 		5001,
 		400,
-		300,
+		300
 	},
 
 	{
@@ -3101,7 +3125,7 @@ Navi_Map = {
 		"Prontera Culvert F1",
 		5001,
 		320,
-		320,
+		320
 	},
 
 	{
@@ -3109,7 +3133,7 @@ Navi_Map = {
 		"Prontera Culvert F2",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3117,7 +3141,7 @@ Navi_Map = {
 		"Prontera Culvert F3",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3125,7 +3149,7 @@ Navi_Map = {
 		"Prontera Culvert F4",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3133,7 +3157,7 @@ Navi_Map = {
 		"Bingo Game Room",
 		5001,
 		100,
-		200,
+		200
 	},
 
 	{
@@ -3141,7 +3165,7 @@ Navi_Map = {
 		"Inside of the Abandoned House in Yuno",
 		5001,
 		120,
-		60,
+		60
 	},
 
 	{
@@ -3149,7 +3173,7 @@ Navi_Map = {
 		"Quest Map",
 		5001,
 		300,
-		140,
+		140
 	},
 
 	{
@@ -3157,7 +3181,7 @@ Navi_Map = {
 		"Quest Map",
 		5001,
 		200,
-		140,
+		140
 	},
 
 	{
@@ -3165,7 +3189,7 @@ Navi_Map = {
 		"Strange House",
 		5001,
 		96,
-		60,
+		60
 	},
 
 	{
@@ -3173,7 +3197,7 @@ Navi_Map = {
 		"Odin Shrine's Underground",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3181,7 +3205,7 @@ Navi_Map = {
 		"Private Pub",
 		5001,
 		160,
-		100,
+		100
 	},
 
 	{
@@ -3189,7 +3213,7 @@ Navi_Map = {
 		"Bio Laboratory F4",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3197,7 +3221,7 @@ Navi_Map = {
 		"Fallacious Okolnir",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3205,7 +3229,7 @@ Navi_Map = {
 		"Inside Temple",
 		5001,
 		340,
-		340,
+		340
 	},
 
 	{
@@ -3213,7 +3237,7 @@ Navi_Map = {
 		"Thor Volcano Dungeon",
 		5001,
 		200,
-		100,
+		100
 	},
 
 	{
@@ -3221,7 +3245,7 @@ Navi_Map = {
 		"Audhumbla Grassland",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3229,7 +3253,7 @@ Navi_Map = {
 		"The Plain of Ida",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3237,7 +3261,7 @@ Navi_Map = {
 		"Audhumbla Grassland",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3245,7 +3269,7 @@ Navi_Map = {
 		"Audhumbla Grassland",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3253,7 +3277,7 @@ Navi_Map = {
 		"Portus Luna",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3261,7 +3285,7 @@ Navi_Map = {
 		"The Plain of Ida",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3269,7 +3293,7 @@ Navi_Map = {
 		"The Plain of Ida",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3277,7 +3301,7 @@ Navi_Map = {
 		"Inside Rachel",
 		5003,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3285,7 +3309,7 @@ Navi_Map = {
 		"Rachel Sanctuary F1 - North",
 		5001,
 		280,
-		280,
+		280
 	},
 
 	{
@@ -3293,7 +3317,7 @@ Navi_Map = {
 		"Rachel Sanctuary F1 - West",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3301,7 +3325,7 @@ Navi_Map = {
 		"Rachel Sanctuary F1 - East",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3309,7 +3333,7 @@ Navi_Map = {
 		"Rachel Sanctuary F1 - South",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -3317,7 +3341,7 @@ Navi_Map = {
 		"Rachel Sanctuary F2 - Center",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3325,7 +3349,7 @@ Navi_Map = {
 		"Inside Temple",
 		5001,
 		340,
-		340,
+		340
 	},
 
 	{
@@ -3333,7 +3357,7 @@ Navi_Map = {
 		"Freya Grand Temple (Cheshrumnir)",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -3341,7 +3365,7 @@ Navi_Map = {
 		"Pope's Office (The Garden of Heaven)",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3349,7 +3373,7 @@ Navi_Map = {
 		"Rachel, Capital of Arunafeltz States",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3357,7 +3381,7 @@ Navi_Map = {
 		"Nidhoggur",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3365,7 +3389,7 @@ Navi_Map = {
 		"Subterranean Guild Dungeon",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3373,7 +3397,7 @@ Navi_Map = {
 		"Splendide Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3381,7 +3405,7 @@ Navi_Map = {
 		"Splendide Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3389,7 +3413,7 @@ Navi_Map = {
 		"Splendide Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3397,7 +3421,7 @@ Navi_Map = {
 		"Inside Splendide",
 		5003,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3405,7 +3429,7 @@ Navi_Map = {
 		"Inside Splendide",
 		5003,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3413,7 +3437,7 @@ Navi_Map = {
 		"Splendide, the Raffine Outpost",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3421,7 +3445,7 @@ Navi_Map = {
 		"Thanatos Tower Museum Entrance - Lower Level",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3429,7 +3453,7 @@ Navi_Map = {
 		"Thanatos Tower Museum - Lower Level",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3437,7 +3461,7 @@ Navi_Map = {
 		"Thanatos Tower Abandoned Space - Lower Level",
 		5001,
 		280,
-		280,
+		280
 	},
 
 	{
@@ -3445,7 +3469,7 @@ Navi_Map = {
 		"Thanatos Tower Abandoned Space - Lower Level",
 		5001,
 		280,
-		280,
+		280
 	},
 
 	{
@@ -3453,7 +3477,7 @@ Navi_Map = {
 		"Thanatos Tower - Upper Level",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -3461,7 +3485,7 @@ Navi_Map = {
 		"Thanatos Tower - Upper Level",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -3469,7 +3493,7 @@ Navi_Map = {
 		"Thanatos Tower Room of Angel - Upper Level",
 		5001,
 		140,
-		200,
+		200
 	},
 
 	{
@@ -3477,7 +3501,7 @@ Navi_Map = {
 		"Thanatos Tower Room of Angel - Upper Level",
 		5001,
 		140,
-		200,
+		200
 	},
 
 	{
@@ -3485,7 +3509,7 @@ Navi_Map = {
 		"Thanatos Tower Room of Agony - Upper Level",
 		5001,
 		180,
-		180,
+		180
 	},
 
 	{
@@ -3493,7 +3517,7 @@ Navi_Map = {
 		"Thanatos Tower Room of Sorrow - Upper Level",
 		5001,
 		180,
-		180,
+		180
 	},
 
 	{
@@ -3501,7 +3525,7 @@ Navi_Map = {
 		"Thanatos Tower Room of Despair - Upper Level",
 		5001,
 		180,
-		180,
+		180
 	},
 
 	{
@@ -3509,7 +3533,7 @@ Navi_Map = {
 		"Thanatos Tower Room of Hatred - Upper Level",
 		5001,
 		180,
-		180,
+		180
 	},
 
 	{
@@ -3517,7 +3541,7 @@ Navi_Map = {
 		"Thanatos Tower (Unknown Area)",
 		5001,
 		280,
-		280,
+		280
 	},
 
 	{
@@ -3525,7 +3549,7 @@ Navi_Map = {
 		"Thanatos Tower - Upper Stairs",
 		5001,
 		240,
-		400,
+		400
 	},
 
 	{
@@ -3533,7 +3557,7 @@ Navi_Map = {
 		"Thor Volcano Camp",
 		5001,
 		300,
-		360,
+		360
 	},
 
 	{
@@ -3541,7 +3565,7 @@ Navi_Map = {
 		"Thor Volcano Dungeon 1F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3549,7 +3573,7 @@ Navi_Map = {
 		"Thor Volcano Dungeon 2F",
 		5001,
 		240,
-		240,
+		240
 	},
 
 	{
@@ -3557,7 +3581,7 @@ Navi_Map = {
 		"Thor Volcano Dungeon 3F",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3565,7 +3589,7 @@ Navi_Map = {
 		"Sunken Ship F1",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3573,7 +3597,23 @@ Navi_Map = {
 		"Sunken Ship F2",
 		5001,
 		200,
+		200
+	},
+
+	{
+		"treasure_n1",
+		"¾Ëº£¸£Å¸ Ä§¸ô¼± 1Ãþ",
+		5003,
 		200,
+		200
+	},
+
+	{
+		"treasure_n2",
+		"¾Ëº£¸£Å¸ Ä§¸ô¼± 2Ãþ",
+		5003,
+		200,
+		200
 	},
 
 	{
@@ -3581,7 +3621,7 @@ Navi_Map = {
 		"Turtle Island",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3589,7 +3629,7 @@ Navi_Map = {
 		"Turtle Island Dungeon",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3597,7 +3637,7 @@ Navi_Map = {
 		"Good Turtles Village",
 		5001,
 		248,
-		248,
+		248
 	},
 
 	{
@@ -3605,7 +3645,7 @@ Navi_Map = {
 		"Turtle Palace",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3613,7 +3653,7 @@ Navi_Map = {
 		"Underground Swamp Zone",
 		5001,
 		100,
-		100,
+		100
 	},
 
 	{
@@ -3621,7 +3661,7 @@ Navi_Map = {
 		"Underground Swamp Zone",
 		5001,
 		100,
-		100,
+		100
 	},
 
 	{
@@ -3629,7 +3669,7 @@ Navi_Map = {
 		"Turbo Track - Waiting Room",
 		5001,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3637,7 +3677,7 @@ Navi_Map = {
 		"Luluka Forest",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3645,7 +3685,7 @@ Navi_Map = {
 		"Hoomga Forest",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3653,7 +3693,7 @@ Navi_Map = {
 		"Kalala Swamp",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3661,7 +3701,7 @@ Navi_Map = {
 		"Hoomga Jungle",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3669,7 +3709,7 @@ Navi_Map = {
 		"Inside Umbala",
 		5003,
 		200,
-		140,
+		140
 	},
 
 	{
@@ -3677,7 +3717,7 @@ Navi_Map = {
 		"Umbala, Wootan Tribe's Village",
 		5001,
 		280,
-		344,
+		344
 	},
 
 	{
@@ -3685,7 +3725,7 @@ Navi_Map = {
 		"Veins Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3693,7 +3733,7 @@ Navi_Map = {
 		"Veins Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3701,7 +3741,7 @@ Navi_Map = {
 		"Veins Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3709,7 +3749,7 @@ Navi_Map = {
 		"Veins Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3717,7 +3757,7 @@ Navi_Map = {
 		"Veins Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3725,7 +3765,7 @@ Navi_Map = {
 		"Veins Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3733,7 +3773,7 @@ Navi_Map = {
 		"Inside Veins",
 		5003,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3741,7 +3781,7 @@ Navi_Map = {
 		"Inside Veins",
 		5003,
 		100,
-		100,
+		100
 	},
 
 	{
@@ -3749,7 +3789,7 @@ Navi_Map = {
 		"Veins, the Canyon Village",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3757,7 +3797,7 @@ Navi_Map = {
 		"Lutie, Snow Village",
 		5001,
 		300,
-		360,
+		360
 	},
 
 	{
@@ -3765,7 +3805,7 @@ Navi_Map = {
 		"Toy Factory Warehouse",
 		5001,
 		260,
-		260,
+		260
 	},
 
 	{
@@ -3773,7 +3813,7 @@ Navi_Map = {
 		"Toy Monitoring Room",
 		5001,
 		260,
-		260,
+		260
 	},
 
 	{
@@ -3781,7 +3821,7 @@ Navi_Map = {
 		"Lutie Field",
 		5001,
 		280,
-		280,
+		280
 	},
 
 	{
@@ -3789,7 +3829,7 @@ Navi_Map = {
 		"Inside Lutie",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3797,7 +3837,7 @@ Navi_Map = {
 		"Yuno Airport",
 		5002,
 		300,
-		120,
+		120
 	},
 
 	{
@@ -3805,7 +3845,7 @@ Navi_Map = {
 		"Hvergelmir's Fountain (Trunk of Yggdrasil)",
 		5001,
 		300,
-		300,
+		300
 	},
 
 	{
@@ -3813,7 +3853,7 @@ Navi_Map = {
 		"Yuno, the capital of Schwarzwald Republic",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3821,7 +3861,7 @@ Navi_Map = {
 		"Border Posts",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3829,7 +3869,7 @@ Navi_Map = {
 		"Kiel Hyre's Cottage",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3837,7 +3877,7 @@ Navi_Map = {
 		"El Mes Plateau",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3845,7 +3885,7 @@ Navi_Map = {
 		"El Mes Plateau",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3853,7 +3893,7 @@ Navi_Map = {
 		"El Mes Plateau",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3861,7 +3901,7 @@ Navi_Map = {
 		"El Mes Gorge (Valley of Abyss)",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3869,7 +3909,7 @@ Navi_Map = {
 		"Kiel Hyre's Academy",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3877,7 +3917,7 @@ Navi_Map = {
 		"Schwaltzwald Guards Camp",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3885,7 +3925,7 @@ Navi_Map = {
 		"Yuno Field",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3893,7 +3933,7 @@ Navi_Map = {
 		"Border Checkpoint",
 		5001,
 		400,
-		400,
+		400
 	},
 
 	{
@@ -3901,7 +3941,7 @@ Navi_Map = {
 		"Inside Yuno",
 		5003,
 		200,
-		200,
+		200
 	},
 
 	{
@@ -3909,7 +3949,7 @@ Navi_Map = {
 		"Inside the Sage Castle",
 		5003,
 		200,
-		240,
+		240
 	},
 
 	{
@@ -3917,7 +3957,7 @@ Navi_Map = {
 		"Inside Yuno",
 		5003,
 		260,
-		216,
+		216
 	},
 
 	{
@@ -3925,7 +3965,7 @@ Navi_Map = {
 		"Republic Library",
 		5003,
 		200,
-		140,
+		140
 	},
 
 	{
@@ -3933,6 +3973,6 @@ Navi_Map = {
 		"Schwaltzvalt Government Buildings",
 		5001,
 		140,
-		140,
-	},
+		140
+	}
 }

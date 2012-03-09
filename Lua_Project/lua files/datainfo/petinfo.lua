@@ -60,7 +60,9 @@ PetIllustNameTable = {
 	[jobtbl.JT_J_TAINI] = "Æê_j_taini.bmp",
 	[jobtbl.JT_XMAS_LUNATIC] = "Æê_Å©¸®½º¸¶½º_´«Åä³¢.bmp",
 	[jobtbl.JT_TIKBALANG] = "Æê_Æ½¹ö··.bmp",
-	[jobtbl.JT_MARIN] = "Æê_¸¶¸°.bmp"
+	[jobtbl.JT_MARIN] = "Æê_¸¶¸°.bmp",
+	[jobtbl.JT_DOMOVOI] = "Æê_µµ¸ðºÛÀÌ.bmp",
+	[jobtbl.JT_LITTLE_PORING] = "Æê_LITTLE_PORING.bmp"
 }
 
 PetIllustNameTable_Eng = {
@@ -126,6 +128,8 @@ PetIllustNameTable_Eng = {
 	[jobtbl.JT_XMAS_LUNATIC] = "PET_XMAS_LUNATIC.bmp",
 	[jobtbl.JT_TIKBALANG] = "PET_TIKBALANG.bmp",
 	[jobtbl.JT_MARIN] = "PET_MARIN.bmp",
+	[jobtbl.JT_DOMOVOI] = "PET_DOMOVOI.bmp",
+	[jobtbl.JT_LITTLE_PORING] = "PET_LITTLE_PORING.bmp"
 }
 
 PetAccIDs = {

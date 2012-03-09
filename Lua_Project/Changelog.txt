@@ -1,3 +1,7 @@
+rev175 - [2012-03-10]
+ - 2012-03-07 kRO Patch lua and lub
+ * new files /quest/ and ../System/Towninfo.lua
+
 rev174 - [2012-03-09]
  - 2012-02-29 kRO Patch lua and lub
 
