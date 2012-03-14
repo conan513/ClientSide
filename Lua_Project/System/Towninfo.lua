@@ -299,6 +299,16 @@ mapNPCInfoTable = {
 		{ name = "Guide", X = 140, Y = 137, TYPE = 4 },
 		{ name = "Tool Dealer", X = 122, Y = 131, TYPE = 0 },
 		{ name = "Weapon Shop", X = 171, Y = 158, TYPE = 1 }
+	},
+
+	mora = {
+		{ name = "Kafra Employee", X = 48, Y = 128, TYPE = 6 },
+		{ name = "Guide", X = 115, Y = 138, TYPE = 4 },
+		{ name = "Guide", X = 72, Y = 51, TYPE = 4 },
+		{ name = "Guide", X = 25, Y = 158, TYPE = 4 },
+		{ name = "Guide", X = 167, Y = 76, TYPE = 4 },
+		{ name = "Tool Dealer", X = 112, Y = 110, TYPE = 0 },
+		{ name = "Inn", X = 44, Y = 137, TYPE = 5 }
 	}
 }
 

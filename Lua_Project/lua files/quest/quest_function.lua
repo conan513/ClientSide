@@ -57,6 +57,7 @@ function queryEpisode(tabid,episodeId)
 				__EP_QuestList[episodeId].imagefile,
 				getChapterIterator(episodeId,__EP_QuestList)
 	end
+
 end
 
 --Function #3
@@ -183,11 +184,14 @@ end
 -- 항목 퀘스트 파일이 추가 될때마다 이곳에 추가 시켜 준다. 
 makeLocalQuestList(LOCAL_MalayaQuest_List)
 makeLocalQuestList(LOCAL_DewataQuest_List)
+makeLocalQuestList(LOCAL_BeginTuTorialQuest_list)
 makeEPQuestList(EP_141Quest_List)
+
 
 -- 개별 퀘스트 파일이 추가 될때마다 이곳에 추가 시켜준다.
 QuestTable.malayaQuest = malayaQuest_List
 QuestTable.epsoid141Quest = epsoid141Quest_List
 QuestTable.DewataQuest = DewataQuest_List
+QuestTable.BeginTutorialQuest = BeginTutorialQuest_List
 
 -- 끝

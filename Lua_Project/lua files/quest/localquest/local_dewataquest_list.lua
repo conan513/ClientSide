@@ -4,7 +4,7 @@ LOCAL_DewataQuest_List = {
 						imagefile = [[ep_test_sample.bmp]],
 						list = {
 									{
-										name  =	[[노인을 도와라!!]],
+										name  =	[[전통음료!!]],
 										list = {
 												{
 													name =[[노인을 도와라 !!]],
@@ -50,46 +50,6 @@ LOCAL_DewataQuest_List = {
 													name =[[노인을 도와라 !!]],
 													scrfilename = [[DewataQuest]],
 													questID = 5043,
-												},
-												{
-													name =[[노인을 도와라 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5044,
-												},
-												{
-													name =[[노인을 도와라 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5045,
-												},
-												{
-													name =[[노인을 도와라 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5046,
-												},
-												{
-													name =[[노인을 도와라 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5048,
-												},
-												{
-													name =[[노인을 도와라 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5050,
-												},
-												{
-													name =[[노인을 도와라 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5047,
-												},
-												{
-													name =[[노인을 도와라 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5049,
-												},
-												{
-													name =[[노인을 도와라 !!]],
-													scrfilename = [[DewataQuest]],
-													questID = 5051,
 												},
 											}
 									},

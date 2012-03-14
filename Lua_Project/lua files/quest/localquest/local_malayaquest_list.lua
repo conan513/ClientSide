@@ -11,25 +11,45 @@ LOCAL_MalayaQuest_List = {
 													scrfilename = [[malayaQuest]],
 													questID = 7350,
 												},
-											}
-									},
-									{
-										name  =	[[단추라도]],
-										list = {
 												{
 													name =[[그들이 단추를 원하는 이유]],
 													scrfilename = [[malayaQuest]],
 													questID = 7358,
 												},
-											}
-									},
-									{
-										name  =	[[내 낡은 단추보다 좋은 것]],
-										list = {
 												{
 													name =[[내 낡은 단추보다 좋은 것]],
 													scrfilename = [[malayaQuest]],
 													questID = 7351,
+												},
+												{
+													name =[[선원에게 성물 전달]],
+													scrfilename = [[malayaQuest]],
+													questID = 7359,
+												},
+												{
+													name =[[노인에게 성물 전달]],
+													scrfilename = [[malayaQuest]],
+													questID = 7360,
+												},
+												{
+													name =[[청년에게 성물 전달]],
+													scrfilename = [[malayaQuest]],
+													questID = 7361,
+												},
+												{
+													name =[[상인에게 성물 전달]],
+													scrfilename = [[malayaQuest]],
+													questID = 7362,
+												},
+												{
+													name =[[꼬마에게 성물 전달]],
+													scrfilename = [[malayaQuest]],
+													questID = 7363,
+												},
+												{
+													name =[[중년에게 성물 전달]],
+													scrfilename = [[malayaQuest]],
+													questID = 7364,
 												},
 												{
 													name =[[내 낡은 단추보다 좋은 것-2]],
@@ -50,6 +70,11 @@ LOCAL_MalayaQuest_List = {
 													name =[[전통 수호물과 얄미운 소녀-2]],
 													scrfilename = [[malayaQuest]],
 													questID = 7367,
+												},
+												{
+													name =[[사랑과 수호물은 모두에게]],
+													scrfilename = [[malayaQuest]],
+													questID = 7374,
 												},
 												{
 													name =[[수호물을 전달하라-페드로]],
@@ -82,11 +107,6 @@ LOCAL_MalayaQuest_List = {
 													questID = 7373,
 												},
 												{
-													name =[[사랑과 수호물은 모두에게]],
-													scrfilename = [[malayaQuest]],
-													questID = 7374,
-												},
-												{
 													name =[[사랑과 수호물은 내일도]],
 													scrfilename = [[malayaQuest]],
 													questID = 7375,
@@ -94,7 +114,22 @@ LOCAL_MalayaQuest_List = {
 											}
 									},
 									{
-										name  =	[[노인과 무쇠 솥]],
+										name  =	[[전통 수호물 제작을 위해]],
+										list = {
+												{
+													name =[[전통 수호물 제작을 위해]],
+													scrfilename = [[malayaQuest]],
+													questID = 7380,
+												},
+												{
+													name =[[수호물의 재료는 언제나 필요해]],
+													scrfilename = [[malayaQuest]],
+													questID = 7381,
+												},
+											}
+									},
+									{
+										name  =	[[무쇠솥-정기교역]],
 										list = {
 												{
 													name =[[노인과 무쇠솥-1]],
@@ -198,21 +233,7 @@ LOCAL_MalayaQuest_List = {
 												},
 											}
 									},
-									{
-										name  =	[[전통 수호물 제작을 위해]],
-										list = {
-												{
-													name =[[전통 수호물 제작을 위해]],
-													scrfilename = [[malayaQuest]],
-													questID = 7380,
-												},
-												{
-													name =[[수호물의 재료는 언제나 필요해]],
-													scrfilename = [[malayaQuest]],
-													questID = 7381,
-												},
-											}
-									},
+									
 									{
 										name  =	[[페리호의 영혼]],
 										list = {
