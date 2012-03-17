@@ -39,7 +39,7 @@
 4039#of Aristotle#
 4040#Teleport#
 4041#of Sandman#
-4042#of He-Man#
+4042#of Heman#
 4043#Hurricane#
 4044#Hiding#
 4045#Heavy#
@@ -358,7 +358,7 @@
 4358#Lost-Power#
 4359#of Shadow#
 4360#Assassin#
-4361#of Hollgren#
+4361#of Hollgrehenn#
 4362#Heat#
 4363#Protection#
 4364#of Magic Sealing#
@@ -414,44 +414,47 @@
 4413#Resistance#
 4414#Gorgon's#
 4415#Sweet#
-4416#Grain#
-4417#Flow#
-4418#Hailing#
+4416#of Grain#
+4417#of Flow#
+4418#of Hail#
 4419#Jack Frost#
-4420#Solace#
+4420#of Comfort#
 4421#of Chinook#
 4422#Breeze#
-4423#Spread#
+4423#of Sharkia#
 4424#Stony#
 4425#Beast#
 4426#Exceeding#
 4427#of Force#
-4428#Shaft#
-4429#Nessus#
-4430#Inferno#
-4431#Stygia#
+4428#of Shaft#
+4429#Nessus's#
+4430#of Inferno#
+4431#Stygian#
 4432#Scorching#
-4433#Ignite#
+4433#of Ignis#
 4434#Miner's#
-4435#Violent#
+4435#Outrageous#
 4436#Lunatic#
-4437#Mad Dog#
+4437#Rabid#
 4438#Mental#
 4439#of Anathema#
 4440#of Ignoring#
 4441#Arrogant#
 
 4442#of Basis#
-4443#of Underneith#
-4444#of Saharic#
+4443#of Saharic#
+4444#of Underneath#
 4445#of Windy#
 4447#of Envenom#
 4448#of Damned#
 4449#of Hallowed#
 4450#Surplus#
-4451#of Axis#
+4451#of Excess#
 4452#Magical#
-4453#Violent#
+4453#Fierce#
+
+4454#Sorry#
+4455#Love#
 
 // - Episode 14.1 Cards - \\
 4456#Spell Master#
@@ -461,18 +464,25 @@
 4460#of Healing#
 4461#of Sharp#
 4462#Prime Defense#
-4463#Prime Offense#
-4464#of Fatal#
-4465#Sweeping#
-4466#Straight Shooting#
+4463#Prime Attack#
+4464#Fatal#
+4465#Sweep#
+4466#Straight#
 4467#Heavy#
-4468#Polution#
+4468#Pollution#
 4469#Marine#
 4470#Botany#
 4471#Draco#
-4472#Carnivore#
+4472#Carnival#
 4473#Undead#
 4474#Mortal#
 4475#Intangible#
 4476#Entomic#
 4477#Demonic#
+
+4480#Of Halfreload#
+4481#Half Jack Frost#
+4482#Of Half regeneration#
+4483#Half Spiritual#
+4484#Of Half Gemstone#
+4485#Half Abyss#
