@@ -32,7 +32,7 @@ Frame Skip Off#
 BGM On#
 BGM Off#
 /h or /help: Shows this Command Help List#
-/w or /who:  Shows the number of current players connected.#
+/w or /who or /player or /who : wiew current the number of player#
 /music: Turns BGM On or Off#
 /sound: Turns Sound Effects On or Off#
 /effect: Effects On or Off#
@@ -112,7 +112,7 @@ Attack#
 Support#
 Entire#
 Weapon#
-Defence#
+Defense#
 Water#
 Earth#
 Fire#
@@ -144,19 +144,19 @@ Ppl#
 Congratulations! You are the MVP! Your reward item is #
 !!#
 Congratulations! You are the MVP! Your reward EXP Points are #
-!!#
+acquired!#
 You are the MVP, but you can't take the reward because you are over your weight limit.#
 There is no such character name or the user is offline.#
  doesn't want to receive your messages.#
  is not in the mood to talk with anyone.#
-Kill has completed successfully.#
+Killed/Disconnected User.#
 Kill has failed.#
 You got %s (%d).#
 [Alt] + [=]: Fix the interval error between letters.#
 [F10]: To toggle Chat Window size; [Alt] + [F10]: Toggle Chat Window On or Off#
 How to Whisper: Enter a Character's Name on the left side of chat window and type your message on the right side. The Tab key helps you move between these boxes.#
-/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/¡|.,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
-How to Speak to Party: Add % in front of every message#
+/!,/?,/ho,/lv,/lv2,/swt,/ic,/an,/ag,/$,/….,/thx,/wah,/sry,/heh,/swt2,/hmm,/no1,/??,/omg,/oh,/X,/hp,/go,/sob,/gg,/kis,/kis2,/pif,/ok: Emotion icons corresponding to Alt + (1~9) Ctrl + (-=\\)#
+How to Speak to Party: Add % in front of every message.(Example: \%Hello\)#
 You haven't learned enough Basic Skills to Trade.#
 You haven't learned enough Basic Skills to use Emotion icons.#
 You haven't learned enough Basic Skills to Sit.#
@@ -250,16 +250,16 @@ Strength#
 Agility#
 Vitality#
 Intelligence#
-Dexerity#
+Dexterity#
 Luck#
-Hit Point#
-Defense Rate#
-Accuracy Rate#
+Attack Power#
+Defense#
+Acccuracy Rate#
 Critical Attack#
 Assigned Guild#
-Value needed for Level Up#
-Magical Hit Point#
-Magical Defense#
+Status Points to allocate#
+Magical Attack#
+Magical Defense #
 Flee Rate#
 Attack Speed#
 Server is jammed due to over population. Please try again shortly.#
@@ -604,8 +604,8 @@ Only the numbers (0~9) are available.#
 You cannot sell unidentified items.#
 Item at 0 Zeny exists. Do you wish to continue?#
 [New Emotion List]#
-N/A#
-N/A#
+A message to the BETA users in Japan-> Let's rejoin Kung-Ho#
+A message to users terminated in payment from Japan -> Pay bills. Pay twice#
 Character in the same account already joined.#
 (%d ppl) - over the age 18#
 Provoke initiated.#
@@ -654,13 +654,13 @@ Weapon destroyed.#
 Weapon has just been released from destroyed status.#
 Invisibility initiated.#
 Invisibility canceled.#
-N/A#
-You must unequip arrows first.#
+Sorry. It is delayed due to the process of payment. Please re-connect in a minute #
+You must unequip ammunition first.#
 Arrow List#
 Cart List#
 You must have a Pushcart.#
 You cannot open a Chat Window.#
-No Information#
+Please visit the Raganrok Homepage and make a user account. It's free for the three days of user account#
 You cannot use this item while sitting.#
 Your use of skills and chat will be blocked for the next %d minutes.#
 Your use of skills and chat have been reinstated.#
@@ -1060,7 +1060,7 @@ Sale Status#
 Purchase Status#
 Item#
 Name#
-Current Bid / Buyout#
+Current Bid / Max Bid#
 Seller#
 Buyer#
 End Time#
@@ -1194,16 +1194,16 @@ You can feel hatred from your pet for neglecting to feed it.#
 [Angel's Question] Please tell me, how much zeny you'll have if you divide it by 100,000?#
 [Angel's Question] Please tell me, what is today's date?#
 [Angel's Question] Please tell me, how many %s do you have?#
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in SiYeon's name?# 
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in Munak's name?# 
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in Bongun's name?# 
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, Ragnarok?# 
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, online?# 
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, death?# 
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, knight?# 
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, gravity?# 
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, dark?# 
-[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, collecter?# 
+[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in SiYeon's name?#
+[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in Munak's name?#
+[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in Bongun's name?#
+[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, Ragnarok?#
+[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, online?#
+[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, death?#
+[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, knight?#
+[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, gravity?#
+[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, dark?#
+[Angel's Question] If A is 1, B is 2, and so on, and if Z is 26, what number do you get if you add the letters in the word, collecter?#
 [Angel's Answer] Thank you for letting me know~#
 [Angel's Answer] I'm very pleased with your answer. You are a splendid adventurer.#
 [Angel's Answer] You've disappointed me...#
@@ -1271,8 +1271,8 @@ The mercenary has run away.#
  The '%s' item will disappear in %d seconds.#
 IP Bonus: EXP/JEXP %d%%, Death Penalty %d%%, Item Drop %d%%#
 Symbols in Character Names are forbidden.#
-Mercenary Soldier will follow custom AI.#
-Mercenary Soldier will follow basic AI.#
+Mercenary will follow custom AI.#
+Mercenary will follow basic AI.#
  %s's#
 %s has acquired %s.#
 Public Chat Display#
@@ -1375,16 +1375,16 @@ The number of accounts connected to this IP has exceeded the limit.#
 You have received a new quest.#
 ^777777Acquirement conditions:#
 View Skill Info.#
-Used skill point is unavailable to revert. Would you like to use the skill point?#
-Nov. 1st#
-2nd. Trans#
-This account has been used for illegal program or hacking program.            Block Time : %s#
+Once used, skill points cannot be re-allocated. Would you like to use the skill points?#
+1st Job#
+2nd Job#
+This account has been used for illegal program or hacking program. Block Time : %s#
 The possibility of exposure to illegal program, PC virus infection or Hacking Tool has been detected. Please execute licensed client. Our team is trying to make a best environment for Ro players.#
 You are currently playing in the best game environment. Please enjoy the Ragnarok.#
-Job exp points from hunting monsters are increased by 1.5 times for 30 minutes.#
-Exp points from hunting monsters are increased by 1.25 times for 30 minutes.#
-EXP points from hunting monsters are increased by 2 times for 30 minutes.#
-EXP points from hunting monsters are increased by 1.5 times for 60 minutes.#
+Job Exp points from hunting monsters are increased by 1.5x for 30 minutes.#
+Exp points from hunting monsters are increased by 1.25x for 30 minutes.#
+EXP points from hunting monsters are increased by 2x for 30 minutes.#
+EXP points from hunting monsters are increased by 1.5x for 60 minutes.#
 Unable to organize a party in this map.#
 (%s) are currently in restricted map to join a party.#
 Simple Item Shop#
@@ -1402,8 +1402,8 @@ Ancilla is required.#
 Cannot be duplicated within a certain distance.#
 This skill requires other skills to be used.#
 This map is not a chat.#
-3 hours have passed since.#
-5 hours have passed since.#
+3 hours have passed#
+5 hours have passed#
 Either ini file is missing or altered. Install game guard setup file to fix the problem.#
 A program has been found that conflicts with game guard.#
 Security program has been identified that there is a conflict with the game.#
@@ -1460,16 +1460,16 @@ Please equipped with a Repair Kit.#
 Monkey Wrench is required.#
 [%s] Cannot use the skills.#
 %d higher level is impossible to remove.#
-Cannot be used without Mado Gear equipped.#
+Cannot be used without Magic Gear equipped.#
 Dismount Dragon.#
-Dismount Mado Gear.#
-Consume#
+Dismount Magic Gear.#
+Item#
 Cash#
 Weapons#
 Armors#
 Ammo#
-Cards#
-Etc.#
+Card#
+Etc#
 Guitar#
 Seems that you have screwed something up. Hack shield file does not have the correct file version. Please reinstall the client and try again to screw it.#
 The skill requires a spellbook.#
@@ -1481,18 +1481,18 @@ Brush is required.#
 Waiting time has been exceeded. Please log in again.#
 DANGER! The same account is logged in already. Please log in again after correcting the duty to stop the progression of mobile authentication for a while.#
 DANGER!! Located in the same account is now waiting for mobile authentication. Please log in again after correcting the duty to stop the progression of mobile authentication for a while.#
-Select Option#
-Detail Option#
-Sound Option#
+Game setting window#
+Graphic setting#
+Sound Setting#
 Press a key to assign. Pressing 'ESC' will remove the assigned key.#
 Unable to specify a single key.#
 Unable to specify the key assigned.#
 '%s' is used to duplicate the shortcut key. Do you want to change it?#
 Initialization is stored in the shortcut key settings. Do you want to initialized?#
 Skill Bar#
-Window Interface#
+Interface#
 Macros#
-Windows Shortcut Key Setting#
+Shortcut Key Setting#
 BGM#
 Effect#
 Skin#
@@ -1526,7 +1526,7 @@ Cannot be used anymore.#
 [Explosive Powder] is required.#
 [Smokescreen Powder] is required.#
 [Tear Gas] is required.#
-[Ashiddobotoru] is required.#
+[Acid Bottle] is required.#
 [Bottom Man-Eating Plant] is required.#
 [Pot of Mandragora] is required.#
 Party leader instructions#
@@ -1549,7 +1549,7 @@ Battlefield - [%s]#
 Do you really want to go back to your savepoint?#
 Search Message for Party Members#
 Message option is off the search party members.#
-No MSG 156#
+10 seconds delay of party support is in effect#
 Party leader is '%s'.#
 Unable to enter due to system error.#
 Cannot wait to enter the number of excess.#
@@ -1562,11 +1562,11 @@ Integration of skills is a particular skill.#
 %d requires a total mind bullets#
 Bullet is required.#
 Cannot create rune stone more than the maximum amount.#
-I cannot receive a list of battleground states. After you confirm, please try again.#
-Admission to a level that is not enough.#
+Not able to receive battle field list. Please check and try again#
+Level is not high enough to enter#
 You must consume all '%d' points in your 1st Tab.#
 You must consume all '%d' remaining points in your 2nd Tab. 1st Tab is already done.#
-Available Items to be converted#
+Convertible item#
 Items that can be converted#
 Item to convert#
 Combination of item is not possible in conversion.#
@@ -1608,15 +1608,15 @@ Anyone#
  [%s] received '%d' damage.#
  [%s] deal damage to [%s] with '%d' damage.#
 You dropped %s (%d).#
-[%s] The Quest [%s] Shimashita monsters. (%d/%d)#
+[%s] Quest - defeated [%s] progress (%d/%d)#
 The Quest %s has been removed.#
-[%s] is #
-You Acquired '%d' Experience Points#
-You Acquired '%d' Job Experience Points#
+[%s] has #
+%d' EXP #
+%d' Job EXP #
  gained.#
  has lost.#
 From [%s], '%d' coins were stolen.#
-Battle Message Display#
+Battle Message#
 Party Battle Message Display#
 Experience Message Display#
 Party Experience Message Display#
@@ -1688,16 +1688,16 @@ Star Gladiator#
 Soul Linker#
 Party Recruitment#
 Party Booking List#
-~Party recruiting#
+Recruiting Party#
 [Bow] must be equipped.#
 [Musical Instrument/Whip] must be equipped.#
 Only alphanumeric characters are allowed.#
-Message#
-Because the store information was incorrect the item was not purchased.#
+Notice#
+Item purchase failed due to incorrect shop information.#
 Item cannot be discarded from the window.#
 Time#
 Map#
-You cannot unequip while in trade.#
+You can't use, equip or disarm items when you're trading.#
 Unspecified value#
 /stateinfo : Shows the description of status icons. On Off#
 Status Information On : Status icon description is enabled.#
@@ -1705,7 +1705,7 @@ Status Information Off: Status icon description is disabled.#
 It is not possible to purchase the same item more than %d pieces at a time#
 It is not possible to purchase the same item more than %d pieces at a time#
 Can purchase upto %d pieces of the same item at a time.#
-User customized key is saved to [%s\%s]#
+Settings will saved to [%s\\%s] when you normally exit.#
 [%s] is currently on trade and cannot accept the request.#
 RO_HELP#
 Anvil does not exist.#
@@ -1765,7 +1765,7 @@ Recruit#
 Open party recruitment window.#
 Searching - #
 Select All#
-~Recruitment of at least one job must be running.#
+Recruitment of at least one job must be running.#
 You have to select atleast 1 or more jobs.#
 You have selected %d Jobs. You can only select up to 6 different jobs.#
 Only numeric characters are allowed.#
@@ -1778,8 +1778,8 @@ Failed to add because you have reached the limit.#
 Window Sign Information#
 Sell#
 Purchase#
-Search street stall#
-Name of street stall#
+Search for Vends#
+Shop Name#
 Amount#
 Price#
 Too much results have been found. Please do a more precisely search.#
@@ -1800,11 +1800,11 @@ Failed to search any further.#
 The selected item does not exist.#
 Cannot search yet.#
 Enter the card name or prefix/suffix.#
-Remaining search time : %d#
+Searches left : %d#
 No result has been found.#
 The item price is too high.#
 General#
-Styles#
+Costume#
 minute#
 second#
 Please enter the name of the item.#
@@ -1829,8 +1829,8 @@ results have been found.#
 Failed to remove result.#
 No results have been found.#
 No payment information has been found.#
-Save trade log.#
-[trans_%s]#
+Get a screenshot during trading#
+[Trade_%s]#
 Death due to the auto insurance young people are spending.#
 Chat Dialog#
 Redundant is not available.#
@@ -1847,57 +1847,57 @@ Last page#
 New#
 Popular#
 Limited#
-Rental Equipment#
-Permanent Equipment#
+Rental#
+Equipment#
 Buffs#
-Restore#
+Heal#
 Other#
 Cost#
 Quantity#
-Zeny#
+Total#
 Free cache: %s C#
 Used cache: %s C#
 You cannot summon a monster in this area.#
 The cache usage has exceeded the total amount of #
 Content has been saved in [SaveData_ExMacro%d]#
 %d seconds left until you can use #
-[창]을 장착한 상태여야 합니다.#
-드래곤 탑승시에만 사용가능합니다.#
-본 서버에 접속할 수 있는 정원이 초과되어 진입이 불가능 합니다.#
-실명 인증이 되지 않았습니다. 실명인증 사이트로 이동합니다#
-저장 할 슬롯을 선택 해 주세요#
-%s, 축하드립니다. '%s' 를 얻으셨습니다!#
-그루미상태에서는 사용할 수 없습니다#
-구매물품의 합계금액이 케릭터가 소지할 수 있는 최대 금액을 초과하였습니다#
-현재 맵에서는 파티 가입이 불가능합니다.#
-현재 맵에서는 파티 탈퇴가 불가능합니다.#
-현재 맵에서는 파티 추방이 불가능합니다.#
-실제 성명#
+~[창]을 장착한 상태여야 합니다.#
+Available only on the dragon.#
+Unable to proceed due to exceeding capacity.#
+Real name has not been verified. Go to name verification site.#
+Please select slot you are going to save.#
+Congratulation %s,  Acquired '%s' !#
+~그루미상태에서는 사용할 수 없습니다#
+Purchased products has exceeded the total price.#
+Cannot join a party in this map.#
+Cannot leave a party in this map.#
+Cannot withdraw/break the party in this map.#
+Real Name#
 ID Number#
 E-mail#
-입력이 올바르지 않습니다#
-상대방에게 제니 지급에 실패했습니다.#
-해당 직업이 아닙니다.#
-해당 성별이 아닙니다.#
-유저님의 정보가 인증에 성공했습니다.#
-이름이 일치하지 않습니다. 재작성 해주세요.#
-신분증 번호가 일치하지 않습니다. 재작성 해주세요.#
-현재 서비스에 이상이 있으니 잠시 후 재시도 해주세요.#
- 탑승 상태에서는 공격을 할 수 없습니다.#
- 탑승 상태에서는 스킬 시전을 할 수 없습니다.#
-비밀번호는 4자리이하여야만 합니다.#
-보안 인증에 성공했습니다.#
-보안 패스워드의 생성에 성공했습니다.#
-보안 패스워드를 삭제했습니다.#
-보안 패스워드를 수정했습니다.#
-잘못된 패스워드입니다.(%d회남음)#
-보안 패스워드의 생성에 실패했습니다.#
-보안 패스워드 삭제에 실패했습니다.#
-보안 패스워드의 수정에 실패했습니다.#
-입력하신패스워드는 사용하실수없습니다.#
-주민등록번호는 사용할수없습니다.#
-이미 패스워드가 존재합니다.#
-보안 패스워드#
+Invalid input#
+~상대방에게 제니 지급에 실패했습니다.#
+~해당 직업이 아닙니다.#
+~해당 성별이 아닙니다.#
+User information identification is successful.#
+Name does not match. Please rewrite.#
+ID number does not match. Please rewrite.#
+Service is currently unavailable. Please try again later.#
+ Unable to attack while riding.#
+ Unable to cast the skill while riding.#
+Pin number should be 4~6 characters.#
+Secured authentication is successful.#
+Succeeded in creating 2nd password.#
+2nd password has been deleted.#
+2nd password has been corrected.#
+~Password is incorrect.(%d회남음)#
+Failed to create 2nd password.#
+Failed to delete 2nd password.#
+Failed to correct 2nd password.#
+Unable to use restricted number in 2nd password.#
+Unable to use your KSSN number.#
+~이미 패스워드가 존재합니다.#
+Security Code#
 계정보안을 위하여 추가적인 패스워드 설정을 권장합니다.#
 보안 패스워드 사용을 하지 않습니다.#
 보안 패스워드 사용설정에 실패했습니다.#
@@ -1982,9 +1982,9 @@ Open Option#
 Close Option#
 End#
 Time#
-파티&친구#
-채팅#
-단축키#
+Party & Friends#
+Chat#
+Shortcuts#
 자동 파일명 생성#
 파일 중복 채크#
 동일한 파일이 존재 합니다.#
@@ -1992,7 +1992,7 @@ Record Start#
  is Saved.#
 Weight : %3d / %3d#
 Total : %s C#
-[수리검]을 장착한 상태여야 합니다.#
+[수리검]must be equipped.#
 Base Lv. %d#
 Job Lv. %d#
 Zeny : %s#
@@ -2001,7 +2001,7 @@ attack#
 skill#
 item#
 NoCtrl#
-전장#
+Battleground#
 (Character/Total Slot)#
 Premium Service#
 Premium #
@@ -2033,7 +2033,7 @@ Not Available#
 소환까지 %02d초남았습니다.#
 파티장이 당신을 %s (%s) 로 소환합니다.소환시 %d zeny가 소모됩니다.#
 소환대상#
-차단목록#
+Block List#
 파티 광고를 등록하기 위해 %d제니가 소모됩니다.#
 파티 광고를 하기 위한 제니가 부족합니다.#
 )님 파티 가입승인#
