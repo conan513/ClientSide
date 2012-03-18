@@ -1973,7 +1973,7 @@ StateIconList[EFST_IDs.EFST_SIT] = {
 	}
 }
 StateIconList[EFST_IDs.EFST_ALL_RIDING] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+	descript = {
 		{"Riding", COLOR_TITLE_TOGGLE},
 	}
 }

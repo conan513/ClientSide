@@ -1,3 +1,8 @@
+rev183 - [2012-03-18]
+ - Fixed a Crash while riding new mounts or sitting then Hovering the status icons
+ * This bug exist since 2011-02-23 kRO Patch (r120) to latest
+ * Please replace your statusiconinfo.lua to this.
+
 rev177 - [2012-03-15]
  - 2012-03-14 kRO Patch lua and lub
 
