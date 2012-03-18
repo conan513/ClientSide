@@ -1968,7 +1968,7 @@ StateIconList[EFST_IDs.EFST_MONSTER_TRANSFORM] = {
 	}
 }
 StateIconList[EFST_IDs.EFST_SIT] = {
-	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+	descript = {
 		{"Sit", COLOR_TITLE_TOGGLE},
 	}
 }
