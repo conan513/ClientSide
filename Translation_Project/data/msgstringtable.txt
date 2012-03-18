@@ -1251,7 +1251,7 @@ You will receive 1.5 times more EXP from hunting monsters for the next 30 minute
 This character will not receive any EXP penalty if killed within the next 30 minutes.#
 Regular item drops from monsters will be doubled for the next 30 minutes.#
 Boss Monster Map Information for the next 10 minutes.#
-Do you really want to purchase '%s' item? %d points will be deducted from your total Kafra Credit Points.#
+Do you really want to purchase this item? %d points will be deducted from your total Kafra Credit Points.#
  You do not have enough Kafra Credit Points.#
  ^ff0000Expiration Date: %s^000000#
  The '%s' item will disappear in %d minutes.#
@@ -1310,7 +1310,7 @@ http://payment.ro.hangame.com/index.asp#
 You need to accept the Privacy Policy from Gravity in order to use the service.#
 You need to accept the User Agreement in order to use the service.#
 Incorrect or nonexistent ID.#
-Do you really want to purchase '%s'? You will spend %d Regular Cash Points and %d Free Cash Points.#
+Do you really want to purchase these items? You will spend %d Regular Cash Points and %d Free Cash Points.#
 %d hour(s) has passed.#
 %d hour(s) %d minute(s) has passed.#
 Please stop playing the game, and take a break. Exp and other features will be reduced to 50%.#
@@ -1733,7 +1733,7 @@ You have entered a greater amount of zeny than you have. Please check your zeny.
 %s : %s  Zeny => %s ea.#
 Available items:#
 Purchase list:#
-Price limit: %d Zeny#
+Price limit: %s Zeny#
 Buying %s for %s Zeny. Amount: %d.#
 Wanted items#
 Available items:#
