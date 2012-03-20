@@ -97,10 +97,10 @@ Weight :^777777 2^000000
 #
 
 516#
-A tuber that can be fried, baked, boiled, mashed, even eaten.
-^000088Recovers a small amount of HP^000000.
+Anael's favorite. Can be fried, baked, boiled, mashed, even eaten.
+^000088Recover a small amount of HP^000000.
 ^ffffff_^000000
-Weight :^777777 2^000000
+Weight : ^7777772^000000
 #
 
 517#
@@ -7576,11 +7576,8 @@ MATK + 155
 Increases physical attack against DemiHuman monster by 80%.
 Adds 25% defense bypassing on Demi-human monster.
 Indestructible (except in upgrade attempts).
-[^333399Refine Rate 6~10^000000]
-Adds 5% defense bypassing on Demi-human monster.
-^ff0000[Slaughter]^000000 Lv 1
-[^333399Refine Rate 9~10^000000]
-When attacking there's a chance the weapon will awaken and grant you ATK + 200 for 3 seconds.
++6 Upgrade : Ignore Magical Defense of Demihumans +5%, ^ff0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
++9 Upgrade : When physically attacking, has a chance of adding Atk +200 for 3 seconds.
 Class :^777777 Book^000000
 Attack :^777777 90^000000
 Weight :^777777 0^000000
@@ -10497,13 +10494,11 @@ Applicable Job :^777777 Dancer^000000
 #
 
 2000#
-
-Two handed staff that seems to be possesing a tremendous power. The owner of the staff has to have a strong spiritual strength to use this staff properly.
-MATK + 280, INT + 3, AGI + 10
-Reduces casting time of Amplify Magic by 50%.
-Refinement in multiples of 2 (+2, +4, +6, +8, +10) increases MATK by 1%.
-SP taken by all skills will increase depending on the refinement rate of this weapon.
-Small chance to cast ^008800Level 5 Jupitel Thunder^000000 whenever you are attacked physically. This chance depends on the refinement rate of this weapon.
+A tremendously powerful Two-handed Staff that can only be wielded by someone who is spiritually strong.
+MATK+280, INT+3, AGI+10.
+Reduce casting time of Amplify Magic by 50%.
+Increase MATK by 1% for every 2 upgrade levels, but raising the upgrade level also increase SP consumption.
+Has a chance of auto casting Lv.5 Jupiter Thunder with each enemy attack; this chance can be increased by raising the weapon's upgrade level.
 Class :^777777 Two-handed Staff^000000
 Attack :^777777 130^000000
 Weight :^777777 250^000000
@@ -11380,18 +11375,16 @@ MDEF + 5, "오딘의 힘 2Lv" 사용 가능.
 #
 
 2164#
-
-a shield that has internal resistance.
-decrease damage 5% from dark monster type
-decrease damage 5% from fire monster type
-Class : ^777777Shield^000000 Defense : ^77777750^000000
+A shield that has internal resistance.
+Decrease damage by 5% from dark and fire type monsters
+Class : ^777777Shield^000000
+Defense : ^77777750^000000
 Weight : ^777777130^000000
 Req Lev : ^77777765^000000
-Job : ^777777all jobs^000000
+Job : ^777777Every Job^000000
 #
 
 2168#
-
 A square shaped exotic shield. There is a Gem which is specialized to defense Physical force.
 If it refined over 5, will give 1% tolerance on property "nothing" attack
 (This bonus would work up to +12, 7%)
@@ -15051,7 +15044,7 @@ MDEF +3, FLEE +7
 Resistance to Neutral property attacks +7%, 
 Class : ^777777Robe^000000 Def : ^7777772^000000
 Weight : ^77777710^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Job : ^777777All^000000
 #
 
@@ -15116,12 +15109,12 @@ Applicable Job :^777777 Every Job^000000
 #
 
 2573#
-
-white and big wings of archangel.
-class : ^777777costume^000000  Defense : ^77777718^000000
-weight : ^77777720^000000
-required level : ^7777771^000000
-job : ^777777all jobs^000000
+White and big wings of archangel.
+Class : ^777777costume^000000
+Defense : ^77777718^000000
+Weight : ^77777720^000000
+Required level : ^7777771^000000
+Job : ^777777Every Job^000000
 #
 
 2574#
@@ -15143,12 +15136,27 @@ FLEE + 10, CRI + 10.
 #
 
 2576#
-
-a bag for bravery adventure. you feel safe with this bag.
-class : ^777777garment^000000 Defense : ^77777720^000000
-weight : ^77777720^000000
-required level : ^7777771^000000
-job : ^777777all jobs^000000
+A backpack befitting of any hero.
+Enables the use of level 1 Greed
+If refined to +7 or higher and base stats (without modifiers) is equal to 90 or higher,
+-Str -> Attack +20
+-Int -> Magic Attack +30
+-Vit -> Tolerance to Neutral Property +5
+-Agi -> Aspd +8%
+-Dex -> Ranged Attack +5
+-Luk -> Inflict 10% more critical attack.
+If refined to +9 or higher and base stats (without modifiers) is equal to 90 or higher,
+-Str -> Attack +30
+-Int -> Magic Attack +50
+-Vit -> Tolerance to Neutral Property +10
+-Agi -> Aspd +8% & Aspd +1
+-Dex -> Ranged Attack +10
+-Luk -> Inflict 15% more critical attack.
+Class : ^777777Garment^000000
+Defense: ^77777720^000000
+Weight : ^77777720^000000
+Required Level : ^7777771^000000
+Jobs: ^777777All^000000
 #
 
 2577#
@@ -15218,15 +15226,20 @@ MDEF + 10.
 #
 
 2589#
-
-a dark wing from fallen angel.
-LUK + 2.
-increase resistance 10% against human type of monster
-increase resistance 30% against dark type of attack, and decrese resistance 30% against holy attact
-class : ^777777wear^000000  def : ^77777718^000000
-weight : ^77777720^000000
+A dark wing from fallen angel.
+All Stats + 1.
+Base stats (without modifiers) is equal to 20 or higher,
+-Str -> Attack + 1
+-Int -> Magic Attack + 1
+-Vit -> Tolerance to Neutral Property + 1%
+-Agi -> Increase ASPD (After Attack delay -1%)
+-Dex -> Ranged Attack +1%
+-Luk -> Inflict 1% more critical attack.
+Class : ^777777Garment^000000
+Defense : ^77777718^000000
+Weight : ^77777720^000000
 req leve : ^7777771^000000
-jobs : ^777777all jobs^000000
+Applicable Jobs : ^777777Every Job^000000
 #
 
 2590#
@@ -17999,7 +18012,7 @@ DEX + 2, MATK + 20.
 Class : ^777777Accessory^000000 Def : ^7777770^000000
 Weight : ^77777710^000000
 Required Lv  : ^7777770^000000
-Jobs : ^777777all Jobs^000000
+Jobs : ^777777Every Job^000000
 #
 
 2883#
@@ -22248,8 +22261,8 @@ Weight :^777777 1^000000
 decrease 15% delay after using all skill 
 additional decrease 5% if refined level is over 15
 Class : ^777777card^000000
-location : ^777777headgear^000000
-weight : ^7777771^000000
+Location : ^777777headgear^000000
+Weight : ^7777771^000000
 #
 
 4481#
@@ -22257,8 +22270,8 @@ additional damage 25% against fire type of monster.
 cast auto spell frost nova lv 10 at regular rate if being attacked on physical and magical damage.
 additional damage 10% against fire type of monster.
 Class : ^777777card^000000
-location : ^777777armor^000000
-weight : ^7777771^000000
+Location : ^777777armor^000000
+Weight : ^7777771^000000
 #
 
 4482#
@@ -22266,15 +22279,15 @@ recover 50 HP  10 SP every 15 sec.
 increase 5% on  MHP MSP .
 if refined lv is over 15, recovery speed for HPand SP will be 10 sec , additional 2% for  MHP, MSP
 Class : ^777777card^000000
-location : ^777777Shoes^000000
-weight : ^7777771^000000
+Location : ^777777Shoes^000000
+Weight : ^7777771^000000
 #
 
 4483#
 absorb 5% SP  that inflicted to enemy at regular rate (5%). If refined lv is over 15, absorption rate increase 7% rate.
 Class : ^777777card^000000
-location : ^777777weapon^000000
-weight : ^7777771^000000
+Location : ^777777weapon^000000
+Weight : ^7777771^000000
 #
 
 4484#
@@ -22282,16 +22295,16 @@ can use this without consumption for gemstone.
 SP consimption increase 50% if using skill.
 if refined lv is over 15, SP consumption increase 35% with using skill.
 Class : ^777777card^000000
-location : ^777777headgear^000000
-weight : ^7777771^000000
+Location : ^777777headgear^000000
+Weight : ^7777771^000000
 #
 
 4485#
 increase physical damage 20% against monster type of holy, dark, angel, evil .
 if refined lv is over 15, can get additional physical damage 10% against above type of monster.
 Class : ^777777card^000000
-location : ^777777armor^000000
-weight : ^7777771^000000
+Location : ^777777armor^000000
+Weight : ^7777771^000000
 #
 
 4505#
@@ -26329,13 +26342,18 @@ Applicable Job :^777777 Every Job^000000
 #
 
 5286#
-Headgear with Pecopeco's wings on it. It makes wearer to move as fas as Pecopeco.
-Increases movement speed by 5% when equipped.
-Increases Attack Speed by 5%. Reduce Casting Time by 5%.
-Class :^777777 Headgear^000000
-Defense :^777777 6^000000
-Equipped on :^777777 Upper^000000
-Applicable Job :^777777 Every Job^000000
+Looks like that it has wings of Pecopeco. Can make you move as fast as Pecopeco.
+Increase Movement Speed.
+Increases ASPD by 5%.
+(After attack delay decreases by 5%)
+Increases Variable casting time by 25%.
+Premium Users: All Stats + 1
+Class : ^777777Headgear^000000
+Defense : ^7777776^000000
+Head Position : ^777777Upper^000000
+Weight : ^77777710^000000
+Required Lv. : ^77777770^000000
+Job : ^777777All^000000
 #
 
 5287#
@@ -29878,19 +29896,18 @@ Applicable Job :^777777 Every Job^000000
 #
 
 5594#
-...
-MaxHP + 100.
-Recovery HP + 1 every 10 seconds.
-Class :^777777 Headgear^000000
-Defense :^777777 1^000000
-Equipped on :^777777 Lower^000000
-Weight :^777777 5^000000
-Required Level :^777777 1^000000
-Applicable Job :^777777 Every Job^000000
+Chewing on this deliciously glazed ring-shaped fried cake will make you happy.
+MaxHP +100.
+Recover 1 HP every 10 seconds.
+Class : ^777777Headgear^000000
+Location : ^777777Lower^000000
+Defense : ^7777771^000000
+Weight : ^7777775^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All^000000
 #
 
 5595#
-
 A horn imbued with spirit of devil. Could feel full of vital force from it.
 MDEF + 2.
 If worn by Swordman/Merchant/Thief Class, AGI + 2, decrease damage of Neutral , Water property by (Job Lv / 14), increase VIT.
@@ -29902,7 +29919,6 @@ Jobs : ^777777All Jobs^000000
 #
 
 5596#
-
 ^000088Rental Items^000000
 ...
 ...
@@ -30976,7 +30992,7 @@ When defeating a monster, it can get extra Zeny with a set probability.
 Cannot be upgraded.
 Class : ^777777Headgear^000000 Defense : ^7777773^000000
 Location: ^777777Upper ^000000 Weight : ^777777100^000000
-Required Lv : ^77777710^000000
+Required Level : ^77777710^000000
 Jobs : ^777777All Jobs^000000
 #
 
@@ -31212,7 +31228,6 @@ Jobs: ^777777All^000000
 #
 
 5738#
-
 An adorable snowman on the head! Feel full of winter atmosphere in the air!
 STR + 1, INT + 1, MDEF + 3.
 Increase resistance against ^0000FFWater^000000 Property by 7%.
@@ -31650,16 +31665,15 @@ Jobs : ^777777All Jobs^000000
 
 5777#
 A replica of the helmet worn by firemen.
-Not as durable as the real firemen's helmet because it is a replica.
+Not as durable as the real firemen's helmet.
 Mdef + 1
-Drops [Empty Bottle], [Ditrimindexta], [Karvodailnirol] in certain rate
-when defeating Neutral monsters.
+Drops [Empty Bottle], [Ditrimindexta], [Karvodailnirol] in certain rate when defeating Neutral monsters.
 Unable to Refine
 Class : ^777777Headgear^000000
 DEF : ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777780^000000
-Required Lv : ^77777730^000000
+Required Level : ^77777730^000000
 Jobs : ^777777All Jobs^000000
 #
 
@@ -31808,7 +31822,6 @@ Required Level : ^7777771^000000
 Yellow, green matching cute ribbon item.
 INT + 1, MDEF + 2.
 Increase the effect of the Heal that its wearer casts by 2%.
-
 Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Middle ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
@@ -31816,30 +31829,32 @@ Jobs : ^777777All Jobs^000000
 #
 
 5794#
-^000088임삳 궉이템^000000
-당뗄윱 입처적윷맺 돈이왔 한쁑뼘 꼽딕한 궐욘. 자꼽의 났장 정볶가 빛뱍 뜅뼘 활웜볶 증에한쁑욱 한쁑.
-옹당욤강, 댕인욤강, 씹놔욤강, 옳께렉옮,  ZGP 일정리 댕꼲.
-레랖당욤강, 독당욤강, 뿌자, 넙곤렉캅뼘 NZGP 일정리 댕꼲.
-볶북욤강윳 UOVV 일정리 댕꼲.
-쇰딕껨, 꼇퍼쇰딕껨, 태악, 악났윳 SK, HK에 일정리 댕꼲.
-욤강 : ^777777투쓿^000000 뜻까 : ^7777771^000000
-위치: ^777777중쁠 ^000000 Weight : ^7777770^000000
-Required Level : ^7777771^000000
-장착 : ^777777전 직깠^000000
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+사물을 입체적으로 보이게 한다는 신비한 안경. 자신의 성장 정도에 따라 받는 효과도 증가한다고 한다.
+검사계열, 상인계열, 궁수계열, 건슬링거,  ATK 일정량 상승.
+마법사계열, 복사계열, 닌자, 소울링커는 MATK 일정량 상승.
+도둑계열은 FLEE 일정량 상승.
+노비스, 슈퍼노비스, 태권, 권성은 HP, SP가 일정량 상승.
+계열 : ^777777투구^000000 방어 : ^7777771^000000
+위치 : ^777777중단 ^000000 무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전 직업^000000
 #
 
 5795#
-a bright and beautiful hat coordinating a colorful dress.
+A bright and beautiful hat coordinating a colorful dress.
 MDEF+7
-if refined level increase + 2, can get MDEF + 1
-class : ^777777headgear^000000    defense : ^7777773^000000
-location : ^777777Upper^000000    weight : ^77777720^000000
+If refined by +2 or higher : MDEF + 1
+Class : ^777777headgear^000000
+Location : ^777777Upper^000000
+Defense : ^7777773^000000
+Weight : ^77777720^000000
 required level : ^77777720^000000
-Jobs : ^777777all Jobs^000000
+Jobs : ^777777Every Job^000000
 #
 
 5796#
-
 ^000088임삳 궉이템^000000
 정강적인 뇟엔덕의 응공곕 껨카프.
 뤽껨터가왔난 횃뷸 욘험치 10% 증에.
@@ -33271,9 +33286,8 @@ Weight :^777777 1^000000
 #
 
 6130#
-A cute pet Loli Ruri tickets.
-^ffffff_^000000
-Weight :^777777 1^000000
+"I call upon a creature of the night ...in the name of the moon!" - Sofiel
+Weight : ^7777771^000000
 #
 
 6131#
@@ -34970,12 +34984,12 @@ Weight :^777777 0^000000
 6424#
 
 a spirit which should have gone to beyond the grave became a crystal due of the seal.
-weight : ^7777770^000000
+Weight : ^7777770^000000
 #
 
 6425#
 recieved a proof that have liberated a spirit. You can get  rewards if brings to the magician
-weight : ^7777770^000000
+Weight : ^7777770^000000
 #
 
 6426#
@@ -35087,27 +35101,27 @@ Weight :^777777 0^000000
 
 
 Suspicious paper out of Strange Box.
-weight : ^7777770^000000
+Weight : ^7777770^000000
 #
 
 6447#
 A paper which Red Paper rainning on a Green Paper.
-weight : ^7777770^000000
+Weight : ^7777770^000000
 #
 
 6448#
 A paper wich White paper snowing on a Red paper.
-weight : ^7777770^000000
+Weight : ^7777770^000000
 #
 
 6449#
 Causal diary that is about ordinary daily life of average kid.
-weight : ^7777770^000000
+Weight : ^7777770^000000
 #
 
 6450#
 Honest diary that is about right things that good kid has done in a day.
-weight : ^7777770^000000
+Weight : ^7777770^000000
 #
 
 6451#
@@ -35583,7 +35597,6 @@ Weight : ^7777771^000000
 #
 
 6566#
-
 Magic Recipe which will teach you how to make a fierce Cacao 99.
 It seems like there's a certain place for using this recipe.
 ^B90000Essencial Ingredients :  99 Cacao beans, 1 Milk.^000000
@@ -40009,18 +40022,18 @@ Weight :^777777 0^000000
 7632#
 The happiness isn't related to the scores.  It explains that you are a quite troublemaker.
 If you are a cold city student, it's not that serious score!
-weight : ^7777770^000000
+Weight : ^7777770^000000
 #
 
 7633#
 The happiness is according to the scores! It explains that you are a decent student!
 You are just good sons & daughters!
-weight : ^7777770^000000
+Weight : ^7777770^000000
 #
 
 7634#
 There's one rose which is the present for father!
-weight : ^7777770^000000
+Weight : ^7777770^000000
 #
 
 7635#
@@ -45502,9 +45515,9 @@ Weight : ^7777771^000000
 #
 
 12391#
-...
+An egg type cute colored package. You might be able to get something.
 ^ffffff_^000000
-Weight :^777777 1^000000
+Weight : ^7777771^000000
 #
 
 12392#
@@ -45570,9 +45583,9 @@ Weight :^777777 0^000000
 #
 
 12403#
-...
+An egg type cute colored package. You might be able to get something.
 ^ffffff_^000000
-Weight :^777777 1^000000
+Weight : ^7777771^000000
 #
 
 12404#
@@ -46386,59 +46399,57 @@ Weight :^777777 1^000000
 #
 
 12529#
-
-...
-...
-^ffffff_^000000
-Weight :^777777 0^000000
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+화이트 슬림 포션이 압축되어 들어있는 상자. 개봉 시 주의.
+^ff0000경고! 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000
+무게 : ^7777770^000000
 #
 
 12530#
-a box that has Mastela fruit inside
-weight : ^7777770^000000
-"^ff0000notice - if you have too much weight, item might be lost!^000000"
+A box that contains Mastela fruit
+Weight : ^7777770^000000
+"^ff0000Notice - if you have too much weight, item might be lost!^000000"
 #
 
 12531#
-...
-...
-^ffffff_^000000
-Weight :^777777 0^000000
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+하얀 포션이 압축되어 들어있는 상자. 개봉 시 주의.
+^ff0000경고! 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000
+무게 : ^7777770^000000
 #
 
 12532#
-...
-...
-^ffffff_^000000
-Weight :^777777 0^000000
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+로얄제리가 압축되어 들어있는 상자. 개봉 시 주의.
+^ff0000경고! 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000
+무게 : ^7777770^000000
 #
 
 12533#
-...
-...
-^ffffff_^000000
-Weight :^777777 0^000000
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+파란허브 100개가 압축되어 들어있는 상자. 개봉 시 주의.
+^ff0000경고! 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000
+무게 : ^7777770^000000
 #
 
 12534#
-...
-...
-^ffffff_^000000
-Weight :^777777 0^000000
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+이그드라실 씨앗이 압축되어 들어있는 상자. 개봉 시 주의.
+^ff0000경고! 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000
+무게 : ^7777770^000000
 #
 
 12535#
-...
-...
-^ffffff_^000000
-Weight :^777777 0^000000
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+이그드라실 열매가 압축되어 들어있는 상자. 개봉 시 주의.
+^ff0000경고! 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000
+무게 : ^7777770^000000
 #
 
 12536#
-...
-...
-^ffffff_^000000
-Weight :^777777 10^000000
+새해를 맞이하여 가정에서 손쉽게 끓여먹는 명절음식. 기본적으로 어슷하게 썰린 가래떡이 들으가며 지역마다 국물의 맛을 내는 재료와 방법이 다르다고 한다.
+HP, SP를 20% 회복.
+무게 : ^77777710^000000
 #
 
 12537#
@@ -46452,9 +46463,8 @@ Weight : ^7777771^000000
 #
 
 12539#
-...
-^ffffff_^000000
-Weight :^777777 10^000000
+화려한 수공이 되어있는 금속 재질의 상자.
+무게 : ^77777710^000000
 #
 
 12540#
@@ -47014,8 +47024,12 @@ Weight :^777777 5^000000
 #
 
 12654#
-The colourful lucky scroll, open it will may obtain unexpected surprise!
-^ffffff_^000000
+A box given to friends of new recruits that contains 1 Halter Lead. Once opened, the item inside expires after 30 days.
+^ff0000This item is account bound.^000000
+An animal halter lead that summons a creature to ride on.
+Mount creatures increase movement speed by 25%.
+Cannot attack while on a mount.
+^ff0000When this item expires, so does the mount.^000000
 Weight : ^7777771^000000
 #
 
@@ -47650,12 +47664,12 @@ Weight: ^7777770^000000
 
 12778#
 a scroll that can summon moster baphomet junior as mercenary 
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 12779#
 a scroll that can sommon monster galapago as mercenary .
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 12785#
@@ -47846,8 +47860,23 @@ ATK, MATK + 15.
 
 12826#
 A Wind-Type Zodiac scroll 
-Contains new items such as Sunglasses Baseball Hat and Hankie in Mouth
-You might also obtain a Garm Card
+Contains new items such as [Sunglasses] [Baseball Hat] and [Hankie in Mouth]
+You might also obtain a [Garm Card]
+Weight : ^7777771^000000
+#
+
+12827#
+A Water Type Zodiac scroll you can get precious items in it .
+Weight : ^7777771^000000
+#
+
+12828#
+A Fire Type Zodiac scroll you can get precious items in it .
+Weight : ^7777771^000000
+#
+
+12829#
+An Earth Type Zodiac scroll you can get precious items in it .
 Weight : ^7777771^000000
 #
 
@@ -60792,7 +60821,7 @@ STR + 4, INT + 4, MDEF + 3.
 Increase 20% the resistance to water property atk.
 Class : ^777777Armor^000000 Def : ^7777771^000000
 Weight : ^77777710^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Job : ^777777All^000000
 #
 
@@ -60982,22 +61011,21 @@ CRI - 20.
 #
 
 15040#
-
-every prosioner wears this stripe uniform. 
-according to uniform refined level,increase HIT, FLEE.
-once having with cuffs, can get ATK + 5. 
-class : ^777777armor^000000 def : ^7777775^000000
-weight : ^777777150^000000
-Required Lv : ^77777750^000000
-Jobs : ^777777all jobs^000000
+Every prosioner wears this stripe uniform. 
+According to uniform refined level,increase HIT, FLEE.
+Once having with cuffs, can get ATK + 5. 
+Class : ^777777armor^000000
+Defense : ^7777775^000000
+Weight : ^777777150^000000
+Required Level : ^77777750^000000
+Jobs : ^777777Every Job^000000
 #
 
 15041#
-
 The armor that made by power of mythic creature, Boitata
 FLEE + 5, MHP + 5%, MDEF + 3.
-resist for attribute "NOTHING" bonus 7%
-class : ^777777Armor^000000 Def : ^7777775^000000
+Resist for attribute "NOTHING" bonus 7%
+Class : ^777777Armor^000000 Def : ^7777775^000000
 Weight : ^77777760^000000
 Required Level : ^77777760^000000
 Jobs : ^777777All^000000
@@ -66529,7 +66557,7 @@ AGI + 3, 원거리 물리공격 시 일정확률로 5초간 ASPD + 2.
 
 a scroll for celebrating holloween day. can have random item.
 ^ff0000you cannot trade this item.^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 16758#
@@ -69191,29 +69219,42 @@ MATK + 10, 모든 고정캐스팅 0.1초 감소.
 #
 
 16998#
-
-
-a box has a archangel wing inside.
-
-white and big wings of archangel.
-class : ^777777costume^000000  Defense : ^77777718^000000
-weight : ^77777720^000000
+A box has a archangel wing inside.
+White and big wings of archangel.
+Class : ^777777Garment^000000
+Defense : ^77777718^000000
+Weight : ^77777720^000000
 required level : ^7777771^000000
-job : ^777777all jobs ^000000
+Applicable Jobs : ^777777Every Job^000000
 ^ff0000Once this item opened, cannot be refunded..^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 16999#
-a box has a bravery bag inside.
-
-a bag for bravery adventure. you feel safe with this bag.
-class : ^777777garment^000000 Defense : ^77777720^000000
-weight : ^77777720^000000
-required level : ^7777771^000000
-job : ^777777all jobs^000000
-^ff0000Once this item opened, cannot be refunded..^000000
-weight : ^7777771^000000
+A box that contains 1 Heroic Backpack
+Description:
+A backpack befitting of any hero.
+Enables the use of level 1 Greed
+If refined to +7 or higher and base stats (without modifiers) is equal to 90 or higher,
+-Str -> Attack +20
+-Int -> Magic Attack +30
+-Vit -> Tolerance to Neutral Property +5
+-Agi -> Aspd +8%
+-Dex -> Ranged Attack +5
+-Luk -> Cri +10
+If refined to +9 or higher and base stats (without modifiers) is equal to 90 or higher,
+-Str -> Attack +30
+-Int -> Magic Attack +50
+-Vit -> Tolerance to Neutral Property +10
+-Agi -> Aspd +8% & Aspd +1
+-Dex -> Ranged Attack +10
+-Luk -> Cri +15
+Class : ^777777Garment^000000
+Defense: ^77777720^000000
+Weight : ^77777720^000000
+Required Level : ^7777771^000000
+Jobs: ^777777All^000000
+Box Weight : ^7777771^000000
 #
 
 17013#
@@ -69236,8 +69277,8 @@ Weight : ^7777771^000000
 #
 
 17024#
-a special scroll for valentine.
-weight : ^7777771^000000
+A special scroll for valentine.
+Weight : ^7777771^000000
 #
 
 17026#
@@ -69263,12 +69304,12 @@ Weight : ^77777710^000000
 
 17035#
 Special Scroll for celebrating Pices.
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17036#
 a box having 10 Pices Scroll
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17037#
@@ -69423,77 +69464,77 @@ AGI + 2, FLEE + 10.
 ^ff0000 unable to trade with other account.^000000
 A box has poison bottle 50. must careful on dealing with.
 ^ff0000once opens, cannot refund .^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17067#
 ^ff0000 unable to trade with other account.^000000
 A box has poison bottle 100. must careful on dealing with.
 ^ff0000once opens, cannot refund .^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17068#
 ^ff0000 unable to trade with other account.^000000
 A box has fire bottle 50 and acid bottle 50. must careful on dealing with.
 ^ff0000once opens, cannot refund .^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17069#
 ^ff0000 unable to trade with other account.^000000
 A box has fire bottle 100 and acid bottle 100. must careful on dealing with.
 ^ff0000once opens, cannot refund .^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17070#
 ^ff0000 unable to trade with other account.^000000
 A box has fire bottle 500 and acid bottle 500. must careful on dealing with.
 ^ff0000once opens, cannot refund .^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17071#
 ^ff0000 unable to trade with other account.^000000
 A box has Superb Fish Slice 50. must careful on dealing with.
 ^ff0000once opens, cannot refund .^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17072#
 ^ff0000 unable to trade with other account.^000000
 A box has Superb Fish Slice 100. must careful on dealing with.
 ^ff0000once opens, cannot refund .^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17073#
 ^ff0000 unable to trade with other account.^000000
 A box has Superb Fish Slice 500. must careful on dealing with.
 ^ff0000once opens, cannot refund .^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17074#
 ^ff0000 unable to trade with other account.^000000
 A box has empty bottle 10. must careful on dealing with.
 ^ff0000once opens, cannot refund .^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17075#
 ^ff0000 unable to trade with other account.^000000
 A box has empty bottle 100. must careful on dealing with.
 ^ff0000once opens, cannot refund .^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17076#
 ^ff0000 unable to trade with other account.^000000
 A box has empty bottle 500. must careful on dealing with.
 ^ff0000once opens, cannot refund .^000000
-weight : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 17080#
@@ -69517,19 +69558,19 @@ A Box containing 1 Crown of Yggdrasil
 ^ff0000This item is not available for refund or cancel of purchase.^000000
 Item Description:
 A Crown woven from Yggdrasil's Branches which represents new life after a sacrifice.
-Vit +2, Int +2.
-+1% Heal to yourself and others.
-For each refine level up to +6, this percentage increases by 1.
-If refine level is at +7 or higher, this percentage increases by 2.
-^FF0000Concept created by Channa^000000
+MDEF + 3, 
+Increases the effectiveness of received healing 10%
+Increases the effectiveness of healing skills by 2%
+If refined by +7 or higher : +5% Healing effectiveness
+If refined by +9 or higher : +3% Healing effectiveness
 Class : ^777777Headgear^000000
-Defense : ^7777776^000000
+Defense : ^7777773^000000
 Location : ^777777Upper ^000000
 Weight : ^77777720^000000
-Required Level : ^77777770^000000
+Required Level : ^77777771^000000
 Job : ^777777All^000000
 ^ffffff_^000000
-Weight : ^7777771^000000
+Box Weight : ^7777771^000000
 #
 
 17082#
@@ -69877,11 +69918,8 @@ MATK + 70.
 17104#
 A box that contains 50 HD Oridecon
 Description:
-High Density Oridecon
-that has been buried
-deep underground. 
-Used as a material to
-strengthen weapons currently from refine levels 7 through 9.
+High Density Oridecon that has been buried deep underground. 
+Used as a material to strengthen weapons currently from refine levels 7 through 9.
 This item's density ensures that refine attempts will not break the weapon and if the attempt fails it will only downgrade by 1.
 Only a Blacksmith named Mighty Hammer in Payon can use this ore to refine.
 Box Weight : ^7777771^000000
@@ -69890,11 +69928,8 @@ Box Weight : ^7777771^000000
 17105#
 A box that contains 50 HD Elunium
 Description:
-High Density Elunium
-that has been buried
-deep underground. 
-Used as a material
-to strengthen armor currently from refine levels 7 through 9.
+High Density Elunium that has been buried deep underground. 
+Used as a material to strengthen armor currently from refine levels 7 through 9.
 This item's density ensures that refine attempts will not break the armor and if the attempt fails it will only downgrade by 1.
 Only a Blacksmith named Mighty Hammer in Payon can use this ore to refine.
 Box Weight : ^7777771^000000
@@ -69903,17 +69938,10 @@ Box Weight : ^7777771^000000
 17106#
 A box that contains 10 Gym Passes
 Description:
-A Gym Pass that can be
-given to a special
-NPC to learn a skill
-that will increase your^FFFFFF   ^000000 Maximum Weight
-Capacity by 200 for
-each skill level.
-This special skill
-can only be learned
-up to Level 10.
-^ffffff_^000000
+A Gym Pass that can be given to a special NPC to learn a skill that will increase your^FFFFFF Maximum Weight Capacity^000000 by 200 for each skill level.
+This special skill can only be learned up to Level 10.
 Weight : ^7777771^000000
+^ffffff_^000000
 Box Weight : ^7777771^000000
 #
 
@@ -70115,7 +70143,7 @@ Weight : ^7777771^000000
 #
 
 17141#
-쌍녀궁 자리의 달을 기념하는 특별한 스크롤. 쌍녀궁 왕관, 쌍녀궁 보관, 대행자의 껍질조각, 물의 갑옷[1], 대형 마제스틱고우트 및 다른 귀중한 아이템을 획득할 수 있다.
+A special scroll celebrating month of Gemini. you can get precious items in it
 Weight : ^7777771^000000
 #
 
@@ -70774,8 +70802,8 @@ you might have a luck soon.
 LUK + 1, MSP + 20.
 Class : ^777777Headgear^000000 Def : ^7777770^000000
 Location: ^777777lower ^000000 Weight : ^77777710^000000
-Required Lv : ^77777750^000000
-job : ^777777all jobs^000000
+Required Level : ^77777750^000000
+Applicable Jobs : ^777777Every Job^000000
 #
 
 18522#
@@ -70815,10 +70843,10 @@ There's something wavering in the eyes. Is it possible to wear in head?
 when killing monsters, get a pumpkin pie at the regular drop rate.
 During Event  All State + 2, MDEF + 5, and
 Get bonus effect if it is equipped with Smile,Hahoe mask,Alarm mask, Phantom of opera.
-class : ^777777headgear^000000 Defense : ^7777775^000000
+Class : ^777777headgear^000000 Defense : ^7777775^000000
 location: ^777777upper ^000000 weight : ^77777750^000000
 required level : ^77777745^000000
-Jobs : ^777777all^000000
+Jobs : ^777777Every Job^000000
 #
 
 18528#
@@ -70834,32 +70862,35 @@ INT + 2, MDEF + 5.
 #
 
 18529#
-
-wild rose hat with rapid movement 
+Wild rose hat with rapid movement 
 MaxHP - 10%, ASPD + 3%.
-with 'Fish InMouth', can cast auto spell [greedy] at regular rate
-Class : ^777777headgear^000000 Defense : ^7777775^000000
-location: ^777777upper-mid ^000000 Weight : ^77777750^000000
+With 'Fish in Mouth', Adds a chance to automatically cast [Greed]
+Class : ^777777headgear^000000
+location: ^777777upper-mid ^000000
+Defense : ^7777775^000000
+Weight : ^77777750^000000
 Req Lev : ^77777730^000000
-Job : ^777777all jobs^000000
+Job : ^777777Every Job^000000
 #
 
 18530#
-desperate mask of thanatos,cute but evasion
+Desperate mask of thanatos,cute but evasion
 LUK - 5, FLEE + 4.
-Class : ^777777headgear^000000 Defense : ^7777770^000000
-location: ^777777mid-low ^000000 Weight : ^77777710^000000
+Class : ^777777headgear^000000
+location: ^777777mid-low ^000000
+Defense : ^7777770^000000
+Weight : ^77777710^000000
 Req Lev : ^77777730^000000
-Job : ^777777all jobs^000000
+Job : ^777777Every Job^000000
 #
 
 18531#
-a doll revived permeter turtle.
+A doll revived permeter turtle.
 increase Solider, permeter, freezer, assulter ,heater, turtle general damage 20%
 Class : ^777777head gear^000000 Def : ^7777778^000000
 Location: ^777777Upper ^000000 Weight : ^777777100^000000
 Required Lv  : ^77777710^000000
-Jobs : ^777777all Jobs^000000
+Jobs : ^777777Every Job^000000
 #
 
 18532#
@@ -70874,18 +70905,19 @@ Jobs : ^777777All^000000
 #
 
 18533#
-a hat looks like bee with unique stripe pattern.
+A hat looks like bee with unique stripe pattern.
 MDEF + 3.
-Physical, magical damage +5% against bug type of monsters.
-resistance +5% against buy type of monsters 5%.
-Class : ^777777headgear^000000 Def : ^7777773^000000
-location: ^777777Upper ^000000 weight : ^77777710^000000
-required level : ^77777750^000000
-Jobs : ^777777all jobs^000000
+Increases Physical and magical damage to Insect type monsters by 5%
+Increases Resistance to Insect type monsters by 5%
+Class : ^777777Headgear^000000
+location: ^777777Upper ^000000
+Defense : ^7777773^000000
+Weight : ^77777710^000000
+Required Level : ^77777750^000000
+Jobs : ^777777All^000000
 #
 
 18534#
-
 a colorful mask that hide owner's identification, 
 there's a rumor that it make feel exciting when wears.
 STR + 1, ATK + 5%, Delay decrease 1% , refined will be MAXHP + 100 per 1
@@ -70921,8 +70953,8 @@ MDEF + 3. attck endurance +1% from Evil type, Angel type monster attack
 can have Holy Water whe killing angel monster, and WaterOf Darkness from evil monster
 Class : ^777777headgear^000000 DEF : ^7777773^000000
 location: ^777777mid ^000000 weight : ^77777730^000000
-Required Lv : ^7777770^000000
-Jobs : ^777777all jobs^000000
+Required Level : ^7777770^000000
+Jobs : ^777777Every Job^000000
 #
 
 18539#
@@ -70933,7 +70965,7 @@ if refined is over 5 ,add MATK + 3%, if refined is over 7 , add additional 3%.
 you can reduce consumption of skill sp 3%  once using with Elven Ears .
 Class : ^777777Headgear^000000 Defence : ^7777775^000000
 Location: ^777777Upper ^000000 Weight : ^77777740^000000
-Required Lv : ^77777710^000000
+Required Level : ^77777710^000000
 Jobs : ^777777All^000000
 #
 
@@ -70943,8 +70975,8 @@ a mask used from a warrior which was called as Devil in Past.
 ASPD + 1%, every 2sec, SP -1.
 Class : ^777777headgear^000000 DEF : ^7777773^000000
 location: ^777777mid-low ^000000 weight : ^777777100^000000
-Required Lv : ^77777710^000000
-Jobs : ^777777all jobs^000000
+Required Level : ^77777710^000000
+Jobs : ^777777Every Job^000000
 #
 
 18541#
@@ -70954,7 +70986,7 @@ increase critical damage 10% , addional damage 5% with sharp arrow,  if hat refi
 Class : ^777777head gear^000000 Def : ^7777771^000000
 Location: ^777777Upper ^000000 Weight : ^77777750^000000
 Required Lv  : ^77777730^000000
-Jobs : ^777777all Jobs^000000
+Jobs : ^777777Every Job^000000
 #
 
 18542#
@@ -70964,7 +70996,7 @@ when using recovery kill to others, the effect increses 2% and if refined over 7
 Class : ^777777head gear^000000 Def : ^77777710^000000
 Location: ^777777Upper-mid ^000000 Weight : ^77777750^000000
 Required Lv  : ^77777710^000000
-Jobs : ^777777all Jobs^000000
+Jobs : ^777777Every Job^000000
 #
 
 18549#
@@ -70972,7 +71004,7 @@ a cute hairpin looks like blue butterfly.
 Class : ^777777head gear^000000 Def : ^7777773^000000
 Location: ^777777Upper ^000000 Weight : ^77777720^000000
 Required Lv  : ^77777720^000000
-Jobs : ^777777all Jobs^000000
+Jobs : ^777777Every Job^000000
 #
 
 18550#
@@ -70980,7 +71012,8 @@ The holy wing is gossiped about its godly power.
 All State + 2.
 tolerance for all type of element by 5%.
 recover HP 2% and SP 1% in every 10 sec.
-class : ^777777headgear^000000 def : ^7777773^000000
+Class : ^777777headgear^000000
+Defense : ^7777773^000000
 location: ^777777upper ^000000 weight : ^77777730^000000
 Rq Lv : ^77777730^000000
 Job : ^777777All^000000
@@ -71004,7 +71037,7 @@ can have treasure box at regular drop rate when hunting dragon monster.
 Class : ^777777head gear^000000 Def : ^7777773^000000
 Location: ^777777Upper ^000000 Weight : ^77777720^000000
 Required Lv  : ^77777710^000000
-Jobs : ^777777all Jobs^000000
+Jobs : ^777777Every Job^000000
 #
 
 18556#
@@ -71077,7 +71110,7 @@ Random chance of Green_Ale item drop when refine level over +7.
 Class : ^777777HeadGear^000000 Def : ^7777778^000000
 Position : ^777777Upper ^000000 Weight : ^77777730^000000
 Required LV : ^77777740^000000
-job : ^777777all jobs^000000
+Applicable Jobs : ^777777Every Job^000000
 #
 
 18566#
@@ -71123,10 +71156,21 @@ All State + 1, 인간형 적에게 데미지 10% 감소.
 장착 : ^777777전직업^000000
 #
 
-18574#
+18573#
+A berret decorated with white feather.
+HIT + 20, MHP - 10%.
+If refined to 5 or higher ,  HIT - 10, MHP + 10%, addtional refine by 2  levels , HIT - 3, MHP + 3%.
+Class : ^777777Headgear^000000
+Location : ^777777Upper ^000000
+Def : ^7777772^000000
+Weight : ^77777750^000000
+Req level : ^77777730^000000
+Applicable Jobs : ^777777Every Job^000000
+#
 
+18574#
 The Helm of the Lord of Death
-MDEF + 5.
+MDEF + 5. All Stats + 1
 Increase Damage to Boss Type Monsters by 10%
 Take 5% more damage from normal Monsters and Players.
 For every upgrade 5 and higher add 1% more damage to Boss Class monsters.
@@ -71143,14 +71187,25 @@ Required Level: ^77777770^000000
 Jobs: ^777777All^000000
 #
 
-18576#
+18575#
+Suspicious box that has eyebrow 
+MDEF + 10.
+When in close combat, a chance to auto cast a random skills.
+Cannot be refined.
+Class : ^777777Headgear^000000
+Location : ^777777Upper-mid-low ^000000
+Def : ^77777710^000000
+Weight : ^77777750^000000
+Req Level : ^77777720^000000
+Jobs : ^777777All Jobs^000000
+#
 
+18576#
 These large Earrings carry the balance between Yin and Yang.
 Increase Damage of Raging Quadruple Blow by 10%
 Increase Raging Trifecta Blow Damage by 5%
 Increase Damage of Raging Thrust by 5%
 Incrase Skill cost by 1 SP for Raging Quadruple Blow and Raging Thrust.
-
 ^99FF66Set Bonus^000000
 ^00FF00Yin Yang Earrings^000000
 ^00FF00Hot-blooded Headband^000000
@@ -71177,39 +71232,41 @@ MDEF + 9.
 18580#
 ^ff0000Not available for trade.^000000
 A Crown woven from Yggdrasil's Branches which represents new life after a sacrifice.
-Vit +2, Int +2.
-Increases the effectiveness of received healing and your own healing by 1%.
-For each refine level up to +6, this percentage increases by 1.
-If refine level is +7 or higher, this percentage increases by 2.
-^FF0000Concept created by Channa^000000
+MDEF + 3, 
+Increases the effectiveness of received healing 10%
+Increases the effectiveness of healing skills by 2%
+If refined by +7 or higher : +5% Healing effectiveness
+If refined by +9 or higher : +3% Healing effectiveness
 Class : ^777777Headgear^000000
-Defense : ^7777776^000000
+Defense : ^7777773^000000
 Location : ^777777Upper ^000000
 Weight : ^77777720^000000
-Required Level : ^77777770^000000
+Required Level : ^77777771^000000
 Job : ^777777All^000000
 #
 
 18581#
-a good man can be a warrior with this mast.
-STR + 4
-HP + 200
-unable to refine
-class : ^777777Headgear^000000    Def : ^7777772^000000
-location : ^777777Upper-Middle^000000    weight : ^77777740^000000
+A good man can be a warrior with this mast.
+STR + 3
+HP + 100
+Unable to refine
+Class : ^777777Headgear^000000
+Location : ^777777Upper-Middle^000000
+Def : ^7777772^000000
+Weight : ^77777740^000000
 req level : ^77777750^000000
-jobs : ^777777all jobs^000000
+Applicable Jobs : ^777777Every Job^000000
 #
 
 18582#
 a good man can be a warrior with this mast.
-increase attack speed( decrease delay 3% after attack)
+STR + 3
 HP + 100
-unable to refine
-class : ^777777Headgear^000000    Def : ^7777772^000000
-location : ^777777Upper-Middle^000000    weight : ^77777740^000000
+Unable to refine
+Class : ^777777Headgear^000000    Def : ^7777772^000000
+Location : ^777777Upper-Middle^000000    weight : ^77777740^000000
 req level : ^77777750^000000
-jobs : ^777777all jobs^000000
+Applicable Jobs : ^777777Every Job^000000
 #
 
 18583#
@@ -71243,7 +71300,7 @@ If refined to 12, reduce fix casting time by 10%
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000weight : ^7777771^000000
 Required Level : ^7777771^000000
-jobs : ^777777all jobs^000000
+Applicable Jobs : ^777777Every Job^000000
 #
 
 18586#
@@ -71256,7 +71313,7 @@ If refined to 12, reduce fix casting time by 10%
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000weight : ^7777771^000000
 Required Level : ^7777771^000000
-jobs : ^777777all jobs^000000
+Applicable Jobs : ^777777Every Job^000000
 #
 
 18587#
@@ -71269,7 +71326,7 @@ If refined to 12, reduce fix casting time by 10%
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000weight : ^7777771^000000
 Required Level : ^7777771^000000
-jobs : ^777777all jobs^000000
+Applicable Jobs : ^777777Every Job^000000
 #
 
 18588#
@@ -71282,32 +71339,36 @@ If refined to 12, reduce fix casting time by 10%
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000weight : ^7777771^000000
 Required Level : ^7777771^000000
-jobs : ^777777all jobs^000000
+Applicable Jobs : ^777777Every Job^000000
 #
 
 18589#
-a hat lools like a strawberry.
-you can get a strawberry once you kill monsters.
-class : ^777777headgear^000000 defense : ^7777775^000000
-location : ^777777Upper ^000000weight : ^77777710^000000
-required level : ^7777771^000000
-Jobs : ^777777 all jobs^000000
+A ripe strawberry shaped hat.
+Drops Strawberry at a certain rate when killing monsters.
+Increases the drop rate of Strawberry with each refine level and caps at level 10.
+Class : ^777777Headgear^000000
+Defense : ^7777775^000000
+Location : ^777777Upper^000000
+Weight : ^77777710^000000
+Required Level : ^7777771^000000
+Jobs : ^777777All^000000
 #
 
 18590#
-a hairband made with gold string
-decrease magic damage 5% from evel monster type
-increase registance 5% from evel monster type
+A hairband made with gold string
+Decrease magic damage by 5% from Demon type monsters
+increase registance by 5% from Demon type monsters
 MDEF + 3.
-Class : ^777777headgear^000000 Defense : ^7777773^000000
-location : ^777777upper ^000000Weight : ^77777720^000000
+Class : ^777777headgear^000000
+Location : ^777777upper ^000000
+Defense : ^7777773^000000
+Weight : ^77777720^000000
 Req Lev : ^77777710^000000
-Job : ^777777all jobs^000000
+Job : ^777777Every Job^000000
 #
 
 18591#
-Glasses worn by
-true sophisticates.
+Glasses worn by true sophisticates.
 Class : ^777777Headgear^000000
 Defense : ^7777772^000000
 Location : ^777777Middle^000000
@@ -71316,9 +71377,8 @@ Jobs: ^777777Every Job except Novice^000000
 #
 
 18595#
+...
 If refined to +7 or higher, has a 1% chance of activating +100 attack for 10 seconds.
-^FF0000Concept created during the 2011 Create a headgear Contest.
-Created by Creciableu^000000
 Class : ^777777Headgear^000000
 Defense : ^7777778^000000
 Location : ^777777Upper^000000
@@ -71328,9 +71388,8 @@ Job : ^777777All^000000
 #
 
 18596#
+...
 Enables the use of Level 3 Heaven's Drive.
-^FF0000Concept created during the 2011 Create a headgear Contest.
-Created by Miii^000000
 Class : ^777777Headgear^000000
 Defense : ^7777774^000000
 Location : ^777777Upper^000000
@@ -71340,11 +71399,10 @@ Job : ^777777All^000000
 #
 
 18597#
+...
 Aspd +3%, Critical +3
-If refined to +7 or +8, adds an additional Aspd +2% and Critical +2.
-If refined to +9 or higher, adds an additional Aspd +2% and Critical +2.
-^FF0000Concept created during the 2011 Create a headgear Contest.
-Created by areitus^000000
+If refined to +7 or higher, Aspd +2% and Critical +2.
+If refined to +9 or higher, Aspd +2% and Critical +2.
 Class : ^777777Headgear^000000
 Defense : ^77777710^000000
 Location : ^777777Upper^000000
@@ -71606,16 +71664,17 @@ There are surprising options when worn with some other masks.
 ^ff0000Will be deleted when the event is finished^000000
 Class : ^777777Headgear^000000 Def : ^77777710^000000
 Location : ^777777Top ^000000Weight : ^77777730^000000
-Required Lv : ^77777720^000000
+Required Level : ^77777720^000000
 Job : ^777777All jobs^000000
 #
 
 18663#
-
 The hat is made with sunglasses, it will bring a cool look upon wear it.
 INT + 3.
-Series : ^777777Headgear^000000    Defense : ^7777772^000000
-Location : ^777777Upper^000000    Weight : ^77777720^000000
+Series : ^777777Headgear^000000
+Location : ^777777Upper^000000
+Defense : ^7777772^000000
+Weight : ^77777720^000000
 Level Requirement : ^77777720^000000
 Job : ^777777All Job except Novice^000000
 #
@@ -71623,8 +71682,10 @@ Job : ^777777All Job except Novice^000000
 18670#
 Biting the handkerchief with delicate and charming look.
 Damage from Demi-Human -3%.
-Series : ^777777Headgear^000000    Defense : ^7777771^000000
-Location : ^777777Lower^000000    Weight : ^77777710^000000
+Series : ^777777Headgear^000000
+Location : ^777777Lower^000000
+Defense : ^7777771^000000
+Weight : ^77777710^000000
 Level Requirement : ^77777712^000000
 Job : ^777777All Job^000000
 #
@@ -71633,8 +71694,10 @@ Job : ^777777All Job^000000
 A Christmas hairband. Rudolf's excited mind for christmas is dwelled on it.
 During event period, on close combat, user will have a chance to feel like running faster.
 Somehow, you will feel 'Carrot' is tasty on Christmas season.
-Class : ^777777Headgear^000000 Def : ^7777775^000000
-Location : ^777777Upper ^000000Weight : ^77777720^000000
+Class : ^777777Headgear^000000
+Location : ^777777Upper ^000000
+Def : ^7777775^000000
+Weight : ^77777720^000000
 Required Lv. : ^77777730^000000
 Jobs : ^777777All^000000
 #
@@ -71672,7 +71735,7 @@ MHP + 15, MSP + 5.
 Strongly blazing sun on the bright sky.
 Class : ^777777Costume^000000 방어 : ^7777770^000000
 Location: ^777777Headgear Upper ^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 
@@ -71680,7 +71743,7 @@ Jobs : ^777777All^000000
 A fancy accessory that looks like swallowtail 
 Class : ^777777Costume^000000
 Location: ^777777Headgear middle ^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 
@@ -71688,7 +71751,7 @@ Jobs : ^777777All^000000
 A scary fake bolt that seems to cross head 
 Class : ^777777Costume^000000
 Location: ^777777Headgear middle ^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 
@@ -71712,7 +71775,7 @@ Jobs : ^777777All^000000
 A model of bird's beak. Feel like to peak worm or feed
 Class : ^777777Costume^000000
 Location: ^777777Headgear low^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 
@@ -71720,7 +71783,7 @@ Jobs : ^777777All^000000
 a well organized beard that reminds an actor who was famous on Old movie
 Class : ^777777Costume^000000
 Location: ^777777Headgear low ^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 
@@ -71728,7 +71791,7 @@ Jobs : ^777777All^000000
 Adorable yellow hat with little feather. Can't be more cute
 Class : ^777777Costume^000000
 Location: ^777777Headgear Upper ^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 
@@ -71736,7 +71799,7 @@ Jobs : ^777777All^000000
 Joyfully singing bird on tree.
 Class : ^777777Costume^000000
 Location : ^777777Headgear Upper^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 
@@ -71744,7 +71807,7 @@ Jobs : ^777777All^000000
 A roosters dignified comb.
 Class : ^777777Costume^000000
 Location : ^777777Headgear Upper^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 
@@ -71752,7 +71815,7 @@ Jobs : ^777777All^000000
 Rainbow that only found when rain is over.
 Class : ^777777Costume^000000
 Location: ^777777Headgear Upper ^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 
@@ -71760,7 +71823,7 @@ Jobs : ^777777All^000000
 Thunder from dark cloud. It seems quite dangerous.
 Class : ^777777Costume^000000
 Location: ^777777Headgear Upper^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 
@@ -71768,7 +71831,7 @@ Jobs : ^777777All^000000
 pouring rain cloud
 Class : ^777777Costume^000000
 Location: ^777777Headgear Upper^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 
@@ -71776,7 +71839,7 @@ Jobs : ^777777All^000000
 a handsome Hat that reminds an actor who was famous on Old movie
 Class : ^777777Costume^000000
 Location: ^777777Headgear Upper^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 
@@ -71784,7 +71847,7 @@ Jobs : ^777777All^000000
 A mini red crown that is slightly askew.
 Class : ^777777Costume^000000
 Location : ^777777Headgear Upper^000000 Weight : ^7777770^000000
-Required Lv : ^7777771^000000
+Required Level : ^7777771^000000
 Jobs : ^777777All^000000
 #
 

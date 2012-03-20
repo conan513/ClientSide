@@ -5374,7 +5374,7 @@
 12388#Rhydo_Runestone_For_Apprentice#
 12389#Pertz_Runestone_For_Apprentice#
 12390#Verkana_Runestone_For_Apprentice#
-12391#RWC_Groove_Pack#
+12391#Lucky_Egg_C#
 12392#Repair_A#
 12393#Repair_B#
 12394#Repair_C#
@@ -5385,7 +5385,7 @@
 12399#...#
 12400#Water_Of_Blessing#
 12402#29Truth#
-12403#RWC_Groove_Pack_2#
+12403#Lucky_Egg_C2#
 12404#Energizing_Potion#
 12405#Unripe_Yggdrasil_Seed#
 12406#Psychic_Armor_Scroll#
@@ -5717,6 +5717,9 @@
 12819#지르타스_교환_티켓_상자#
 12825#플립의_씨알#
 12826#Wind Type Scroll#
+12827#Water_Type_Scroll#
+12828#Fire_Type_Scroll#
+12829#Earth_Type_Scroll#
 12830#고목나무_상자#
 12831#포션_상자#
 12832#신묘한_생명수#
@@ -8053,7 +8056,7 @@
 17103#강화_투핸드소드_상자#
 17104#HD_Oridecon_50_Box#
 17105#HD_Elunium_50_Box#
-17106#Heavy_Lifter_Box#
+17106#Gym_Membership_Card_10_Box#
 17107#Gemini_Crown_Scroll#
 17108#Gemini_Crown_Scroll_10_Box#
 17109#Capri_Scroll#
@@ -8175,7 +8178,9 @@
 18567#늘어난_코#
 18570#고대의_금장식#
 18572#판관모자#
+18573#White_Feather#
 18574#Lord_of_the_Dead_Helm#
+18575#Wunderkammer#
 18576#Yin_Yang_Earrings#
 18579#9주년_기념_모자#
 18580#Yggdrasil Crown#
@@ -8208,7 +8213,7 @@
 18615#Inured_Eyepatch#
 18616#Long_Tongue#
 18617#Onigiri#
-18618#Rockabilly_Hair#
+18618#Elvis_Hair#
 18619#Thief_Bandana#
 18620#Heart_Eyepatch#
 18621#Mobster's Disguise#
