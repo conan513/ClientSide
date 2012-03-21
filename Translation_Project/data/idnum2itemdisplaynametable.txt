@@ -1818,6 +1818,7 @@
 2907#부워여_부적_타투#
 2910#버코너워_부적_타투#
 2911#벙웅곳_부적_타투#
+2914#Left_Eye_Of_An_Wizard#
 2915#에뜰랑의_유품#
 2916#요정의_날개#
 2917#힘의_글러브#
@@ -2320,6 +2321,10 @@
 4483#Sealed_Dracula_Card#
 4484#Sealed_Mistress_Card#
 4485#Sealed_Gloom_Card#
+4494#Sealed_Turtle_General_Card#
+4495#Sealed_Amon_Ra_Card#
+4497#Sealed_Stormy_Knight_Card#
+4498#Sealed_Lady_Tanee_Card#
 4505#스카라바_카드#
 4506#돌로메데스_카드#
 4507#여왕_스카라바_카드#
@@ -2351,6 +2356,7 @@
 4533#작은_문어_카드#
 4534#대왕_문어_카드#
 4545#풋내기포링_카드#
+4546#밝히리_카드#
 4700#STR+1#
 4701#STR+2#
 4702#STR+3#
@@ -2920,7 +2926,7 @@
 5390#Costume:_Blue_Christmas_Cheer#
 5391#Toast#
 5392#Louyang_NewYear_Hat#
-5393#Valentine_Hat#
+5393#Cupid's_Target#
 5394#Bubblegum_Lower#
 5395#Striped_Hat#
 5396#Jasper_Crest#
@@ -3498,8 +3504,8 @@
 6154#Broken_Horn_Pipe#
 6155#Member_Card#
 6156#A_Report_To_Be_Approved#
-6157#Poring_Exchange_Ticket#
-6158#Drops_Exchange_Ticket#
+6157#Vote_1#
+6158#Vote_2#
 6159#Poporing_Exchange_Ticket#
 6160#Lunatic_Exchange_Ticket#
 6161#Picky_Exchange_Ticket#
@@ -3780,7 +3786,7 @@
 6453#Undelivered_Gift#
 6454#Santa_Bag#
 6456#+5 Weapon refine deed#
-6457#+5 Armor refine deed#
+6457#Safe_to_10_Certificate#
 6464#Hate_Crate#
 6465#가디언_코인#
 6469#Will_of_Warrior#
@@ -5488,7 +5494,7 @@
 12534#Yggdrasil_Seed_Box#
 12535#Yggdrasil_Berry_Box#
 12536#...#
-12537#Gift_Basket#
+12537#Gift_Chocolate_Basket#
 12538#Firecracker_Basket#
 12539#...#
 12540#...#
@@ -8075,7 +8081,7 @@
 17124#Cat_Ear_Beret_Box#
 17125#Red_Pom_Band_Box#
 17126#ASPD강화포션_상자#
-17127#Leo_Scroll2#
+17127#March_Groove_and_Win_Crate#
 17135#몬스터_변신_A세트#
 17136#몬스터_변신_B세트#
 17137#몬스터_변신_C세트#
@@ -8222,12 +8228,17 @@
 18637#고대장군의_투구#
 18650#RWC외치는_입#
 18656#Witch's_Pumpkin_Hat#
+18660#Indian_Feather_Headband#
 18663#Sunglasses Baseball Hat#
 18670#Hankie In Mouth#
 18671#Rudolf_Hairband#
+18676#Hexagon_Spectacles#
+18679#Abacus_In_Mouth#
+18682#Teardrop#
 18691#승천_블랙_드래곤#
 18705#플립_모자#
 18730#크리투라_학원_모자#
+18731#발키리_나들이_투구#
 19500#...#
 19501#...#
 19502#...#

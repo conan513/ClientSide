@@ -6138,7 +6138,7 @@ Applicable Job :^777777 Swordman Class^000000
 
 1435#
 카르늄으로 제작된 매우 가늘고 날카로운 창.
-MSP - 100, 캐논스피어 공격력 10% 증가, 제련도의 3배로 해당 스킬 공격력 추가 증가.
+MaxSP - 100, 캐논스피어 공격력 10% 증가, 제련도의 3배로 해당 스킬 공격력 추가 증가.
 계열 : ^777777한손창^000000 공격 : ^777777180^000000
 무게 : ^777777160^000000
 무기 레벨 : ^7777774^000000
@@ -11356,7 +11356,7 @@ Applicable Job :^777777 Arch Bishop^000000
 2161#
 잊혀진 대륙, 게페니아의 비보 중 하나로 이것에 얽힌 마력을 제대로 사용할 수 있는 자는 많지 않다고 한다.
 INT + 1, MDEF + 2.
-순수 INT 120 인 경우 MATK + 10, MHP + 800.
+순수 INT 120 인 경우 MATK + 10, MaxHP + 800.
 라크리마 스틱과 함께 장착 시 방패 제련도의 4배 만큼의 스톰 가스트, 프로스트 미스티, 잭 프로스트의 변동 캐스팅 %감소.
 계열 : ^777777방패^000000 방어 : ^77777730^000000
 무게 : ^777777100^000000
@@ -11388,17 +11388,17 @@ Job : ^777777Every Job^000000
 A square shaped exotic shield. There is a Gem which is specialized to defense Physical force.
 If it refined over 5, will give 1% tolerance on property "nothing" attack
 (This bonus would work up to +12, 7%)
-Class : ^777777Shield^000000 Def : ^77777755^000000
+Class : ^777777Shield^000000 Defense : ^77777755^000000
 Weight : ^77777770^000000
 Required Lv. : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 2169#
 등나무를 기본 소재로 만들어진 단단하고 가벼운 실용적인 방패.
 3제련 당 1%씩 보스 몬스터에게 받는 데
 미지 감소.
-칼라삭, 부워여 주머니 옷, 버코너워 비늘 갑옷, 악몽의 벙웅곳 부츠를 모두 장착 시 필리핀 로컬라이징 내 모든 몬스터에게 받는 데미지 30% 감소, MHP + 20%, MSP + 10% 증가.
+칼라삭, 부워여 주머니 옷, 버코너워 비늘 갑옷, 악몽의 벙웅곳 부츠를 모두 장착 시 필리핀 로컬라이징 내 모든 몬스터에게 받는 데미지 30% 감소, MaxHP + 20%, MaxSP + 10% 증가.
 계열 : ^777777방패^000000    방어 : ^77777740^000000
 무게 : ^77777740^000000
 장착 : ^777777전직업 장착가능^000000
@@ -13208,7 +13208,7 @@ Applicable Job :^777777 Mage Class, Soul Linker^000000
 2380#
 Designed to be used by responsible warrior who takes charge of survival of the guild or party. 
 It brings multiple effects when compounded as a set.
-MHP + 150. MDEF + 2.
+MaxHP + 150. MDEF + 2.
 Reduces damage from Demihuman monster by 2%.
 [^000088Combat Boots & Commander's Manteau Equip Set^000000]
 INT + 3. Maximum HP + 12%, Decreases cast time of the skill Holy Light by 50%.
@@ -13271,7 +13271,7 @@ Applicable Job :^777777 Every Job^000000
 ^000088Rental Items^000000
 A Tunic that has been granted additional tolerance against certain properties.
 Decreases 20% damage from ^777777Neutral^000000 and ^777777Water^000000 property.
-MDEF + 5. MHP + 800. Cannot be Frozen.
+MDEF + 5. MaxHP + 800. Cannot be Frozen.
 Class :^777777 Armor^000000
 Defense :^777777 38^000000
 Weight :^777777 0^000000
@@ -13844,7 +13844,7 @@ Applicable Job :^777777 Every Job^000000
 2439#
 ^000088Rental Items^000000
 Shoes that were made with complex design and very soft skin to show how fun your legs could be with these.
-MHP + 17% , MSP + 8%.
+MaxHP + 17% , MaxSP + 8%.
 Every 10 seconds, your HP goes up by 20, SP goes up by 3.
 Class :^777777 Shoes^000000
 Defense :^777777 20^000000
@@ -14230,8 +14230,8 @@ Applicable Job :^777777 Every Job^000000
 
 2475#
 우르의 룬을 정제하여 만든 그리브.
-MSP + 40.
-8제련 시 부터 제련도 1당 MHP % 증가.
+MaxSP + 40.
+8제련 시 부터 제련도 1당 MaxHP % 증가.
 계열 : ^777777신발^000000 방어 : ^77777732^000000
 무게 : ^77777790^000000
 요구 레벨 : ^777777100^000000
@@ -14240,7 +14240,7 @@ MSP + 40.
 
 2476#
 페오즈의 룬을 정제하여 만든 그리브.
-MSP + 40.
+MaxSP + 40.
 8제련 시 부터 제련도 1당 AGI + 1 증가.
 계열 : ^777777신발^000000 방어 : ^77777732^000000
 무게 : ^77777790^000000
@@ -14250,7 +14250,7 @@ MSP + 40.
 
 2477#
 오래전 어둠의 세계에서 유명했던 어쌔신의 유물이라고 한다.
-LUK + 3, MSP + 30.
+LUK + 3, MaxSP + 30.
 계열 : ^777777신발^000000 방어 : ^77777718^000000
 무게 : ^77777740^000000
 요구 레벨 : ^777777100^000000
@@ -14278,7 +14278,7 @@ AGI + 2.
 
 2480#
 집중력과 정신력을 맑게 유지 시켜주도록 특화된 검은날개 마크의 유물.
-INT + 2, MSP + 5%.
+INT + 2, MaxSP + 5%.
 계열 : ^777777신발^000000 방어 : ^77777718^000000
 무게 : ^77777740^000000
 요구 레벨 : ^777777100^000000
@@ -15042,7 +15042,7 @@ Applicable Job :^777777 Every Job^000000
 A colorful beach towel used as protection from the sun.
 MDEF +3, FLEE +7
 Resistance to Neutral property attacks +7%, 
-Class : ^777777Robe^000000 Def : ^7777772^000000
+Class : ^777777Robe^000000 Defense : ^7777772^000000
 Weight : ^77777710^000000
 Required Level : ^7777771^000000
 Job : ^777777All^000000
@@ -15119,7 +15119,7 @@ Job : ^777777Every Job^000000
 
 2574#
 우르의 룬을 정제하여 만든 망토.
-MHP + 2%, 무속성 공격에 대한 내성 10%.
+MaxHP + 2%, 무속성 공격에 대한 내성 10%.
 계열 : ^777777걸칠것^000000 방어 : ^77777720^000000
 무게 : ^77777760^000000
 요구 레벨 : ^777777100^000000
@@ -15226,7 +15226,7 @@ MDEF + 10.
 #
 
 2589#
-A dark wing from fallen angel.
+Large, black wings of a fallen dark angel.
 All Stats + 1.
 Base stats (without modifiers) is equal to 20 or higher,
 -Str -> Attack + 1
@@ -15238,9 +15238,22 @@ Base stats (without modifiers) is equal to 20 or higher,
 Class : ^777777Garment^000000
 Defense : ^77777718^000000
 Weight : ^77777720^000000
-req leve : ^7777771^000000
-Applicable Jobs : ^777777Every Job^000000
+Required Level : ^7777771^000000
+Applicable Job : ^777777Every Job^000000
 #
+//iRO and pRO Description and Effect
+//2589#
+//Large, black wings of a fallen dark angel.
+//LUK + 2.
+//Increases tolerance to Demihuman attacks by 10%.
+//Increases resistance to the Shadow Property by 30%.
+//Increases resistance to the Holy Property by 30%.
+//Class : ^777777Garment^000000
+//Defense : ^77777718^000000
+//Weight : ^77777720^000000
+//Required Level : ^7777771^000000
+//Jobs : ^777777All Jobs^000000
+//#
 
 2590#
 부워여의 납치 주머니로 만든 옷. 부워여의 죽음에 안식을 찾은 원령들의 기운이 넘쳐난다.
@@ -16643,7 +16656,7 @@ Weight :^777777 0^000000
 
 2736#
 ...
-Dex + 3, Luk + 3, Mdef + 2
+Dex + 3, Luk + 3, MDEF + 2
 Class :^777777 Accessory^000000
 Defense :^777777 0^000000
 Weight :^777777 10^000000
@@ -16808,7 +16821,7 @@ Applicable Job :^777777 Novice Class, Mage Class, Acolyte Class^000000
 2751#
 The first process should be able to complete the first accessories 
 to complete the process of the sign.
-If the base level is less than or equal to 79, MHP + 400, MSP + 200
+If the base level is less than or equal to 79, MaxHP + 400, MaxSP + 200
 Class :^777777 Accessory^000000
 Defense :^777777 0^000000
 Weight :^777777 10^000000
@@ -16958,9 +16971,9 @@ Applicable Job :^777777 Every Job^000000
 
 2765#
 A figure made representing the Novice Class. If you look at it, somehow you feel energized.
-MHP + 70.
+MaxHP + 70.
 [^008800Novice Class^000000]
-MHP + 30.
+MaxHP + 30.
 Class :^777777 Accessory^000000
 Defense :^777777 0^000000
 Weight :^777777 10^000000
@@ -17847,7 +17860,7 @@ Class : ^777777Accessory^000000
 Defense : ^7777770^000000
 Weight : ^77777710^000000
 Required lv : ^77777745^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 2856#
@@ -18009,15 +18022,15 @@ a necklace for implmenting best of royal palace food.
 DEX + 2, MATK + 20.
 "when usign with Orleans globe, can have MATK + 20,  with Orleans uniform , can have stat casting 15% decrese, when with Orleans server, can have MATK + 2 increse for shield 1
 "
-Class : ^777777Accessory^000000 Def : ^7777770^000000
+Class : ^777777Accessory^000000 Defense : ^7777770^000000
 Weight : ^77777710^000000
 Required Lv  : ^7777770^000000
-Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 2883#
 우르의 룬을 정제하여 만든 인장.
-MHP + 2%, 스파이럴 피어스, 헌드레드 스피어 사용 시 SP 5 감소.
+MaxHP + 2%, 스파이럴 피어스, 헌드레드 스피어 사용 시 SP 5 감소.
 계열 : ^777777악세사리^000000 방어 : ^7777774^000000
 무게 : ^77777720^000000
 요구 레벨 : ^777777100^000000
@@ -18026,7 +18039,7 @@ MHP + 2%, 스파이럴 피어스, 헌드레드 스피어 사용 시 SP 5 감소.
 
 2884#
 페오즈의 룬을 정제하여 만든 인장.
-ATK + 20, MSP + 20.
+ATK + 20, MaxSP + 20.
 계열 : ^777777악세사리^000000 방어 : ^7777773^000000
 무게 : ^77777720^000000
 요구 레벨 : ^777777100^000000
@@ -18084,9 +18097,9 @@ INT + 2, 완전회피 + 3.
 
 2892#
 팔에서 손가락 관절부분까지 금속을 덧댄 장갑. 방어와 동시에 공격할 수 있게 디자인되어있다.
-MSP + 20, CRI + 3.
+MaxSP + 20, CRI + 3.
 크리슈나와 함께 장착 시 ATK + 50, 소닉 블로우 데미지 50% 증가, FLEE - 30.
-차크람과 함께 장착 시 CRI + 4, 크리티컬 공격력 40% 증가, MHP - 10%.
+차크람과 함께 장착 시 CRI + 4, 크리티컬 공격력 40% 증가, MaxHP - 10%.
 계열 : ^777777악세사리^000000 방어 : ^7777773^000000
 무게 : ^77777740^000000
 요구 레벨 : ^777777100^000000
@@ -18095,7 +18108,7 @@ MSP + 20, CRI + 3.
 
 2894#
 파괴신의 불타는 듯한 이미지를 형상화한,금속으로 주조된 장갑.
-STR + 5, MSP + 6%, MHP - 6%.
+STR + 5, MaxSP + 6%, MaxHP - 6%.
 순수 STR이 120인 경우, ATK + 30.
 계열 : ^777777악세사리^000000 방어 : ^7777771^000000
 무게 : ^77777740^000000
@@ -18156,6 +18169,16 @@ ATK +7% 상승, 공격속도 10% 증가.
 장착 : ^777777전직업 장착가능^000000
 #
 
+2914#
+A legend eye that had lost all knowledge and magic instead.
+INT + 4, MDEF + 3, casting time + 3%
+Class : ^777777Accessory^000000
+Defense : ^7777771^000000
+Weight : ^77777710^000000
+Required Level : ^7777770^000000
+Required Applicable Job : ^7777772nd Jobs^000000
+#
+
 2915#
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 고대 라피네의 선조 중 하나였던 에뜰랑의 목걸이. 황폐한 비프로스트를 살리고자 하는 그의 염원이 느껴지는 것 같다.
@@ -18178,7 +18201,7 @@ MDEF + 10.
 
 2917#
 사용자의 특정 능력치에 반응하는 글러브.
-MHP + 100, MSP + 20
+MaxHP + 100, MaxSP + 20
 STR+10마다 ATK+1씩 증가.
 STR 110 이상 일 때 ATK + 1% 추가
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
@@ -18189,7 +18212,7 @@ STR 110 이상 일 때 ATK + 1% 추가
 
 2918#
 사용자의 특정 능력치에 반응하는 글러브.
-MHP + 100, MSP + 20
+MaxHP + 100, MaxSP + 20
 INT+10마다 MATK+1씩 증가.
 INT 110 이상 일 때 MATK + 1% 추가
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
@@ -18200,7 +18223,7 @@ INT 110 이상 일 때 MATK + 1% 추가
 
 2919#
 사용자의 특정 능력치에 반응하는 글러브.
-MHP + 100, MSP + 20
+MaxHP + 100, MaxSP + 20
 AGI+10마다 FLEE+1씩 증가.
 AGI 110 이상 일 때 완전회피 + 1 추가
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
@@ -18211,9 +18234,9 @@ AGI 110 이상 일 때 완전회피 + 1 추가
 
 2920#
 사용자의 특정 능력치에 반응하는 글러브.
-MHP + 100, MSP + 20
-VIT+10마다 MHP+50씩 증가.
-VIT 110 이상 일 때 MHP + 1% 추가
+MaxHP + 100, MaxSP + 20
+VIT+10마다 MaxHP+50씩 증가.
+VIT 110 이상 일 때 MaxHP + 1% 추가
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
 무게 : ^77777710^000000
 요구 레벨 : ^777777100^000000
@@ -18222,7 +18245,7 @@ VIT 110 이상 일 때 MHP + 1% 추가
 
 2921#
 사용자의 특정 능력치에 반응하는 글러브.
-MHP + 100, MSP + 20
+MaxHP + 100, MaxSP + 20
 DEX+10마다 HIT+1씩 증가.
 DEX 110 이상 일 때 원거리 공격력 + 1% 추가
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
@@ -18233,7 +18256,7 @@ DEX 110 이상 일 때 원거리 공격력 + 1% 추가
 
 2922#
 사용자의 특정 능력치에 반응하는 글러브.
-MHP + 100, MSP + 20
+MaxHP + 100, MaxSP + 20
 LUK+10마다 CRI+1씩 증가.
 LUK 110 이상 일 때 크리티컬 데미지 1% 추가
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
@@ -18244,7 +18267,7 @@ LUK 110 이상 일 때 크리티컬 데미지 1% 추가
 
 2923#
 사용자의 특정 능력치에 반응하는 글러브.
-MHP + 100, MSP + 20
+MaxHP + 100, MaxSP + 20
 STR+10마다 ATK+1씩 증가.
 STR 110 이상 일 때 ATK + 1% 추가
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
@@ -18255,7 +18278,7 @@ STR 110 이상 일 때 ATK + 1% 추가
 
 2924#
 사용자의 특정 능력치에 반응하는 글러브.
-MHP + 100, MSP + 20
+MaxHP + 100, MaxSP + 20
 INT+10마다 MATK+1씩 증가.
 INT 110 이상 일 때 MATK + 1% 추가
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
@@ -18266,7 +18289,7 @@ INT 110 이상 일 때 MATK + 1% 추가
 
 2925#
 사용자의 특정 능력치에 반응하는 글러브.
-MHP + 100, MSP + 20
+MaxHP + 100, MaxSP + 20
 AGI+10마다 FLEE+1씩 증가.
 AGI 110 이상 일 때 완전회피 + 1 추가
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
@@ -18277,9 +18300,9 @@ AGI 110 이상 일 때 완전회피 + 1 추가
 
 2926#
 사용자의 특정 능력치에 반응하는 글러브.
-MHP + 100, MSP + 20
-VIT+10마다 MHP+50씩 증가.
-VIT 110 이상 일 때 MHP + 1% 추가
+MaxHP + 100, MaxSP + 20
+VIT+10마다 MaxHP+50씩 증가.
+VIT 110 이상 일 때 MaxHP + 1% 추가
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
 무게 : ^77777710^000000
 요구 레벨 : ^777777100^000000
@@ -18288,7 +18311,7 @@ VIT 110 이상 일 때 MHP + 1% 추가
 
 2927#
 사용자의 특정 능력치에 반응하는 글러브.
-MHP + 100, MSP + 20
+MaxHP + 100, MaxSP + 20
 DEX+10마다 HIT+1씩 증가.
 DEX 110 이상 일 때 원거리 공격력 + 1% 추가
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
@@ -18299,7 +18322,7 @@ DEX 110 이상 일 때 원거리 공격력 + 1% 추가
 
 2928#
 사용자의 특정 능력치에 반응하는 글러브.
-MHP + 100, MSP + 20
+MaxHP + 100, MaxSP + 20
 LUK+10마다 CRI+1씩 증가.
 LUK 110 이상 일 때 크리티컬 데미지 1% 추가
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
@@ -19636,7 +19659,7 @@ Weight :^777777 1^000000
 Maximum HP and SP - 10%
 Reduce Casting Time by 10%.
 [^000088+ Dark Lord^000000]
-Reduce Casting Time by 20%.
+20% of variable cast time is reduced
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -22257,36 +22280,36 @@ Weight :^777777 1^000000
 #
 
 4480#
-
-decrease 15% delay after using all skill 
-additional decrease 5% if refined level is over 15
-Class : ^777777card^000000
-Location : ^777777headgear^000000
+After cast delay reduced by 15%
+If this card is slotted into a headgear refined to +15 or higher, reduces after cast delay by 5% more.
+Class : ^777777Card^000000
+Compound on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 
 4481#
-additional damage 25% against fire type of monster.
-cast auto spell frost nova lv 10 at regular rate if being attacked on physical and magical damage.
-additional damage 10% against fire type of monster.
-Class : ^777777card^000000
-Location : ^777777armor^000000
+Increases damage to Fire Property monsters by 25%.
+Has a low chance of auto-casting Frost Nova while being attacked.
+If this card is slotted into an armor refined to +15 or higher, increases damage to Fire Property monsters by 10% more.
+Class : ^777777Card^000000
+Compound on : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 
 4482#
-recover 50 HP  10 SP every 15 sec.
-increase 5% on  MHP MSP .
-if refined lv is over 15, recovery speed for HPand SP will be 10 sec , additional 2% for  MHP, MSP
-Class : ^777777card^000000
-Location : ^777777Shoes^000000
+MaxHP +7%
+MaxSP +7%
+Every 15 seconds, you recover 50 HP and 10 SP.
+If this card is slotted into shoes refined to +15 or higher, every 10 seconds, you recover 10 SP.
+Class : ^777777Card^000000
+Compound on : ^777777Shoes^000000
 Weight : ^7777771^000000
 #
 
 4483#
 absorb 5% SP  that inflicted to enemy at regular rate (5%). If refined lv is over 15, absorption rate increase 7% rate.
 Class : ^777777card^000000
-Location : ^777777weapon^000000
+Compound on : ^777777Weapon^000000
 Weight : ^7777771^000000
 #
 
@@ -22294,21 +22317,62 @@ Weight : ^7777771^000000
 can use this without consumption for gemstone.
 SP consimption increase 50% if using skill.
 if refined lv is over 15, SP consumption increase 35% with using skill.
-Class : ^777777card^000000
-Location : ^777777headgear^000000
+Class : ^777777Card^000000
+Compound on : ^777777Headgear^000000
 Weight : ^7777771^000000
 #
 
 4485#
 increase physical damage 20% against monster type of holy, dark, angel, evil .
 if refined lv is over 15, can get additional physical damage 10% against above type of monster.
-Class : ^777777card^000000
-Location : ^777777armor^000000
+Class : ^777777Card^000000
+Compound on : ^777777Armor^000000
+Weight : ^7777771^000000
+#
+
+4494#
+ATK + 10%
+Chance to automatically cast [Magnum Break] level 10 while attacking
+If refined to level 15 or higher : ATK + 5%
+Class : ^777777Card^000000
+Compound on : ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+
+4495#
+All Stats + 1
+Chance to automatically cast [Kyrie Eleison] level 5 when hit
+If refined to level 15 or higher : Kyrie Eleison will be level 8
+Class :^777777 Card^000000
+Compound on :^777777 Shoes^000000
+Weight :^777777 1^000000
+#
+
+4497#
+Add the chance of auto casting [Storm Gust] level 1 on enemy when doing Physical Attack.
+Has 20% chance of Freezing an enemy when attacking.
+If refined to level 15 or higher : Chance rate increased.
+Class : ^777777Card^000000
+Compount on : ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+
+4498#
+MaxHP -60%, MaxSP +50%.
+Chance to get Banana when killing a monster.
+Banana recovery rate increases by 50%
+
+If refined to level 15 or higher : Bonuses become 
+MaxHP -50%, MaxSP +50%
+Chance to get Banana when killing a monster.
+Banana recovery rate +80%
+Class : ^777777Card^000000
+Compound on : ^777777Shoes^000000
 Weight : ^7777771^000000
 #
 
 4505#
-MATK + 20, MSP - 1%.
+MATK + 20, MaxSP - 1%.
 계열 : ^777777카드^000000
 장착 : ^777777액세서리^000000
 무게 : ^7777771^000000
@@ -22330,7 +22394,7 @@ DEX + 2, 궁수계열인 경우 3제련당 DEX + 1씩 추가 증가.
 #
 
 4508#
-ATK + 20, MHP - 1%.
+ATK + 20, MaxHP - 1%.
 계열 : ^777777카드^000000
 장착 : ^777777액세서리^000000
 무게 : ^7777771^000000
@@ -22463,28 +22527,28 @@ FLEE + 10.
 #
 
 4526#
-MSP + 5%, MDEF + 50.
+MaxSP + 5%, MDEF + 50.
 계열 : ^777777카드^000000
 장착 : ^777777갑옷^000000
 무게 : ^7777771^000000
 #
 
 4527#
-MHP + 10%, DEF + 100.
+MaxHP + 10%, DEF + 100.
 계열 : ^777777카드^000000
 장착 : ^777777갑옷^000000
 무게 : ^7777771^000000
 #
 
 4528#
-MATK + 2%, 2제련당  MATK + 1%, MHP - 1%.
+MATK + 2%, 2제련당  MATK + 1%, MaxHP - 1%.
 계열 : ^777777카드^000000
 장착 : ^777777투구^000000
 무게 : ^7777771^000000
 #
 
 4529#
-ATK + 2%, 2제련당  ATK + 1%, MSP - 1%.
+ATK + 2%, 2제련당  ATK + 1%, MaxSP - 1%.
 계열 : ^777777카드^000000
 장착 : ^777777투구^000000
 무게 : ^7777771^000000
@@ -22520,7 +22584,7 @@ AGI + 1.
 #
 
 4534#
-MHP + 12%.
+MaxHP + 12%.
 [워터볼] 5Lv 사용가능.
 계열 : ^777777카드^000000
 장착 : ^777777갑옷^000000
@@ -22535,8 +22599,16 @@ LUK + 1.
 무게 : ^7777771^000000
 #
 
-4700#
+4546#
+아무 효과도 없는 카드.
+"본 증을 습득하셔서 카드로 사용시 발생하는 모든 불이익은 사용자에게 있습니다. - 밝히리" 라고 적혀있다.
+발키리 나들이 모자와 함께 장착 시 숨겨진 힘이 드러난다는 근거 없는 소문이 있다.
+계열 : ^777777카드^000000
+장착 : ^777777투구^000000
+무게 : ^7777771^000000
+#
 
+4700#
 STR + 1
 #
 
@@ -23125,7 +23197,7 @@ DEX + 1.
 4858#
 LUK + 1.
 8제련 시 LUK + 3 추가.
-9제련 시 MHP + 1% 추가.
+9제련 시 MaxHP + 1% 추가.
 12제련 시 ASPD + 1, 고정 캐스팅 7% 감소.
 #
 
@@ -23138,11 +23210,11 @@ FLEE + 3.
 #
 
 4861#
-MHP + 1%.
+MaxHP + 1%.
 #
 
 4862#
-MHP + 2%.
+MaxHP + 2%.
 #
 
 4863#
@@ -23162,11 +23234,11 @@ MHP + 2%.
 #
 
 4867#
-MHP + 3%.
+MaxHP + 3%.
 #
 
 4868#
-MHP + 4%.
+MaxHP + 4%.
 #
 
 4869#
@@ -27322,7 +27394,7 @@ Applicable Job :^777777 Every Job^000000
 
 5373#
 A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better.
-Dex + 3, Mdef + 1
+Dex + 3, MDEF + 1
 Class :^777777 Headgear^000000
 Defense :^777777 2^000000
 Equipped on :^777777 Upper, Mid^000000
@@ -27526,7 +27598,7 @@ Applicable Job :^777777 Every Job^000000
 ^000088Rental Items^000000
 For a busy morning, it its the best heartwarming friend. 
 When you hold it in your mouth, you feel like you have to quickly rush out.
-MHP + 100.
+MaxHP + 100.
 When you defeat a monster, there is a small chance that it drops a "Old Purple Box".
 Class :^777777 Headgear^000000
 Defense :^777777 0^000000
@@ -27695,7 +27767,7 @@ Applicable Job :^777777 Every Job^000000
 
 5406#
 Academy Freshman Hat! If you wear this, you should greet all of members of academy.
-MHP + 80, MSP + 10
+MaxHP + 80, MaxSP + 10
 Class :^777777 Headgear^000000
 Defense :^777777 1^000000
 Equipped on :^777777 Upper^000000
@@ -27705,7 +27777,7 @@ Applicable Job :^777777 Every Job^000000
 
 5407#
 You can get this after you finish 1 course in academy.
-MSP + 30
+MaxSP + 30
 Class :^777777 Headgear^000000
 Defense :^777777 1^000000
 Equipped on :^777777 Upper^000000
@@ -27737,7 +27809,7 @@ Applicable Job :^777777 Every Job^000000
 5410#
 A hat in the form of an upside-down paperbag, to celebrate the festival.
 Reduces damage from Demihuman monster by 4%.
-Add a 4% resistance against ^880000Stun^000000, MHP + 100
+Add a 4% resistance against ^880000Stun^000000, MaxHP + 100
 Class :^777777 Headgear^000000
 Defense :^777777 6^000000
 Equipped on :^777777 Upper, Mid, Lower^000000
@@ -27849,7 +27921,7 @@ Applicable Job :^777777 Every Job^000000
 
 5420#
 Mask of Ifrit, the spiritual owner of fire. Rumored to rule a power of the fire.
-STR + 1, INT + 1, Mdef + 5
+STR + 1, INT + 1, MDEF + 5
 Add a 10% resistance against ^FF0000Fire^000000 Property monsters.
 Reduced a 10% resistance against ^0000FFWater^000000 Property monsters.
 Enables use of ^008800Level 1 Sight^000000.
@@ -27866,7 +27938,7 @@ Applicable Job :^777777 Every Job Except Novice^000000
 
 5421#
 A headgear which imitates an ears of Ifrit, the spiritual owner of fire.
-STR + 1, Mdef + 3
+STR + 1, MDEF + 3
 Increases damage of ^008800Fire Bolt, Fire Pillar, Meteor Storm^000000 skill by 2%.
 Increases damage of ^008800Bash, Magnum Break, Pierce^000000 skill by 2%.
 Add a 5% resistance against ^FF0000Fire^000000 Property monsters.
@@ -27881,7 +27953,7 @@ Applicable Job :^777777 Every Job Except Novice^000000
 
 5422#
 ...
-Int + 1 , Mdef + 2
+Int + 1 , MDEF + 2
 Class :^777777 Headgear^000000
 Defense :^777777 0^000000
 Equipped on :^777777 Upper^000000
@@ -28295,7 +28367,7 @@ Applicable Job :^777777 Every Job^000000
 
 5460#
 A helmet made from a dragon's skull.
-ALL STATUS + 2 , MHP + 3%
+ALL STATUS + 2 , MaxHP + 3%
 Cannot be Dropped, or Tradable. Can be placed in Kafra Storage.
 Class :^777777 Headgear^000000
 Defense :^777777 7^000000
@@ -28510,7 +28582,7 @@ Applicable Job :^777777 Every Job^000000
 
 5478#
 Classic Hat.
-STR + 2, MHP + 300
+STR + 2, MaxHP + 300
 Class :^777777 Headgear^000000
 Defense :^777777 3^000000
 Equipped on :^777777 Upper^000000
@@ -29904,7 +29976,7 @@ Location : ^777777Lower^000000
 Defense : ^7777771^000000
 Weight : ^7777775^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5595#
@@ -29915,7 +29987,7 @@ If worn by Wizard/Acolyte/Archer Class, INT + 2, DEX + 2, damage of Neutral , Wa
 Item Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Upper^000000 Weight : ^77777740^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5596#
@@ -30339,7 +30411,7 @@ Defense: ^7777771^000000
 Location : ^777777Middle^000000
 Weight : ^77777710^000000
 Required Level: ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5625#
@@ -30359,7 +30431,7 @@ Class : ^777777Headgear^000000    Defense: ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Required Level: ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5626#
@@ -30389,7 +30461,7 @@ Defense: ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5628#
@@ -30410,7 +30482,7 @@ Defense: ^7777776^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Required Level: ^77777770^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5629#
@@ -30428,7 +30500,7 @@ Defense: ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5630#
@@ -30464,7 +30536,7 @@ Defense: ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5632#
@@ -30482,7 +30554,7 @@ Defense: ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^777777100^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5633#
@@ -30495,7 +30567,7 @@ Class : ^777777Headgear^000000
 Defense: ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5634#
@@ -30513,7 +30585,7 @@ Defense: ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777760^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5635#
@@ -30532,7 +30604,7 @@ Defense: ^7777775^000000
 Location : ^777777Upper^000000
 Weight : ^77777780^000000
 Required Level: ^77777750^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5636#
@@ -30557,7 +30629,7 @@ Defense: ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777750^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5637#
@@ -30586,7 +30658,7 @@ Location : ^777777Upper^000000
 ^ffffff_^000000
 Weight : ^77777750^000000
 Required Level : ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5639#
@@ -30599,7 +30671,7 @@ Location : ^777777Upper^000000
 ^ffffff_^000000
 Weight : ^77777730^000000
 Required Level : ^77777730^000000
-Jobs : ^777777Magician Class/Soul Linker^000000
+Applicable Job : ^777777Magician Class/Soul Linker^000000
 #
 
 5640#
@@ -30609,7 +30681,7 @@ Cannot be upgraded and destroyed.
 Class : ^777777Headgear^000000    Defense : ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5641#
@@ -30620,7 +30692,7 @@ Class : ^777777Headgear^000000    Defense : ^7777771^000000
 Location : ^777777Middle^000000
 Weight : ^77777720^000000
 Required Level : ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5642#
@@ -30678,7 +30750,7 @@ DEF+4
 Enables the use of the skill 'Hiding' Lv1.
 Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location : ^777777Upper-Mid^000000    Weight : ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5646#
@@ -30697,7 +30769,7 @@ Location :
 ^777777Upper, Mid, Lower^000000
 Weight : ^77777710^000000
 Required Level: ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5647#
@@ -30779,7 +30851,7 @@ Increases ATK based on the wearer's Job Lvl.
 This item cannot be Dropped or Traded.
 Class : ^777777Headgear^000000    Defense : ^7777775^000000
 Location : ^777777Upper^000000    Weight : ^77777780^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5653#
@@ -30792,7 +30864,7 @@ When do physical attack, holy property is given to the weapon for 90 seconds at 
 Item Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Upper^000000 Weight : ^77777720^000000
 Required Level : ^77777710^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5655#
@@ -30802,7 +30874,7 @@ When do magical attack, have some chance of decreasing the casting time by 50% f
 Item Class : ^777777Headgear^000000    Defense : ^7777772^000000
 Location : ^777777Upper^000000 Weight : ^77777750^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5656#
@@ -30811,7 +30883,7 @@ Indestructible.
 Item Class : ^777777Headgear^000000 Defense : ^7777777^000000
 Location : ^777777Upper^000000 Weight : ^777777100^000000
 Required Level : ^77777750^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5657#
@@ -30820,7 +30892,7 @@ When you have it with captain hat, long distance physical attack increases as th
 Item Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location : ^777777Low^000000    Weight : ^77777710^000000
 Required Level : ^77777730^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5658#
@@ -30829,7 +30901,7 @@ When use physical attack casting LV1 FLAMELAUNCHER as regular chance.
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper^000000 Weight : ^77777740^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5659#
@@ -30838,7 +30910,7 @@ When use physical attack casting LV1 SEISMICWEAPON as regular chance.
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper^000000 Weight : ^77777740^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5660#
@@ -30847,7 +30919,7 @@ When use physical attack casting LV1 LIGHTNINGLOADER as regular chance.
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper^000000 Weight : ^77777740^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5661#
@@ -30993,7 +31065,7 @@ Cannot be upgraded.
 Class : ^777777Headgear^000000 Defense : ^7777773^000000
 Location: ^777777Upper ^000000 Weight : ^777777100^000000
 Required Level : ^77777710^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5675#
@@ -31049,7 +31121,7 @@ HIT + 10.
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Mid^000000 Weight : ^77777710^000000
 Required Level : ^77777710^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5681#
@@ -31509,7 +31581,7 @@ Chance to use the skill Sonic Blow lvl 5 when you attack physically in short dis
 Item Class : ^777777Headgear^000000 Defense : ^7777773^000000
 Location : ^777777Upper ^000000 Weight : ^77777780^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5762#
@@ -31519,7 +31591,7 @@ ALL State + 1, MDEF + 5.
 Item Class : ^777777Headgear^000000 Defense : ^7777775^000000
 Location : ^777777Upper ^000000 Weight : ^77777710^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5763#
@@ -31530,7 +31602,7 @@ Your sexyness increases to 100 %
 AGI + 2, MDEF+3
 Class : ^777777Headgear^000000    Defense : ^7777772^000000
 Location : ^777777Upper^000000    Weight : ^77777720^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5764#
@@ -31539,26 +31611,26 @@ placeholder
 
 5765#
 Dark neat black ribbon.
-Mdef + 5.
+MDEF + 5.
 Resistance to Neutral property attacks +5%. Resistance to Range attacks+ 5%.
 Class : ^777777Headgear^000000
 Defense : ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Required lv : ^77777710^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5766#
 Smooth fluffy cap inspired by Homunculus' Amistr.
 Vit + 5. 
-When receiving physical attack, all damage decrease by 20% for 2 seconds(random chance), Mdef decrease by 20%.
+When receiving physical attack, all damage decrease by 20% for 2 seconds(random chance), MDEF decrease by 20%.
 Class : ^777777Headgear^000000
 Defense : ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777750^000000
 Required lv : ^77777750^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5767#
@@ -31569,7 +31641,7 @@ Defense : ^7777771^000000
 Location : ^777777Lower^000000
 Weight : ^77777730^000000
 Required lv : ^77777750^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5768#
@@ -31581,7 +31653,7 @@ When you wear this with Romantic Leaf, STR + 1, if refined lv is over 3, you wou
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper ^000000 Weight : ^77777780^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5769#
@@ -31596,7 +31668,7 @@ Jobs : ^777777All Jobs^000000
 A cute pouring that bounces on your head.
 AGI +3
 Give the wind property into weapon for 3 min when give physical attack in a certain chance.
-Class : ^777777Headgear^000000 Def : ^7777773^000000
+Class : ^777777Headgear^000000 Defense : ^7777773^000000
 Position: ^777777Upper ^000000 Weight : ^77777710^000000
 Required Lv  : ^7777771^000000
 Job : ^777777All^000000
@@ -31619,7 +31691,7 @@ This is the hat worn by great Admirals of the navy fleet that defends the port o
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper^000000 Weight : ^77777750^000000
 Required Level : ^77777795^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5773#
@@ -31628,7 +31700,7 @@ This is a navy blue beret worn by the elite soldiers of the Navy of Alberta. It 
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper^000000 Weight : ^77777750^000000
 Required Level : ^77777795^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5774#
@@ -31637,7 +31709,7 @@ A bandana usually worn by the first mate of a pirate ship. It commands respect f
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper^000000 Weight : ^77777750^000000
 Required Level : ^77777795^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5775#
@@ -31660,13 +31732,13 @@ Class : ^777777Headgear^000000
 Defense : ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777750^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5777#
 A replica of the helmet worn by firemen.
 Not as durable as the real firemen's helmet.
-Mdef + 1
+MDEF + 1
 Drops [Empty Bottle], [Ditrimindexta], [Karvodailnirol] in certain rate when defeating Neutral monsters.
 Unable to Refine
 Class : ^777777Headgear^000000
@@ -31674,7 +31746,7 @@ DEF : ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777780^000000
 Required Level : ^77777730^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5778#
@@ -31684,7 +31756,7 @@ When having physical attack, it has Attack speed increase by 5% (after having at
 Item Class : ^777777Headgear^000000 Defense : ^7777773^000000
 Location : ^777777Upper ^000000 Weight : ^77777710^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs ^000000
+Applicable Job : ^777777All Jobs ^000000
 #
 
 5779#
@@ -31716,7 +31788,7 @@ If combines with 'Centimental Leaf', give Flee +2, LUK + 1.
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^77777710^000000
 Required lv : ^7777770^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5782#
@@ -31733,7 +31805,7 @@ If refined to 10, increase ATK and MATK by 2% in addition.
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000 Weight : ^77777720^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs ^000000
+Applicable Job : ^777777All Jobs ^000000
 #
 
 5784#
@@ -31745,7 +31817,7 @@ If refined to 10, increase ATK and MATK by 2% in addition.
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000 Weight : ^77777720^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs ^000000
+Applicable Job : ^777777All Jobs ^000000
 #
 
 5785#
@@ -31757,7 +31829,7 @@ If refined to 10, increase ATK and MATK by 2% in addition.
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000 Weight : ^77777720^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs ^000000
+Applicable Job : ^777777All Jobs ^000000
 #
 
 5786#
@@ -31792,7 +31864,7 @@ Defense : ^7777773^000000
 Location : ^777777Mid-Lower ^000000
 Weight : ^77777710^000000
 Required lv : ^77777730^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5790#
@@ -31804,7 +31876,7 @@ Defense : ^7777770^000000
 Location : ^777777Upper-Mid ^000000
 Weight : ^77777750^000000
 Required lv : ^77777745^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5792#
@@ -31825,7 +31897,7 @@ Increase the effect of the Heal that its wearer casts by 2%.
 Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Middle ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5794#
@@ -31846,12 +31918,12 @@ Jobs : ^777777All Jobs^000000
 A bright and beautiful hat coordinating a colorful dress.
 MDEF+7
 If refined by +2 or higher : MDEF + 1
-Class : ^777777headgear^000000
+Class : ^777777Headgear^000000
 Location : ^777777Upper^000000
 Defense : ^7777773^000000
 Weight : ^77777720^000000
 required level : ^77777720^000000
-Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 5796#
@@ -32051,7 +32123,7 @@ Reduce damage from Water, Fire, Wind by 5%, Reduce damage from Ghost property mo
 Item Class : ^777777Headgear^000000    Defense : ^7777772^000000
 Location : ^777777Upper,Mid,Lower^000000    Weight : ^7777770^000000
 Required Level : ^77777720^000000
-Jobs : ^777777All Jobs Except Novice^000000
+Applicable Job : ^777777All Jobs Except Novice^000000
 #
 
 5815#
@@ -32216,7 +32288,7 @@ An ordinary armor, nobody knows that it can be refined or not.
 Item Class : ^777777Armor^000000 Defense : ^7777770^000000
 Weight : ^7777770^000000
 Required Level : ^77777730^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5830#
@@ -32225,7 +32297,7 @@ Reduce damage from Demi-Human by 10%
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^7777771^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5831#
@@ -32234,7 +32306,7 @@ Reduce damage from Demi-Human by 10%
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^7777771^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5832#
@@ -32243,7 +32315,7 @@ Reduce damage from Demi-Human by 10%
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^7777771^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5833#
@@ -32252,7 +32324,7 @@ Reduce damage from Demi-Human by 10%
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^7777771^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5834#
@@ -32261,7 +32333,7 @@ Reduce damage from Demi-Human by 10%
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^7777771^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5835#
@@ -32270,7 +32342,7 @@ Reduce damage from Demi-Human by 10%
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^7777771^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5836#
@@ -32279,7 +32351,7 @@ Reduce damage from Demi-Human by 10%
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper^000000 Weight : ^7777771^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5837#
@@ -32288,7 +32360,7 @@ Reduce damage from Demi-Human by 2%
 Item Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Mid ^000000 Weight : ^7777771^000000
 Required Level : ^77777770^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5838#
@@ -32297,7 +32369,7 @@ Reduce damage from Demi-Human by 2%
 Item Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Mid ^000000 Weight : ^7777771^000000
 Required Level : ^77777770^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5839#
@@ -32306,7 +32378,7 @@ Reduce damage from Demi-Human by 2%
 Item Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Mid ^000000 Weight : ^7777771^000000
 Required Level : ^77777770^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5840#
@@ -32315,7 +32387,7 @@ Reduce damage from Demi-Human by 2%
 Item Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Mid ^000000 Weight : ^7777771^000000
 Required Level : ^77777770^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5845#
@@ -32353,7 +32425,7 @@ You will feel like you become a legendary outlaw Robin Hood once you wear it.
 Wear it properly, otherwise eye patch will block your vision.
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location :  ^777777Mid ^000000 Weight : ^7777770^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5849#
@@ -32361,7 +32433,7 @@ You will feel like you become a capable doctor once you wear it.
 Unlicensed medical service is against the law.
 Item Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location :  ^777777Upper^000000 Weight : ^7777770^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5850#
@@ -32382,7 +32454,7 @@ Add chance to cast Lv1 “Sight” skill or Lv1 “Sight Thrasher” when being hit 
 Item Class : ^777777Headgear^000000    Defense : ^7777771^000000
 Location : ^777777Upper,Middle^000000 Weight : ^7777770^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5852#
@@ -32394,7 +32466,7 @@ If refined higher than +9, recover SP by 1% in every 10 seconds.
 Class: ^777777Headgear^000000 Defense: ^777777-7^000000
 Head Position: ^777777Upper^000000 Weight: ^77777750^000000
 Required Level: ^77777740^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5856#
@@ -32406,7 +32478,7 @@ MDEF+1.
 Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location: ^777777Upper ^000000 Weight : ^7777770^000000
 Required lv : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5857#
@@ -32417,7 +32489,7 @@ MDEF+1.
 Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location: ^777777Upper ^000000 Weight : ^7777770^000000
 Required lv : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5858#
@@ -32428,7 +32500,7 @@ MDEF+1.
 Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location: ^777777Upper ^000000 Weight : ^7777770^000000
 Required lv : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5859#
@@ -32439,7 +32511,7 @@ MDEF+1.
 Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location: ^777777Upper ^000000 Weight : ^7777770^000000
 Required lv : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 5860#
@@ -32449,7 +32521,7 @@ Reduce damage from Demi-Human by 10%
 Item Class: ^777777Headgear^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000 Weight: ^77777710^000000
 Required Level: ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5861#
@@ -32458,7 +32530,7 @@ Reduce damage from Demi-Human by 10%
 Item Class: ^777777Headgear^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000 Weight: ^77777710^000000
 Required Level: ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5862#
@@ -32467,7 +32539,7 @@ Reduce damage from Demi-Human by 10%
 Item Class: ^777777Headgear^000000 Defense: ^7777770^000000
 Location: ^777777Upper ^000000 Weight: ^77777710^000000
 Required Level: ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 5863#
@@ -32476,7 +32548,7 @@ Reduce damage from Demi-Human by 2%
 Item Class: ^777777Headgear^000000 Defense: ^7777772^000000
 Location: ^777777Mid ^000000 Weight: ^77777710^000000
 Required Level: ^77777770^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 6000#
@@ -35155,9 +35227,11 @@ Weight : ^7777770^000000
 #
 
 6457#
-^ff0000you cannot trade this item.^000000
-You can refine your armor to + 5 through ^0000FFRefine Master^000000 in ^8B4513Prontera^000000. - 1 time limited -
-Weight : ^7777770^000000
+A Certificate that will ensure that Mighty Hammer, in Eden Group, will not degrade your Equipment when it is +9 attempting +10.
+You must use this in conjunction with the normal HD Ore to take advantage of non-Degrade.
+Acquired by buying the Special Groove Pack Crates.
+^ff0000Limited Item^000000
+Weight : ^7777771^0000000
 #
 
 6464#
@@ -36884,9 +36958,9 @@ Weight :^777777 1^000000
 #
 
 7199#
-A coupon with an unidentified purpose.
-^ffffff_^000000
-Weight :^777777 1^000000
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+라그나로크에서 준비한 신학기용 가방 응모권.
+무게 : ^7777771^000000
 #
 
 7200#
@@ -46453,7 +46527,15 @@ HP, SP를 20% 회복.
 #
 
 12537#
-Beautifully wrapped gift basket is for someone.
+Beautifully wrapped gift basket filled with goodies to share.
+Bring these to the Lucky Dogg at Eden Group and exchange it for 75 Prize Medals.
+^0000ffLucky Dogg will stay to take your baskets until April 17th^000000.
+Opening it will give you the following:
+-5x Lovely Choco-Tart - restores an average amount of HP
+-3x Cute Strawberry-Choco -restores an average amount of SP
+-4x Chocolate Drink -Restores a high amount of HP and a low amount of SP
+-10x Hand-made Chocolate -restores 50hp/50sp
+-10x Handmade White Chocolate -restores 50hp/50sp
 Weight : ^7777771^000000
 #
 
@@ -46674,7 +46756,7 @@ Weight : ^7777771^000000
 
 12578#
 Potion contains verious recovery herb juice. Effective for faster wound healing.
-Recovers 6% of MHP every 3 seconds for 10 minutes.
+Recovers 6% of MaxHP every 3 seconds for 10 minutes.
 Not available in berserk condition.
 ^000088When player's character becomes combat ineffective, the item buff effect will wear off.^000000
 Weight : ^7777771^000000
@@ -47701,7 +47783,7 @@ Weight : ^7777771^000000
 12796#
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 체내 에너지를 활성화 하여, 전투를 보조해주는 레드 부스터. 체력에 다소 부담이 가니 주의 하자.
-10분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MHP, MSP - 10%.
+10분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MaxHP, MaxSP - 10%.
 물리, 마법 공격 시 일정확률로 집중력향상 3Lv 발동.
 ^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
 무게 : ^7777771^000000
@@ -47897,7 +47979,7 @@ Weight : ^7777771^000000
 12832#
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 시중에 퍼진 이런저런 회복포션을 농축하여 만든 생명수. 중형과 소형의 중간적인 맛이 난다.
-복용하면 10분간 3초마다 MHP의 4%를 회복한다.
+복용하면 10분간 3초마다 MaxHP의 4%를 회복한다.
 버서크 상태에서는 효과가 발동하지 않는다.
 ^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
 무게 : ^7777771^000000
@@ -50787,7 +50869,7 @@ Property :^777777 Neutral^000000
 13293#
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 동갈치목 날치과 생선. 큰 가슴지느러미로 비행한다는 소문이 있다. 얼려져 있어 쿠나이로 사용 가능할 정도.
-일정 확률로 치명적인 상처를 건다.
+일정 확률로 적에게 출혈을 건다.
 계열 : ^777777던지는 무기^000000 공격 : ^77777750^000000
 무게 : ^7777772^000000 속성 : ^777777무속성^000000
 #
@@ -54659,7 +54741,7 @@ A hat with cute little chick on it. It's hopping action is so cute.
 Allows usage ^008800Level 2 Double Attack^000000, and if you already know higher than ^008800Level 2 Double Attack^000000, then the appropriate level will be used instead.
 Reduce damage from DemiHuman monster by 3%.
 Impossible to refine this item.
-MHP, MSP + 50, Luk + 2.
+MaxHP, MaxSP + 50, Luk + 2.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -55116,7 +55198,7 @@ Weight :^777777 1^000000
 13923#
 A box containing 1 'Dark Randgris Helm' in it.
 A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better.
-Dex + 3, Mdef + 1
+Dex + 3, MDEF + 1
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -55417,7 +55499,7 @@ Weight :^777777 1^000000
 A box which contains 1 Spiritual Tunic. Rental period for a week.
 A Tunic that has been granted additional tolerance against certain properties.
 Decreases 20% damage from ^777777Neutral^000000 and ^777777Water^000000 property.
-MDEF + 5. MHP + 800. Cannot be Frozen.
+MDEF + 5. MaxHP + 800. Cannot be Frozen.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -55462,7 +55544,7 @@ Weight :^777777 1^000000
 13958#
 A box which contains 1 Refresh Shoes. Rental period for a week.
 Shoes that were made with complex design and very soft skin to show how fun your legs could be with these.
-MHP + 17% , MSP + 8%.
+MaxHP + 17% , MaxSP + 8%.
 Every 10 seconds, your HP goes up by 20, SP goes up by 3.
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -55474,7 +55556,7 @@ Weight :^777777 1^000000
 A box which contains 1 Crunch Toast. Rental period for a week.
 For a busy morning, it its the best heartwarming friend. 
 When you hold it in your mouth, you feel like you have to quickly rush out.
-MHP + 100.
+MaxHP + 100.
 When you defeat a monster, there is a small chance that it drops a "Old Purple Box".
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
@@ -59599,7 +59681,7 @@ Weight :^777777 1^000000
 A box that contains 1 "Dark Randgris Helm" inside.
 ^ffffff_^000000
 A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better.
-Dex + 3, Mdef + 1
+Dex + 3, MDEF + 1
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -59621,7 +59703,7 @@ Weight :^777777 1^000000
 A box that contains 1 "Dark Randgris Helm" inside.
 ^ffffff_^000000
 A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better.
-Dex + 3, Mdef + 1
+Dex + 3, MDEF + 1
 ^ffffff_^000000
 ^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
 ^ffffff_^000000
@@ -60819,7 +60901,7 @@ Applicable Job :^777777 Every Job Except Novice^000000
 Made for the best surfer.
 STR + 4, INT + 4, MDEF + 3.
 Increase 20% the resistance to water property atk.
-Class : ^777777Armor^000000 Def : ^7777771^000000
+Class : ^777777Armor^000000 Defense : ^7777771^000000
 Weight : ^77777710^000000
 Required Level : ^7777771^000000
 Job : ^777777All^000000
@@ -60966,8 +61048,8 @@ Applicable Job :^777777 Every Job Except Novice^000000
 15036#
 우르의 룬을 정제하여 만든 플레이트.
 MDEF + 10.
-제련도에 따라 MHP가 % 증가, 무형, 인간형 적에게서 데미지 5% 감소.
-우르의 망토, 그리브, 인장을 모두 장착 시 MHP + 14%, 무속성 공격에 대한 내성 10% 증가. 헌드레드 스피어의 공격력 50% 상승. 오토 가드 1Lv 사용 가능. 모든 스킬 사용 시 소모 SP 10% 상승.
+제련도에 따라 MaxHP가 % 증가, 무형, 인간형 적에게서 데미지 5% 감소.
+우르의 망토, 그리브, 인장을 모두 장착 시 MaxHP + 14%, 무속성 공격에 대한 내성 10% 증가. 헌드레드 스피어의 공격력 50% 상승. 오토 가드 1Lv 사용 가능. 모든 스킬 사용 시 소모 SP 10% 상승.
 계열 : ^777777갑옷^000000 방어 : ^777777110^000000
 무게 : ^777777300^000000
 요구 레벨 : ^777777100^000000
@@ -61018,17 +61100,17 @@ Class : ^777777armor^000000
 Defense : ^7777775^000000
 Weight : ^777777150^000000
 Required Level : ^77777750^000000
-Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 15041#
 The armor that made by power of mythic creature, Boitata
-FLEE + 5, MHP + 5%, MDEF + 3.
+FLEE + 5, MaxHP + 5%, MDEF + 3.
 Resist for attribute "NOTHING" bonus 7%
-Class : ^777777Armor^000000 Def : ^7777775^000000
+Class : ^777777Armor^000000 Defense : ^7777775^000000
 Weight : ^77777760^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 15042#
@@ -61044,7 +61126,7 @@ Jobs : ^777777All^000000
 15043#
 집중력과 정신력을 맑게 유지 시켜주도록 특화된 검은날개 마크의 유물.
 INT + 2, 1제련 당 ATK + 3씩 증가.
-검은날개의 슈츠, 망토, 부츠, 브로치를 모두 장착 시 MHP + 15%, 완전회피 + 20, 클러스트 봄의 공격력 20% 증가.
+검은날개의 슈츠, 망토, 부츠, 브로치를 모두 장착 시 MaxHP + 15%, 완전회피 + 20, 클러스트 봄의 공격력 20% 증가.
 원거리 물리 공격력 30% 감소, ASPD - 7.
 계열 : ^777777갑옷^000000 방어 : ^77777745^000000
 무게 : ^77777710^000000
@@ -61054,7 +61136,7 @@ INT + 2, 1제련 당 ATK + 3씩 증가.
 
 15044#
 오랜세월 호문클루스에 대한 연구에 일생을 바치다 미쳐버린 어떤 학자의 가운.
-DEX + 1, MSP + 30.
+DEX + 1, MaxSP + 30.
 메스와 함께 장착 후 인간형, 동물형 적을 쓰러트릴 시 일정확률로 '멈추지 않는 심장', '알코올' 드랍. 초록 수술복의 제련도에 따라 드랍확률 추가.
 계열 : ^777777갑옷^000000 방어 : ^77777766^000000
 무게 : ^77777766^000000
@@ -61067,7 +61149,7 @@ MDEF + 5.
 ※ PvP, 공성전지역 추가 옵션
 플레이어에게 받는 데미지 2% 감소.
 6제련 이상일 경우, 받는 힐과 일부 회복아이템 성능 12% 증가.
-9제련 이상일 경우, MHP + 25% 증가.
+9제련 이상일 경우, MaxHP + 25% 증가.
 시즈 그리브, 시즈 망토와 함께 장착 시 VIT + 5, 플레이어에게 받는 데미지 15% 추가 감소.
 계열 : ^777777갑옷^000000 방어 : ^77777785^000000
 무게 : ^777777330^000000
@@ -61080,7 +61162,7 @@ MDEF + 10.
 ※ PvP, 공성전지역 추가 옵션
 플레이어에게 받는 데미지 2% 감소.
 6제련 이상일 경우, 완전회피 + 5, 받는 원거리 데미지 20% 감소.
-9제련 이상일 경우, MHP + 15% 증가.
+9제련 이상일 경우, MaxHP + 15% 증가.
 시즈 부츠, 시즈 망토와 함께 장착 시 DEX + 5, 플레이어에게 받는 데미지  15% 추가 감소.
 계열 : ^777777갑옷^000000 방어 : ^77777750^000000
 무게 : ^77777775^000000
@@ -61093,7 +61175,7 @@ MDEF + 20.
 ※ PvP, 공성전지역 추가 옵션
 플레이어에게 받는 데미지 2% 감소.
 6제련 이상일 경우, FLEE + 5, 받는 원거리 데미지 15% 감소.
-9제련 이상일 경우, MHP + 1000, MSP + 100 증가.
+9제련 이상일 경우, MaxHP + 1000, MaxSP + 100 증가.
 시즈 슈즈, 시즈 머플러와 함께 장착 시 INT + 5, MDEF + 10, 플레이어에게 받는 데미지  15% 추가 감소.
 계열 : ^777777갑옷^000000 방어 : ^77777740^000000
 무게 : ^77777750^000000
@@ -61131,7 +61213,7 @@ AGI + 1. 3제련 당 AGI 1씩 증가.
 
 15054#
 일반적인 닌자술을 벗어나 과감한 술법으로 전설의 반열에 오른 닌자가 착용했다고 알려진 비늘 갑옷. 근접공격에 특화되어 있다.
-MHP + 15%, MSP - 30%.
+MaxHP + 15%, MaxSP - 30%.
 늑대 문양 팔목 보호대와 함께 장착 시, ATK + 10%, STR + 2 추가.
 계열 : ^777777갑옷^000000    방어 : ^77777790^000000
 무게 : ^777777180^000000
@@ -63615,13 +63697,13 @@ Weight : ^7777771^000000
 A box that contains 1 Chung Hairpin in it.
 ^ffffff_^000000
 If you wear this, it feels like you become a fancy Chung aristocrat.
-LUK + 3, Mdef +4, Def+5
+LUK + 3, MDEF +4, Def+5
 When receiving any physical attack,  Mammonite Lv5 will be activated at a low rate.
 (If you have no zeny, it won't be activated.)
 Item Class : ^777777Headgear^000000    Defense : ^7777775^000000
 Location : ^777777Upper^000000    Weight : ^77777750^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 
 Weight : ^7777771^000000
 #
@@ -63635,7 +63717,7 @@ When receiving any physical attack, Autospell Coldbolt Lv5 will be activated at 
 Item Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location : ^777777Mid ^000000 Weight : ^77777710^000000
 Required Level : ^77777710^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 
 Weight : ^7777770^000000
 #
@@ -63649,7 +63731,7 @@ When receiving any physical attack, Autospell reducing agility Lv3 will be activ
 Item Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location : ^777777Upper^000000    Weight : ^77777730^000000
 Required Level : ^77777710^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 
 Weight : ^7777771^000000
 #
@@ -63673,7 +63755,7 @@ Defense : ^7777770^000000
 Position: ^777777Upper^000000
 Weight : ^77777730^000000
 Required level : ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
@@ -63736,7 +63818,7 @@ Increases ATK based on the wearer's Job Lvl.
 This item cannot be Dropped or Traded.
 Class : ^777777Headgear^000000    Defense : ^7777775^000000
 Location : ^777777Upper^000000    Weight : ^77777780^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 16423#
@@ -64140,7 +64222,7 @@ Defense : ^7777770^000000
 Head Position : ^777777Upper ^000000
 Weight : ^77777760^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^FFFFFF_^000000
 ^ff0000Cancellation of purchase or refund is not allowed for this item.^000000
 Weight : ^7777771^000000
@@ -64159,7 +64241,7 @@ Defense : ^7777770^000000
 Head Position : ^777777Upper ^000000
 Weight : ^77777760^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^FFFFFF_^000000
 ^ff0000Cancellation of purchase or refund is not allowed for this item.^000000
 Weight : ^7777771^000000
@@ -64273,7 +64355,7 @@ Defense : ^7777773^000000
 Location : ^777777Uppper ^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
@@ -64281,7 +64363,7 @@ Weight : ^7777771^000000
 16551#
 A box that contains 1 Sagittarius Diadem.
 ^ff0000Cancellation of purchase or refund for this item is not available.^000000
-Dex +2, Mdef +3,
+Dex +2, MDEF +3,
 Increases resistance to Fire property by 7%
 If refine to 7, spell casting time -3%.
 If refine to 8, when using magic attack, has a low chance of autocasting Lvl 1 Sightrasher.
@@ -64292,7 +64374,7 @@ Defense : ^7777773^000000
 Location : ^777777Uppper ^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
@@ -64343,7 +64425,7 @@ Defense : ^7777773^000000
 Location : ^777777Upper ^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^FFFFFF_^000000
 Weight : ^7777771^000000
 #
@@ -64357,14 +64439,14 @@ Defense : ^7777773^000000
 Location : ^777777Upper ^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^FFFFFF_^000000
 Weight : ^7777771^000000
 #
 
 16567#
 A box that cotains 1 Capricorn Diadem
-Dex +2, Mdef +5.
+Dex +2, MDEF +5.
 Increases resistance to Earth property by 5%.
 If refined to 7 or higher, Int +2.
 If refined to 8 or higher, decreases casting time by 3%.
@@ -64375,14 +64457,14 @@ Defense : ^7777773^000000
 Location : ^777777Upper ^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^FFFFFF_^000000
 Weight : ^7777771^000000
 #
 
 16568#
 A box that cotains 1 Capricorn Diadem
-Dex +2, Mdef +5.
+Dex +2, MDEF +5.
 Increases resistance to Earth property by 5%.
 If refined to 7 or higher, Int +2.
 If refined to 8 or higher, decreases casting time by 3%.
@@ -64393,7 +64475,7 @@ Defense : ^7777773^000000
 Location : ^777777Upper ^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^FFFFFF_^000000
 Weight : ^7777771^000000
 #
@@ -64442,7 +64524,7 @@ Reduce damage from Water, Fire, Wind by 5%, Reduce damage from Ghost property mo
 Item Class : ^777777Headgear^000000    Defense : ^7777772^000000
 Location : ^777777Upper,Mid,Lower^000000    Weight : ^7777770^000000
 Required Level : ^77777720^000000
-Jobs : ^777777All Jobs Except Novice^000000
+Applicable Job : ^777777All Jobs Except Novice^000000
 
 Weight : ^7777771^000000
 #
@@ -64886,7 +64968,7 @@ Increase the effect of the Heal that its wearer casts by 2%.
 Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Middle ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 ^ff0000This item is not refundable.^000000
 Weight : ^7777771^000000
 #
@@ -64901,7 +64983,7 @@ Increase the effect of the Heal that its wearer casts by 2%.
 Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Middle ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 ^ff0000This item is not refundable.^000000
 Weight : ^7777771^000000
 #
@@ -64916,7 +64998,7 @@ Increase the effect of the Heal that its wearer casts by 2%.
 Class : ^777777Headgear^000000 Defense : ^7777772^000000
 Location : ^777777Middle ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 ^ff0000This item is not refundable.^000000
 Weight : ^7777771^000000
 #
@@ -65093,7 +65175,7 @@ Weight : ^7777771^000000
 A box contains 10 Rapid Life Potions in it.
 
 Potion contains verious recovery herb juice. Effective for faster wound healing.
-Recovers 6% of MHP every 3 seconds for 10 minutes.
+Recovers 6% of MaxHP every 3 seconds for 10 minutes.
 Not available in berserk condition.
 ^000088When player's character becomes combat ineffective, the item buff effect will wear off.^000000
 Weight : ^7777771^000000
@@ -65456,7 +65538,7 @@ Defense: ^77777710^000000
 Location : ^777777Upper^000000
 Weight : ^77777780^000000
 Required Level: ^77777750^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65479,7 +65561,7 @@ Defense: ^77777710^000000
 Location : ^777777Upper^000000
 Weight : ^77777780^000000
 Required Level: ^77777750^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65496,7 +65578,7 @@ Class : ^777777Headgear^000000
 Defense: ^7777773^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65513,7 +65595,7 @@ Class : ^777777Headgear^000000
 Defense: ^7777773^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65703,7 +65785,7 @@ Cannot be upgraded and destroyed.
 Class : ^777777Headgear^000000    Defense : ^7777773^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65717,7 +65799,7 @@ Cannot be upgraded and destroyed.
 Class : ^777777Headgear^000000    Defense : ^7777773^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65739,7 +65821,7 @@ Defense: ^7777778^000000
 Location : ^777777Upper^000000
 Weight : ^77777760^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65761,7 +65843,7 @@ Defense: ^7777778^000000
 Location : ^777777Upper^000000
 Weight : ^77777760^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65778,7 +65860,7 @@ Location : ^777777Upper^000000
 ^ffffff_^000000
 Weight : ^7777773^000000
 Required Level : ^77777730^000000
-Jobs : ^777777Magician Class/Soul Linker^000000
+Applicable Job : ^777777Magician Class/Soul Linker^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65795,7 +65877,7 @@ Location : ^777777Upper^000000
 ^ffffff_^000000
 Weight : ^7777773^000000
 Required Level : ^77777730^000000
-Jobs : ^777777Magician Class/Soul Linker^000000
+Applicable Job : ^777777Magician Class/Soul Linker^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65861,7 +65943,7 @@ Location : ^777777Upper^000000
 ^ffffff_^000000
 Weight : ^77777750^000000
 Required Level : ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65879,7 +65961,7 @@ Location : ^777777Upper^000000
 ^ffffff_^000000
 Weight : ^77777750^000000
 Required Level : ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65964,7 +66046,7 @@ Defense: ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65986,7 +66068,7 @@ Defense: ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66005,7 +66087,7 @@ Defense: ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66024,7 +66106,7 @@ Defense: ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66046,7 +66128,7 @@ Defense: ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^777777100^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66068,7 +66150,7 @@ Defense: ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^777777100^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66092,7 +66174,7 @@ Defense: ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66116,7 +66198,7 @@ Defense: ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level: ^77777730^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66163,14 +66245,14 @@ Weight : ^7777771^000000
 A box that contains 1 Green Ribbon
 Description:
 A long piece of green satin tied together into a neat little ribbon that wards off harmful magic.
-Mdef +3
+MDEF +3
 ^FFFFFF_^000000
 Class : ^777777Headgear^000000
 Defense : ^7777771^000000
 Head Position : ^777777Upper^000000
 Weight : ^77777710^000000
 Required Level : ^777777None^000000
-Jobs : ^777777Every job^000000
+Applicable Job : ^777777Every job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66179,14 +66261,14 @@ Weight : ^7777771^000000
 A box that contains 1 Green Ribbon
 Description:
 A long piece of green satin tied together into a neat little ribbon that wards off harmful magic.
-Mdef +3
+MDEF +3
 ^FFFFFF_^000000
 Class : ^777777Headgear^000000
 Defense : ^7777771^000000
 Head Position : ^777777Upper^000000
 Weight : ^77777710^000000
 Required Level : ^777777None^000000
-Jobs : ^777777Every job^000000
+Applicable Job : ^777777Every job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66280,7 +66362,7 @@ DEF+4
 Enables the use of the skill 'Hiding' Lv1.
 Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location : ^777777Upper-Mid^000000    Weight : ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66294,7 +66376,7 @@ DEF+4
 Enables the use of the skill 'Hiding' Lv1.
 Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location : ^777777Upper-Mid^000000    Weight : ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66565,7 +66647,7 @@ Weight : ^7777771^000000
 움발라의 혼 1개와 행운의 알 1개가 들어있는 상자. 움발라의 혼은 7일간 사용가능.
 ^000088임대 아이템^000000
 움발라 주민들이 애용하는 피어싱 악세사리. 거친 자연의 세계에서 살아가는 이들의 혼이 느껴진다.
-MHP + 1%.
+MaxHP + 1%.
 '고기'의 회복력이 25% 증가.
 몬스터를 쓰러트렸을 시 일정확률로 '고기' 드롭.
 계열 : ^777777투구^000000 방어 : ^7777771^000000
@@ -66581,7 +66663,7 @@ MHP + 1%.
 움발라의 혼 1개와 행운의 알 1개가 들어있는 상자. 움발라의 혼은 7일간 사용가능.
 ^000088임대 아이템^000000
 움발라 주민들이 애용하는 피어싱 악세사리. 거친 자연의 세계에서 살아가는 이들의 혼이 느껴진다.
-MHP + 1%.
+MaxHP + 1%.
 '고기'의 회복력이 25% 증가.
 몬스터를 쓰러트렸을 시 일정확률로 '고기' 드롭.
 계열 : ^777777투구^000000 방어 : ^7777771^000000
@@ -66597,7 +66679,7 @@ MHP + 1%.
 움발라의 혼 1개가 들어있는 상자. 7일간 사용가능.
 ^000088임대 아이템^000000
 움발라 주민들이 애용하는 피어싱 악세사리. 거친 자연의 세계에서 살아가는 이들의 혼이 느껴진다.
-MHP + 1%.
+MaxHP + 1%.
 '고기'의 회복력이 25% 증가.
 몬스터를 쓰러트렸을 시 일정확률로 '고기' 드롭.
 계열 : ^777777투구^000000 방어 : ^7777771^000000
@@ -66613,7 +66695,7 @@ MHP + 1%.
 움발라의 혼 1개가 들어있는 상자. 7일간 사용가능.
 ^000088임대 아이템^000000
 움발라 주민들이 애용하는 피어싱 악세사리. 거친 자연의 세계에서 살아가는 이들의 혼이 느껴진다.
-MHP + 1%.
+MaxHP + 1%.
 '고기'의 회복력이 25% 증가.
 몬스터를 쓰러트렸을 시 일정확률로 '고기' 드롭.
 계열 : ^777777투구^000000 방어 : ^7777771^000000
@@ -66629,7 +66711,7 @@ MHP + 1%.
 움발라의 혼이 1개 들어있는 상자. 7일간 사용가능.
 ^000088임대 아이템^000000
 움발라 주민들이 애용하는 피어싱 악세사리. 거친 자연의 세계에서 살아가는 이들의 혼이 느껴진다.
-MHP + 1%.
+MaxHP + 1%.
 '고기'의 회복력이 25% 증가.
 몬스터를 쓰러트렸을 시 일정확률로 '고기' 드롭.
 계열 : ^777777투구^000000 방어 : ^7777771^000000
@@ -67243,7 +67325,7 @@ LUK+10 요리가 50개 들어있는 상자. 요리가 상하지 않도록 특수처리되어 있다고 한다.
 16827#
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 소형 생명수가 10개 들어있는 상자.
-복용하면 10분간 5초마다 MHP의 5%를 회복한다.
+복용하면 10분간 5초마다 MaxHP의 5%를 회복한다.
 버서크 상태에서는 효과가 발동하지 않는다.
 ^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000
 캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.
@@ -67254,7 +67336,7 @@ LUK+10 요리가 50개 들어있는 상자. 요리가 상하지 않도록 특수처리되어 있다고 한다.
 16828#
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 소형 생명수가 50개 들어있는 상자.
-복용하면 10분간 5초마다 MHP의 5%를 회복한다.
+복용하면 10분간 5초마다 MaxHP의 5%를 회복한다.
 버서크 상태에서는 효과가 발동하지 않는다.
 ^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000
 캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.
@@ -67265,7 +67347,7 @@ LUK+10 요리가 50개 들어있는 상자. 요리가 상하지 않도록 특수처리되어 있다고 한다.
 16829#
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 중형 생명수가 10개 들어있는 상자.
-복용하면 10분간 4초마다 MHP의 7%를 회복한다.
+복용하면 10분간 4초마다 MaxHP의 7%를 회복한다.
 버서크 상태에서는 효과가 발동하지 않는다.
 ^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000
 캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.
@@ -67276,7 +67358,7 @@ LUK+10 요리가 50개 들어있는 상자. 요리가 상하지 않도록 특수처리되어 있다고 한다.
 16830#
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 중형 생명수가 50개 들어있는 상자.
-복용하면 10분간 4초마다 MHP의 7%를 회복한다.
+복용하면 10분간 4초마다 MaxHP의 7%를 회복한다.
 버서크 상태에서는 효과가 발동하지 않는다.
 ^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000
 캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.
@@ -67536,7 +67618,7 @@ LUK+10 요리가 50개 들어있는 상자. 요리가 상하지 않도록 특수처리되어 있다고 한다.
 멘탈 포션이 20개 들어있는 상자.
 ^ffffff_^000000
 정신력을 충만하게 해주는 포션.
-30분간 MSP 10% 증가, SP 소모량 10% 감소.
+30분간 MaxSP 10% 증가, SP 소모량 10% 감소.
 캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.
 ^ffffff_^000000
 무게 : ^7777771^000000
@@ -67549,7 +67631,7 @@ LUK+10 요리가 50개 들어있는 상자. 요리가 상하지 않도록 특수처리되어 있다고 한다.
 멘탈 포션이 50개 들어있는 상자.
 ^ffffff_^000000
 정신력을 충만하게 해주는 포션.
-30분간 MSP 10% 증가, SP 소모량 10% 감소.
+30분간 MaxSP 10% 증가, SP 소모량 10% 감소.
 캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.
 ^ffffff_^000000
 무게 : ^7777771^000000
@@ -67752,7 +67834,7 @@ JOB 전투교범이 10개 들어있는 상자.
 신속한 생명수가 10개가 들어있는 상자.
 
 각종 회복력에 도움이 되는 식물즙을 응축해 담아놓은 병. 빠른 상처 재생에 효험이 있다고 한다.
-복용하면 10분간 3초마다 MHP의 6%를 회복한다.
+복용하면 10분간 3초마다 MaxHP의 6%를 회복한다.
 버서크 상태에서는 효과가 발동하지 않는다.
 ^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
 무게 : ^7777771^000000
@@ -67778,7 +67860,7 @@ JOB 전투교범이 10개 들어있는 상자.
 움발라의 혼 1개가 들어있는 상자. 개봉 후, 7일간 사용 가능.
 ^000088임대 아이템^000000
 움발라 주민들이 애용하는 피어싱 악세사리. 거친 자연의 세계에서 살아가는 이들의 혼이 느껴진다.
-MHP + 1%.
+MaxHP + 1%.
 '고기'의 회복력이 25% 증가.
 몬스터를 쓰러트렸을 시 일정확률로 '고기' 드롭.
 골드PC방에서 장착 시 All State + 1.
@@ -68160,7 +68242,7 @@ ALL STATUS + 1. 변동 캐스팅 시간이 10% 증가한다.
 스피리츄얼 튜닉이 1개 들어있는 상자. 개봉 후, 7일간 사용 가능.
 ^000088임대아이템^000000
 각종 속성에 대한 저항력을 높인 마법 튜닉
-MHP + 800. 동빙되지 않는다.
+MaxHP + 800. 동빙되지 않는다.
 무속성과 수속성을 제외한 속성 대미지 20% 감소. MDEF + 5
 골드PC방에서 장착 시 All State + 1.
 계열 : ^777777갑옷^000000    방어 : ^77777738^000000
@@ -68219,7 +68301,7 @@ FLEE + 13, 무속성 대미지 13% 감소. 완전회피 + 1
 리프레쉬 슈즈가 1개 들어있는 상자. 개봉 후, 7일간 사용 가능.
 ^000088임대아이템^000000
 섬세한 디자인에 부드러운 가죽을 사용하여 발의 편안함을 우선시한 슈즈.
-MHP 17% 증가, MSP 8% 증가.
+MaxHP 17% 증가, MaxSP 8% 증가.
 10초마다 HP가 20, SP가 3씩 회복된다.
 골드PC방에서 장착 시 All State + 1.
 계열 : ^777777신발^000000    방어 : ^77777720^000000
@@ -68645,8 +68727,8 @@ ATK + 30, HP - 2%.
 무지개 스카프가 1개 들어있는 상자. 개봉 후, 1시간 동안 사용가능.
 ^000088임대 아이템^000000
 무지개 색을 띈 화려한 스카프.
-MATK + 30, MSP - 2%.
-골드 PC방에서 사용 시, 추가로 MSP + 2%, 변동캐스팅 시간 2% 단축, All State + 1.
+MATK + 30, MaxSP - 2%.
+골드 PC방에서 사용 시, 추가로 MaxSP + 2%, 변동캐스팅 시간 2% 단축, All State + 1.
 계열 : ^777777투구^000000 방어 : ^7777770^000000
 위치 : ^777777하단 ^000000 무게 : ^7777770^000000
 요구 레벨 : ^7777771^000000
@@ -68660,8 +68742,8 @@ MATK + 30, MSP - 2%.
 무지개 스카프가 1개 들어있는 상자. 개봉 후, 2시간 동안 사용가능.
 ^000088임대 아이템^000000
 무지개 색을 띈 화려한 스카프.
-MATK + 30, MSP - 2%.
-골드 PC방에서 사용 시, 추가로 MSP + 2%, 변동캐스팅 시간 2% 단축, All State + 1.
+MATK + 30, MaxSP - 2%.
+골드 PC방에서 사용 시, 추가로 MaxSP + 2%, 변동캐스팅 시간 2% 단축, All State + 1.
 계열 : ^777777투구^000000 방어 : ^7777770^000000
 위치 : ^777777하단 ^000000 무게 : ^7777770^000000
 요구 레벨 : ^7777771^000000
@@ -68675,8 +68757,8 @@ MATK + 30, MSP - 2%.
 무지개 스카프가 1개 들어있는 상자. 개봉 후, 4시간 동안 사용가능.
 ^000088임대 아이템^000000
 무지개 색을 띈 화려한 스카프.
-MATK + 30, MSP - 2%.
-골드 PC방에서 사용 시, 추가로 MSP + 2%, 변동캐스팅 시간 2% 단축, All State + 1.
+MATK + 30, MaxSP - 2%.
+골드 PC방에서 사용 시, 추가로 MaxSP + 2%, 변동캐스팅 시간 2% 단축, All State + 1.
 계열 : ^777777투구^000000 방어 : ^7777770^000000
 위치 : ^777777하단 ^000000 무게 : ^7777770^000000
 요구 레벨 : ^7777771^000000
@@ -68900,7 +68982,7 @@ INT + 1, MDEF + 2.
 강화 가드가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 가드.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777방패^000000 방어 : ^77777725^000000
 무게 : ^77777715^000000
 요구 레벨 : ^7777771^000000
@@ -68915,7 +68997,7 @@ MHP + 3%
 강화 버클러가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 버클러.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777방패^000000 방어 : ^77777745^000000
 무게 : ^77777730^000000
 요구 레벨 : ^7777771^000000
@@ -68930,7 +69012,7 @@ MHP + 3%
 강화 쉴드가 1개 들어있는 상자.
 ^000000^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 쉴드.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777방패^000000 방어 : ^77777765^000000
 무게 : ^77777765^000000
 요구 레벨 : ^7777771^000000
@@ -68945,7 +69027,7 @@ MHP + 3%
 강화 슈즈가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 슈즈.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777신발^000000 방어 : ^77777715^000000
 무게 : ^77777720^000000
 요구 레벨 : ^7777771^000000
@@ -68960,7 +69042,7 @@ MHP + 3%
 강화 부츠가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 부츠.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777신발^000000 방어 : ^77777721^000000
 무게 : ^77777730^000000
 요구 레벨 : ^7777771^000000
@@ -68975,7 +69057,7 @@ MHP + 3%
 강화 부츠가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 그리브.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777신발^000000 방어 : ^77777732^000000
 무게 : ^77777740^000000
 요구 레벨 : ^7777771^000000
@@ -68990,7 +69072,7 @@ MHP + 3%
 강화 후드가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 후드.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777걸칠것^000000 방어 : ^7777779^000000
 무게 : ^77777710^000000
 요구 레벨 : ^7777771^000000
@@ -69005,7 +69087,7 @@ MHP + 3%
 강화 머플러가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 머플러.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777걸칠것^000000 방어 : ^77777713^000000
 무게 : ^77777720^000000
 요구 레벨 : ^7777771^000000
@@ -69020,7 +69102,7 @@ MHP + 3%
 강화 망토가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 망토.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777걸칠것^000000 방어 : ^77777718^000000
 무게 : ^77777730^000000
 요구 레벨 : ^7777771^000000
@@ -69035,7 +69117,7 @@ MHP + 3%
 강화 클립이 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 클립.
-MHP + 3%. MSP + 30.
+MaxHP + 3%. MaxSP + 30.
 계열 : ^777777악세사리^000000 방어 : ^7777770^000000
 무게 : ^77777710^000000
 요구 레벨 : ^7777771^000000
@@ -69050,7 +69132,7 @@ MHP + 3%. MSP + 30.
 강화 어드벤처 슈츠가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 어드벤쳐슈츠.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777갑옷^000000 방어 : ^77777725^000000
 무게 : ^77777715^000000
 요구 레벨 : ^7777771^000000
@@ -69065,7 +69147,7 @@ MHP + 3%
 강화 롱 코트가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 롱코트.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777갑옷^000000 방어 : ^77777747^000000
 무게 : ^77777760^000000
 요구 레벨 : ^7777771^000000
@@ -69080,7 +69162,7 @@ MHP + 3%
 강화 세인트 로브가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 세인트로브.
-MHP + 3%, MDEF + 5.
+MaxHP + 3%, MDEF + 5.
 계열 : ^777777갑옷^000000 방어 : ^77777755^000000
 무게 : ^77777730^000000
 요구 레벨 : ^7777771^000000
@@ -69095,7 +69177,7 @@ MHP + 3%, MDEF + 5.
 강화 타이즈가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 타이즈.
-MHP + 3%, DEX + 1.
+MaxHP + 3%, DEX + 1.
 계열 : ^777777갑옷^000000 방어 : ^77777732^000000
 무게 : ^77777725^000000
 요구 레벨 : ^7777771^000000
@@ -69110,7 +69192,7 @@ MHP + 3%, DEX + 1.
 강화 씨프클로스가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 씨프클로스.
-MHP + 3%, AGI + 1.
+MaxHP + 3%, AGI + 1.
 계열 : ^777777갑옷^000000 방어 : ^77777745^000000
 무게 : ^77777710^000000
 요구 레벨 : ^7777771^000000
@@ -69125,7 +69207,7 @@ MHP + 3%, AGI + 1.
 강화 메일이 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 메일.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777갑옷^000000 방어 : ^77777760^000000
 무게 : ^777777165^000000
 요구 레벨 : ^7777771^000000
@@ -69140,7 +69222,7 @@ MHP + 3%
 강화 포멀드레스가 1개 들어있는 상자.
 ^ffffff_^000000
 에르늄과 황금을 황금비율로 섞어 코팅한 포멀 드레스.
-MHP + 3%
+MaxHP + 3%
 계열 : ^777777갑옷^000000 방어 : ^77777745^000000
 무게 : ^77777715^000000
 요구 레벨 : ^7777771^000000
@@ -69225,7 +69307,7 @@ Class : ^777777Garment^000000
 Defense : ^77777718^000000
 Weight : ^77777720^000000
 required level : ^7777771^000000
-Applicable Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 ^ff0000Once this item opened, cannot be refunded..^000000
 Weight : ^7777771^000000
 #
@@ -69956,24 +70038,61 @@ Weight : ^7777771^000000
 #
 
 17109#
-환상의 영약, 마갈궁 보관, 마갈궁 왕관, 마력 깃든 Card첩, 타락한대신관Card 등 희귀한 아이템이 들어있는 스크롤.
+A scroll with the Capricorn sign fixed upon it.
 Weight : ^7777771^000000
 #
 
 17110#
-환상의 영약, 보병궁 보관, 보병궁 왕관, 늘어진 구미호, 어쌔신크로스Card 등 희귀한 아이템이 들어있는 스크롤.
+A scroll with the Aquarius sign fixed upon it.
 Weight : ^7777771^000000
 #
 
 17113#
+Available from March 9 - April 3
+Randomly Gives one of the 3 Marching hats.
+^ff0000The Box is not tradable, but the hats inside may be traded and vended normally.^000000
+Box Weight : ^7777771^000000
 
+Parade Hat Description:
+A hat by those leading the way to celebrations.
+MDEF +2,
+Increases tolerance to Stun by 10%.
+When being physically attacked, has a chance of auto-casting Lv 5 Angelus or Lv 1 Assumptio on onself.
+If the user is an Acolyte, Priest , High Priest or Arch Bishop class, will auto-cast Lv 1 Lex Aeterna when using Heal Skill on an enemy.
+^ff0000This item can be traded, stored, and put into a cart^000000
+Class : ^777777Headgear^000000
+Location : ^777777Upper^000000
+Defense : ^7777774^000000
+Weight : ^77777720^000000
+Required Level : ^77777710^000000
+Job : ^777777All Classes^000000
 
-환상의 영약, 쌍어궁 보관, 쌍어궁 왕관, 티라야보넷, 보스 이그니젬Card 등 희귀한 아이템이 들어있는 스크롤.
-Weight : ^7777771^000000
+Holy Marching Hat Description:
+A marching hat with holy angel wings affixed to the sides made famous by a righteous Rune Midgardian band.
+Int +1, Dex +1, MDEF +5.
+If refined to +7 or higher, increases Heal effectieness by 5%.
+If refined to +9 or higher, Matk +5 and increases Heal effectiveness by 5%.
+Class : ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^7777775^000000
+Weight : ^77777720^000000
+Required Level : ^7777771^000000
+Jobs: ^777777All^000000
+
+Evil Marcher Hat Description:
+A dark marching hat worn by members of an undead band from Niffleheim.
+Str +2. Attack +2% to all monsters.
+If refined to +7 or higher, Critical +10%.
+If refined to +9 or higher, the Attack and ranged attack damage increases by 5%.
+Class : ^777777Headgear^000000
+Location: ^777777Upper^000000
+Defense: ^77777710^000000
+Weight : ^77777750^000000
+Required Level : ^7777771^000000
+Jobs: ^777777All^000000
 #
 
 17114#
-
 Horn_Of_Ancient_Box
 #
 
@@ -69986,7 +70105,7 @@ Mercury_Helm_Box
 #
 
 17117#
-타락천사의 날개, 이프리트 Card, 백양궁 왕관, 백양궁 보관, 환상의 영약 등 희귀한 아이템이 들어있는 스크롤.
+A scroll with the Aries sign fixed upon it.
 Weight : ^7777771^000000
 #
 
@@ -70020,27 +70139,26 @@ Inside are some old favorites as well as some fresh outta the factory items like
 #
 
 17120#
-아트로스 Card, 환상의 영약, 발키리의 갑옷, 아요타야 모자, 대행자의 껍질 조각 등 희귀한 아이템이 들어있는 스크롤.
+A scroll with the Taurus sign fixed upon it.
 Weight : ^7777771^000000
 #
 
 17121#
-월야화 Card, 사자궁보관, 쌍녀궁보관, 쌍녀궁왕관, 천칭궁보관, 천칭궁왕관 등 희귀한 아이템이 들어있는 스크롤.
+A scroll with numerous stars.
 Weight : ^7777771^000000
 #
 
 17122#
-
 ^ff0000this item is not allowed to be traded.^000000
 A box that contains an immuned shield
 
 A square shaped exotic shield. There is a Gem which is specialized to defense Physical force.
 If it refined over 5, will give 1% tolerance on property "nothing" attack
 (This bonus would work up to +12, 8%)
-Class : ^777777Shield^000000 Def : ^77777755^000000
+Class : ^777777Shield^000000 Defense : ^77777755^000000
 Weight : ^77777770^000000
 Required Lv. : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 
 ^ff0000once you open this box, this item won't be refundable.^000000
 Weight : ^7777771^000000
@@ -70052,10 +70170,10 @@ A box that contains an Black_Devil_Mask
 
 A creepy shaped mask that covers half of face. it seems that has no difficulties on vision as it has hole on eye part.
 All State + 2.
-Class : ^777777Headgear^000000 Def : ^7777770^000000
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^77777710^000000
 Required Lv. : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 
 ^ff0000once you open this box, this item won't be refundable.^000000
 Weight : ^7777771^000000
@@ -70070,10 +70188,10 @@ a cute beret that feels cat is wearing it because of its ear decoration.
 ATK + 5%.
 If it refined over 5, will give 1% bonus on physical attack to "Human" type and receive less damage from "Human" type.
 (This bonus would work up to +12, 7%)
-Class : ^777777Headgear^000000 Def : ^7777775^000000
+Class : ^777777Headgear^000000 Defense : ^7777775^000000
 Location : ^777777Upper ^000000Weight : ^77777730^000000
 Required Lv. : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 
 ^ff0000once you open this box, this item won't be refundable.^000000
 Weight : ^7777771^000000
@@ -70087,10 +70205,10 @@ cute girl style red bread hat.
 MATK + 5%, MDEF + 5.
 If it refined over 5, will give 1% bonus on magical attack to "Human" type and receive less damage from "Human" type.
 (This bonus would work up to +12, 7%)
-Class : ^777777Headgear^000000 Def : ^7777770^000000
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^77777730^000000
 Required Lv. : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 
 ^ff0000once you open this box, this item won't be refundable.^000000
 Weight : ^7777771^000000
@@ -70107,7 +70225,8 @@ ASPD 강화 포션이 10개 들어있는 상자.
 #
 
 17127#
-대만 8월 별자리 한정 판매 상자.
+This Special Crate not only contains 5 March Groove Packs, it also contains a special Safe to 10 Certificate, which allows Mighty Hammer to not degrade equipment on a failure, increasing your ability to +10 equipment.
+^ff0000Available until March 27.^000000
 Weight : ^7777771^000000
 #
 
@@ -70133,27 +70252,27 @@ Weight : ^7777771^000000
 #
 
 17138#
-거해궁 자리의 달을 기념하는 특별한 스크롤. 거해궁 왕관, 거해궁 보관, 하티 Card, 비치타올, 비상하는 천사 및 다른 귀중한 아이템을 획득할 수 있다.
+A scroll with the Cancer sign fixed upon it.
 Weight : ^7777771^000000
 #
 
 17140#
-사자궁 자리의 달을 기념하는 특별한 스크롤. 사자궁 왕관, 사자궁 보관, 타락한대신관 Card, 스킨 오브 벤투스, 날고 싶은 엔젤링 및 다른 귀중한 아이템을 획득할 수 있다.
+A scroll with the Leo sign fixed upon it.
 Weight : ^7777771^000000
 #
 
 17141#
-A special scroll celebrating month of Gemini. you can get precious items in it
+A scroll with the Virgo sign fixed upon it.
 Weight : ^7777771^000000
 #
 
 17142#
-천칭궁 자리의 달을 기념하는 특별한 스크롤. 천칭궁 왕관, 천칭궁 보관, 하이위자드Card, 모험가의 배낭, 엔젤링 핀, 마력깃든 Card첩 및 다른 귀중한 아이템을 획득할 수 있다.
+A scroll with the Libra sign fixed upon it.
 Weight : ^7777771^000000
 #
 
 17143#
-천헐궁 자리의 달을 기념하는 특별한 스크롤. 천헐궁 왕관, 천헐궁 보관, 타나토스의 기억 Card, 본플레이트, 타나토스의 증오 가면, 휘케바인의 검은 꼬리 및 다른 귀중한 아이템을 획득할 수 있다.
+A scroll with the Scorpio sign fixed upon it.
 Weight : ^7777771^000000
 #
 
@@ -70174,7 +70293,7 @@ Weight : ^7777771^000000
 레드 부스터가 20개 들어있는 상자.
 
 체내 에너지를 활성화 하여, 전투를 보조해주는 레드 부스터. 체력에 다소 부담이 가니 주의 하자.
-10분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MHP, MSP - 10%.
+10분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MaxHP, MaxSP - 10%.
 물리, 마법 공격 시 일정확률로 집중력향상 3Lv 발동.
 
 ^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
@@ -70187,7 +70306,7 @@ Weight : ^7777771^000000
 레드 부스터 20개와 2011 RWC 스크롤 1개가 들어있는 상자.
 
 체내 에너지를 활성화 하여, 전투를 보조해주는 레드 부스터. 체력에 다소 부담이 가니 주의 하자.
-10분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MHP, MSP - 10%.
+10분간 ATK, MATK + 30, 공격속도 증가(공격 후 딜레이감소 5%), 변동 캐스팅 5% 감소, MaxHP, MaxSP - 10%.
 물리, 마법 공격 시 일정확률로 집중력향상 3Lv 발동.
 
 ^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
@@ -70257,7 +70376,7 @@ Weight : ^7777771^000000
 ^ffffff_^000000
 아크엔젤링을 본따 만든 말랑말랑한 모자.
 HP회복력 150% 상승.
-제련도 1당 MHP + 80씩 증가.
+제련도 1당 MaxHP + 80씩 증가.
 계열 : ^777777투구^000000 방어 : ^7777773^000000
 위치 : ^777777상단 ^000000무게 : ^77777720^000000
 요구 레벨 : ^7777771^000000
@@ -70337,7 +70456,7 @@ JOB 전투교범이 10개 들어있는 상자. 상자 뚜껑에 비매품 3권을 더 붙여 놓은 특별 패
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 신묘한 생명수가 50개와 언데드의 핵 1개가 들어있는 상자.
 ^ffffff_^000000
-복용하면 10분간 3초마다 MHP의 4%를 회복한다.
+복용하면 10분간 3초마다 MaxHP의 4%를 회복한다.
 버서크 상태에서는 효과가 발동하지 않는다.
 ^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
 ^ffffff_^000000
@@ -70349,7 +70468,7 @@ JOB 전투교범이 10개 들어있는 상자. 상자 뚜껑에 비매품 3권을 더 붙여 놓은 특별 패
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 신묘한 생명수가 50개 들어있는 상자.
 ^ffffff_^000000
-복용하면 10분간 3초마다 MHP의 4%를 회복한다.
+복용하면 10분간 3초마다 MaxHP의 4%를 회복한다.
 버서크 상태에서는 효과가 발동하지 않는다.
 ^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
 ^ffffff_^000000
@@ -70361,7 +70480,7 @@ JOB 전투교범이 10개 들어있는 상자. 상자 뚜껑에 비매품 3권을 더 붙여 놓은 특별 패
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 신묘한 생명수가 50개와 소녀의 마음 1개가 들어있는 상자.
 ^ffffff_^000000
-복용하면 10분간 3초마다 MHP의 4%를 회복한다.
+복용하면 10분간 3초마다 MaxHP의 4%를 회복한다.
 버서크 상태에서는 효과가 발동하지 않는다.
 ^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
 ^ffffff_^000000
@@ -70669,7 +70788,7 @@ Applicable Job :^777777 Every Job^000000
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 ^000088임대 아이템^000000
 움발라 주민들이 애용하는 피어싱 악세사리. 거친 자연의 세계에서 살아가는 이들의 혼이 느껴진다.
-MHP + 1%.
+MaxHP + 1%.
 '고기'의 회복력이 25% 증가.
 몬스터를 쓰러트렸을 시 일정확률로 '고기' 드롭.
 골드PC방에서 장착 시 All State + 1.
@@ -70681,7 +70800,7 @@ MHP + 1%.
 
 18506#
 부드러운 실크로 만들어진 것으로 아랍에서는 주로 머리에 쓴다.
-MHP + 10%, MSP + 10%.
+MaxHP + 10%, MaxSP + 10%.
 계열 : ^777777투구^000000 방어 : ^7777772^000000
 위치 : ^777777상중하단 ^000000 무게 : ^777777400^000000
 요구 레벨 : ^7777771^000000
@@ -70693,7 +70812,7 @@ It's known to be made after elf's ear. You can have the feeling of elves playing
 Type : ^777777Headgear^000000    Defense : ^7777770^000000
 Location : ^777777Mid^000000    Weight : ^77777710^000000
 Required Level : ^77777770^000000
-Jobs : ^777777All jobs except Novice class^000000
+Applicable Job : ^777777All jobs except Novice class^000000
 #
 
 18508#
@@ -70704,7 +70823,7 @@ When upgrade more than 7, there's a certain chance to get Fruit of Mastela when 
 Class : ^777777Headgear^000000 Defense : ^7777774^000000
 Location : ^777777Upper^000000 Weight : ^77777710^000000
 Required lv : ^77777730^000000
-Jobs : ^777777All jobs except Novices^000000
+Applicable Job : ^777777All jobs except Novices^000000
 #
 
 18509#
@@ -70715,7 +70834,7 @@ LUK + 5, ASPD + 1, ATK, MATK + 3%.
 Class : ^777777Headgear^000000 Defense : ^7777776^000000
 Location : ^777777Upper^000000 Weight : ^77777710^000000
 Required lv : ^77777715^000000
-Jobs : ^777777 All jobs except Novices^000000
+Applicable Job : ^777777 All jobs except Novices^000000
 #
 
 18510#
@@ -70726,7 +70845,7 @@ Can't be refined.
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Upper ^000000 Weight : ^7777770^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 18511#
@@ -70735,7 +70854,7 @@ When worn with Bloody Angel Wings: Increase damage to Angels by 3%, MaxHP +2%, M
 Item Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location : ^777777Mid^000000 Weight : ^7777770^000000
 Required Level : ^77777760^000000
-Jobs : ^777777All Jobs^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 18513#
@@ -70799,11 +70918,11 @@ Applicable Job :^777777 Every Job^000000
 
 a four leaf clover. you might feel green grass smell.
 you might have a luck soon.
-LUK + 1, MSP + 20.
-Class : ^777777Headgear^000000 Def : ^7777770^000000
+LUK + 1, MaxSP + 20.
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location: ^777777lower ^000000 Weight : ^77777710^000000
 Required Level : ^77777750^000000
-Applicable Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18522#
@@ -70843,10 +70962,10 @@ There's something wavering in the eyes. Is it possible to wear in head?
 when killing monsters, get a pumpkin pie at the regular drop rate.
 During Event  All State + 2, MDEF + 5, and
 Get bonus effect if it is equipped with Smile,Hahoe mask,Alarm mask, Phantom of opera.
-Class : ^777777headgear^000000 Defense : ^7777775^000000
+Class : ^777777Headgear^000000 Defense : ^7777775^000000
 location: ^777777upper ^000000 weight : ^77777750^000000
 required level : ^77777745^000000
-Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18528#
@@ -70865,7 +70984,7 @@ INT + 2, MDEF + 5.
 Wild rose hat with rapid movement 
 MaxHP - 10%, ASPD + 3%.
 With 'Fish in Mouth', Adds a chance to automatically cast [Greed]
-Class : ^777777headgear^000000
+Class : ^777777Headgear^000000
 location: ^777777upper-mid ^000000
 Defense : ^7777775^000000
 Weight : ^77777750^000000
@@ -70876,8 +70995,8 @@ Job : ^777777Every Job^000000
 18530#
 Desperate mask of thanatos,cute but evasion
 LUK - 5, FLEE + 4.
-Class : ^777777headgear^000000
-location: ^777777mid-low ^000000
+Class : ^777777Headgear^000000
+location: ^777777Middle-low ^000000
 Defense : ^7777770^000000
 Weight : ^77777710^000000
 Req Lev : ^77777730^000000
@@ -70887,10 +71006,10 @@ Job : ^777777Every Job^000000
 18531#
 A doll revived permeter turtle.
 increase Solider, permeter, freezer, assulter ,heater, turtle general damage 20%
-Class : ^777777head gear^000000 Def : ^7777778^000000
+Class : ^777777head gear^000000 Defense : ^7777778^000000
 Location: ^777777Upper ^000000 Weight : ^777777100^000000
 Required Lv  : ^77777710^000000
-Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18532#
@@ -70901,7 +71020,7 @@ Defense : ^7777770^000000
 Location: ^777777Upper ^000000 
 Weight : ^77777710^000000
 Required level : ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 18533#
@@ -70914,7 +71033,7 @@ location: ^777777Upper ^000000
 Defense : ^7777773^000000
 Weight : ^77777710^000000
 Required Level : ^77777750^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 18534#
@@ -70925,7 +71044,7 @@ Skill 'Mamer Night', 'Throwing money' will increase Damage 20% 증.
 Class : ^777777Headgear^000000 Defense : ^7777775^000000
 location: ^777777Upper mid ^000000 weight : ^777777100^000000
 Required Level : ^77777720^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 18536#
@@ -70951,10 +71070,10 @@ FLEE + 6
 once you have a mind to overcome sweet allure, can have power.
 MDEF + 3. attck endurance +1% from Evil type, Angel type monster attack
 can have Holy Water whe killing angel monster, and WaterOf Darkness from evil monster
-Class : ^777777headgear^000000 DEF : ^7777773^000000
-location: ^777777mid ^000000 weight : ^77777730^000000
+Class : ^777777Headgear^000000 DEF : ^7777773^000000
+location: ^777777Middle ^000000 weight : ^77777730^000000
 Required Level : ^7777770^000000
-Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18539#
@@ -70966,45 +71085,45 @@ you can reduce consumption of skill sp 3%  once using with Elven Ears .
 Class : ^777777Headgear^000000 Defence : ^7777775^000000
 Location: ^777777Upper ^000000 Weight : ^77777740^000000
 Required Level : ^77777710^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 18540#
 
 a mask used from a warrior which was called as Devil in Past.
 ASPD + 1%, every 2sec, SP -1.
-Class : ^777777headgear^000000 DEF : ^7777773^000000
-location: ^777777mid-low ^000000 weight : ^777777100^000000
+Class : ^777777Headgear^000000 DEF : ^7777773^000000
+location: ^777777Middle-low ^000000 weight : ^777777100^000000
 Required Level : ^77777710^000000
-Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18541#
 a hat for hunter or adventure .
 DEX + 2.
 increase critical damage 10% , addional damage 5% with sharp arrow,  if hat refined is over 7, can have additional 5%.
-Class : ^777777head gear^000000 Def : ^7777771^000000
+Class : ^777777head gear^000000 Defense : ^7777771^000000
 Location: ^777777Upper ^000000 Weight : ^77777750^000000
 Required Lv  : ^77777730^000000
-Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18542#
 coif for important event in Catherdral.
 increase recovery effect  5% .
 when using recovery kill to others, the effect increses 2% and if refined over 7 , can get additional 3%.
-Class : ^777777head gear^000000 Def : ^77777710^000000
+Class : ^777777head gear^000000 Defense : ^77777710^000000
 Location: ^777777Upper-mid ^000000 Weight : ^77777750^000000
 Required Lv  : ^77777710^000000
-Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18549#
 a cute hairpin looks like blue butterfly.
-Class : ^777777head gear^000000 Def : ^7777773^000000
+Class : ^777777head gear^000000 Defense : ^7777773^000000
 Location: ^777777Upper ^000000 Weight : ^77777720^000000
 Required Lv  : ^77777720^000000
-Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18550#
@@ -71012,7 +71131,7 @@ The holy wing is gossiped about its godly power.
 All State + 2.
 tolerance for all type of element by 5%.
 recover HP 2% and SP 1% in every 10 sec.
-Class : ^777777headgear^000000
+Class : ^777777Headgear^000000
 Defense : ^7777773^000000
 location: ^777777upper ^000000 weight : ^77777730^000000
 Rq Lv : ^77777730^000000
@@ -71034,10 +71153,10 @@ MDEF + 3.
 increase physical ,magic damage 5% to dragon type monster.
 increase registance 5%.
 can have treasure box at regular drop rate when hunting dragon monster.
-Class : ^777777head gear^000000 Def : ^7777773^000000
+Class : ^777777head gear^000000 Defense : ^7777773^000000
 Location: ^777777Upper ^000000 Weight : ^77777720^000000
 Required Lv  : ^77777710^000000
-Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18556#
@@ -71087,10 +71206,10 @@ CRI + 2.
 A noble High quality hat made of luxury black cloth. Wihite feather make it more gorgeous.
 reduce damage from human type monster 10%.
 VIT + 2, MDEF + 3.
-Class : ^777777Head-gear^000000 Def : ^7777775^000000
+Class : ^777777Head-gear^000000 Defense : ^7777775^000000
 Location : ^777777Upper ^000000 Weight : ^77777730^000000
 Required Level  : ^77777740^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 18563#
@@ -71107,10 +71226,10 @@ Jobs : ^777777All^000000
 A festive cap for helpful adventurers
 STR + 1, INT + 1, MDEF + 4.
 Random chance of Green_Ale item drop when refine level over +7.
-Class : ^777777HeadGear^000000 Def : ^7777778^000000
+Class : ^777777HeadGear^000000 Defense : ^7777778^000000
 Position : ^777777Upper ^000000 Weight : ^77777730^000000
 Required LV : ^77777740^000000
-Applicable Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18566#
@@ -71158,14 +71277,14 @@ All State + 1, 인간형 적에게 데미지 10% 감소.
 
 18573#
 A berret decorated with white feather.
-HIT + 20, MHP - 10%.
-If refined to 5 or higher ,  HIT - 10, MHP + 10%, addtional refine by 2  levels , HIT - 3, MHP + 3%.
+HIT + 20, MaxHP - 10%.
+If refined to 5 or higher ,  HIT - 10, MaxHP + 10%, addtional refine by 2  levels , HIT - 3, MaxHP + 3%.
 Class : ^777777Headgear^000000
 Location : ^777777Upper ^000000
-Def : ^7777772^000000
+Defense : ^7777772^000000
 Weight : ^77777750^000000
 Req level : ^77777730^000000
-Applicable Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18574#
@@ -71194,10 +71313,10 @@ When in close combat, a chance to auto cast a random skills.
 Cannot be refined.
 Class : ^777777Headgear^000000
 Location : ^777777Upper-mid-low ^000000
-Def : ^77777710^000000
+Defense : ^77777710^000000
 Weight : ^77777750^000000
-Req Level : ^77777720^000000
-Jobs : ^777777All Jobs^000000
+Required Level : ^77777720^000000
+Applicable Job : ^777777All Jobs^000000
 #
 
 18576#
@@ -71238,59 +71357,51 @@ Increases the effectiveness of healing skills by 2%
 If refined by +7 or higher : +5% Healing effectiveness
 If refined by +9 or higher : +3% Healing effectiveness
 Class : ^777777Headgear^000000
-Defense : ^7777773^000000
 Location : ^777777Upper ^000000
+Defense : ^7777773^000000
 Weight : ^77777720^000000
 Required Level : ^77777771^000000
-Job : ^777777All^000000
-#
-
-18581#
-A good man can be a warrior with this mast.
-STR + 3
-HP + 100
-Unable to refine
-Class : ^777777Headgear^000000
-Location : ^777777Upper-Middle^000000
-Def : ^7777772^000000
-Weight : ^77777740^000000
-req level : ^77777750^000000
-Applicable Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18582#
-a good man can be a warrior with this mast.
-STR + 3
-HP + 100
-Unable to refine
-Class : ^777777Headgear^000000    Def : ^7777772^000000
-Location : ^777777Upper-Middle^000000    weight : ^77777740^000000
-req level : ^77777750^000000
-Applicable Jobs : ^777777Every Job^000000
+A menacing blue Tiger's mask rumored to have belonged to a great warrior.
+Str +3
+HP +100
+Cannot be refined
+Class : ^777777Headgear^000000
+Location : ^777777Upper & Middle^000000
+Defense : ^7777772^000000
+Weight : ^77777740^000000
+Required Level : ^77777750^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18583#
-머리위에 얹고 다닐수 있도록 만들어진 인형. 어디선가 고양이 울음소리가 들리거나 머리위에서 움직임이 느껴지거나 하는건 기분탓이다.
+A lazy drooping blue kitty hat.
 MDEF + 15
-저주에 대한 내성 30%
-Class : ^777777Headgear^000000    Defense : ^7777773^000000
-Location : ^777777상단^000000    Weight : ^77777750^000000
-Required Level : ^777777None^000000
-Jobs : ^777777노비스계열을 제외한 All Jobs^000000
+Adds 30% resistance to the Curse status.
+Class : ^777777Headgear^000000
+Location : ^777777Upper^000000
+Defense : ^7777773^000000
+Weight : ^77777750^000000
+Required Level : ^7777771^000000
+Applicable Job : ^777777Every Job except Novice^000000
 #
 
 18584#
-머리위에 얹고 다닐수 있도록 만들어진 인형. 어디선가 고양이 울음소리가 들리거나 머리위에서 움직임이 느껴지거나 하는건 기분탓이다.
+A lazy drooping brown kitty hat.
 MDEF + 15
-저주에 대한 내성 30%
-Class : ^777777Headgear^000000    Defense : ^7777773^000000
-Location : ^777777상단^000000    Weight : ^77777750^000000
-Required Level : ^777777None^000000
-Jobs : ^777777노비스계열을 제외한 All Jobs^000000
+Adds 30% resistance to the Curse status.
+Class : ^777777Headgear^000000
+Location : ^777777Upper^000000
+Defense : ^7777773^000000
+Weight : ^77777750^000000
+Required Level : ^7777771^000000
+Applicable Job : ^777777Every Job except Novice^000000
 #
 
 18585#
-
 A hairband that attracts men.
 You can wear it when you want to look sexy.
 Your sexiness increases to 100%
@@ -71300,7 +71411,7 @@ If refined to 12, reduce fix casting time by 10%
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000weight : ^7777771^000000
 Required Level : ^7777771^000000
-Applicable Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18586#
@@ -71313,7 +71424,7 @@ If refined to 12, reduce fix casting time by 10%
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000weight : ^7777771^000000
 Required Level : ^7777771^000000
-Applicable Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18587#
@@ -71326,7 +71437,7 @@ If refined to 12, reduce fix casting time by 10%
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000weight : ^7777771^000000
 Required Level : ^7777771^000000
-Applicable Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18588#
@@ -71339,7 +71450,7 @@ If refined to 12, reduce fix casting time by 10%
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000weight : ^7777771^000000
 Required Level : ^7777771^000000
-Applicable Jobs : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 18589#
@@ -71351,7 +71462,7 @@ Defense : ^7777775^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 18590#
@@ -71359,7 +71470,7 @@ A hairband made with gold string
 Decrease magic damage by 5% from Demon type monsters
 increase registance by 5% from Demon type monsters
 MDEF + 3.
-Class : ^777777headgear^000000
+Class : ^777777Headgear^000000
 Location : ^777777upper ^000000
 Defense : ^7777773^000000
 Weight : ^77777720^000000
@@ -71414,10 +71525,10 @@ Job : ^777777All^000000
 18599#
 A creepy shaped mask that covers half of face. it seems that has no difficulties on vision as it has hole on eye part.
 All State + 2.
-Class : ^777777Headgear^000000 Def : ^7777770^000000
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^77777710^000000
 Required Lv. : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 18600#
@@ -71425,10 +71536,10 @@ a cute beret that feels cat is wearing it because of its ear decoration.
 ATK + 5%.
 If it refined over 5, will give 1% bonus on physical attack to "Human" type and receive less damage from "Human" type.
 (This bonus would work up to +12, 7%)
-Class : ^777777Headgear^000000 Def : ^7777775^000000
+Class : ^777777Headgear^000000 Defense : ^7777775^000000
 Location : ^777777Upper ^000000Weight : ^77777730^000000
 Required Lv. : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 18601#
@@ -71436,10 +71547,10 @@ cute girl style red bread hat.
 MATK + 5%, MDEF + 5.
 If it refined over 5, will give 1% bonus on magical attack to "Human" type and receive less damage from "Human" type.
 (This bonus would work up to +12, 7%)
-Class : ^777777Headgear^000000 Def : ^7777770^000000
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^77777730^000000
 Required Lv. : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 18602#
@@ -71453,10 +71564,10 @@ Jobs : ^777777All^000000
 18603#
 A creepy shaped mask that covers half of face. it seems that has no difficulties on vision as it has hole on eye part.
 All State + 1.
-Class : ^777777Headgear^000000 Def : ^7777770^000000
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^77777710^000000
 Required Lv. : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 18607#
@@ -71484,7 +71595,7 @@ Jobs : ^777777All^000000
 
 18611#
 
-Dark-colored plastic framed glasses, great for looking retro and intelligent! Int +1, Mdef +2.
+Dark-colored plastic framed glasses, great for looking retro and intelligent! Int +1, MDEF +2.
 Class : ^777777Headgear^000000
 Defense : ^7777772^000000
 Location : ^777777Middle^000000
@@ -71662,10 +71773,21 @@ STR + 2, INT + 2.
 Increase 15% of Magical Damage against Undead, Demon monsters. MDEF + 10.
 There are surprising options when worn with some other masks.
 ^ff0000Will be deleted when the event is finished^000000
-Class : ^777777Headgear^000000 Def : ^77777710^000000
+Class : ^777777Headgear^000000 Defense : ^77777710^000000
 Location : ^777777Top ^000000Weight : ^77777730^000000
 Required Level : ^77777720^000000
 Job : ^777777All jobs^000000
+#
+
+18660#
+A bling hair decorate that is used to wear from a certain tribe.
+AGI + 2
+Class : ^777777Headgear^000000
+Location : ^777777Middle^000000
+Defense : ^7777773^000000
+Weight : ^77777740^000000
+Required Level : ^777777all^000000
+Applicable Job : ^777777Every Jobs except Novice^000000
 #
 
 18663#
@@ -71696,10 +71818,44 @@ During event period, on close combat, user will have a chance to feel like runni
 Somehow, you will feel 'Carrot' is tasty on Christmas season.
 Class : ^777777Headgear^000000
 Location : ^777777Upper ^000000
-Def : ^7777775^000000
+Defense : ^7777775^000000
 Weight : ^77777720^000000
-Required Lv. : ^77777730^000000
-Jobs : ^777777All^000000
+Required Level : ^77777730^000000
+Applicable Job : ^777777All^000000
+#
+
+18676#
+A unique glasses. You will be a fashion leader
+Flee + 2.
+Cannot be refined
+Class : ^777777Headgear^000000
+Location : ^777777Middle^000000
+Defense : ^7777773^000000
+Weight : ^77777740^000000
+Required Level : ^77777720^000000
+Applicable Job : ^777777Every Jobs except Novice^000000
+#
+//What the heck is item check?
+18679#
+A unique abacus.
+item check LV 1' available
+Cannot be refined
+Class : ^777777Headgear^000000
+Location : ^777777Lower ^000000
+Defense : ^7777770^000000
+Weight : ^77777720^000000
+Required Level : ^77777720^000000
+Applicable Job : ^777777Every Jobs except Novice^000000
+#
+
+18682#
+An accessory attaching below eye
+Class : ^777777Headgear^000000
+Location : ^777777Middle ^000000
+Defense : ^7777771^000000
+Weight : ^77777710^000000
+Required Level : ^777777none^000000
+Applicable Job : ^777777Every Jobs^000000
 #
 
 18691#
@@ -71724,9 +71880,20 @@ LUK + 2, 완전회피 + 5.
 
 18730#
 험난한 모험의 세계에 첫 발을 내딛는 애송이 모험가들에게 지급되는 모자. 삐약이 모자로도 불린다.
-MHP + 15, MSP + 5.
+MaxHP + 15, MaxSP + 5.
 계열 : ^777777투구^000000 방어 : ^7777772^000000
 위치 : ^777777상단 ^000000무게 : ^77777720^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전직업^000000
+#
+
+18731#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+발키리가 외출할 때 애용한다는 나들이 모자. 어째서인지 전투용 투구와 별 차이가 없어 보인다.
+All State + 1, 고정캐스팅 1초 감소, ASPD + 1.
+"^ff0000이벤트 기간 종료 후 아이템 삭제^000000"
+계열 : ^777777투구^000000 방어 : ^7777770^000000
+위치 : ^777777상단 ^000000무게 : ^7777775^000000
 요구 레벨 : ^7777771^000000
 장착 : ^777777전직업^000000
 #
@@ -71736,7 +71903,7 @@ Strongly blazing sun on the bright sky.
 Class : ^777777Costume^000000 방어 : ^7777770^000000
 Location: ^777777Headgear Upper ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19509#
@@ -71744,7 +71911,7 @@ A fancy accessory that looks like swallowtail
 Class : ^777777Costume^000000
 Location: ^777777Headgear middle ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19510#
@@ -71752,7 +71919,7 @@ A scary fake bolt that seems to cross head
 Class : ^777777Costume^000000
 Location: ^777777Headgear middle ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19511#
@@ -71776,7 +71943,7 @@ A model of bird's beak. Feel like to peak worm or feed
 Class : ^777777Costume^000000
 Location: ^777777Headgear low^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19514#
@@ -71784,7 +71951,7 @@ a well organized beard that reminds an actor who was famous on Old movie
 Class : ^777777Costume^000000
 Location: ^777777Headgear low ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19515#
@@ -71792,7 +71959,7 @@ Adorable yellow hat with little feather. Can't be more cute
 Class : ^777777Costume^000000
 Location: ^777777Headgear Upper ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19516#
@@ -71800,7 +71967,7 @@ Joyfully singing bird on tree.
 Class : ^777777Costume^000000
 Location : ^777777Headgear Upper^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19517#
@@ -71808,7 +71975,7 @@ A roosters dignified comb.
 Class : ^777777Costume^000000
 Location : ^777777Headgear Upper^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19518#
@@ -71816,7 +71983,7 @@ Rainbow that only found when rain is over.
 Class : ^777777Costume^000000
 Location: ^777777Headgear Upper ^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19519#
@@ -71824,7 +71991,7 @@ Thunder from dark cloud. It seems quite dangerous.
 Class : ^777777Costume^000000
 Location: ^777777Headgear Upper^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19520#
@@ -71832,7 +71999,7 @@ pouring rain cloud
 Class : ^777777Costume^000000
 Location: ^777777Headgear Upper^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19521#
@@ -71840,7 +72007,7 @@ a handsome Hat that reminds an actor who was famous on Old movie
 Class : ^777777Costume^000000
 Location: ^777777Headgear Upper^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19522#
@@ -71848,7 +72015,7 @@ A mini red crown that is slightly askew.
 Class : ^777777Costume^000000
 Location : ^777777Headgear Upper^000000 Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Applicable Job : ^777777All^000000
 #
 
 19523#

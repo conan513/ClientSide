@@ -8441,6 +8441,10 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+2914#
+Unidentified item, can be identified with [Magnifier].
+#
+
 2915#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -9803,7 +9807,7 @@ Weight :^777777 1^000000
 Maximum HP and SP - 10%
 Reduce Casting Time by 10%.
 [^000088+ Dark Lord^000000]
-Reduce Casting Time by 20%.
+20% of variable casting time is reduced.
 Class :^777777 Card^000000
 Compound on :^777777 Headgear^000000
 Weight :^777777 1^000000
@@ -12472,6 +12476,47 @@ location : ^777777armor^000000
 weight : ^7777771^000000
 #
 
+4494#
+ATK + 10%
+Chance to automatically cast [Magnum Break] level 10 while attacking
+If refined to level 15 or higher : ATK + 5%
+Class : ^777777Card^000000
+Compound on : ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+
+4495#
+All Stats + 1
+Chance to automatically cast [Kyrie Eleison] level 5 when hit
+If refined to level 15 or higher : Kyrie Eleison will be level 8
+Class :^777777 Card^000000
+Compound on :^777777 Shoes^000000
+Weight :^777777 1^000000
+#
+
+4497#
+Add the chance of auto casting [Storm Gust] level 1 on enemy when doing Physical Attack.
+Has 20% chance of Freezing an enemy when attacking.
+If refined to level 15 or higher : Chance rate increased.
+Class : ^777777Card^000000
+Compount on : ^777777Weapon^000000
+Weight : ^7777771^000000
+#
+
+4498#
+MaxHP -60%, MaxSP +50%.
+Chance to get Banana when killing a monster.
+Banana recovery rate increases by 50%
+
+If refined to level 15 or higher : Bonuses become 
+MaxHP -50%, MaxSP +50%
+Chance to get Banana when killing a monster.
+Banana recovery rate +80%
+Class : ^777777Card^000000
+Compound on : ^777777Shoes^000000
+Weight : ^7777771^000000
+#
+
 4505#
 MATK + 20, MSP - 1%.
 계열 : ^777777카드^000000
@@ -12695,6 +12740,15 @@ MHP + 12%.
 4545#
 LUK + 1.
 크리투라 학원 모자와 함께 장착 시 ATK + 5, MATK + 5.
+계열 : ^777777카드^000000
+장착 : ^777777투구^000000
+무게 : ^7777771^000000
+#
+
+4546#
+아무 효과도 없는 카드.
+"본 증을 습득하셔서 카드로 사용시 발생하는 모든 불이익은 사용자에게 있습니다. - 밝히리" 라고 적혀있다.
+발키리 나들이 모자와 함께 장착 시 숨겨진 힘이 드러난다는 근거 없는 소문이 있다.
 계열 : ^777777카드^000000
 장착 : ^777777투구^000000
 무게 : ^7777771^000000
@@ -33611,8 +33665,9 @@ Property :^777777 Neutral^000000
 #
 
 13293#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 동갈치목 날치과 생선. 큰 가슴지느러미로 비행한다는 소문이 있다. 얼려져 있어 쿠나이로 사용 가능할 정도.
-일정 확률로 치명적인 상처를 건다.
+일정 확률로 적에게 출혈을 건다.
 계열 : ^777777던지는 무기^000000 공격 : ^77777750^000000
 무게 : ^7777772^000000 속성 : ^777777무속성^000000
 #
@@ -51096,11 +51151,11 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 18508#
-Unknown Item, can be identified by [Magnifier].
+Unidentified item, can be identified with [Magnifier].
 #
 
 18509#
-Unknown Item, can be identified by [Magnifier].
+Unidentified item, can be identified with [Magnifier].
 #
 
 18510#
@@ -51395,7 +51450,7 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 18611#
-Unknown Item, can be identified by [Magnifier].
+Unidentified item, can be identified with [Magnifier].
 #
 
 18612#
@@ -51419,7 +51474,7 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 18617#
-Unknown Item, can be identified by [Magnifier].
+Unidentified item, can be identified with [Magnifier].
 #
 
 18618#
@@ -51435,7 +51490,7 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 18621#
-Unknown Item, can be identified by [Magnifier].
+Unidentified item, can be identified with [Magnifier].
 #
 
 18626#
@@ -51466,6 +51521,10 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+18660#
+Unidentified item, can be identified with [Magnifier].
+#
+
 18663#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -51478,6 +51537,18 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+18676#
+Unidentified item, can be identified with [Magnifier].
+#
+
+18679#
+Unidentified item, can be identified with [Magnifier].
+#
+
+18682#
+Unidentified item, can be identified with [Magnifier].
+#
+
 18691#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -51487,6 +51558,10 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 18730#
+Unidentified item, can be identified with [Magnifier].
+#
+
+18731#
 Unidentified item, can be identified with [Magnifier].
 #
 
