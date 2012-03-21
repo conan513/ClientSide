@@ -1,3 +1,8 @@
+rev189 - [2012-03-22]
+ - fixed a mistake in r187
+ * I wasnt supposed to change that JT_MER_AMISTR
+ * v2 of the lub archive is also added with the fix
+
 rev187 - [2012-03-21]
  - 2012-03-21 kRO Patch lua and lub
  * this patch lub files includes the fix in stateiconinfo.lua last revision

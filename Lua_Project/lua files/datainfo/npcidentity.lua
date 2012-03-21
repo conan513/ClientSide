@@ -1417,7 +1417,7 @@ jobtbl = {
 	["JT_MONSTER_LAST"] = 2414,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
-	["JT_MER_AMISTR"] = 72,
+	["JT_MER_AMISTR"] = 6002,
 	["JT_MER_FILIR"] = 6003,
 	["JT_MER_VANILMIRTH"] = 6004,
 	["JT_MER_LIF2"] = 6005,
