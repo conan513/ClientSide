@@ -1412,10 +1412,12 @@ jobtbl = {
 	["JT_DUMMY_50"] = 2409,
 	["JT_DUMMY_100"] = 2410,
 	["JT_DUMMY_150"] = 2411,
-	["JT_MONSTER_LAST"] = 2412,
+	["JT_E_VALKIWI"] = 2412,
+	["JT_DUMMY_10_FIRE"] = 2413,
+	["JT_MONSTER_LAST"] = 2414,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
-	["JT_MER_AMISTR"] = 6002,
+	["JT_MER_AMISTR"] = 72,
 	["JT_MER_FILIR"] = 6003,
 	["JT_MER_VANILMIRTH"] = 6004,
 	["JT_MER_LIF2"] = 6005,
@@ -1549,6 +1551,8 @@ jobtbl = {
 	["JT_2_F_MAGICMASTER"] = 123,
 	["JT_4_F_TELEPORTER"] = 124,
 	["JT_4_M_TELEPORTER"] = 125,
+	--126-138 Free
+	["JT_HIDDEN_WARP_NPC"] = 139,
 	["JT_8_F_GIRL"] = 700,
 	["JT_4_F_GODEMOM"] = 701,
 	["JT_4_F_GON"] = 702,

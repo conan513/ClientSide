@@ -1,3 +1,7 @@
+rev187 - [2012-03-21]
+ - 2012-03-21 kRO Patch lua and lub
+ * this patch lub files includes the fix in stateiconinfo.lua last revision
+
 rev183~184 - [2012-03-18]
  - Fixed a Crash while riding new mounts or sitting then Hovering the status icons
  * This bug exist since 2011-02-23 kRO Patch (r120) to latest

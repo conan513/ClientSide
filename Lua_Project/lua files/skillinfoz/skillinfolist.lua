@@ -1969,7 +1969,7 @@ SKILL_INFO_LIST = {
 		"NJ_KASUMIKIRI";
 		SkillName = "Mist Slash",
 		MaxLv = 10,
-		SpAmount = { 10, 12, 14, 16, 18, 20, 22, 24, 26, 28 },
+		SpAmount = { 15, 15, 15, 15, 15, 15, 15, 15, 15, 15 },
 		bSeperateLv = true,
 		AttackRange = { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
@@ -4268,7 +4268,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 3,
 		SpAmount = { 20, 20, 20 },
 		bSeperateLv = true,
-		AttackRange = { 5, 5, 5 },
+		AttackRange = { 7, 7, 7 },
 		_NeedSkillList = {
 			{ SKID.NC_VULCANARM,1 }
 		}
