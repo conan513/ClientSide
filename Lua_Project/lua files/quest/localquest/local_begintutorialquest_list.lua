@@ -11,6 +11,11 @@ LOCAL_BeginTuTorialQuest_list = {
 													scrfilename = [[BeginTutorialQuest]],
 													questID = 7472,
 												},
+												{
+													name =[[세상에서 제일맛있는..]],
+													scrfilename = [[BeginTutorialQuest]],
+													questID = 11339,
+												},
 											}
 									},
 

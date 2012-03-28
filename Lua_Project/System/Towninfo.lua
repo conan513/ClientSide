@@ -28,7 +28,7 @@ mapNPCInfoTable = {
 		{ name = "Guide", X = 129, Y = 175, TYPE = 4 },
 		{ name = "Guide", X = 133, Y = 113, TYPE = 4 },
 		{ name = "Guide", X = 120, Y = 206, TYPE = 4 },
-		{ name = "ÏÉÅÏ†ê", X = 108, Y = 179, TYPE = 0 }, --Store? House? err?
+		{ name = "ªÛ¡°", X = 112, Y = 179, TYPE = 0 }, --Store? House? err?
 		{ name = "Blacksmith", X = 162, Y = 125, TYPE = 3 }
 	},
 
@@ -124,8 +124,8 @@ mapNPCInfoTable = {
 		{ name = "Guide", X = 197, Y = 149, TYPE = 4 },
 		{ name = "Guide", X = 37, Y = 219, TYPE = 4 },
 		{ name = "Guide", X = 181, Y = 347, TYPE = 4 },
-		{ name = "Tool Dealer", X = 86, Y = 128, TYPE = 0 },
-		{ name = "Weapon Shop", X = 266, Y = 70, TYPE = 1 }
+		{ name = "Tool Dealer", X = 92, Y = 128, TYPE = 0 },
+		{ name = "Weapon Shop", X = 266, Y = 74, TYPE = 1 }
 	},
 
 	einbroch = {
@@ -135,8 +135,8 @@ mapNPCInfoTable = {
 		{ name = "Guide", X = 155, Y = 43, TYPE = 4 },
 		{ name = "Guide", X = 252, Y = 320, TYPE = 4 },
 		{ name = "Guide", X = 162, Y = 317, TYPE = 4 },
-		{ name = "Weapon Shop", X = 215, Y = 221, TYPE = 1 },
-		{ name = "Blacksmith", X = 244, Y = 90, TYPE = 3 },
+		{ name = "Weapon Shop", X = 215, Y = 212, TYPE = 1 },
+		{ name = "Blacksmith", X = 255, Y = 109, TYPE = 3 },
 		{ name = "Inn", X = 260, Y = 201, TYPE = 5 }
 	},
 
@@ -158,7 +158,8 @@ mapNPCInfoTable = {
 		{ name = "Guide", X = 307, Y = 224, TYPE = 4 },
 		{ name = "Tool Dealer", X = 199, Y = 163, TYPE = 0 },
 		{ name = "Tool Dealer", X = 324, Y = 301, TYPE = 0 },
-		{ name = "Inn", X = 159, Y = 133, TYPE = 5 }
+		{ name = "Inn", X = 159, Y = 133, TYPE = 5 },
+		{ name = "Weapon Shop", X = 196, Y = 46, TYPE = 1 }
 	},
 
 	hugel = {
@@ -183,7 +184,7 @@ mapNPCInfoTable = {
 		{ name = "Guide", X = 210, Y = 345, TYPE = 4 },
 		{ name = "Guide", X = 189, Y = 101, TYPE = 4 },
 		{ name = "Tool Dealer", X = 230, Y = 165, TYPE = 0 },
-		{ name = "Weapon Shop", X = 149, Y = 184, TYPE = 1 },
+		{ name = "Weapon Shop", X = 149, Y = 180, TYPE = 1 },
 		{ name = "Inn", X = 131, Y = 280, TYPE = 5 }
 	},
 
@@ -234,8 +235,9 @@ mapNPCInfoTable = {
 		{ name = "Kafra Employee", X = 223, Y = 191, TYPE = 6 },
 		{ name = "Guide", X = 161, Y = 76, TYPE = 4 },
 		{ name = "Tool Dealer", X = 223, Y = 174, TYPE = 0 },
-		{ name = "Weapon Shop", X = 185, Y = 185, TYPE = 1 },
-		{ name = "Inn", X = 229, Y = 208, TYPE = 5 }
+		{ name = "Weapon Shop", X = 185, Y = 189, TYPE = 1 },
+		{ name = "Inn", X = 229, Y = 208, TYPE = 5 },
+		{ name = "Armor Shop", X = 203, Y = 170, TYPE = 2 }
 	},
 
 	amatsu = {
@@ -256,6 +258,7 @@ mapNPCInfoTable = {
 	umbala = {
 		{ name = "Kafra Employee", X = 87, Y = 160, TYPE = 6 },
 		{ name = "Guide", X = 128, Y = 94, TYPE = 4 },
+		{ name = "Guide", X = 99, Y = 158, TYPE = 4 },
 		{ name = "Tool Dealer", X = 136, Y = 127, TYPE = 0 },
 		{ name = "Weapon Shop", X = 126, Y = 154, TYPE = 1 }
 	},
@@ -302,16 +305,15 @@ mapNPCInfoTable = {
 	},
 
 	mora = {
-		{ name = "Kafra Employee", X = 48, Y = 128, TYPE = 6 },
+		{ name = "Kafra Employee", X = 48, Y = 127, TYPE = 6 },
 		{ name = "Guide", X = 115, Y = 138, TYPE = 4 },
 		{ name = "Guide", X = 72, Y = 51, TYPE = 4 },
 		{ name = "Guide", X = 25, Y = 158, TYPE = 4 },
 		{ name = "Guide", X = 167, Y = 76, TYPE = 4 },
 		{ name = "Tool Dealer", X = 112, Y = 110, TYPE = 0 },
-		{ name = "Inn", X = 44, Y = 137, TYPE = 5 }
+		{ name = "Inn", X = 44, Y = 127, TYPE = 5 }
 	}
 }
-
 --Function #0
 main = function()
   for mapName,info in pairs(mapNPCInfoTable) do

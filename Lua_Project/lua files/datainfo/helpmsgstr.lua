@@ -65,6 +65,7 @@ HelpMsgStr = {
 	"/loginout: Shows guildsmen and friends online status. On/Off",
 	"/shopping: Enables you to open a shop with a single left-click and close your shop with a single right-click. On/Off",
 	"ALT+Y: Opens a window which allows you to use various commands with ease.",
-	"/tingonly: you can hear only sound like a chat room entry.",
+	"/tingonly: You can hear only sound like a chat room entry.",
+	"/monsterhp: Toggles monster HP information when attacking. On/Off",
 	"낙원단에 가시면 레벨별 퀘스트를 통하여 빠른 사냥 및 육성이 가능합니다. 각 도시의 미니맵의 + 표시를 찾아주세요." --Halp!
 }
