@@ -11381,35 +11381,38 @@ Class : ^777777Shield^000000
 Defense : ^77777750^000000
 Weight : ^777777130^000000
 Req Lev : ^77777765^000000
-Job : ^777777Every Job^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 2168#
 A square shaped exotic shield. There is a Gem which is specialized to defense Physical force.
 If it refined over 5, will give 1% tolerance on property "nothing" attack
 (This bonus would work up to +12, 7%)
-Class : ^777777Shield^000000 Defense : ^77777755^000000
+Class : ^777777Shield^000000
+Defense : ^77777755^000000
 Weight : ^77777770^000000
-Required Lv. : ^7777771^000000
-Applicable Job : ^777777All^000000
+Required Level : ^7777771^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 2169#
-등나무를 기본 소재로 만들어진 단단하고 가벼운 실용적인 방패.
-3제련 당 1%씩 보스 몬스터에게 받는 데
-미지 감소.
-칼라삭, 부워여 주머니 옷, 버코너워 비늘 갑옷, 악몽의 벙웅곳 부츠를 모두 장착 시 필리핀 로컬라이징 내 모든 몬스터에게 받는 데미지 30% 감소, MaxHP + 20%, MaxSP + 10% 증가.
-계열 : ^777777방패^000000    방어 : ^77777740^000000
-무게 : ^77777740^000000
-장착 : ^777777전직업 장착가능^000000
+Sturdy yet light, practical shield made from rattan.
+1% damage decrease from boss monsters per
+3 refinement.
+If Kalasag, Buwaya Sack Cloth, Bakonawa Scale Armor, and Bangungot Boots of Nightmare are obtained,
+Damage decreased by 30%, and MHP increases at +20%, and MSP by +10% by from all monsters within Philippine Localizing.
+Class : ^777777Shield^000000
+Defense : ^77777740^000000
+Weight : ^77777740^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 2170#
-등나무를 기본 소재로 만들어진 단단하고 가벼운 실용적인 방패.
-3제련 당 1%씩 보스 몬스터에게 받는 데미지 감소.
-계열 : ^777777방패^000000    방어 : ^77777740^000000
-무게 : ^77777740^000000
-장착 : ^777777전직업 장착가능^000000
+Sturdy yet light, practical shield made from rattan.
+1% damage decrease from boss monsters per 3 refinement.
+Class : ^777777Shield^000000    Defense : ^77777740^000000
+Weight : ^77777740^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 2171#
@@ -14316,19 +14319,21 @@ MDEF + 10.
 #
 
 2491#
-인간에 대한 벙웅곳의 복수심이 강렬하게 느껴지는 불길한 부츠.
-1제련 당 MDEF +1 증가, 14제련 이상 시, 이동 속도 증가.
-계열 : ^777777신발^000000    방어 : ^77777710^000000
-무게 : ^77777760^000000
-장착 : ^777777전직업 장착가능^000000
+Ominous boots emitting Bangungot's revenge and powerful hatred of humans.
+MDEF +1 increase per 1 refinement. Speed increased with 14 refinement and above.
+Class : ^777777Shoes^000000
+Defense : ^77777710^000000
+Weight : ^77777760^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 2492#
-인간에 대한 벙웅곳의 복수심이 강렬하게 느껴지는 불길한 부츠.
-1제련 당 MDEF +1 증가, 12제련 이상 시, 이동 속도 증가.
-계열 : ^777777신발^000000    방어 : ^77777710^000000
-무게 : ^77777760^000000
-장착 : ^777777전직업 장착가능^000000
+Ominous boots emitting Bangungot's revenge and powerful hatred of humans.
+MDEF +1 increase per 1 refinement. Speed increased with 12 refinement and above.
+Class : ^777777Shoes^000000
+Defense : ^77777710^000000
+Weight : ^77777760^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 2501#
@@ -15252,25 +15257,27 @@ Applicable Job : ^777777Every Job^000000
 //Defense : ^77777718^000000
 //Weight : ^77777720^000000
 //Required Level : ^7777771^000000
-//Jobs : ^777777All Jobs^000000
+//Applicable Job :^777777 Every Job^000000
 //#
 
 2590#
-부워여의 납치 주머니로 만든 옷. 부워여의 죽음에 안식을 찾은 원령들의 기운이 넘쳐난다.
-3제련 당 1%씩 치유 아이템과 받는 힐량 증가.
-수, 지, 화, 풍속성 몬스터로부터 받는 데미지 10% 감소.
-계열 : ^777777걸칠것^000000    방어 : ^7777778^000000
-무게 : ^77777720^000000
-장착 : ^777777전직업 장착가능^000000
+Clothes tailored from Buwaya's kidnapping sack. Full of vindictive spirits that cannot rest in peace.
+Healing capacity and healing item effect increases 1% per 3 refinement.
+10% damage decrease from Water, Earth, Fire and Wind Converter monsters.
+Class : ^777777Garment^000000
+Defense : ^7777778^000000
+Weight : ^77777720^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 2591#
-부워여의 납치 주머니로 만든 옷. 부워여의 죽음에 안식을 찾은 원령들의 기운이 넘쳐난다.
-3제련 당 1%씩 치유 아이템과 받는 힐량 증가.
-수, 지, 화, 풍속성 몬스터로부터 받는 데미지 10% 감소.
-계열 : ^777777걸칠것^000000    방어 : ^7777778^000000
-무게 : ^77777720^000000
-장착 : ^777777전직업 장착가능^000000
+Clothes tailored from Buwaya's kidnapping sack. Full of vindictive spirits that cannot rest in peace.
+Healing capacity and healing item effect increases 1% per 3 refinement.
+10% damage decrease from Water, Earth, Fire and Wind Converter monsters.
+Class : ^777777Garment^000000
+Defense : ^7777778^000000
+Weight : ^77777720^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 2601#
@@ -17327,14 +17334,14 @@ Applicable Job :^777777 Priest, Monk^000000
 #
 
 2799#
-...
-MDEF + 1
-...
-Class :^777777 Accessory^000000
-Defense :^777777 0^000000
-Weight :^777777 10^000000
-Required Level :^777777 0^000000
-Applicable Job :^777777 Every Job^000000
+유노 마법학자들이 오랜연구 끝에 개발한 반지. 발키리의 날개깃에 수호의 마법을 담았다고 한다.
+MHP + 150, MSP + 30.
+공격 시 일정확률로 블레싱 10Lv, 축기 5Lv 발동.
+근접물리 공격 받을 시 일정확률로, 인듀어 10Lv, 안젤루스 10Lv 발동.
+계열 : ^777777악세사리^000000 방어 : ^7777770^000000
+무게 : ^77777710^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전직업^000000
 #
 
 2800#
@@ -18022,9 +18029,10 @@ a necklace for implmenting best of royal palace food.
 DEX + 2, MATK + 20.
 "when usign with Orleans globe, can have MATK + 20,  with Orleans uniform , can have stat casting 15% decrese, when with Orleans server, can have MATK + 2 increse for shield 1
 "
-Class : ^777777Accessory^000000 Defense : ^7777770^000000
+Class : ^777777Accessory^000000
+Defense : ^7777770^000000
 Weight : ^77777710^000000
-Required Lv  : ^7777770^000000
+Required Level  : ^7777770^000000
 Applicable Job : ^777777Every Job^000000
 #
 
@@ -18146,27 +18154,30 @@ MDEF + 15.
 #
 
 2907#
-거대한 악어의 형상으로 보여지는 문양이 그려진 부적 타투. 타투를 통해 엄청난 힘을 얻을 수 있다고 알려져 있다.
-MATK +7% 상승, 고정캐스팅 7% 감소.
-계열 : ^777777악세사리^000000
-방어 : ^7777770^000000      무게 : ^77777710^000000
-장착 : ^777777전직업 장착가능^000000
+Agimat Tattoo with a huge Alligator pattern. It is told that the one who owns this tattoo will possess extreme power.
+MATK +7% increase and Fixed Casting 7% decrease.
+Class : ^777777Accessory^000000
+Defense : ^7777770^000000
+Weight : ^77777710^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 2910#
-달을 삼키는 용의 형상으로 보여지는 문양이 그려진 부적 타투. 타투를 통해 엄청난 힘을 얻을 수 있다고 알려져 있다.
-ATK +7% 상승, 공격속도 10% 증가.
-계열 : ^777777악세사리^000000
-방어 : ^7777770^000000      무게 : ^77777710^000000
-장착 : ^777777전직업 장착가능^000000
+Agimat Tattoo with a dragon swallowing the moon pattern. It is told that the one who owns this tattoo will possess extreme power.
+ATK +7% and ASPD 10% increase.
+Class : ^777777Accessory^000000
+Defense : ^7777770^000000
+Weight : ^77777710^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 2911#
-비대한 여성의 형상으로 보여지는 문양이 그려진 부적 타투. 타투를 통해 엄청난 힘을 얻을 수 있다고 알려져 있다.
-주는 힐량 4% 증가, 받는 힐량 7% 증가.
-계열 : ^777777악세사리^000000
-방어 : ^7777770^000000      무게 : ^77777710^000000
-장착 : ^777777전직업 장착가능^000000
+Agimat Tattoo with a plump lady pattern. It is told that the one who owns this tattoo will possess extreme power.
+Healing others 4% increase, healing from others 7% increase.
+Class : ^777777Accessory^000000
+Defense : ^7777770^000000
+Weight : ^77777710^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 2914#
@@ -22330,6 +22341,16 @@ Compound on : ^777777Armor^000000
 Weight : ^7777771^000000
 #
 
+4493#
+MaxHP + 50%, DEF, MDEF - 50.
+
+If refine is over 15,
+MaxHP + 75%, DEF,  MDEF - 50.
+Class : ^777777Card^000000
+Compound on : ^777777Armor^000000
+Weight : ^7777771^000000
+#
+
 4494#
 ATK + 10%
 Chance to automatically cast [Magnum Break] level 10 while attacking
@@ -22602,9 +22623,8 @@ LUK + 1.
 4546#
 아무 효과도 없는 카드.
 "본 증을 습득하셔서 카드로 사용시 발생하는 모든 불이익은 사용자에게 있습니다. - 밝히리" 라고 적혀있다.
-발키리 나들이 모자와 함께 장착 시 숨겨진 힘이 드러난다는 근거 없는 소문이 있다.
 계열 : ^777777카드^000000
-장착 : ^777777투구^000000
+장착 : ^777777무기^000000
 무게 : ^7777771^000000
 #
 
@@ -32172,11 +32192,11 @@ Applicable Job :^777777 Every Job^000000
 #
 
 5819#
-A hat which made to celebrate the festival.
+A Circlet that will be used in Carnival festival
 ^FF0000'Made especially for you.'^000000
 All Status + 3
 Class :^777777 Headgear^000000
-Defense :^777777 3^000000
+Defense : ^7777776^000000
 Equipped on :^777777 Upper^000000
 Weight :^777777 0^000000
 Applicable Job :^777777 Every Job^000000
@@ -33521,9 +33541,7 @@ Weight :^777777 1^000000
 #
 
 6157#
-A cute pet Poring tickets.
-^ffffff_^000000
-Weight :^777777 0^000000
+Not sure how you got this
 #
 
 6158#
@@ -35135,6 +35153,16 @@ A perfume made from Scaraba secreted material with odd smell. Feels like all the
 Weight : ^7777770^000000
 #
 
+6438#
+Oridecon which is blessed by the smith God. When refining weapon with refine Lv between +6  and +12, weapon won't vanish even if the refine fails.
+Weight : ^7777771^000000
+#
+
+6439#
+Elunium which is blessed by the smith God. When refining weapon with refine Lv between +6  and +12, armor won't vanish even if the refine fails.
+Weight : ^7777771^000000
+#
+
 6440#
 ...
 ^ffffff_^000000
@@ -35342,96 +35370,96 @@ Weight : ^7777770^000000
 #
 
 6496#
-틱버렁의 두껍고 단단한 등뼈. 수집품 상인에게 팔린다.
+Tikbalang's thick and tough spine. Sell to a collection dealer.
 ^ffffff_^000000
-무게 : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 6497#
-해로운 것으로부터 사용자를 보호하거나 특별한 능력을 부여한 종이.
-영기가 약하게 느껴진다.
+Paper that protects a player from harm's way or casts special abilities.
+A faint energy can be felt.
 ^ffffff_^000000
-무게 : ^7777775^000000
+Weight : ^7777775^000000
 #
 
 6498#
-라지 젤로피와 모양이 비슷하나 결정의 반짝임이 보다 강렬하다.
+Looks similar to a Large Jellopy but with a shinier crystal.
 ^ffffff_^000000
-무게 : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 6499#
-해로운 것으로부터 사용자를 보호하거나 특별한 능력을 부여한 종이.
+Paper that protects a player from harm's way or casts special abilities.
 ^ffffff_^000000
-무게 : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 6500#
-^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
-적당한 굵기의 대나무를 비스듬하게 잘라 뾰족하게 다듬은 조각.
-무게 : ^7777770^000000
+^ff0000Item cannot be traded with other characters.^000000
+Bamboo piece trimmed to be pointy. Looks like it was cut tilted from a thick bamboo.
+Weight : ^7777770^000000
 #
 
 6501#
-^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
-해변에서 바닷물을 제염하여 만든 핸드메이드 천일염이 담긴 주머니. 나쁜 영혼들이 싫어한다고 한다.
-무게 : ^7777770^000000
+^ff0000Item cannot be traded with other characters.^000000
+Bag used to contain sea salt manufactured from the seashore. Said to scare off bad spirits.
+Weight : ^7777770^000000
 #
 
 6502#
-^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
-은으로 만든 십자형태의 장식물. 악령을 퇴치하는데 유용하게 쓰인다고 한다.
-무게 : ^7777770^000000
+^ff0000Item cannot be traded with other characters.^000000
+Cross-shaped ornament made of silver. Used to scare off demons.
+Weight : ^7777770^000000
 #
 
 6503#
-^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
-은이 가진 성스러운 기운과 소금이 가진 퇴마의 기운을 이용하여 제작된 휴대용 수호물. 지니고 있으면 악령이 다가오지 못한다고 한다.
-무게 : ^7777770^000000
+^ff0000Item cannot be traded with other characters.^000000
+Portable spiritual protection made with holy energy from silver and exorcising energy from salt. Used to prevent bad spirits from approaching.
+Weight : ^7777770^000000
 #
 
 6504#
-^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
-단단한 무쇠로 만든 큰 솥. 두들기면 깡 하고 우렁차고 시원한 소리가 난다. 요리를 하기 보다는 두들겨서 나는 큰 소리로 버코너워를 놀라게 하는 것이 목적.
-무게 : ^7777770^000000
+^ff0000Item cannot be traded with other characters.^000000
+Large caldron made from hard iron. Lets off a rich and full clunk sound when hit. Used to stun Bakonawa by making loud noises from it instead of cooking with it.
+Weight : ^7777770^000000
 #
 
 6505#
-^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
-악령의 뼈를 뭄바키를 통해 정제하여 사악한 기운을 모두 없애서 어쩐지 말끔한 느낌의 뼈다귀. 경비견 반타이가 좋아한다.
-무게 : ^7777770^000000
+^ff0000Item cannot be traded with other characters.^000000
+Wholly cleaned out bone was an Evil Spirit Bone purified by Mumbaki to get rid of all evilness. Guard dog Vantai especially likes it.
+Weight : ^7777770^000000
 #
 
 6506#
-^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
-방황하는 영혼이나 넋을 달래주기 위해 만든 꽃다발. 진심을 다해 꽃을 공양하면 방황하던 영혼이 성불 할지도 모른다.
-무게 : ^7777770^000000
+^ff0000Item cannot be traded with other characters.^000000
+Flower bouquet made to comfort wandering or victimized souls. Offer flowers with a true heart and the souls may actually rest.
+Weight : ^7777770^000000
 #
 
 6507#
-^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
-사악한 영혼의 흔적이 남은 짐승의 뼈다귀. 이대로는 개밥으로도 쓸 수 없어 보인다.
-무게 : ^7777770^000000
+^ff0000Item cannot be traded with other characters.^000000
+Animal bones with a hint of evil spirit. Won't be able to as dog treats at this state.
+Weight : ^7777770^000000
 #
 
 6508#
-섬뜩한 느낌의 은팔찌. 구속구에 가까워 보인다.
-무게 : ^7777771^000000
+Hellish silver bracelet. Looks more like a restraint.
+Weight : ^7777771^000000
 #
 
 6509#
-여러가지 색이 다양하게 섞인 것처럼 보이는 신비한 느낌의 꽃.
-무게 : ^7777771^000000
+Mysteriously colorful flower. Looks like it was made from a rainbow.
+Weight : ^7777771^000000
 #
 
 6510#
-부드럽고 연약해보이는 청초한 느낌의 꽃.
-무게 : ^7777771^000000
+Soft and gentle looking elegant flower.
+Weight : ^7777771^000000
 #
 
 6511#
-여기저기서 흔히 볼 수 있는 평범하게 예쁜 꽃.
-무게 : ^7777771^000000
+Ordinary flower that can be found anywhere.
+Weight : ^7777771^000000
 #
 
 6512#
@@ -35455,30 +35483,30 @@ Weight : ^7777770^000000
 #
 
 6516#
-버코너워와의 모습을 본따 만든 인형. 실물과는 다르게 매우 귀엽다.
-무게 : ^7777771^000000
+Doll made to look like Bakonawa. Cuter than its original.
+Weight : ^7777771^000000
 #
 
 6517#
-벙웅곳의 모습을 본따 만든 인형. 만든이의 취향이 의심된다.
-무게 : ^7777771^000000
+Doll made to look like Bangungot. Suspicious of the creator's taste.
+Weight : ^7777771^000000
 #
 
 6518#
-부워여의 모습을 본따 만든 인형. 포트 말라야의 어린아이들에게 인기가 좋다고 한다.
-무게 : ^7777771^000000
+Doll made to look like Buwaya. Popular among Port Malaya children.
+Weight : ^7777771^000000
 #
 
 6519#
-^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
-특수한 목적을 위해 채집된 동물의 ...표본. 아주 고약한 냄새가 난다.
-무게 : ^7777770^000000
+^ff0000Item cannot be traded with other characters.^000000
+Animal samples collected for a special purpose. Smells nasty.
+Weight : ^7777770^000000
 #
 
 6520#
-^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
-포트 말라야의 실종된 주민들이 갖고 있던 소지품.
-무게 : ^7777770^000000
+^ff0000Item cannot be traded with other characters.^000000
+Belong to a missing Port Malaya villager.
+Weight : ^7777770^000000
 #
 
 6521#
@@ -35492,18 +35520,18 @@ Weight : ^7777770^000000
 #
 
 6523#
-버코너워의 영혼이 담겨진 투명한 조각. 달빛에 비추면 버코너워의 모습이 보인다는 소문이 있다.
-무게 : ^7777771^000000
+Transparent item which imprisons Bakonawa's Spirit. Rumor says you can see Bakonawa when held up to moonlight.
+Weight : ^7777771^000000
 #
 
 6524#
-벙웅곳의 영혼이 담겨진 투명한 조각. 어두운 방에 두면 벙웅곳의 소름 끼치는 비명이 들린다는 소문이 있다.
-무게 : ^7777771^000000
+Transparent item which imprisons Bangungot's Spirit. Rumor says you can hear Bangungot's screeching screams when placed in a dark room.
+Weight : ^7777771^000000
 #
 
 6525#
-부워여의 영혼이 담겨진 투명한 조각. 물에 닿으면 성난 부워여의 괴성이 들린다는 소문이 있다.
-무게 : ^7777771^000000
+Transparent item which imprisons Buwaya's Spirit. Rumor says you can hear Buwaya's angry shrieks when touched with water.
+Weight : ^7777771^000000
 #
 
 6531#
@@ -36960,7 +36988,7 @@ Weight :^777777 1^000000
 7199#
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 라그나로크에서 준비한 신학기용 가방 응모권.
-무게 : ^7777771^000000
+무게 : ^7777770^000000
 #
 
 7200#
@@ -42225,9 +42253,9 @@ Class : ^777777Monster Egg^000000
 #
 
 9059#
-큐펫 틱버렁이 잠들어 있는 알. [휴대용 알 부화기] 로 잠들어 있는 몬스터를 깨울 수 있다.
-버코너워, 벙웅곳, 부워여에게 주는 데미지 10% 증가. MDEF + 3.
-종류 : ^777777몬스터 알^000000
+Tikbalang egg. Hatch the egg to awaken the monster with the [Pet Incubator].
+Damage to Bakonawa, Bangungot, and Buwaya 10% increase. MDEF + 3.
+Type : ^777777Monster Egg^000000
 #
 
 9062#
@@ -47290,16 +47318,16 @@ Weight : ^7777775^000000
 #
 
 12699#
-틱버렁을 하인으로 부리기 위해 만들어진 특수한 벨트. 사용 시, 격렬하게 몸부림을 치니 조심해야 한다.
-종류 : ^777777테이밍 아이템^000000
-무게 : ^7777775^000000
+Special belt made to control Tikbalang as a servant. Be careful since Tikbalang will struggle violently when used.
+Type : ^777777Taming Item^000000
+Weight : ^7777775^000000
 #
 
 12700#
-평범한 셔츠이나 뒤집혀 있다. 이는 길을 잃게 만드는 틱발랑의 저주를 푸는데 사용된다.
-직접 사용 시, '포트 말라야' 마을로 워프할 수 있다.
+Common shirt turned inside out. Used to break Tikbalang's curse that makes people get lost.
+Can warp back to the 'Port Malaya' village when used directly.
 ^ffffff_^000000
-무게 : ^7777771^000000
+Weight : ^7777771^000000
 #
 
 12701#
@@ -47738,10 +47766,10 @@ Weight: ^7777770^000000
 #
 
 12775#
-악마에게 적극적으로 대응하기 위해 강력한 능력을 부여한 토템. 성스러운 영기가 강하게 느껴진다.
-사용 시, 20분간 악마형 몬스터에게 주는 물리, 마법 데미지 10% 증가.
+Totem with powerful abilities to aggressively fight against demons. Emits powerful, holy energy.
+10% increase of physical and magic damage to demon monsters for 20 min.
 ^ffffff_^000000
-무게 : ^77777760^000000
+Weight : ^77777760^000000
 #
 
 12778#
@@ -47934,6 +47962,11 @@ ATK, MATK + 15.
 무게 : ^7777770^000000
 #
 
+12822#
+A box has 50 pcs of rice cake.
+Weight : ^7777771^000000
+#
+
 12825#
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 라그2의 귀여운 꽃잎 몬스터를 본딴 플립모자, 마력 깃든 카드첩, 포장된 가면, 보석함, 피묻은 나뭇가지 등등 여러가지 아이템 중 1종이 들어있다고 한다. 무엇이 나올진 알 수 없다.
@@ -47953,7 +47986,8 @@ Weight : ^7777771^000000
 #
 
 12828#
-A Fire Type Zodiac scroll you can get precious items in it .
+"I am what was, what is, what will be : the Chaos-Bringer! I AM POWER!"
+-The Phoenix Aeon
 Weight : ^7777771^000000
 #
 
@@ -48033,6 +48067,27 @@ Weight : ^7777771^000000
 12849#
 여러가지 아이템들을 이렇게 저렇게 그렇게 조합하거나 변환할 수 있도록 각종 도구들을 모아둔 키트. 어째서인지 조리도구까지 모아둔 것 같다.
 무게 : ^7777771^000000
+#
+
+12855#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+기간 한정 아루나펠츠 교국 스크롤.
+늘어진 교황모자, 무기 11제련 보장권, 방어구 11제련 보장권, 수호의 반지, 마력 깃든 카드첩 등등 여러가지 희귀한 아이템 중 하나를 얻을 수 있다.
+무게 : ^7777771^000000
+#
+
+18673#
+인기 절정! 교국 아루나펠츠의 교황을 본따 모자로 만든 투구!
+MDEF + 7.
+힐량 5% 증가.
+7제련 시부터 1제련당 힐량 1%씩 추가 증가.
+9제련 시 MATK + 7% 추가 증가.
+12제련 시 MATK + 5% 추가 증가.
+발그레와 함께 장착 시, 힐량 10% 추가 증가.
+계열 : ^777777투구^000000 방어 : ^7777770^000000
+위치 : ^777777상단 ^000000무게 : ^77777730^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전직업^000000
 #
 
 12900#
@@ -61184,21 +61239,23 @@ MDEF + 20.
 #
 
 15051#
-버코너워의 비늘로 이뤄진 갑옷. 비늘의 청연한 달빛색이 신비감을 자아낸다.
-2제련 당 1%씩 보스형 몬스터에게 받는 데미지 감소.
-모든 스탯 +1.
-계열 : ^777777갑옷^000000    방어 : ^77777755^000000
-무게 : ^77777750^000000
-장착 : ^777777전직업 장착가능^000000
+Armor made from Bakonawa Scale. Lets off a mysterious moonlight effect.
+1% damage decrease from boss monsters per 2 refinement.
+All stance gains +1.
+Class : ^777777Armor^000000
+Defense : ^77777755^000000
+Weight : ^77777750^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 15052#
-버코너워의 비늘로 이뤄진 갑옷. 비늘의 청연한 달빛색이 신비감을 자아낸다.
-2제련 당 1%씩 보스형 몬스터에게 받는 데미지 감소.
-모든 스탯 +2.
-계열 : ^777777갑옷^000000    방어 : ^77777755^000000
-무게 : ^77777750^000000
-장착 : ^777777전직업 장착가능^000000
+Armor made from Bakonawa Scale. Lets off a mysterious moonlight effect.
+1% damage decrease from boss monsters per 2 refinement.
+All stance gains +2.
+Class : ^777777Armor^000000
+Defense : ^77777755^000000
+Weight : ^77777750^000000
+Applicable Job : ^777777Every Job^000000
 #
 
 15053#
@@ -66635,10 +66692,40 @@ AGI + 3, 원거리 물리공격 시 일정확률로 5초간 ASPD + 2.
 무게 : ^7777771^000000
 #
 
-16757#
+16753#
+A box which contains a blessed weapon ore.
+Oridecon which is blessed by the smith God.
+When refining weapon with refine level between +6  and +12, weapon won't vanish even if the refine fails.
+Weight : ^7777771^000000
+^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+#
 
-a scroll for celebrating holloween day. can have random item.
-^ff0000you cannot trade this item.^000000
+16754#
+A box which contains a blessed weapon ore.
+Oridecon which is blessed by the smith God.
+When refining weapon with refine level between +6  and +12, weapon won't vanish even if the refine fails.
+Weight : ^7777771^000000
+^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+#
+
+16755#
+A box which contains a blessed armor ore.
+Elunium which is blessed by the smith God.
+When refining weapon with refine level between +6  and +12, armor won't vanish even if the refine fails.
+Weight : ^7777771^000000
+^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+#
+
+16756#
+A box which contains a blessed armor ore.
+Elunium which is blessed by the smith God. When refining weapon with refine Lv between +6  and +12, armor won't vanish even if the refine fails.
+Weight : ^7777771^000000
+^ff0000Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
+#
+
+16757#
+A scroll for celebrating holloween day. can have random item.
+^ff0000Cannot be traded.^000000
 Weight : ^7777771^000000
 #
 
@@ -70536,6 +70623,17 @@ All State + 1.
 무게 : ^7777771^000000
 #
 
+17193#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+농축 에르늄, 농축 오리데오콘이 각각 5개씩 들어있는 상자. 교황스크롤도 얻을 수 있다.
+^ffffff_^000000
+농축 에르늄 - 방어구의 제련확률이 증가한다.
+농축 오리데오콘 - 무기의 제련확률이 증가한다.
+^ffffff_^000000
+^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000
+무게 : ^7777771^000000
+#
+
 18000#
 
 Required item to use the Mechanic Magic gear skill "Arm Cannon".
@@ -71082,7 +71180,7 @@ a black cap with skull.
 MATK + 2%.
 if refined is over 5 ,add MATK + 3%, if refined is over 7 , add additional 3%.
 you can reduce consumption of skill sp 3%  once using with Elven Ears .
-Class : ^777777Headgear^000000 Defence : ^7777775^000000
+Class : ^777777Headgear^000000 Defense : ^7777775^000000
 Location: ^777777Upper ^000000 Weight : ^77777740^000000
 Required Level : ^77777710^000000
 Applicable Job : ^777777All^000000
@@ -71891,7 +71989,8 @@ MaxHP + 15, MaxSP + 5.
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 발키리가 외출할 때 애용한다는 나들이 모자. 어째서인지 전투용 투구와 별 차이가 없어 보인다.
 All State + 1, 고정캐스팅 1초 감소, ASPD + 1.
-"^ff0000이벤트 기간 종료 후 아이템 삭제^000000"
+"^ff0000이벤트 기간 종료 후 투구에 걸려있던 정품효과(특수옵션, 이미지 등)가 사라집니다.^000000"
+제련불가.
 계열 : ^777777투구^000000 방어 : ^7777770^000000
 위치 : ^777777상단 ^000000무게 : ^7777775^000000
 요구 레벨 : ^7777771^000000
@@ -72472,6 +72571,14 @@ INT + 1.
 
 19575#
 승천하는 흑룡을 본따 만든 모자. 측면일 때가 가장 훌륭하게 보인다는 흑룡의 의지가 적용된 투구로, 늘 측면 모습이 유지되어 있다. 여전히 변신은 할 수 있으나...
+계열 : ^777777의상장비^000000
+위치 : ^777777상단 ^000000 무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전직업^000000
+#
+
+19576#
+인기 절정! 교국 아루나펠츠의 교황을 본따 모자로 만든 투구!
 계열 : ^777777의상장비^000000
 위치 : ^777777상단 ^000000 무게 : ^7777770^000000
 요구 레벨 : ^7777771^000000

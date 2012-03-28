@@ -486,3 +486,36 @@
 4483#Half Spiritual#
 4484#Of Half Gemstone#
 4485#Half Abyss#
+
+//-------New Monster Cards 
+4505#of Mad Witch#
+4506#of Archer#
+4507#Scaraba#
+4508#of Mad Berserker#
+4509#Insectproof#
+4510#Black-out#
+4511#Silentium#
+4512#of Acolyte#
+4513#of Thief#
+4514#Exorcism#
+4515#Flora#
+4516#of Stone wall#
+4517#of Magician#
+4518#Burning#
+4519#Seraphim#
+4520#Screaming#
+4521#Mortal Blow#
+4522#Cold#
+4523#Aquarius#
+4524#of Swordman#
+4525#Sweeping#
+4526#of MDEF#
+4527#of DEF#
+4528#Spirit#
+4529#Physical#
+4530#of Merchant#
+4531#Under Curse#
+4532#Sprinting#
+4533#Blinding#
+4534#Water Bomb#
+4493#Half High Risk#
