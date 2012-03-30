@@ -14124,7 +14124,7 @@ You must wait for the timer to expire before getting another mission.#
 
 60500#Battlegrounds#SG_FEEL#QUE_NOIMAGE#
 You have just participated in the Maroll Battlegrounds. You cannot choose another team for 2 minutes.#
-//#
+#
 
 60501#Raydric Hunting#SG_FEEL#QUE_NOIMAGE#
 Hunt the Raydric monsters at Glast Heim Chivalry and return to Gramps at the Eden Group to get your reward.#
