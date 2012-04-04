@@ -16,6 +16,7 @@ LOCAL_BeginTuTorialQuest_list = {
 													scrfilename = [[BeginTutorialQuest]],
 													questID = 11339,
 												},
+
 											}
 									},
 

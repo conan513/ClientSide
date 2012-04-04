@@ -2,7 +2,6 @@ __LOCAL_QuestList = {}
 __EP_QuestList = {}
 QuestTable = {}
 
---Function #0
 function makeLocalQuestList(Quest_list)
 	for episodeId,episode in ipairs(Quest_list) do
 		episodeId  = getTableSize(__LOCAL_QuestList) + 1
@@ -21,7 +20,6 @@ function makeLocalQuestList(Quest_list)
 	end
 end
 
---Function #1
 function makeEPQuestList(Quest_list)
 	for episodeId,episode in ipairs(Quest_list) do
 		episodeId  = getTableSize(__EP_QuestList) + 1
@@ -40,16 +38,17 @@ function makeEPQuestList(Quest_list)
 	end
 end
 
---Function #2
+
+
 function queryEpisode(tabid,episodeId)
-        if( tabid == 3 ) then
+        if( tabid == 4 ) then
 		if(__LOCAL_QuestList[episodeId] == nil) then return nil,nil,nil,nil end
 
 		return __LOCAL_QuestList[episodeId].id,
 				__LOCAL_QuestList[episodeId].name,
 				__LOCAL_QuestList[episodeId].imagefile,
 				getChapterIterator(episodeId,__LOCAL_QuestList)
-        elseif( tabid == 2 ) then
+        elseif( tabid == 3 ) then
 		if(__EP_QuestList[episodeId] == nil) then return nil,nil,nil,nil end
 
 		return __EP_QuestList[episodeId].id,
@@ -60,9 +59,8 @@ function queryEpisode(tabid,episodeId)
 
 end
 
---Function #3
 function queryChapter(tabid,episodeId,chapterId)
-	if( tabid == 3 ) then
+	if( tabid == 4 ) then
 		if(__LOCAL_QuestList[episodeId] == nil) then return nil,nil,nil,nil end
 		if(__LOCAL_QuestList[episodeId][chapterId] == nil) then return nil,nil,nil,nil end
 
@@ -70,7 +68,7 @@ function queryChapter(tabid,episodeId,chapterId)
 				__LOCAL_QuestList[episodeId][chapterId].id,
 				__LOCAL_QuestList[episodeId][chapterId].name,
 				getQuestIterator(episodeId,chapterId,__LOCAL_QuestList)
-	elseif( tabid == 2 ) then
+	elseif( tabid == 3 ) then
 		if(__EP_QuestList[episodeId] == nil) then return nil,nil,nil,nil end
 		if(__EP_QuestList[episodeId][chapterId] == nil) then return nil,nil,nil,nil end
 
@@ -81,9 +79,8 @@ function queryChapter(tabid,episodeId,chapterId)
 	end
 end
 
---Function #4
 function queryQuest(tabid,episodeId,chapterId,questId)
-	if( tabid == 3 ) then
+	if( tabid == 4 ) then
 		if(__LOCAL_QuestList[episodeId] == nil) then return nil,nil,nil,nil,nil,nil end
 		if(__LOCAL_QuestList[episodeId][chapterId] == nil) then return nil,nil,nil,nil,nil,nil end
 		if(__LOCAL_QuestList[episodeId][chapterId][questId] == nil) then return nil,nil,nil,nil,nil,nil end
@@ -94,7 +91,7 @@ function queryQuest(tabid,episodeId,chapterId,questId)
 				__LOCAL_QuestList[episodeId][chapterId][questId].name,
 				__LOCAL_QuestList[episodeId][chapterId][questId].scrfilename,
 				__LOCAL_QuestList[episodeId][chapterId][questId].questID 
-	elseif( tabid == 2 ) then
+	elseif( tabid == 3 ) then
 		if(__EP_QuestList[episodeId] == nil) then return nil,nil,nil,nil,nil,nil end
 		if(__EP_QuestList[episodeId][chapterId] == nil) then return nil,nil,nil,nil,nil,nil end
 		if(__EP_QuestList[episodeId][chapterId][questId] == nil) then return nil,nil,nil,nil,nil,nil end
@@ -108,7 +105,6 @@ function queryQuest(tabid,episodeId,chapterId,questId)
 	end
 end
 
---Function #5
 function getEpisodeIterator(__QuestList)
 	local pos = 1
 	return	{
@@ -124,7 +120,6 @@ function getEpisodeIterator(__QuestList)
 	}
 end
 
---Function #6
 function getChapterIterator(episodeId,__QuestList)
 	local pos = 1
 	return	{
@@ -141,7 +136,6 @@ function getChapterIterator(episodeId,__QuestList)
 	}
 end
 
---Function #7
 function getQuestIterator(episodeId,chapterId,__QuestList)
 	local pos = 1
 	return	{
@@ -158,10 +152,12 @@ function getQuestIterator(episodeId,chapterId,__QuestList)
 	}
 end
 
---Function #8
-function queryQuestID(tableName , questID)	
+function queryQuestID(tableName , questID)
+	
 	returnTable = QuestTable[tableName]
-	if(returnTable[questID] == nil) then return nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil end
+
+	if(returnTable[questID] == nil) then return nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil end
+
 	return  returnTable[questID].NPCFromName,
 		returnTable[questID].NPCFromMap,
 		returnTable[questID].NPCFromSpr,
@@ -176,7 +172,9 @@ function queryQuestID(tableName , questID)
 		returnTable[questID].PrizeItem,
 		returnTable[questID].Title,
 		returnTable[questID].Info,
-		returnTable[questID].Hunt,
+		returnTable[questID].Hunt1,
+		returnTable[questID].Hunt2,
+		returnTable[questID].Hunt3,
 		returnTable[questID].Time,
 		returnTable[questID].Lv
 end

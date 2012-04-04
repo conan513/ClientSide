@@ -666,6 +666,7 @@ EFST_IDs = {
 	EFST_UNKNOWN_NAME = 672,
 	EFST_ON_PUSH_CART = 673,
 	EFST_HAT_EFFECT = 674,
+	EFST_FLOWER_LEAF = 675,
 	__newindex = function()   error("unknown state") end
 }
 setmetatable(EFST_IDs, EFST_IDs)

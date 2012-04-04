@@ -2287,3 +2287,11 @@ StateIconList[EFST_IDs.EFST_M_LIFEPOTION] = {
 		{"No effect on Berserk status."}
 	}
 }
+StateIconList[EFST_IDs.EFST_FLOWER_LEAF] = {
+	haveTimeLimit = 1, posTimeLimitStr = 2, descript = {
+		{"Ç³¼ºÇÑ ²É°¡Áö", COLOR_TITLE_BUFF}, 
+		{"%s", COLOR_TIME}, 
+		{"Increases FLEE"},
+		{"Increases perfect dodge"}
+	}
+}
