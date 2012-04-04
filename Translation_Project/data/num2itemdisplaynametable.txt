@@ -2532,6 +2532,7 @@
 4871#SP+75#
 4872#공격후딜레이2Lv#
 4873#공격후딜레이3Lv#
+4874#봄의녹주석#
 4991#Kafra_Blossom_Card#
 4998#GM_Aegis_Card#
 4999#GM_Valor_Card#
@@ -3505,7 +3506,7 @@
 6154#Broken_Horn_Pipe#
 6155#Member_Card#
 6156#A_Report_To_Be_Approved#
-6157#Old_Card_Album#
+6157#Vote_1#
 6158#Vote_2#
 6159#Poporing_Exchange_Ticket#
 6160#Lunatic_Exchange_Ticket#
@@ -5740,6 +5741,7 @@
 12847#불량_장비품_상자#
 12848#팔콘_피리#
 12849#조합용_키트#
+12854#풍성한_꽃가지#
 12855#교황스크롤#
 12900#Battle_Manual_Box#
 12901#Insurance_Package#

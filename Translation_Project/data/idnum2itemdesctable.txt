@@ -15050,7 +15050,7 @@ Resistance to Neutral property attacks +7%,
 Class : ^777777Robe^000000 Defense : ^7777772^000000
 Weight : ^77777710^000000
 Required Level : ^7777771^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 2566#
@@ -15067,7 +15067,6 @@ Weight : ^7777770^000000
 #
 
 2568#
-
 ...
 AGI + 1
 Increases damage of ^008800Cross Impact^000000 by 5%.
@@ -15161,7 +15160,7 @@ Class : ^777777Garment^000000
 Defense: ^77777720^000000
 Weight : ^77777720^000000
 Required Level : ^7777771^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 2577#
@@ -17705,7 +17704,7 @@ This item cannot be Dropped or Traded.
 Class : ^777777Accessory^000000
 Defense: ^7777770^000000
 Weight : ^7777770^000000
-Required Level : ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777All^000000
+Required Level : ^7777771^000000^FFFFFF         ^000000 Jobs: ^777777 Every Job^000000
 #
 
 2835#
@@ -23281,8 +23280,11 @@ SP + 75
 공격속도 증가.(공격 후딜레이 8%감소)
 #
 
-4991#
+4874#
+봄을 상징하는 선명한 초록빛 보석. 부드럽게 불어오는 봄바람에 취해 의미불명의 말을 중얼거리게 된다고 한다.
+#
 
+4991#
 Adventurers can feel carefree exploring dangerous lands knowing that Kafra gal Blossom is supporting them back in town. 
 10% Resistance to fire/wind/water/earth/holy/shadow elements 
 2% chance to increase resistance to fire/wind/water/earth/holy/shadow elements by 10% for 10 seconds when receiving magic damage
@@ -23292,7 +23294,6 @@ Weight : ^7777771^000000
 #
 
 4998#
-
 GM_Aegis_Card
 #
 
@@ -23301,7 +23302,6 @@ GM_Valor_Card
 #
 
 5001#
-
 A strange device that was invented by an old craftsman, but has just recently been completed by his grandson.
 Increases resistance to ^880000Curse^000000 status by 10%.
 Class :^777777 Headgear^000000
@@ -26445,7 +26445,7 @@ Defense : ^7777776^000000
 Head Position : ^777777Upper^000000
 Weight : ^77777710^000000
 Required Lv. : ^77777770^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5287#
@@ -29996,7 +29996,7 @@ Location : ^777777Lower^000000
 Defense : ^7777771^000000
 Weight : ^7777775^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5595#
@@ -30222,7 +30222,7 @@ Defense: ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level : ^77777710^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5614#
@@ -30260,7 +30260,7 @@ Defense: ^7777771^000000
 Location : ^777777Middle^000000
 Weight : ^77777710^000000
 Required Level : ^77777745^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5616#
@@ -30276,7 +30276,7 @@ Defense: ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777750^000000
 Required Level : ^77777750^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5617#
@@ -30294,7 +30294,7 @@ Can be placed in Kafra Storage
 Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location: ^777777Upper^000000    Weight : ^77777720^000000
 Level Requirement: ^77777710^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5618#
@@ -30309,7 +30309,7 @@ Can be placed in Kafra Storage
 Class : ^777777Headgear^000000    Defense: ^7777771^000000
 Location: ^777777Upper^000000    Weight : ^77777730^000000
 Requirement: ^777777None^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5619#
@@ -30330,7 +30330,7 @@ Class : ^777777Headgear^000000
 Defense: ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5620#
@@ -30388,7 +30388,7 @@ Class : ^777777Headgear^000000
 Defense: ^7777772^000000
 Position: ^777777Upper^000000
 Weight : ^77777720^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5623#
@@ -30431,7 +30431,7 @@ Defense: ^7777771^000000
 Location : ^777777Middle^000000
 Weight : ^77777710^000000
 Required Level: ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5625#
@@ -30451,7 +30451,7 @@ Class : ^777777Headgear^000000    Defense: ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Required Level: ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5626#
@@ -30481,7 +30481,7 @@ Defense: ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5628#
@@ -30502,7 +30502,7 @@ Defense: ^7777776^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Required Level: ^77777770^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5629#
@@ -30520,7 +30520,7 @@ Defense: ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5630#
@@ -30536,7 +30536,7 @@ Can be placed in Kafra Storage
 Class : ^777777Headgear^000000    Defense : ^7777771^000000
 Location: ^777777Upper^000000    Weight : ^77777740^000000
 Level Requirement: ^77777710^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5631#
@@ -30556,7 +30556,7 @@ Defense: ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5632#
@@ -30574,7 +30574,7 @@ Defense: ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^777777100^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5633#
@@ -30587,7 +30587,7 @@ Class : ^777777Headgear^000000
 Defense: ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5634#
@@ -30605,7 +30605,7 @@ Defense: ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777760^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5635#
@@ -30624,7 +30624,7 @@ Defense: ^7777775^000000
 Location : ^777777Upper^000000
 Weight : ^77777780^000000
 Required Level: ^77777750^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5636#
@@ -30649,7 +30649,7 @@ Defense: ^7777771^000000
 Location : ^777777Upper^000000
 Weight : ^77777750^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5637#
@@ -30664,7 +30664,7 @@ Defense: ^7777772^000000
 Position: ^777777Upper^000000
 Weight : ^77777735^000000
 Level Requirement: ^777777None^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5638#
@@ -30678,7 +30678,7 @@ Location : ^777777Upper^000000
 ^ffffff_^000000
 Weight : ^77777750^000000
 Required Level : ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5639#
@@ -30701,7 +30701,7 @@ Cannot be upgraded and destroyed.
 Class : ^777777Headgear^000000    Defense : ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5641#
@@ -30712,7 +30712,7 @@ Class : ^777777Headgear^000000    Defense : ^7777771^000000
 Location : ^777777Middle^000000
 Weight : ^77777720^000000
 Required Level : ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5642#
@@ -30760,7 +30760,7 @@ Can be placed in Kafra Storage
 Class : ^777777Headgear^000000    Defense: ^7777772^000000
 Location: ^777777Upper, Mid^000000    Weight : ^77777740^000000
 Required Level : ^77777750^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5645#
@@ -30770,7 +30770,7 @@ DEF+4
 Enables the use of the skill 'Hiding' Lv1.
 Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location : ^777777Upper-Mid^000000    Weight : ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5646#
@@ -30789,7 +30789,7 @@ Location :
 ^777777Upper, Mid, Lower^000000
 Weight : ^77777710^000000
 Required Level: ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5647#
@@ -30807,7 +30807,7 @@ Class : ^777777Headgear^000000
 Defense: ^7777779^000000
 Location : ^777777Upper^000000
 Weight : ^7777770^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5648#
@@ -30871,7 +30871,7 @@ Increases ATK based on the wearer's Job Lvl.
 This item cannot be Dropped or Traded.
 Class : ^777777Headgear^000000    Defense : ^7777775^000000
 Location : ^777777Upper^000000    Weight : ^77777780^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5653#
@@ -31065,7 +31065,7 @@ Defense : ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5672#
@@ -31316,7 +31316,7 @@ Defense : ^77777710^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5738#
@@ -31691,7 +31691,7 @@ Give the wind property into weapon for 3 min when give physical attack in a cert
 Class : ^777777Headgear^000000 Defense : ^7777773^000000
 Position: ^777777Upper ^000000 Weight : ^77777710^000000
 Required Lv  : ^7777771^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 5771#
@@ -32486,7 +32486,7 @@ If refined higher than +9, recover SP by 1% in every 10 seconds.
 Class: ^777777Headgear^000000 Defense: ^777777-7^000000
 Head Position: ^777777Upper^000000 Weight: ^77777750^000000
 Required Level: ^77777740^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5856#
@@ -32498,7 +32498,7 @@ MDEF+1.
 Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location: ^777777Upper ^000000 Weight : ^7777770^000000
 Required lv : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5857#
@@ -32509,7 +32509,7 @@ MDEF+1.
 Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location: ^777777Upper ^000000 Weight : ^7777770^000000
 Required lv : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5858#
@@ -32520,7 +32520,7 @@ MDEF+1.
 Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location: ^777777Upper ^000000 Weight : ^7777770^000000
 Required lv : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5859#
@@ -32531,7 +32531,7 @@ MDEF+1.
 Class : ^777777Headgear^000000 Defense : ^7777771^000000
 Location: ^777777Upper ^000000 Weight : ^7777770^000000
 Required lv : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 5860#
@@ -48069,6 +48069,14 @@ Weight : ^7777771^000000
 무게 : ^7777771^000000
 #
 
+12854#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+꽃가지 여러개를 장인이 한땀한땀 정성스럽게 덧붙여 아주 풍성하게 만들었다.
+60분간 Flee 10, 완전회피 + 1 상승.
+^ffffff_^000000
+무게 : ^77777710^000000
+#
+
 12855#
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 기간 한정 아루나펠츠 교국 스크롤.
@@ -48083,7 +48091,7 @@ MDEF + 7.
 7제련 시부터 1제련당 힐량 1%씩 추가 증가.
 9제련 시 MATK + 7% 추가 증가.
 12제련 시 MATK + 5% 추가 증가.
-발그레와 함께 장착 시, 힐량 10% 추가 증가.
+발그레, 발그레[1] 와 함께 장착 시, 힐량 10% 추가 증가.
 계열 : ^777777투구^000000 방어 : ^7777770^000000
 위치 : ^777777상단 ^000000무게 : ^77777730^000000
 요구 레벨 : ^7777771^000000
@@ -48091,7 +48099,6 @@ MDEF + 7.
 #
 
 12900#
-
 A box containing 10 Field Manual books inside.
 ^ffffff_^000000
 Field Manual - EXP rate is increased to 50% for 30 minutes.
@@ -60959,7 +60966,7 @@ Increase 20% the resistance to water property atk.
 Class : ^777777Armor^000000 Defense : ^7777771^000000
 Weight : ^77777710^000000
 Required Level : ^7777771^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 15023#
@@ -61165,7 +61172,7 @@ Resist for attribute "NOTHING" bonus 7%
 Class : ^777777Armor^000000 Defense : ^7777775^000000
 Weight : ^77777760^000000
 Required Level : ^77777760^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 15042#
@@ -63812,7 +63819,7 @@ Defense : ^7777770^000000
 Position: ^777777Upper^000000
 Weight : ^77777730^000000
 Required level : ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
@@ -63875,7 +63882,7 @@ Increases ATK based on the wearer's Job Lvl.
 This item cannot be Dropped or Traded.
 Class : ^777777Headgear^000000    Defense : ^7777775^000000
 Location : ^777777Upper^000000    Weight : ^77777780^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 16423#
@@ -64279,7 +64286,7 @@ Defense : ^7777770^000000
 Head Position : ^777777Upper ^000000
 Weight : ^77777760^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^FFFFFF_^000000
 ^ff0000Cancellation of purchase or refund is not allowed for this item.^000000
 Weight : ^7777771^000000
@@ -64298,7 +64305,7 @@ Defense : ^7777770^000000
 Head Position : ^777777Upper ^000000
 Weight : ^77777760^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^FFFFFF_^000000
 ^ff0000Cancellation of purchase or refund is not allowed for this item.^000000
 Weight : ^7777771^000000
@@ -64412,7 +64419,7 @@ Defense : ^7777773^000000
 Location : ^777777Uppper ^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
@@ -64431,7 +64438,7 @@ Defense : ^7777773^000000
 Location : ^777777Uppper ^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^ffffff_^000000
 Weight : ^7777771^000000
 #
@@ -64445,7 +64452,7 @@ Class : ^777777Headgear^000000
 Defense : ^7777770^000000 
 Location : ^777777Middle^000000
 Weight : ^77777720^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 Weight : ^7777771^000000
 #
 
@@ -64482,7 +64489,7 @@ Defense : ^7777773^000000
 Location : ^777777Upper ^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^FFFFFF_^000000
 Weight : ^7777771^000000
 #
@@ -64496,7 +64503,7 @@ Defense : ^7777773^000000
 Location : ^777777Upper ^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^FFFFFF_^000000
 Weight : ^7777771^000000
 #
@@ -64514,7 +64521,7 @@ Defense : ^7777773^000000
 Location : ^777777Upper ^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^FFFFFF_^000000
 Weight : ^7777771^000000
 #
@@ -64532,7 +64539,7 @@ Defense : ^7777773^000000
 Location : ^777777Upper ^000000
 Weight : ^77777730^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^FFFFFF_^000000
 Weight : ^7777771^000000
 #
@@ -64795,7 +64802,7 @@ Defense : ^7777772^000000
 Location: ^777777Upper^000000
 Weight : ^77777740^000000
 Level Requirement: ^77777710^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -64817,7 +64824,7 @@ Defense : ^7777772^000000
 Location: ^777777Upper^000000
 Weight : ^77777740^000000
 Level Requirement: ^77777710^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65595,7 +65602,7 @@ Defense: ^77777710^000000
 Location : ^777777Upper^000000
 Weight : ^77777780^000000
 Required Level: ^77777750^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65618,7 +65625,7 @@ Defense: ^77777710^000000
 Location : ^777777Upper^000000
 Weight : ^77777780^000000
 Required Level: ^77777750^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65635,7 +65642,7 @@ Class : ^777777Headgear^000000
 Defense: ^7777773^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65652,7 +65659,7 @@ Class : ^777777Headgear^000000
 Defense: ^7777773^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65672,7 +65679,7 @@ Defense: ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777750^000000
 Required Level : ^77777750^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65692,7 +65699,7 @@ Defense: ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777750^000000
 Required Level : ^77777750^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65714,7 +65721,7 @@ Defense: ^7777772^000000
 Location : ^777777Middle^000000
 Weight : ^77777710^000000
 Required Level : ^77777745^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65736,7 +65743,7 @@ Defense: ^7777772^000000
 Location : ^777777Middle^000000
 Weight : ^77777710^000000
 Required Level : ^77777745^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65806,7 +65813,7 @@ Can be placed in Kafra Storage
 Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location: ^777777Upper^000000    Weight : ^77777720^000000
 Level Requirement: ^77777710^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65828,7 +65835,7 @@ Can be placed in Kafra Storage
 Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location: ^777777Upper^000000    Weight : ^77777720^000000
 Level Requirement: ^77777710^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65842,7 +65849,7 @@ Cannot be upgraded and destroyed.
 Class : ^777777Headgear^000000    Defense : ^7777773^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65856,7 +65863,7 @@ Cannot be upgraded and destroyed.
 Class : ^777777Headgear^000000    Defense : ^7777773^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65878,7 +65885,7 @@ Defense: ^7777778^000000
 Location : ^777777Upper^000000
 Weight : ^77777760^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65900,7 +65907,7 @@ Defense: ^7777778^000000
 Location : ^777777Upper^000000
 Weight : ^77777760^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65958,7 +65965,7 @@ Class : ^777777Headgear^000000
 Defense: ^7777774^000000
 Position: ^777777Upper^000000
 Weight : ^77777720^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -65982,7 +65989,7 @@ Class : ^777777Headgear^000000
 Defense: ^7777774^000000
 Position: ^777777Upper^000000
 Weight : ^77777720^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66000,7 +66007,7 @@ Location : ^777777Upper^000000
 ^ffffff_^000000
 Weight : ^77777750^000000
 Required Level : ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66018,7 +66025,7 @@ Location : ^777777Upper^000000
 ^ffffff_^000000
 Weight : ^77777750^000000
 Required Level : ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66081,7 +66088,7 @@ Can be placed in Kafra Storage
 Class : ^777777Headgear^000000    Defense: ^7777772^000000
 Location: ^777777Upper, Mid^000000    Weight : ^77777740^000000
 Required Level : ^77777750^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66103,7 +66110,7 @@ Defense: ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66125,7 +66132,7 @@ Defense: ^7777772^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66144,7 +66151,7 @@ Defense: ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66163,7 +66170,7 @@ Defense: ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777730^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66185,7 +66192,7 @@ Defense: ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^777777100^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66207,7 +66214,7 @@ Defense: ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^777777100^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66231,7 +66238,7 @@ Defense: ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66255,7 +66262,7 @@ Defense: ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level: ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66274,7 +66281,7 @@ Defense: ^7777773^000000
 Position: ^777777Upper^000000
 Weight : ^77777735^000000
 Level Requirement: ^777777None^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66293,7 +66300,7 @@ Defense: ^7777773^000000
 Position: ^777777Upper^000000
 Weight : ^77777735^000000
 Level Requirement: ^777777None^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66419,7 +66426,7 @@ DEF+4
 Enables the use of the skill 'Hiding' Lv1.
 Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location : ^777777Upper-Mid^000000    Weight : ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -66433,7 +66440,7 @@ DEF+4
 Enables the use of the skill 'Hiding' Lv1.
 Class : ^777777Headgear^000000    Defense : ^7777770^000000
 Location : ^777777Upper-Mid^000000    Weight : ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 ^777777_^000000
 Weight : ^7777771^000000
 #
@@ -69326,9 +69333,17 @@ Weight : ^7777771^000000
 #
 
 16973#
-A box that contains Yellow hat.
-^ff0000Once this item opened, cannot be refunded.^000000
-Weight : ^7777771^000000
+A box that contains
+1 Costume-Yellow Hat
+Description:
+A simple yellow hat with a long feather in it. Fashionistas wear it to the side lest they be shunned.
+Class : ^777777Costume^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Applicable Job :^777777 Every Job^000000
+Box Weight : ^7777771^000000
 #
 
 16974#
@@ -69338,9 +69353,17 @@ Weight : ^7777771^000000
 #
 
 16975#
-A box that contains Singing_Bird
-^ff0000Once this item opened, cannot be refunded.^000000
-Weight : ^7777771^000000
+A box that contains
+1 Costume-Singing Bird
+Description:
+A newly hatched baby bird chirps it's tunes on a twig of dreams.
+Class : ^777777Costume^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Applicable Job :^777777 Every Job^000000
+Box Weight : ^7777771^000000
 #
 
 16976#
@@ -69350,9 +69373,17 @@ Weight : ^7777771^000000
 #
 
 16977#
-A box that contains Red crown
-^ff0000Once this item opened, cannot be refunded.^000000
-Weight : ^7777771^000000
+A box that contains
+1 Costume-Mini Crown
+Description:
+A mini red crown affixed to a headband and worn off to the side. Though not a true symbol of royalty, this crown does have a regal air about it.
+Class : ^777777Costume^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Applicable Job :^777777 Every Job^000000
+Box Weight : ^7777771^000000
 #
 
 16978#
@@ -69422,7 +69453,7 @@ Class : ^777777Garment^000000
 Defense: ^77777720^000000
 Weight : ^77777720^000000
 Required Level : ^7777771^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 Box Weight : ^7777771^000000
 #
 
@@ -69434,15 +69465,31 @@ Box Weight : ^7777771^000000
 #
 
 17014#
-A box that contains Butterfly wing ear
-^ff0000Once this item opened, cannot be refunded.^000000
-Weight : ^7777771^000000
+A box that contains
+Costume-Butterfly Ears
+Description:
+Have the appearance of wearing the wings of a butterfly as your ears with this accessory.
+Class : ^777777Middle^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Applicable Job :^777777 Every Job^000000
+Box Weight : ^7777771^000000
 #
 
 17015#
-A box that contains Nut on head.
-^ff0000Once this item opened, cannot be refunded.^000000
-Weight : ^7777771^000000
+A box that contains
+1 Costume-Bolt Ears
+Description:
+You can look like you just rolled off the assembly line with these bolt-on ear accessories.
+Class : ^777777Middle^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
+Required Level : ^7777771^000000
+Applicable Job :^777777 Every Job^000000
+Box Weight : ^7777771^000000
 #
 
 17024#
@@ -69737,7 +69784,7 @@ Defense : ^7777773^000000
 Location : ^777777Upper ^000000
 Weight : ^77777720^000000
 Required Level : ^77777771^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 ^ffffff_^000000
 Box Weight : ^7777771^000000
 #
@@ -70164,7 +70211,7 @@ Location: ^777777Upper^000000
 Defense: ^7777775^000000
 Weight : ^77777720^000000
 Required Level : ^7777771^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 
 Evil Marcher Hat Description:
 A dark marching hat worn by members of an undead band from Niffleheim.
@@ -70176,7 +70223,7 @@ Location: ^777777Upper^000000
 Defense: ^77777710^000000
 Weight : ^77777750^000000
 Required Level : ^7777771^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 17114#
@@ -70245,7 +70292,7 @@ If it refined over 5, will give 1% tolerance on property "nothing" attack
 Class : ^777777Shield^000000 Defense : ^77777755^000000
 Weight : ^77777770^000000
 Required Lv. : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 
 ^ff0000once you open this box, this item won't be refundable.^000000
 Weight : ^7777771^000000
@@ -70260,7 +70307,7 @@ All State + 2.
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^77777710^000000
 Required Lv. : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 
 ^ff0000once you open this box, this item won't be refundable.^000000
 Weight : ^7777771^000000
@@ -70278,7 +70325,7 @@ If it refined over 5, will give 1% bonus on physical attack to "Human" type and 
 Class : ^777777Headgear^000000 Defense : ^7777775^000000
 Location : ^777777Upper ^000000Weight : ^77777730^000000
 Required Lv. : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 
 ^ff0000once you open this box, this item won't be refundable.^000000
 Weight : ^7777771^000000
@@ -70295,7 +70342,7 @@ If it refined over 5, will give 1% bonus on magical attack to "Human" type and r
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^77777730^000000
 Required Lv. : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 
 ^ff0000once you open this box, this item won't be refundable.^000000
 Weight : ^7777771^000000
@@ -71033,7 +71080,7 @@ Location: ^777777Upper^000000
 Defense: ^77777710^000000
 Weight : ^77777750^000000
 Required Level : ^7777771^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18525#
@@ -71118,7 +71165,7 @@ Defense : ^7777770^000000
 Location: ^777777Upper ^000000 
 Weight : ^77777710^000000
 Required level : ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 18533#
@@ -71131,7 +71178,7 @@ location: ^777777Upper ^000000
 Defense : ^7777773^000000
 Weight : ^77777710^000000
 Required Level : ^77777750^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 18534#
@@ -71142,7 +71189,7 @@ Skill 'Mamer Night', 'Throwing money' will increase Damage 20% 증.
 Class : ^777777Headgear^000000 Defense : ^7777775^000000
 location: ^777777Upper mid ^000000 weight : ^777777100^000000
 Required Level : ^77777720^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 18536#
@@ -71183,7 +71230,7 @@ you can reduce consumption of skill sp 3%  once using with Elven Ears .
 Class : ^777777Headgear^000000 Defense : ^7777775^000000
 Location: ^777777Upper ^000000 Weight : ^77777740^000000
 Required Level : ^77777710^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 18540#
@@ -71233,7 +71280,7 @@ Class : ^777777Headgear^000000
 Defense : ^7777773^000000
 location: ^777777upper ^000000 weight : ^77777730^000000
 Rq Lv : ^77777730^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18553#
@@ -71265,7 +71312,7 @@ Able to receive the Hate Much in a certain rate from the messenger of the Devil.
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Mid ^000000 Weight : ^7777770^000000
 Req. Lv : ^7777771^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18557#
@@ -71276,7 +71323,7 @@ Able to receive the Love Much in a certain rate from the messenger of the Angel.
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Mid ^000000 Weight : ^7777770^000000
 Req. Lv : ^7777771^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18559#
@@ -71307,7 +71354,7 @@ VIT + 2, MDEF + 3.
 Class : ^777777Head-gear^000000 Defense : ^7777775^000000
 Location : ^777777Upper ^000000 Weight : ^77777730^000000
 Required Level  : ^77777740^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 18563#
@@ -71401,7 +71448,7 @@ Location: ^777777Upper Middle^000000
 Defense: ^77777710^000000
 Weight: ^777777100^000000
 Required Level: ^77777770^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18575#
@@ -71560,7 +71607,7 @@ Defense : ^7777775^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 18590#
@@ -71593,7 +71640,7 @@ Defense : ^7777778^000000
 Location : ^777777Upper^000000
 Weight : ^77777740^000000
 Required Level : ^77777750^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18596#
@@ -71604,7 +71651,7 @@ Defense : ^7777774^000000
 Location : ^777777Upper^000000
 Weight : ^77777720^000000
 Required Level : ^77777770^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18597#
@@ -71617,7 +71664,7 @@ Defense : ^77777710^000000
 Location : ^777777Upper^000000
 Weight : ^77777740^000000
 Required Level : ^77777770^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18599#
@@ -71626,7 +71673,7 @@ All State + 2.
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^77777710^000000
 Required Lv. : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 18600#
@@ -71637,7 +71684,7 @@ If it refined over 5, will give 1% bonus on physical attack to "Human" type and 
 Class : ^777777Headgear^000000 Defense : ^7777775^000000
 Location : ^777777Upper ^000000Weight : ^77777730^000000
 Required Lv. : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 18601#
@@ -71648,7 +71695,7 @@ If it refined over 5, will give 1% bonus on magical attack to "Human" type and r
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^77777730^000000
 Required Lv. : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 18602#
@@ -71665,7 +71712,7 @@ All State + 1.
 Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Middle ^000000Weight : ^77777710^000000
 Required Lv. : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 18607#
@@ -71699,7 +71746,7 @@ Defense : ^7777772^000000
 Location : ^777777Middle^000000
 Weight : ^77777720^000000
 Required Level : ^77777770^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18612#
@@ -71713,7 +71760,7 @@ Location: ^777777Upper^000000
 Defense: ^7777773^000000
 Weight : ^77777740^000000
 Required Level : ^7777771^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18613#
@@ -71726,7 +71773,7 @@ Location: ^777777Upper^000000
 Defense: ^7777773^000000
 Weight : ^77777740^000000
 Required Level : ^7777771^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18614#
@@ -71738,7 +71785,7 @@ Location: ^777777Upper^000000
 Defense: ^7777772^000000
 Weight : ^77777720^000000
 Required Level : ^77777720^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18615#
@@ -71771,7 +71818,7 @@ Location: ^777777Upper^000000
 Defense: ^7777770^000000
 Weight : ^77777720^000000
 Required Level : ^77777720^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18618#
@@ -71803,7 +71850,7 @@ Location: ^777777Middle^000000
 Defense: ^7777772^000000
 Weight : ^7777775^000000
 Required Level : ^77777720^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18621#
@@ -71814,7 +71861,7 @@ Defense : ^7777770^000000
 Location : ^777777Upper^000000
 Weight : ^77777710^000000
 Required Level : ^77777770^000000
-Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18626#
@@ -71827,7 +71874,7 @@ Location: ^777777Upper^000000
 Defense: ^7777772^000000
 Weight : ^77777720^000000
 Required Level : ^77777720^000000
-Jobs: ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 18630#
@@ -71919,7 +71966,7 @@ Location : ^777777Upper ^000000
 Defense : ^7777775^000000
 Weight : ^77777720^000000
 Required Level : ^77777730^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 18676#
@@ -71992,33 +72039,42 @@ All State + 1, 고정캐스팅 1초 감소, ASPD + 1.
 "^ff0000이벤트 기간 종료 후 투구에 걸려있던 정품효과(특수옵션, 이미지 등)가 사라집니다.^000000"
 제련불가.
 계열 : ^777777투구^000000 방어 : ^7777770^000000
-위치 : ^777777상단 ^000000무게 : ^7777775^000000
+위치 : ^777777상단 ^000000무게 : ^7777770^000000
 요구 레벨 : ^7777771^000000
 장착 : ^777777전직업^000000
 #
 
 19507#
-Strongly blazing sun on the bright sky.
-Class : ^777777Costume^000000 방어 : ^7777770^000000
-Location: ^777777Headgear Upper ^000000 Weight : ^7777770^000000
+A brightly shining sun that floats above your head.
+^ff0000This item is account bound^000000
+Class : ^777777Costume^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 19509#
-A fancy accessory that looks like swallowtail 
+Have the appearance of wearing the wings of a butterfly as your ears with this accessory.
+^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Headgear middle ^000000 Weight : ^7777770^000000
+Location: ^777777Middle^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 19510#
-A scary fake bolt that seems to cross head 
+You can look like you just rolled off the assembly line with these bolt-on ear accessories.
+^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Headgear middle ^000000 Weight : ^7777770^000000
+Location: ^777777Middle^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job : ^777777 Every Job^000000
 #
 
 19511#
@@ -72038,83 +72094,113 @@ Applicable Job : ^777777All^000000
 #
 
 19513#
-A model of bird's beak. Feel like to peak worm or feed
-Class : ^777777Costume^000000
-Location: ^777777Headgear low^000000 Weight : ^7777770^000000
+A simple bird beak. Wearing this won't make you less fearful of things.
+^ff0000This item is account bound^000000
+Class : ^777777Lower^000000
+Location: ^777777Lower ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 19514#
-a well organized beard that reminds an actor who was famous on Old movie
+A neatly trimmed mustache reminiscent of the style worn by an 'Old Timey' actor from the past.
+^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Headgear low ^000000 Weight : ^7777770^000000
+Location: ^777777Lower ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 19515#
-Adorable yellow hat with little feather. Can't be more cute
+A simple yellow hat with a long feather in it. Fashionistas wear it to the side lest they be shunned.
+^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Headgear Upper ^000000 Weight : ^7777770^000000
+Location: ^777777Lower ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 19516#
-Joyfully singing bird on tree.
+A newly hatched baby bird chirps it's tunes on a twig of dreams.
+^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location : ^777777Headgear Upper^000000 Weight : ^7777770^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 19517#
-A roosters dignified comb.
+A roosters dignified comb. But don't be fooled while wearing this or the yolk's on you!
+^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location : ^777777Headgear Upper^000000 Weight : ^7777770^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 19518#
-Rainbow that only found when rain is over.
+Share your happiness with others with this brightly colored rainbow.
+^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Headgear Upper ^000000 Weight : ^7777770^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 19519#
-Thunder from dark cloud. It seems quite dangerous.
+A dark thunder cloud that rivals the bolts created by Thor... well maybe not.
+^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Headgear Upper^000000 Weight : ^7777770^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 19520#
-pouring rain cloud
+When it rains it pours. Especially when it's only raining above your head.
+^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Headgear Upper^000000 Weight : ^7777770^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 19521#
-a handsome Hat that reminds an actor who was famous on Old movie
+A circular shaped bowler hat reminiscent of the style worn by an 'Old Timey' actor from the past.
+^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location: ^777777Headgear Upper^000000 Weight : ^7777770^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 19522#
-A mini red crown that is slightly askew.
+A mini red crown affixed to a headband and worn off to the side. Though not a true symbol of royalty, this crown does have a regal air about it.
+^ff0000This item is account bound^000000
 Class : ^777777Costume^000000
-Location : ^777777Headgear Upper^000000 Weight : ^7777770^000000
+Location: ^777777Upper ^000000
+Defense : ^7777770^000000
+Weight : ^7777770^000000
 Required Level : ^7777771^000000
-Applicable Job : ^777777All^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 19523#

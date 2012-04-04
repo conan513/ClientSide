@@ -965,8 +965,8 @@ tower_d8.rsw#Tower D8#
 tower_d9.rsw#Tower D9#
 treasure01.rsw#Sunken Ship#
 treasure02.rsw#Sunken Ship#
-treasure_n1.rsw#알베르타 침몰선 1층#
-treasure_n2.rsw#알베르타 침몰선 2층#
+treasure_n1.rsw#이즈루드 난파선 1층#
+treasure_n2.rsw#이즈루드 난파선 2층#
 tur_dun01.rsw#Turtle Island#
 tur_dun02.rsw#Turtle Island Dungeon#
 tur_dun03.rsw#Good Turtles Village#

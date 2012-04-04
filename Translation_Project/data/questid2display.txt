@@ -4280,7 +4280,7 @@ Your first task is to find a foreigner in Veins. Ask Daora in the pub if she has
 
 7104#Job Change to Guillotine Cross#SG_FEEL#QUE_NOIMAGE#
 Melissa says that the girl you are looking for is named Estillda. She said that Estillda will pass by a dead-end alley at the northeast end of Veins in one hour.#
-Wait one hour and find Estillda.#
+Wait 15 minutes and find Estillda.#
 
 7105#Job Change to Guillotine Cross#SG_FEEL#QUE_NOIMAGE#
 Estillda got away but she's still around here somewhere. Make sure that you're alone and try to catch her again in 10 minutes.#
@@ -4291,7 +4291,7 @@ You found Estillda. After calming her down you told her how to get to Daora's pu
 #
 
 7107#Job Change to Guillotine Cross#SG_FEEL#QUE_NOIMAGE#
-Estillda said that she's supposed to meet the man she works for in 3 hours at a warehouse near the southern entrance to Veins.#
+Estillda said that she's supposed to meet the man she works for in 30 minutes at a warehouse near the southern entrance to Veins.#
 #
 
 7108#Job Change to Guillotine Cross#SG_FEEL#QUE_NOIMAGE#
