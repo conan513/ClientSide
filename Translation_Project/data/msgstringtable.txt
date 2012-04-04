@@ -2180,20 +2180,20 @@ Rotate right#
 기존 캐릭명 : #
 Show monster HP bar when attacking.#
 Hide monster HP bar when attacking..#
-~2182#
-~2183#
-~2184#
-~2185#
-~2186#
-~2187#
-~2188#
-~2189#
-~2190#
-~2191#
-~2192#
-~2193#
-~2194#
-~2195#
+병합 가능한 아이템이 존재하지 않습니다#
+병합 가능한 아이템이 존재하지 않습니다.#
+Act#
+Pen#
+Rec#
+Epi#
+Loc#
+Evnt#
+New#
+Monsters to kill#
+Rewards#
+Required Items#
+Time Limit#
+Deadline#
 ~2196#
 ~2197#
 ~2198#
