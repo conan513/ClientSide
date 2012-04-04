@@ -75,11 +75,11 @@ MsgStrID = {
 	MSI_HK_GROUND_CURSOR_ONOFF = "Ground Cursor On/Off",
 	MSI_HK_EXMACRO_SETUPWND = "Macro Setting Window",
 	MSI_HK_CASHSHOPWND = "Simple Cashshop On/Off",
-	MSI_HK_REPLAY_ONOFF = "Shows replay/recoding window On/Off",
+	MSI_HK_REPLAY_ONOFF = "Recording On/Off",
 	MSI_HK_REPLAY_STARTSTOP = "Start/Stop recording",
 	MSI_HK_REPLAY_SPEEDP = "Increase replay speed",
 	MSI_HK_REPLAY_SPEEDN = "Reduce replay speed",
-	MSI_HK_NAVIGATION_ONOFF = "Shows navigation window On/Off",
+	MSI_HK_NAVIGATION_ONOFF = "Navigation On/Off",
 	-- Hotkey_3 (Macros)
 	MSI_HK_MACRO_1 = "Macro 1",
 	MSI_HK_MACRO_2 = "Macro 2",

@@ -1,3 +1,7 @@
+rev196 - [2012-04-05]
+ - Changed some msgstring_kr.lua strings to fit in the Shortcuts tab
+ * not much of an issue so there will be no v2 for the lub
+
 rev195 - [2012-04-05]
  - 2012-04-04 kRO Patch lua and lub
 
