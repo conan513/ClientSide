@@ -3782,6 +3782,10 @@ LP(생존포인트)를 아껴서 종료지점에 도달해야 시험에 통과할 수 있다.#
 방금 소켓인챈트한 코튼셔츠를 장비하고 쓴풍에게 가서 히든인챈트를 해오자.#
 쓴풍에게 가세요.#
 
+5160#도서관의 관리실수#SG_FEEL#QUE_NOIMAGE#
+메테우스 실프는 도서관에서 도망친 책이 문제를 일으키기 전에 잡아오면, 이미르의 서를 보여주겠다고 했다. 유노인근의 도서관 가드를 도와 도망친 책을 포획하자.#
+포획한 책 1권#
+
 6000#Job Change to Taekwon#SG_FEEL#QUE_NOIMAGE#
 You've chosen you're path to become a Taekwon. You must increase your base level and talk to Phoenix.#
 #
@@ -5817,6 +5821,10 @@ It seems ingredients are delivered daily. You might get some part time work this
 7494#버섯 농장 정화#SG_FEEL#QUE_NOIMAGE#
 피라미드 앞 오아시스 옆 마쉬를 통해 버섯농장으로 들어가 '촌촌'과 '파브르'를 10마리 처치해 달라는 의뢰를 받았다.#
 촌촌과 파브르 처치#
+
+7495#알림#SG_FEEL#QUE_NOIMAGE#
+테스트#
+#
 
 8000#Quitting Job Change#SG_FEEL#QUE_NOIMAGE#
 Give up changing your job to Assassin and go back to town. #

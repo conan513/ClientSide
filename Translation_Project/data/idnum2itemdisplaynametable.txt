@@ -2532,7 +2532,7 @@
 4871#SP+75#
 4872#공격후딜레이2Lv#
 4873#공격후딜레이3Lv#
-4874#봄의녹주석#
+//4874#봄의녹주석#
 4991#Kafra_Blossom_Card#
 4998#GM_Aegis_Card#
 4999#GM_Valor_Card#
@@ -3870,6 +3870,7 @@
 6566#Fierce_Cacao_99_Recipe#
 6567#Chocolate_Drink_Recipe#
 6581#성스러운_아뮬렛#
+6586#포획한_책#
 7001#Mould_Powder#
 7002#Ogre_Tooth#
 7003#Anolian_Skin#
