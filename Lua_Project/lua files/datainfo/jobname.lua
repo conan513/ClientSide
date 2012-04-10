@@ -2085,5 +2085,6 @@ JobNameTable = {
 	[jobtbl.JT_DUMMY_100] = "HORN_SCARABA2_EGG",
 	[jobtbl.JT_DUMMY_150] = "DRAGON_EGG",
 	[jobtbl.JT_E_VALKIWI] = "RANDGRIS",
-	[jobtbl.JT_DUMMY_10_FIRE] = "ANT_EGG"
+	[jobtbl.JT_DUMMY_10_FIRE] = "ANT_EGG",
+	[jobtbl.JT_RUNAWAY_BOOK] = "RIDEWORD"
 }

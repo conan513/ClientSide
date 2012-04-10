@@ -1414,7 +1414,8 @@ jobtbl = {
 	["JT_DUMMY_150"] = 2411,
 	["JT_E_VALKIWI"] = 2412,
 	["JT_DUMMY_10_FIRE"] = 2413,
-	["JT_MONSTER_LAST"] = 2414,
+	["JT_RUNAWAY_BOOK"] = 2414,
+	["JT_MONSTER_LAST"] = 2415,
 	--Mercenary & Homunculus Start
 	["JT_MER_LIF"] = 6001,
 	["JT_MER_AMISTR"] = 6002,
