@@ -38,3 +38,5 @@
 0x0363,90,useskilltoposinfo,2:4:6:8:10
 0x0898,6,getcharnamerequest,2
 0x035F,6,solvecharname,2
+0x0907,5,moveitem,2:4
+0x0908,5
