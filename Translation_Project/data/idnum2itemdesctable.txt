@@ -15113,12 +15113,13 @@ Applicable Job :^777777 Every Job^000000
 #
 
 2573#
-White and big wings of archangel.
-Class : ^777777costume^000000
+White wings of a holy Archangel.
+Slot : ^7777771^000000
+Class : ^777777Garment^000000
 Defense : ^77777718^000000
 Weight : ^77777720^000000
-Required level : ^7777771^000000
-Job : ^777777Every Job^000000
+Required Level : ^7777771^000000
+Applicable Job :^777777 Every Job^000000
 #
 
 2574#
@@ -33545,9 +33546,7 @@ Not sure how you got this
 #
 
 6158#
-A cute pet Drops tickets.
-^ffffff_^000000
-Weight :^777777 0^000000
+Not sure how you got this
 #
 
 6159#
@@ -48087,6 +48086,35 @@ Weight : ^7777771^000000
 기간 한정 아루나펠츠 교국 스크롤.
 늘어진 교황모자, 무기 11제련 보장권, 방어구 11제련 보장권, 수호의 반지, 마력 깃든 카드첩 등등 여러가지 희귀한 아이템 중 하나를 얻을 수 있다.
 무게 : ^7777771^000000
+#
+
+12859#
+Available ^ff0000April 11 - April 24th 2012^000000. The Spring Lucky Pack also can be bought at a slight discount via the Spring Lucky Crate which also contains 1 Safe to 10 Certificate.
+Grandma Boxter is in and surely she would love some of these items too!
+^FFFFFF_^000000
+Opening this randomly give you one of the following item sets
+- 1x Heroic Desocketing Book
+- 1x Slotting Advertisement
+- 1x Party Hard Pack
+- 1x +20 Basic Food Pack
+- 1x Party Buff Scroll Pack
+- 1x Class Set Card Album
+- 2x Battle Manual X3
+- 10x Fencer Scroll
+- 30x KVM Badge
+- 1500x Prize Medal
+- 1x Archangel Wing
+- 1x Blue Tiger Mask
+- 1x Mini Glasses [1]
+- 1x Red Wing Hat [1]
+- 1x Taurus Crown
+- 1x Taurus Diadem
+- 1x Aries Crown
+- 1x Aries Diadem
+^FFFFFF_^000000
+^FF0000This item cannot be traded, but may be stored.^000000
+^FFFFFF_^000000
+Weight : ^7777771^000000
 #
 
 18673#
@@ -69696,10 +69724,14 @@ Weight : ^7777771^000000
 #
 
 17068#
-^ff0000 unable to trade with other account.^000000
-A box has fire bottle 50 and acid bottle 50. must careful on dealing with.
-^ff0000once opens, cannot refund .^000000
-Weight : ^7777771^000000
+A demolition specialist's starter kit, designed to help with creation of Acid Bombs.
+Contains 50 each of the following:
+-Acid Bottle
+-Bottle Grenade
+^ff0000This item will be available initially for one week as a test, if it proves viable it may remain in the shop.^000000.
+^ff0000unable to trade with other account.^000000
+^ff0000Cannot be refunded once opened.^000000
+Weight: ^7777771^000000
 #
 
 17069#
@@ -70686,8 +70718,39 @@ All State + 1.
 무게 : ^7777771^000000
 #
 
-18000#
+17199#
+A crate that contains ^0000CC6 Spring Lucky Boxes^000000 & ^0000CC1 Safe to 10 Certificate^000000
+^ff0000This item and the box inside is account bound.^000000
+Description:
+The Spring Lucky Box contains many items of pure win.  It is advised to use with caution.
+Spring Lucky Box is not meant to be consumed internally.
+^FFFFFF_^000000
+Opening this randomly give you one of the following item sets
+- 1x Heroic Desocketing Book
+- 1x Slotting Advertisement
+- 1x Party Hard Pack
+- 1x +20 Basic Food Pack
+- 1x Party Buff Scroll Pack
+- 1x Class Set Card Album
+- 2x Battle Manual X3
+- 10x Fencer Scroll
+- 30x KVM Badge
+- 1500x Prize Medal
+- 1x Archangel Wing
+- 1x Blue Tiger Mask
+- 1x Mini Glasses [1]
+- 1x Red Wing Hat [1]
+- 1x Taurus Crown
+- 1x Taurus Diadem
+- 1x Aries Crown
+- 1x Aries Diadem
+^FFFFFF_^000000
+^FF0000This item cannot be traded, but may be stored.^000000
+^FFFFFF_^000000
+Weight : ^7777771^000000
+#
 
+18000#
 Required item to use the Mechanic Magic gear skill "Arm Cannon".
 Class :^777777 Shell^000000
 Attack :^777777 100^000000

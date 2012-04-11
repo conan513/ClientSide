@@ -5745,6 +5745,7 @@
 12849#조합용_키트#
 12854#풍성한_꽃가지#
 12855#교황스크롤#
+12859#Spring_Lucky_Pack#
 12900#Battle_Manual_Box#
 12901#Insurance_Package#
 12902#Bubble_Gum_Box#
@@ -8038,7 +8039,7 @@
 17065#금우궁_왕관_상자#
 17066#Poison_Bottle_Box50#
 17067#Poison_Bottle_Box100#
-17068#Acidbomb_Box50#
+17068#Acid_Bomb_50_Pack#
 17069#Acidbomb_Box100#
 17070#Acidbomb_Box500#
 17071#Superb_Fish_Box50#
@@ -8124,6 +8125,7 @@
 17181#Getting_Lucky_Box#
 17182#타락천사의_날개_상자#
 17193#제련용_광석상자Ⅱ#
+17199#Spring_Lucky_Crate#
 18000#Cannon_Ball#
 18001#Holy_Cannon_Ball#
 18002#Dark_Cannon_Ball#
