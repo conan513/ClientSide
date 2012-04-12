@@ -4419,9 +4419,9 @@
 7547#Football#
 7548#Soccer_Shoes#
 7549#Brazilian_Flag#
-7550#6.13_Ticket#
-7551#6.18_Ticket#
-7552#6.22_Ticket#
+7550#Bunny_Coupon_A#
+7551#Bunny_Coupon_B#
+7552#Bunny_Coupon_C#
 7553#Water_Lily#
 7554#Striped_Candle#
 7555#Green_Incense#
@@ -5731,6 +5731,7 @@
 12826#Wind Type Scroll#
 12827#Water_Type_Scroll#
 12828#Aeon_Firesong_Scroll#
+12829#Geheimnis_Terra_Scroll#
 12830#고목나무_상자#
 12831#포션_상자#
 12832#신묘한_생명수#

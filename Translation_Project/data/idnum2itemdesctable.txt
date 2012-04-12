@@ -39633,27 +39633,18 @@ Weight :^777777 1^000000
 #
 
 7550#
-1st Brazilian cup ticket.
-Place : Brazil Olympic Stadium
-Time :^000088 6.13 4PM^000000
-^ffffff_^000000
-Weight :^777777 1^000000
+Coupon used by Bunny Corp. for the Upgrading Challenge Event, equivalent to +7.
+Weight : ^7777771^000000
 #
 
 7551#
-1st Brazilian cup ticket.
-Place : Brazil Olympic Stadium
-Time :^000088 6.18 1PM^000000
-^ffffff_^000000
-Weight :^777777 1^000000
+Coupon used by Bunny Corp. for the Upgrading Challenge Event, equivalent to +8.
+Weight : ^7777771^000000
 #
 
 7552#
-1st Brazilian cup ticket.
-Place : Brazil Olympic Stadium
-Time :^000088 6.22 4PM^000000
-^ffffff_^000000
-Weight :^777777 1^000000
+Coupon used by Bunny Corp. for the Upgrading Challenge Event, equivalent to +9.
+Weight : ^7777771^000000
 #
 
 7553#
@@ -47996,8 +47987,8 @@ Weight : ^7777771^000000
 #
 
 12829#
-An Earth Type Zodiac scroll you can get precious items in it .
-Weight : ^7777771^000000
+You know this day is going to be epic! *wink wink* - Geheimnis
+Weight : ^77777720^000000
 #
 
 12830#
