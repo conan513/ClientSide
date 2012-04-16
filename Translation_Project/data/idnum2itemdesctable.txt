@@ -61082,7 +61082,7 @@ Applicable Job : ^777777 Arch Bishop^000000
 
 15030#
 An item said to be used by a priest who in ancient times fought against the hordes of demons.
-STR + 2, MDEF + 10.
+STR + 1, INT + 1, MDEF + 10.
 Increases damage of ^008800Judex^000000 by 30%, but increases SP cost by 40.
 Class : ^777777 Armor^000000
 Defense : ^777777 22^000000
