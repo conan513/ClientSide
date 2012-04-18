@@ -12606,10 +12606,7 @@ SKILL_DESCRIPT = {
 		"Gate of Hell (Rakshasa Phoenix Destruction Fist)",
 		"Max Level:^777777 10^000000",
 		"Type:^777777 Active / Damage^000000",
-		"SP Cost:^777777 Unknown^000000",
-		"Target:^777777 Enemy^000000",
-		"Cast Time:^777777 Unknown^000000",
-		"Effect:^777777 Can only be used while in Fury state. Instantly strikes a target with countless blows. The more spirit spheres you have, and the lower the caster's HP, the more damage it does. The skill consumes 20% of your Max SP and all of your spirit spheres. Can be used after Fallen Empire, and when used this way the SP consumption is reduced by 10% and the damage slightly increased.^000000",
+		"Effect:^777777 Can only be used while in Fury state. Instantly strikes a target with countless blows. The more spirit spheres you have, and the lower the caster's HP, the more damage it does. The skill consumes certain amount of SP and all of your spirit spheres. Can be used after Fallen Empire, and when used this way the SP consumption is reduced by 10% and the damage slightly increased.^000000",
 	},
 
 	[SKID.SR_GENTLETOUCH_QUIET] = {

@@ -1,3 +1,8 @@
+rev209 - [2012-04-18]
+ - 2012-04-18 kRO Patch lua and lub
+ * new lua files weapontable_f and weapontable
+ * new /System/ file will be committed tomorrow
+
 rev202 - [2012-04-11]
  - 2012-04-10 kRO Patch lua and lub
 
