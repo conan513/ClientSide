@@ -310,10 +310,48 @@ mapNPCInfoTable = {
 		{ name = "Guide", X = 72, Y = 51, TYPE = 4 },
 		{ name = "Guide", X = 25, Y = 158, TYPE = 4 },
 		{ name = "Guide", X = 167, Y = 76, TYPE = 4 },
+		{ name = "Guide", X = 167, Y = 76, TYPE = 4 },
 		{ name = "Tool Dealer", X = 112, Y = 110, TYPE = 0 },
 		{ name = "Inn", X = 44, Y = 127, TYPE = 5 }
+	},
+
+	izlude_a = {
+		{ name = "Kafra Employee", X = 128, Y = 148, TYPE = 6 },
+		{ name = "Guide", X = 129, Y = 175, TYPE = 4 },
+		{ name = "Guide", X = 133, Y = 113, TYPE = 4 },
+		{ name = "Guide", X = 120, Y = 206, TYPE = 4 },
+		{ name = "상점", X = 112, Y = 179, TYPE = 0 }, --Store? House? err?
+		{ name = "Blacksmith", X = 162, Y = 125, TYPE = 3 }
+	},
+
+	izlude_b = {
+		{ name = "Kafra Employee", X = 128, Y = 148, TYPE = 6 },
+		{ name = "Guide", X = 129, Y = 175, TYPE = 4 },
+		{ name = "Guide", X = 133, Y = 113, TYPE = 4 },
+		{ name = "Guide", X = 120, Y = 206, TYPE = 4 },
+		{ name = "상점", X = 112, Y = 179, TYPE = 0 }, --Store? House? err?
+		{ name = "Blacksmith", X = 162, Y = 125, TYPE = 3 }
+	},
+
+	izlude_c = {
+		{ name = "Kafra Employee", X = 128, Y = 148, TYPE = 6 },
+		{ name = "Guide", X = 129, Y = 175, TYPE = 4 },
+		{ name = "Guide", X = 133, Y = 113, TYPE = 4 },
+		{ name = "Guide", X = 120, Y = 206, TYPE = 4 },
+		{ name = "상점", X = 112, Y = 179, TYPE = 0 }, --Store? House? err?
+		{ name = "Blacksmith", X = 162, Y = 125, TYPE = 3 }
+	},
+
+	izlude_d = {
+		{ name = "Kafra Employee", X = 128, Y = 148, TYPE = 6 },
+		{ name = "Guide", X = 129, Y = 175, TYPE = 4 },
+		{ name = "Guide", X = 133, Y = 113, TYPE = 4 },
+		{ name = "Guide", X = 120, Y = 206, TYPE = 4 },
+		{ name = "상점", X = 112, Y = 179, TYPE = 0 }, --Store? House? err?
+		{ name = "Blacksmith", X = 162, Y = 125, TYPE = 3 }
 	}
 }
+
 --Function #0
 main = function()
   for mapName,info in pairs(mapNPCInfoTable) do

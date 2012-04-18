@@ -1,3 +1,9 @@
+rev211 - [2012-04-19]
+ - Added System/itemInfo.lua
+ * this is the replacement for data/(id)num2item(displayname|resname|desc)table.txt and itemslotcountable.txt starting 2012-04-17 and up
+ * this is does NOT include exclusive items from pRO and iRO, they will be imported later
+ - Updated TownInfo.lua
+
 rev209 - [2012-04-18]
  - 2012-04-18 kRO Patch lua and lub
  * new lua files weapontable_f and weapontable
