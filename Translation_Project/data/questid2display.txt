@@ -5826,6 +5826,70 @@ It seems ingredients are delivered daily. You might get some part time work this
 테스트#
 #
 
+7501#수상한 녀석 1#SG_FEEL#QUE_NOIMAGE#
+공성전TE 아지트 글로리아 지역에서 공성전 시간에만 등장하는 수상한 베이비를 퇴치 해 달라는 의뢰다. 목표는 일단 1마리.#
+수상한 베이비 퇴치#
+
+7502#수상한 녀석 10#SG_FEEL#QUE_NOIMAGE#
+공성전TE 아지트 글로리아 지역에서 공성전 시간에만 등장하는 수상한 베이비를 퇴치 해 달라는 의뢰다. 목표는 일단 10마리.#
+수상한 베이비 퇴치#
+
+7503#수상한 녀석 30#SG_FEEL#QUE_NOIMAGE#
+공성전TE 아지트 글로리아 지역에서 공성전 시간에만 등장하는 수상한 베이비를 퇴치 해 달라는 의뢰다. 목표는 일단 30마리.#
+수상한 베이비 퇴치#
+
+7504#엠펠브레이커 1#SG_FEEL#QUE_NOIMAGE#
+공성전의  꽃, 엠펠리움 파괴! 엠펠리움 파괴에 도전하자. 공선전 TE 지역인 글로리아와 카프라가텐 아지트에 등장하는 엠펠리움 1개 이상 격파!#
+엠펠리움 파괴#
+
+7505#엠펠브레이커 3#SG_FEEL#QUE_NOIMAGE#
+공성전의  꽃, 엠펠리움 파괴! 엠펠리움 파괴에 도전하자. 공선전 TE 지역인 글로리아와 카프라가텐 아지트에 등장하는 엠펠리움 3개 이상 격파!#
+엠펠리움 파괴#
+
+7506#엠펠브레이커 5#SG_FEEL#QUE_NOIMAGE#
+공성전의  꽃, 엠펠리움 파괴! 엠펠리움 파괴에 도전하자. 공선전 TE 지역인 글로리아와 카프라가텐 아지트에 등장하는 엠펠리움 5개 이상 격파!#
+엠펠리움 파괴#
+
+7507#작은 나무상자 10#SG_FEEL#QUE_NOIMAGE#
+글로리아 아지트 지역에서 수상한 베이비가 작은 나무상자 수십개를 훔쳐갔다고 한다. 공성전 TE 시간대에 글로리아 아지트 지역에서 나무상자 10개를 수거하자.#
+작은 나무상자 10개#
+
+7508#작은 나무상자 20#SG_FEEL#QUE_NOIMAGE#
+글로리아 아지트 지역에서 수상한 베이비가 작은 나무상자 수십개를 훔쳐갔다고 한다. 공성전 TE 시간대에 글로리아 아지트 지역에서 나무상자 20개를 수거하자.#
+작은 나무상자 20개#
+
+7509#작은 나무상자 30#SG_FEEL#QUE_NOIMAGE#
+글로리아 아지트 지역에서 수상한 베이비가 작은 나무상자 수십개를 훔쳐갔다고 한다. 공성전 TE 시간대에 글로리아 아지트 지역에서 나무상자 30개를 수거하자.#
+작은 나무상자 30개#
+
+7510#도둑 퇴치 1#SG_FEEL#QUE_NOIMAGE#
+공성전TE 아지트 글로리아 지역에서 공성전 시간에만 등장하는 도둑 포링을 퇴치 해 달라는 의뢰다. 목표는 일단 1마리.#
+도둑 포링 퇴치#
+
+7511#도둑 퇴치 10#SG_FEEL#QUE_NOIMAGE#
+공성전TE 아지트 글로리아 지역에서 공성전 시간에만 등장하는 도둑 포링을 퇴치 해 달라는 의뢰다. 목표는 일단 10마리.#
+도둑 포링 퇴치#
+
+7512#도둑 퇴치 30#SG_FEEL#QUE_NOIMAGE#
+공성전TE 아지트 글로리아 지역에서 공성전 시간에만 등장하는 도둑 포링을 퇴치 해 달라는 의뢰다. 목표는 일단 30마리.#
+도둑 포링 퇴치#
+
+7513#월급명세서 10#SG_FEEL#QUE_NOIMAGE#
+이유를 알 수 없지만, 도둑 포링이 카프라의 월급 명세서를 다량 가져간 모양이다. 월급 명세서를 찾아달라는군. 목표 수량은 10장 이상#
+카프라월급명세서 10장#
+
+7514#월급명세서 20#SG_FEEL#QUE_NOIMAGE#
+이유를 알 수 없지만, 도둑 포링이 카프라의 월급 명세서를 다량 가져간 모양이다. 월급 명세서를 찾아달라는군. 목표 수량은 20장 이상#
+카프라월급명세서 20장#
+
+7515#월급명세서 30#SG_FEEL#QUE_NOIMAGE#
+이유를 알 수 없지만, 도둑 포링이 카프라의 월급 명세서를 다량 가져간 모양이다. 월급 명세서를 찾아달라는군. 목표 수량은 30장 이상#
+카프라월급명세서 30장#
+
+7516#상업발전도를 위한 휴식#SG_FEEL#QUE_NOIMAGE#
+엠펠리움을 연속으로 파괴할 경우 상업발전도가 과도하게 낮아진다고 한다. 소중한 상업발전도를 위해 잠깐 휴식하자.#
+20분 휴식#
+
 8000#Quitting Job Change#SG_FEEL#QUE_NOIMAGE#
 Give up changing your job to Assassin and go back to town. #
 Quit Job Change to Assassin#
@@ -9341,6 +9405,10 @@ Bring the Supply Kit to Daphrer.#
 11254#바알의 노천까페#SG_FEEL#QUE_NOIMAGE#
 손님이 화가나서 돌아가 버렸다.#
 어쨌든 바알에게 돌아가자.#
+
+11255#수달 삼쑨#SG_FEEL#QUE_NOIMAGE#
+크리투라 미용쿠폰으로 헤어스타일을 변경했습니다. 쿠폰은 1회만 사용할 수 있습니다.#
+스똬일~#
 
 11264#신급초기화#SG_FEEL#QUE_NOIMAGE#
 신급 퀘스트가 초기화 되었습니다.#
@@ -14980,6 +15048,122 @@ You've found the last fragment of the locket under some wet earth. Take it back 
 
 60956#Orcish Envoy#SG_FEEL#QUE_NOIMAGE#
 The Orcish Envoy is only accepting Orcish Vouchers every 5 minutes. Wait for the timer before giving him more.#
+#
+
+61001#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+You have met a Beholder on the Airship that says that a friend of his needs help inside the Rachel Temple#
+Search the second floor of Rachel Temple for Beho#
+
+61002#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Continue your conversation with Beho#
+#
+
+61003#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Look for the love of Beho's life Bianca. She is in one of the lower floor libraries of Rachel Temple.#
+#
+
+61004#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Return to Beho on the second floor of the Temple and tell him about the situation of Bianca's fear of Beholders.#
+#
+
+61005#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Continue your conversation with Beho#
+#
+
+61006#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Search for Kyara in the sanctuary to have her prepare some a delicious gift for Bianca from Beho.#
+#
+
+61007#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+You have received a White Chocolate from Kyara. Now it's time to convince her that Beholders are not evil.#
+Continue your conversation with Kyara#
+
+61008#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Now that you seem to have Kyara convinced, it's time to go back and tell Beho what you've accomplished so far. Oh and don't forget the chocolate.#
+#
+
+61009#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Beho mentions that Bianca loves a singer named Doina who happens to be visiting here in Rachel.#
+Search for Doina and ask her about writing a song.#
+
+61010#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Speak to Doina about writing the score for the song that you want her to sing.#
+#
+
+61011#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Now that you have the score, bring it back to Beho.#
+#
+
+61012#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Search for Lilla at the Rachel Inn and ask her to make some jewelry for Beho so he can give it to Bianca.#
+#
+
+61013#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Search for the missing beads that Lilla has lost at the Inn.#
+#
+
+61014#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+You've found one of the missing beads, continue your search until you've found all 4.#
+#
+
+61015#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+You've found one of the missing beads, continue your search until you've found all 4.#
+#
+
+61016#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+You've found one of the missing beads, continue your search until you've found all 4.#
+#
+
+61017#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+You've found the last bag of missing beads, return to Lilla and give them to her.#
+#
+
+61018#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+You have received a necklace from Lilla after giving her the missing beads. Lilla tells you to find the gardener named Kees outside of the Inn.#
+#
+
+61019#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Find a Rose in the area surrounding the Inn#
+#
+
+61020#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Find an Iris in the area surrounding the Inn#
+#
+
+61021#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Find a Mimosa in the area surrounding the Inn#
+#
+
+61022#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Find a Lily in the area surrounding the Inn#
+#
+
+61023#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Now that you have all of the flowers, bring them all back to Kees.#
+#
+
+61024#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+You have received a bouquet of flowers to give to Bianca for Beho.#
+#
+
+61025#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Speak to the Pope who is near the entrance on the first floor of Rachel Temple.#
+#
+
+61026#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Now that you've received a prayer from the Pope, go to Bianca and bring her the Chocolate, Flowers and Jewelry that you are supposed to give her.#
+#
+
+61027#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Continue your conversation with Bianca#
+#
+
+61028#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Bianca has agreed to meet Beho at the Rachel Temple Gardens just to the northwest area of the Temple entrance.#
+#
+
+61029#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
+Observe Beho and Bianca and make sure that your plan for the one-eyed loverboy worked.#
 #
 
 70001#Searching for the Treasure Map#SG_FEEL#QUE_NOIMAGE#

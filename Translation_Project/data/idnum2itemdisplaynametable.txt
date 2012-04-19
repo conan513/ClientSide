@@ -147,7 +147,7 @@
 660#Forbidden_Red_Candle#
 661#Soft_Apron#
 662#Authoritative_Badge#
-663#Korean Rice Cake#
+663#Korean_Rice_Cake#
 664#Gift_Box#
 665#Gift_Box#
 666#Gift_Box#
@@ -590,7 +590,7 @@
 1255#Jamadhar#
 1256#Katar_of_Frozen_Icicle#
 1257#Katar_of_Quaking#
-1258#Katar_of_ Raging_Blaze#
+1258#Katar_of__Raging_Blaze#
 1259#Katar_of_Piercing_Wind#
 1260#Sharpened_Legbone_of_Ghoul#
 1261#Infiltrator#
@@ -609,7 +609,7 @@
 1274#Refined_Unholy_Touch#
 1275#Katar_of_Frozen_Icicle#
 1276#Katar_of_Quaking#
-1277#Katar_of_ Raging_Blaze#
+1277#Katar_of__Raging_Blaze#
 1278#Katar_of_Piercing_Wind#
 1279#Brave_Carnage_Katar#
 1280#Valorous_Carnage_Katar#
@@ -628,6 +628,7 @@
 1293#벨룸_자마다르#
 1294#벨룸_스케어#
 1296#메탈_카타르#
+1299#TE_공성_카타르#
 1301#Axe#
 1302#Axe#
 1303#Axe#
@@ -643,6 +644,7 @@
 1313#Traveler's_Axe#
 1314#Rental_Tomahawk#
 1315#Right_Epsilon#
+1319#TE_공성_액스#
 1351#Battle_Axe#
 1352#Battle_Axe#
 1353#Battle_Axe#
@@ -688,6 +690,7 @@
 1395#벨룸_버스터#
 1396#벨룸_길로틴#
 1398#메탈_투핸드액스#
+1399#TE_공성_투핸드_액스#
 1401#Javelin#
 1402#Javelin#
 1403#Javelin#
@@ -723,6 +726,7 @@
 1434#Eden_Group_Spear_I#
 1435#캐논_스피어#
 1436#벨룸_스피어#
+1437#TE_공성_파이크#
 1451#Guisarme#
 1452#Guisarme#
 1453#Guisarme#
@@ -766,6 +770,7 @@
 1491#강화_랜스#
 1492#벨룸_글레이브#
 1493#메탈_랜스#
+1495#TE_공성_랜스#
 1501#Club#
 1502#Club#
 1503#Club#
@@ -853,6 +858,7 @@
 1586#벨룸_바이블#
 1587#벨룸_대백과사전#
 1588#메탈_북#
+1591#TE_공성_책#
 1599#Angra_manyu#
 1601#Rod#
 1602#Rod#
@@ -913,6 +919,7 @@
 1659#회복의_빛#
 1660#Empowered_Wand_Of_Affection#
 1661#멘탈_디스트로이어#
+1667#TE_공성_스태프#
 1701#Bow#
 1702#Bow#
 1703#Bow#
@@ -1020,6 +1027,7 @@
 1830#Sura's_Rampage#
 1831#Eden_Group_Knuckle_I#
 1832#벨룸_크로#
+1834#TE_공성_피스트#
 1901#Violin#
 1902#Violin#
 1903#Mandolin#
@@ -1051,6 +1059,7 @@
 1929#Guitar#
 1930#Green_Whistle#
 1931#Eden_Group_Guitar_I#
+1932#TE_공성_기타#
 1950#Rope#
 1951#Rope#
 1952#Whip#
@@ -1088,6 +1097,7 @@
 1984#Stem_Whip#
 1985#Rosevine#
 1986#Eden_Group_Whip_I#
+1987#TE_공성_로프#
 2000#Staff_of_Destruction#
 2001#Divine_Cross#
 2002#Glorious_Destruction_Staff#
@@ -1106,6 +1116,9 @@
 2015#강화_스태프#
 2016#벨룸_아크완드#
 2018#메탈_스태프#
+2019#TE_공성_투핸드_스태프#
+2020#요르문간드#
+2021#간반테인#
 2101#Guard#
 2102#Guard#
 2103#Buckler#
@@ -1172,6 +1185,11 @@
 2171#여우_문양_팔목_보호대#
 2172#늑대_문양_팔목_보호대#
 2173#초승달_문양_팔목_보호대#
+2178#TE_공성_버클러#
+2179#TE_공성_쉴드#
+2180#TE_공성_매직가드#
+2181#헤르보르#
+2182#헤르보르_아르비트#
 2199#Ahura_Mazdah#
 2201#Sunglasses#
 2202#Sunglasses#
@@ -1455,6 +1473,9 @@
 2485#시즈_슈즈#
 2491#Bangungot_Boots_of_Nightmare#
 2492#Bangungot_Boots_of_Nightmare(Bayani)#
+2496#TE_공성_슈즈#
+2497#TE_공성_부츠#
+2498#TE_공성_마법샌들#
 2501#Hood#
 2502#Hood#
 2503#Muffler#
@@ -1663,7 +1684,7 @@
 2723#Medal_of_Honor#
 2724#Medal_of_Honor#
 2725#Medal_of_Honor#
-2726#Icarus_Wings #
+2726#Icarus_Wings_#
 2727#Bowman_Scarf#
 2728#Cursed_Hand#
 2729#Diabolus_Ring#
@@ -1836,6 +1857,9 @@
 2940#닌자_입문서#
 2941#건슬링거_입문서#
 2942#태권_입문서#
+2944#TE_수호의_반지#
+2945#TE_분노의_반지#
+2946#TE_반항의_반지#
 3737#Brownie_Point#
 4001#Poring_Card#
 4002#Fabre_Card#
@@ -2532,7 +2556,7 @@
 4871#SP+75#
 4872#공격후딜레이2Lv#
 4873#공격후딜레이3Lv#
-//4874#봄의녹주석#
+4874#봄의녹주석#
 4991#Kafra_Blossom_Card#
 4998#GM_Aegis_Card#
 4999#GM_Valor_Card#
@@ -2937,7 +2961,7 @@
 5399#Mandragora_Cap#
 5400#Fox_Hat#
 5401#Black_Frame_Glasses#
-5402#Mischievous_Fairy #
+5402#Mischievous_Fairy_#
 5403#Fish_In_Mouth#
 5404#Blue_Ribbon#
 5405#Filir_Hat#
@@ -3284,7 +3308,7 @@
 5789#Thanatos_Odium_Mask#
 5790#Mother's_Kindness#
 5791#Tenkaippin_Ramen#
-5792#Fish Pin#
+5792#Fish_Pin#
 5793#Life_Ribbon#
 5794#3D_Glasses#
 5795#Bright_Red_Dress_Hat#
@@ -3467,7 +3491,7 @@
 6115#Bun#
 6116#Succubus_Pet_Coupon#
 6117#Imp_Pet_Coupon#
-6118#Chung E_Pet_Coupon#
+6118#Chung_E_Pet_Coupon#
 6119#Cow_Leather#
 6120#Face_Paint#
 6121#Makeover_Brush#
@@ -3479,7 +3503,7 @@
 6127#Purification_Stone#
 6128#Antidote#
 6129#Nightmare_Terror_Exchange_Coupon#
-6130#Loli Ruri Ticket#
+6130#Loli_Ruri_Ticket#
 6131#Goblin_Leader_Exchange_Coupon#
 6132#Incubus_Exchange_Coupon#
 6133#Miyabi_Ningyo_Exchange_Coupon#
@@ -3577,17 +3601,17 @@
 6225#HD_Carnium#
 6226#HD_Bradium#
 6227#Magic_Oak_Stone#
-6228#+9 Weapon refine deed#
-6229#+8 Weapon refine deed#
+6228#+9_Weapon_refine_deed#
+6229#+8_Weapon_refine_deed#
 6230#Safe_to_7_Weapon_Certificate#
-6231#+6 Weapon refine deed#
-6232#+9 Armor refine deed#
-6233#+8 Armor refine deed#
+6231#+6_Weapon_refine_deed#
+6232#+9_Armor_refine_deed#
+6233#+8_Armor_refine_deed#
 6234#Safe_to_7_Body_Armor_Certificate#
 6235#Safe_to_7_Headgear_Certificate#
 6236#Blue_7_Card#
 6237#Guarana_Fruit#
-6238#+11 Weapon refine deed#
+6238#+11_Weapon_refine_deed#
 6239#+11_Armor_Refine_Ticket#
 6240#HD_Oridecon#
 6241#HD_Elunium#
@@ -3740,7 +3764,7 @@
 6401#Palm_Oils#
 6402#Palm_Oil_Fruit#
 6403#Comodo_Leather#
-6404#Keris_Hilt #
+6404#Keris_Hilt_#
 6405#Cendrawasih_Feather#
 6406#Shining_Cendrawasih_Feather#
 6407#Raw_Crystal_Stone_Fragment#
@@ -3789,7 +3813,7 @@
 6452#Etoille's_Ring#
 6453#Undelivered_Gift#
 6454#Santa_Bag#
-6456#+5 Weapon refine deed#
+6456#+5_Weapon_refine_deed#
 6457#Safe_to_10_Certificate#
 6464#Hate_Crate#
 6465#가디언_코인#
@@ -3871,6 +3895,18 @@
 6567#Chocolate_Drink_Recipe#
 6581#성스러운_아뮬렛#
 6586#포획한_책#
+6592#작은_나무_상자#
+6593#크리투라_미용쿠폰#
+6594#마력이_깃든_청동괴#
+6595#베룬드의_망치#
+6596#베룬드의_모루#
+6597#"베룬드의_팔찌#
+6598#요르문간드의_늑골#
+6599#후긴의_혼#
+6600#무닌의_혼#
+6601#거인의_끌#
+6602#룬_문자의_비밀#
+6603#프레스베르크의_가죽#
 7001#Mould_Powder#
 7002#Ogre_Tooth#
 7003#Anolian_Skin#
@@ -4474,7 +4510,7 @@
 7602#Blue_R_Card#
 7603#RO_Party_Invitation_Ticket#
 7604#Flour#
-7605#Chicken Egg#
+7605#Chicken_Egg#
 7606#Token_of_the_Ox#
 7607#Neck_of_Demon_Dragon#
 7608#Midgard_Premium_Ticket#
@@ -4498,7 +4534,7 @@
 7626#...#
 7627#...#
 7628#...#
-7629#Pink Gift Box#
+7629#Pink_Gift_Box#
 7630#Clean_Beach_Broom#
 7631#Trash_Debris#
 7632#Terrible_Report_Card#
@@ -4523,7 +4559,7 @@
 7712#Nokia_5500#
 7713#Blue_A(2)_Card#
 7714#Blue_R(2)_Card#
-7715#Hand-made_Chocolate Recipe#
+7715#Hand-made_Chocolate_Recipe#
 7716#Chocolate_Strawberry_Recipe#
 7717#Chocolate_Tart_Recipe#
 7718#Cacao_Bean#
@@ -4984,6 +5020,8 @@
 11552#사근_샐러드#
 11553#아무거나_전골#
 11554#황금색_사과구이#
+11557#TE_화이트_포션#
+11558#TE_화이트_슬림_포션#
 11701#Girl's_Bouquet#
 11702#Moon_Cookie#
 11703#Mystery_Blood#
@@ -5406,7 +5444,7 @@
 12410#Thick_Pork_Belly#
 12411#HE_Battle_Manual#
 12412#HE_Bubble_Gum#
-12413#PC Cafe_Coupon_BoxⅡ#
+12413#PC_Cafe_Coupon_BoxⅡ#
 12414#Guarana_Candy#
 12415#Siege_Teleport_Scroll_Silver#
 12416#Thanksgiving_Groove_Pack#
@@ -5598,13 +5636,13 @@
 12652#130레벨_하사품#
 12653#150레벨_하사품#
 12654#Recruit's_Mount_Gift#
-12658#Transformation Scroll(Deviruchi)#
-12659#Transformation Scroll(Raydric)#
-12660#Transformation Scroll(Mavka)#
-12661#Transformation Scroll(Marduk)#
-12662#Transformation Scroll(Banshee)#
-12663#Transformation Scroll(Poring)#
-12664#Transformation Scroll(Golem)#
+12658#Transformation_Scroll(Deviruchi)#
+12659#Transformation_Scroll(Raydric)#
+12660#Transformation_Scroll(Mavka)#
+12661#Transformation_Scroll(Marduk)#
+12662#Transformation_Scroll(Banshee)#
+12663#Transformation_Scroll(Poring)#
+12664#Transformation_Scroll(Golem)#
 12672#새출발_상자#
 12673#Safe_to_7_Chance_Box#
 12674#신급_재료_상자#
@@ -5728,8 +5766,8 @@
 12819#지르타스_교환_티켓_상자#
 12822#Songpyun_Box50#
 12825#플립의_씨알#
-12826#Wind Type Scroll#
-12827#Water_Type_Scroll#
+12826#Wind_Type_Scroll#
+12827#Sofiel_Aqua_Scroll#
 12828#Aeon_Firesong_Scroll#
 12829#Geheimnis_Terra_Scroll#
 12830#고목나무_상자#
@@ -5811,12 +5849,12 @@
 12962#Vesper_Core_02_Box#
 12963#Vesper_Core_03_Box#
 12964#Vesper_Core_04_Box#
-12965#Emergency_Call _Scroll_Lv.1_Box#
-12966#Emergency_Call _Scroll_Lv.2_Box#
-12967#Emergency_Call _Scroll_Lv.3_Box#
-12968#Emergency_Call _Scroll_Lv.1#
-12969#Emergency_Call _Scroll_Lv.2#
-12970#Emergency_Call _Scroll_Lv.3#
+12965#Emergency_Call__Scroll_Lv.1_Box#
+12966#Emergency_Call__Scroll_Lv.2_Box#
+12967#Emergency_Call__Scroll_Lv.3_Box#
+12968#Emergency_Call__Scroll_Lv.1#
+12969#Emergency_Call__Scroll_Lv.2#
+12970#Emergency_Call__Scroll_Lv.3#
 12971#Warp_Scroll_Box#
 12972#Warp_Scroll_Box#
 12973#Warp_Scroll_Box#
@@ -5844,7 +5882,7 @@
 12995#White_Herb_Box#
 12996#Blue_Herb_Box#
 12997#Elunium_Box#
-12998#Oridecon Box#
+12998#Oridecon_Box#
 12999#Dead_Branch_Box#
 13000#Jujube_Dagger#
 13001#Dragon_Killer#
@@ -5879,10 +5917,10 @@
 13030#Dragon_Killer#
 13031#Swordbreaker#
 13032#Mailbreaker#
-13033#Assassin Dagger#
+13033#Assassin_Dagger#
 13034#Desert_Twilight#
 13035#Sandstorm#
-13036#Brave _Assassin's_Damascus#
+13036#Brave__Assassin's_Damascus#
 13037#Valorous_Assassin's_Damascus#
 13038#Dagger_of_Hunter#
 13039#Ivory_Knife#
@@ -5917,6 +5955,7 @@
 13076#나찰검#
 13078#미카츠키#
 13079#메탈_대거#
+13083#TE_공성_나이프#
 13100#Six_Shooter#
 13101#Six_Shooter#
 13102#Crimson_Bolt#
@@ -5934,6 +5973,7 @@
 13114#Eden_Group_Revolver_III#
 13115#강화_리볼버#
 13116#초보자용_리볼버#
+13117#TE_공성_권총#
 13150#Branch#
 13151#Cyclone#
 13152#Cyclone#
@@ -5968,6 +6008,10 @@
 13181#초보자용_샷건#
 13182#초보자용_개틀링건#
 13183#초보자용_그레네이드런처#
+13184#TE_공성_라이플#
+13185#TE_공성_개틀링건#
+13186#TE_공성_샷건#
+13187#TE_공성_그레네이드_건#
 13200#Bullet#
 13201#Silver_Bullet#
 13202#Bloody_Shell#
@@ -6040,6 +6084,7 @@
 13314#풍마수리검_난설#
 13315#풍마수리검_뇌우#
 13316#강화_풍마수리검#
+13317#TE_공성_풍마_수리검#
 13400#Cutlus#
 13401#Excalibur#
 13402#Cutlas#
@@ -6071,6 +6116,7 @@
 13428#Frist_Sword#
 13431#Chrome_Metal_Sword#
 13434#Eden_Group_Saber_III#
+13439#TE_공성_소드#
 13500#Life_Insurrance_Box#
 13501#Experience_Scroll_Box#
 13502#Refined_Drooping_Cat_Box#
@@ -6774,10 +6820,10 @@
 14202#Steamed_Scorpion_50_Box#
 14203#Wind_Walk_Scroll_Box(30)#
 14204#Wind_Walk_Scroll_Box(50)#
-14205#Dragon Breath Cocktail_30_Box#
-14206#Dragon Breath Cocktail_50_Box#
+14205#Dragon_Breath_Cocktail_30_Box#
+14206#Dragon_Breath_Cocktail_50_Box#
 14207#Field_Manual_Box#
-14208#Battle Manual_5_Box#
+14208#Battle_Manual_5_Box#
 14209#Token_of_Ziegfried_Box(5)#
 14210#Token_Of_Siegfried_20_Box#
 14211#Kafra_Card_Box(30)#
@@ -6837,12 +6883,12 @@
 14265#Kid_Magic_Powder_Box#
 14266#Magic_Magic_Powder_Box#
 14267#JJangu_Magic_Powder_Box#
-14268#Diary_Magic_Powder_Box(1 month)#
-14269#Mini_Heart_Magic_Powder_Box(1 month)#
-14270#Freshman_Magic_Powder_Box(1 month)#
-14271#Kid_Magic_Powder_Box(1 month)#
-14272#Magic_Magic_Powder_Box(1 month)#
-14273#JJangu_Magic_Powder_Box(1 month)#
+14268#Diary_Magic_Powder_Box(1_month)#
+14269#Mini_Heart_Magic_Powder_Box(1_month)#
+14270#Freshman_Magic_Powder_Box(1_month)#
+14271#Kid_Magic_Powder_Box(1_month)#
+14272#Magic_Magic_Powder_Box(1_month)#
+14273#JJangu_Magic_Powder_Box(1_month)#
 14274#Mystical_Amplification_Scroll_Box(10)#
 14275#Mystical_Amplification_Scroll_Box(30)#
 14276#Mystical_Amplification_Scroll_Box(50)#
@@ -7223,6 +7269,10 @@
 15054#닌자_비늘_갑옷#
 15055#무중암영#
 15056#특수_닌자_슈츠#
+15062#TE_공성_롱코트#
+15063#TE_공성_메일#
+15064#TE_공성_매직코트#
+15065#아메샤스펜타#
 16000#Erde#
 16001#Red_Square_Bag#
 16002#Stunner#
@@ -7243,6 +7293,7 @@
 16020#벨룸_스터너#
 16021#벨룸_플레일#
 16023#메탈_메이스#
+16025#TE_공성_메이스#
 16100#Angry_Mouth_Box#
 16101#Lucky_Box#
 16102#Claymore_Box#
@@ -7416,7 +7467,7 @@
 16270#Cancer_Crown_Box#
 16271#Hockey_Mask_Box#
 16272#Observer_Box#
-16273#Leo_Crown_Box #
+16273#Leo_Crown_Box_#
 16274#Leo_Diadem_Box#
 16275#Recuvative_Armor_Box#
 16276#Shell_Of_Resistance_Box#
@@ -8145,9 +8196,10 @@
 18113#벨룸_알바레스트#
 18114#벨룸_크로스보우#
 18116#메탈_보우#
-18500#...#
-18501#...#
-18502#...#
+18118#TE_공성_활#
+18500#응원_스카프Ⅵ#
+18501#응원_스카프Ⅷ#
+18502#응원_스카프Ⅹ#
 18503#Small_Devil_Horns#
 18504#Anubis_Hat#
 18505#Umbala_Spirit#
@@ -8157,18 +8209,18 @@
 18509#RWC_2010_Indonesia#
 18510#Bloody_Angel_Wings#
 18511#Bloody_Angel_Feathers#
-18513#...#
+18513#빛나는_해바라기#
 18514#Eden_Group_Hat_II#
-18515#...#
-18516#...#
-18517#...#
+18515#RTC_우승자_투구#
+18516#RTC_준우승자_투구#
+18517#RTC_3등_투구#
 18518#Angel_Wing_Ears#
 18519#Evil_Wing_Ears#
 18520#Jaty_Crown#
 18521#Lucky_Clover#
 18522#Evil_Marching_Hat#
 18525#Watermelon_Cap#
-18526#...#
+18526#맛있는_롤리팝#
 18527#Gloomy_Pumpkin_Hat#
 18528#늘어진_고양이_크루#
 18529#Drooping_Wild_Rose#
@@ -8204,7 +8256,7 @@
 18575#Wunderkammer#
 18576#Yin_Yang_Earrings#
 18579#9주년_기념_모자#
-18580#Yggdrasil Crown#
+18580#Yggdrasil_Crown#
 18581#Red_Tiger_Mask#
 18582#Blue_Tiger_Mask#
 18583#Navy_Drooping_Kitty#
@@ -8237,15 +8289,15 @@
 18618#Elvis_Hair#
 18619#Thief_Bandana#
 18620#Heart_Eyepatch#
-18621#Mobster's Disguise#
+18621#Mobster's_Disguise#
 18626#Gelato_Hat#
 18630#Drooping_Alicel#
 18637#고대장군의_투구#
 18650#RWC외치는_입#
 18656#Witch's_Pumpkin_Hat#
 18660#Indian_Feather_Headband#
-18663#Sunglasses Baseball Hat#
-18670#Hankie In Mouth#
+18663#Sunglasses_Baseball_Hat#
+18670#Hankie_In_Mouth#
 18671#Rudolf_Hairband#
 18673#늘어진_교황모자#
 18676#Hexagon_Spectacles#
@@ -8255,15 +8307,19 @@
 18705#플립_모자#
 18730#크리투라_학원_모자#
 18731#발키리_나들이_투구#
-19500#...#
-19501#...#
-19502#...#
+18732#TE_공성_캡#
+18733#TE_공성_본헬름#
+18734#TE_공성_매직아이즈#
+18736#익명요청#
+19500#T스마일#
+19501#T스핑크스_모자#
+19502#T고글#
 19503#Majestic_Devil#
-19504#...#
-19505#...#
-19506#...#
+19504#T선글래스#
+19505#T담배#
+19506#T발키리_깃털_모자#
 19507#Costume:_Shining_Sun#
-19508#...#
+19508#T쥬얼_헬름#
 19509#Costume:_Butterfly_Ears#
 19510#Costume:_Bolt_Ears#
 19511#파란_하트눈_안대#
@@ -8332,10 +8388,14 @@
 19574#의상_죽은_자의_투구#
 19575#의상_승천_블랙_드래곤#
 19576#의상_늘어진_교황모자#
+20702#TE_공성_머플러#
+20703#TE_공성_망토#
+20704#TE_공성_마법망토#
 21000#강화_투핸드소드#
 21001#벨룸_크레이모어#
 21002#벨룸_카츠발게르#
 21005#메탈_투핸드소드#
+21006#TE_공성_투핸드_소드#
 25005#99_Battle_Manual#
 25006#99_Battle_Manual_Box#
 25007#Beast_Powder#

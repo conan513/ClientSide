@@ -3828,7 +3828,7 @@ Increases damage inflicted on Demihuman monsters by 20%, but increases damage re
 This item cannot be Dropped or Traded.
 Class :
 ^777777Two-handed Sword^000000
-Attack Strength: ^777777190^000000
+Attack: ^777777190^000000
 Weight : ^7777770^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
@@ -4972,8 +4972,20 @@ DEX + 2, FLEE - 30.
 장착 : ^777777어세신계열^000000
 #
 
-1301#
+1299#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 출혈.
+계열 : ^777777카타르^000000 공격 : ^777777120^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777어세신계열^000000
+#
 
+1301#
 A common axe.
 Class :^777777 Axe^000000
 Attack :^777777 38^000000
@@ -5116,7 +5128,8 @@ Applicable Job :^777777 Novice, Swordman Class, Merchant Class, Assassin^000000
 #
 
 1313#
-...
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+세계 투어 여행자들이 갖고 싶어하는 도끼.
 STR + 2.
 Class :^777777 Axe^000000
 Attack :^777777 77^000000
@@ -5133,7 +5146,7 @@ Enables use of
 ^008800Tomahawk Throwing^000000.
 This item cannot be Dropped or Traded.
 Class : ^777777Axe^000000
-Attack Strength: ^777777200^000000
+Attack: ^777777200^000000
 Weight : ^7777770^000000
 Property: ^777777Wind^000000
 Weapon Level: ^7777774^000000
@@ -5144,25 +5157,35 @@ and Merchant Classes^000000
 
 1315#
 ^000088Rental Item^000000
-A Greek ceremonial
-axe that possesses
-the power of holiness.
+A Greek ceremonial axe that possesses the power of holiness.
 Str +10, Holy property,
 Enables use of Lvl 3 Heal^FFFFFF ^000000 Increases damage inflicted
 on Devil monsters by 3%.^FFFFFF  ^000000 Increases Movement Speed.
 This item cannot be Dropped or Traded.
 Class : ^777777Axe^000000
-Attack Strength: ^777777229^000000
+Attack: ^777777229^000000
 Weight : ^7777770^000000
 Property: ^777777Holy^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
-Jobs: ^777777Swordman
-and Merchant Classes^000000
+Applicable Job :^777777 Swordman Class, Merchant Class^000000
+#
+
+1319#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+파괴불가.
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 동빙.
+계열 : ^777777한손도끼^000000 공격 : ^777777100^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777노비스/검사계열/상인계열/도둑계열^000000
 #
 
 1351#
-
 A sturdy, two-handed axe created for fighting multiple enemies at once.
 Class :^777777 Axe^000000
 Attack :^777777 80^000000
@@ -5727,8 +5750,21 @@ Applicable Job :^777777 Swordman Class, Merchant Class^000000
 장착 : ^777777검사계열/상인계열^000000
 #
 
-1401#
+1399#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+파괴불가.
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 스턴.
+계열 : ^777777양손도끼^000000 공격 : ^777777150^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777검사계열/상인계열^000000
+#
 
+1401#
 A light spear that can be thrown in an attack. It'll probably be safer to keep holding on to it, though.
 Class :^777777 Spear^000000
 Attack :^777777 28^000000
@@ -6103,7 +6139,7 @@ through thick armor.
 Str +1, Int +2, Dex +1
 This item cannot be Dropped or Traded.
 Class : ^777777Spear^000000
-Attack Strength: ^777777195^000000
+Attack: ^777777195^000000
 Weight : ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
@@ -6158,8 +6194,20 @@ MaxSP - 100, 캐논스피어 공격력 10% 증가, 제련도의 3배로 해당 스킬 공격력 추가 증
 장착 : ^777777검사계열^000000
 #
 
-1451#
+1437#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 저주.
+계열 : ^777777한손창^000000 공격 : ^777777100^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777검사계열^000000
+#
 
+1451#
 Topped with a curved blade and puncturing spike, this spear can topple a mounted warrior in the hands of a highly skilled expert.
 Class :^777777 Spear^000000
 Attack :^777777 84^000000
@@ -6680,8 +6728,20 @@ ASPD - 10, 장착해제 시 SP - 600.
 장착 : ^777777검사계열^000000
 #
 
-1501#
+1495#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 암흑.
+계열 : ^777777양손창^000000 공격 : ^777777150^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777검사계열^000000
+#
 
+1501#
 A heavy bludgeon that makes a handy weapon in a pinch.
 Class :^777777 Mace^000000
 Attack :^777777 23^000000
@@ -7740,13 +7800,26 @@ MATK + 10.
 장착 : ^777777프리스트계열/세이지계열/권성^000000
 #
 
-1599#
+1591#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+플레이어에게 마법 공격력 5% 증가.
+물리 공격 시 높은 확률로 암흑.
+힐량 5% 증가.
+계열 : ^777777책^000000 공격 : ^777777120^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777프리스트계열/세이지계열/권성^000000
+#
 
+1599#
 "^339999The Real Holy Cross^000000"
 #
 
 1601#
-
 A simple magic wand.
 MATK + 30
 Class :^777777 Rod^000000
@@ -8524,8 +8597,22 @@ INT + 10, MATK + 50, MDEF + 20.
 장착 : ^777777하이위자드계열^000000
 #
 
-1701#
+1667#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MATK + 100.
+※ TE 공성 지역 추가 옵션
+플레이어에게 마법 공격력 10% 증가.
+마법 공격 시 높은 확률로 암흑.
+힐량 5% 증가.
+계열 : ^777777한손 지팡이^000000 공격 : ^77777750^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777노비스계열/마법사계열/복사계열/소울링커^000000
+#
 
+1701#
 A common bow.
 Class :^777777 Bow^000000
 Attack :^777777 15^000000
@@ -9676,7 +9763,7 @@ Applicable Job :^777777 Sura Only^000000
 #
 
 1831#
-...
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 Impossible to refine this item.
 Class :^777777 Claw^000000
 Attack : ^777777 120^000000
@@ -9701,8 +9788,20 @@ Applicable Job :^777777 Priest, Monk^000000
 장착 : ^777777프리스트계열/몽크계열^000000
 #
 
-1901#
+1834#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 동빙.
+계열 : ^777777너클^000000 공격 : ^777777150^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777프리스트계열/몽크계열^000000
+#
 
+1901#
 The classical stringed instrument favored by Rocker, the grasshopper monster who'd rather play music than do actual work.
 Class :^777777 Musical Instrument^000000
 Attack :^777777 50^000000
@@ -10053,7 +10152,7 @@ Applicable Job :^777777 Minstrel Only^000000
 #
 
 1931#
-...
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 Impossible to refine this item.
 Class :^777777 Musical Instrument^000000
 Attack : ^777777125^000000
@@ -10063,8 +10162,20 @@ Required Level : ^77777760^000000
 Applicable Job :^777777 Bard^000000
 #
 
-1950#
+1932#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 중독.
+계열 : ^777777악기^000000 공격 : ^777777100^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777바드 전용^000000
+#
 
+1950#
 A strong, thick cord composed of tightly braided fiber.
 Class :^777777 Whip^000000
 Attack :^777777 45^000000
@@ -10483,7 +10594,7 @@ Applicable Job :^777777 Wanderer Only^000000
 #
 
 1986#
-...
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 Impossible to refine this item.
 Class :^777777 Whip^000000
 Attack : ^777777 125^000000
@@ -10491,6 +10602,19 @@ Weight : ^777777 0^000000
 Weapon Level : ^777777 3^000000
 Required Level : ^777777 60^000000
 Applicable Job :^777777 Dancer^000000
+#
+
+1987#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 암흑.
+계열 : ^777777채찍^000000 공격 : ^777777100^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777댄서 전용^000000
 #
 
 2000#
@@ -10763,8 +10887,50 @@ MATK + 70.
 장착 : ^777777마법사계열/복사계열/소울링커^000000
 #
 
-2101#
+2019#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MATK + 130.
+※ TE 공성 지역 추가 옵션
+플레이어에게 마법 공격력 20% 증가.
+마법 공격 시 높은 확률로 스턴.
+힐량 5% 증가.
+계열 : ^777777양손 지팡이^000000 공격 : ^77777750^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777노비스계열/마법사계열/복사계열/소울링커^000000
+#
 
+2020#
+지닌 마력도 강력하지만, 적에게 강력한 독을 선사하여 더욱 유명해진 '요르문간드'의 이름을 얻게 된 지팡이.
+MATK + 280, INT + 20.
+마법 공격 시, 일정확률로 적에게 '독'을 부여한다.
+근접 물리 공격을 받을 시, 일정확률로 적에게 '치명적인 독'을 부여한다.
+제련 불가.
+파괴 불가.
+계열 : ^777777양손 지팡이^000000 공격 : ^777777200^000000
+무게 : ^777777300^000000 속성 : ^777777독^000000
+무기 레벨 : ^7777774^000000
+요구 레벨 : ^77777790^000000
+장착 : ^777777위저드계열/세이지계열/소울링커^000000
+#
+
+2021#
+강력한 마력 뿐만이 아니라, 공격한 대상에게 침묵시키는 특성을 지닌 지팡이로, 적의 마술을 무력화 시키는 '간반테인'이라는 이름을 얻게 되었다.
+MATK + 320, INT + 25, DEX + 25.
+마법 공격 시, 일정확률로 적에게 '독'을 부여 또는 '시렌치움 1Lv' 발동.
+근접 물리 공격을 받을 시, 일정확률로 적에게 '침묵'을 부여한다.
+제련 불가.
+파괴 불가.
+계열 : ^777777양손 지팡이^000000 공격 : ^777777100^000000
+무게 : ^777777200^000000
+무기 레벨 : ^7777774^000000
+요구 레벨 : ^777777100^000000
+장착 : ^777777워록^000000
+#
+
+2101#
 A square shield that is small, yet effective in combat.
 Class :^777777 Shield^000000
 Defense :^777777 20^000000
@@ -11442,13 +11608,76 @@ FLEE + 5.
 장착 : ^777777닌자계열^000000
 #
 
-2199#
+2178#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 15.
+※ TE 공성 지역 추가 옵션
+MAXHP + 100, MAXSP + 100.
+플레이어로부터 받는 데미지 15% 감소.
+계열 : ^777777방패^000000 방어 : ^77777715^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전직업^000000
+#
 
+2179#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 5.
+※ TE 공성 지역 추가 옵션
+MAXHP + 200.
+플레이어로부터 받는 데미지 20% 감소.
+계열 : ^777777방패^000000 방어 : ^77777725^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777검사계열/상인계열^000000
+#
+
+2180#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 25.
+※ TE 공성 지역 추가 옵션
+MAXSP + 200.
+플레이어로부터 받는 데미지 10% 감소.
+계열 : ^777777방패^000000 방어 : ^7777775^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777노비스계열/마법사계열/복사계열/소울링커^000000
+#
+
+2181#
+'전세를 수호'하는 발키리, 헤르보르의 이름을 가진 방패.
+MDEF + 5.
+모든 종족에게서 받는 데미지 30% 감소.
+제련 불가.
+파괴 불가.
+계열 : ^777777방패^000000 방어 : ^777777100^000000
+무게 : ^777777150^000000
+요구 레벨 : ^77777790^000000
+장착 : ^777777전직업^000000
+#
+
+2182#
+'전세를 수호'하는 발키리, 헤르보르의 이름을 가진 방패. 더욱 강력한 힘이 부여되었다.
+VIT + 20, MDEF + 10.
+모든 종족에게서 받는 데미지 30% 감소.
+근접 물리 공격을 받았을 시, 일정확률로 60초간 [수호의 빛]을 받는다.
+[수호의 빛]은 받는 즉시 '스턴, 수면, 저주, 석화, 독, 암흑, 침묵, 출혈, 혼란, 동빙'을 해제하며, 효과의 지속시간동안 해당 상태이상에 다시 걸리지 않는다.
+제련 불가.
+파괴 불가.
+계열 : ^777777방패^000000 방어 : ^777777150^000000
+무게 : ^777777300^000000
+요구 레벨 : ^777777100^000000
+장착 : ^7777773차직업군전용^000000
+#
+
+2199#
 "^339999The Shield of all Shields^000000"
 #
 
 2201#
-
 Glasses with special, darkened lenses that block ultraviolet light.
 Increases resistance to ^880000Blind^000000 status by 5%.
 Class :^777777 Headgear^000000
@@ -14336,8 +14565,48 @@ Weight : ^77777760^000000
 Applicable Job :^777777 Every Job^000000
 #
 
-2501#
+2496#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 5.
+※ TE 공성 지역 추가 옵션
+MAXHP + 150, MAXSP + 150.
+플레이어에게 물리/마법 공격력 5% 증가.
+동빙에 대한 내성 25% 증가.
+계열 : ^777777신발^000000 방어 : ^7777775^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전직업^000000
+#
 
+2497#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+MAXHP + 200, MAXSP + 100.
+플레이어에게 물리 공격력 10% 증가.
+동빙에 대한 내성 25% 증가.
+계열 : ^777777신발^000000 방어 : ^77777710^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777검사계열/상인계열^000000
+#
+
+2498#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 5.
+※ TE 공성 지역 추가 옵션
+MAXHP + 100, MAXSP + 200.
+플레이어에게 마법 공격력 5% 증가.
+동빙에 대한 내성 25% 증가.
+계열 : ^777777신발^000000 방어 : ^7777775^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777노비스계열/마법사계열/복사계열/소울링커^000000
+#
+
+2501#
 A simple, soft garment that covers the head and neck.
 Class :^777777 Garment^000000
 Defense :^777777 4^000000
@@ -18375,13 +18644,47 @@ SP + 100.
 장착 : ^777777노비스 계열^000000
 #
 
+2944#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+MAXHP + 100.
+플레이어로부터 받는 데미지 5% 감소.
+계열 : ^777777악세사리^000000 방어 : ^7777770^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전직업^000000
+#
+
+2945#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리/마법 공격력 5% 증가.
+계열 : ^777777악세사리^000000 방어 : ^7777770^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전직업^000000
+#
+
+2946#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 5.
+※ TE 공성 지역 추가 옵션
+플레이어로부터 받는 데미지 5% 감소.
+계열 : ^777777악세사리^000000 방어 : ^7777770^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전직업^000000
+#
+
 3737#
 These points can be exchanged for various goods and services with ^ff0000Grandma Boxter^000000 at the second floor of the Eden Group Headquarters
 Weight : ^7777770^000000
 #
 
 4001#
-
 LUK + 2
 Perfect Dodge + 1
 [^000088Mastering Card Combo^000000]
@@ -23281,9 +23584,9 @@ SP + 75
 공격속도 증가.(공격 후딜레이 8%감소)
 #
 
-//4874#
-//봄을 상징하는 선명한 초록빛 보석. 부드럽게 불어오는 봄바람에 취해 의미불명의 말을 중얼거리게 된다고 한다.
-//#
+4874#
+봄을 상징하는 선명한 초록빛 보석. 부드럽게 불어오는 봄바람에 취해 의미불명의 말을 중얼거리게 된다고 한다.
+#
 
 4991#
 Adventurers can feel carefree exploring dangerous lands knowing that Kafra gal Blossom is supporting them back in town. 
@@ -31078,7 +31381,6 @@ placeholder
 #
 
 5674#
-
 A piggy-bank which will make you feel good after saving many coins in it. Its cute design will make you to doubt to cut it off to open.
 Casting time after performing the skill will be increased 10%.
 When defeating a monster, it can get extra Zeny with a set probability.
@@ -31094,7 +31396,6 @@ placeholder
 #
 
 5676#
-
 A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion.
 Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 Increased Attack Speed. Delay after attack by 3%.
@@ -31389,28 +31690,25 @@ Applicable Job :^777777 Every Job^000000
 #
 
 5744#
-
-A magnificent crown created to pay tribute to the 2nd sign of the zodiac, Carpricon the Goat.
-Attached to the crown is a Garnet gemstone, the birthstone for those born under this sign.
-DEX + 2, VIT + 2
-If refined to 7 or higher, when melee-attacking, has a chance of autocasting Lv 1 Mild Wind.
+A magnificent crown created to pay tribute to the 10th sign of the zodiac, Capricorn the Goat.  Attached to the crown is a Garnet gemstone, the birthstone for those born under this sign.
+Dex +2, Vit +2
+If refined to 7 or higher, when melee-attacking, has a chance of auto-casting Lv 1 Mild Wind (Earth endow).
 Class :^777777 Headgear^000000
 Defense :^777777 3^000000
-Equipped on :^777777 Upper^000000
+Location : ^777777Upper ^000000
 Weight :^777777 30^000000
 Required Level :^777777 1^000000
 Applicable Job :^777777 Every Job^000000
 #
 
 5745#
-A magnificent diadem created to pay tribute to the 2nd sign of the zodiac, Carpricon the Goat.
-Attached to the crown is a Garnet gemstone, the birthstone for those born under this sign.
-DEX + 2, MDEF + 5
-Add a 5% resistance against ^996600Earth^000000 Property monsters.
-If refined to 7 or higher, INT + 2.
+A magnificent diadem created to pay tribute to the 10th sign of the zodiac, Capricorn the Goat.  Attached to the crown is a Garnet gemstone, the birthstone for those born under this sign.
+Dex +2, Mdef +5.
+Increases resistance to Earth property by 5%.
+If refined to 7 or higher, Int +2.
 If refined to 8 or higher, decreases casting time by 3%.
 If refined to 9 or higher, increases the effectiveness of Heal and Sanctuary skills by 4%.
-If refined to 10 or higher, when attacked, has a low chance of autocasting Lv 5 Hammer Fall.
+If refined to 10 or higher, when attacked, has a low chance of auto-casting Lv 5 Hammer Fall.
 Class :^777777 Headgear^000000
 Defense :^777777 3^000000
 Equipped on :^777777 Upper^000000
@@ -33976,19 +34274,18 @@ Weight :^777777 15^000000
 #
 
 6225#
-An ancient piece of high density kalunium. This could be used to produce incredible armor.
-^ffffff_^000000
-Weight :^777777 1^000000
+A high density Carnium used in upgrading armor. Take this to Mighty Hammer in Eden Group or Payon next to the Kafra Shop Ladies to help you upgrade armor at +10 and higher.
+This Carnium's density guarantees that your armor will NOT break when attempting to upgrade and if the upgrade attempt fails, it will only downgrade 1 level instead of 3 like a normal Carnium.
+Weight : ^7777770^000000
 #
 
 6226#
-An incredible valuable ore studied by midgard's scholars. It is the best for armor refining.
-^ffffff_^000000
-Weight :^777777 1^000000
+A high density Bradium used in upgrading weapons. Take this to Mighty Hammer in Eden Group or Payon next to the Kafra Shop Ladies to help you upgrade weapons at +10 and higher.
+This Bradium's density guarantees that your weapon will NOT break when attempting to upgrade and if the upgrade attempt fails, it will only downgrade 1 level instead of 3 like a normal Bradium.
+Weight : ^7777770^000000
 #
 
 6228#
-
 ...
 ^ffffff_^000000
 Weight :^777777 0^000000
@@ -35722,6 +36019,73 @@ Weight : ^7777770^000000
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 슈바이체르빌 마법학교 도서관에서 도망쳤다가 포획된 책. 으르렁 소리에 귀를 가까이하면 물릴지도 모른다.
 무게 : ^7777770^000000
+#
+
+6592#
+길드 아지트에 숨겨져 있던 작은 나무상자. 누군가에게 매우 소중한 그것이 들어있다고 한다.
+무게 : ^7777771^000000
+#
+
+6593#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+크리투라 학원 전용 미용 쿠폰.
+다른 사람과는 차별된 무언가를 찾는 사람에게 독특한 머리스타일을 선사해 준다고 한다.
+무게 : ^7777770^000000
+#
+
+6594#
+룬 마술에 의해 마력이 주입된 청동괴. 강력한 마력이 느껴진다.
+무게 : ^777777100^000000
+#
+
+6595#
+대장장이 베룬드의 망치.
+오랜세월 사용되어 손때를 많이 탄 듯 하다.
+무게 : ^77777750^000000
+#
+
+6596#
+대장장이 베룬드의 모루.
+오랜 세월을 베룬드와 함께 전설적인 무구들을 만들어 왔다.
+무게 : ^777777200^000000
+#
+
+6597#
+사랑하는 아내를 위하여 베룬드가 만든 팔찌 중 하나. 그녀를 향한 진실한 사랑이 담겨있다.
+무게 : ^77777750^000000
+#
+
+6598#
+거대한 뱀 "요르문간드"의 늑골. 믿을 수 없을 정도의 강도와 크기를 자랑한다.
+무게 : ^7777772000^000000
+#
+
+6599#
+오딘의 사역마 중 하나인 사고를 관장하는 까마귀 "후긴"의 혼을 형상화 한 것.
+강대한 마력을 지닌 요르문간드의 힘을 억제 해 준다고 한다.
+무게 : ^77777710^000000
+#
+
+6600#
+오딘의 사역마 중 하나인 기억를 관장하는 까마귀 "무닌"의 혼을 형상화 한 것.
+강대한 마력을 지닌 요르문간드의 힘을 억제 해 준다고 한다.
+무게 : ^77777710^000000
+#
+
+6601#
+엄청난 강도를 자랑하는 암석이라도 이 끌을 사용하면 깍고 다듬는 것이 가능하다고 전해진다. 거인족의 물건인 만큼 매우 거대하여 사용하기 까다로운 것이 문제.
+무게 : ^777777100^000000
+#
+
+6602#
+주신 오딘의 힘을 빌리기 위한 여러가지 룬 마술들이 적혀있는 낡은 책.
+무게 : ^77777710^000000
+#
+
+6603#
+괴조의 두터운 가죽조각.
+강대한 마력을 지닌 요르문간드의 힘을 억제 해준다고 한다.
+무게 : ^77777750^000000
 #
 
 7001#
@@ -42989,11 +43353,24 @@ PvP, 마을, 공성전지역에서만 사용가능.
 무게 : ^7777771^000000
 #
 
-11701#
-
-...
+11557#
+TE 공성 지역에서만 사용 가능.
+하얀허브를 잘 갈아 만든 체력회복제 ^000088HP를 325가량 회복^000000 시켜 준다.
 ^ffffff_^000000
-Weight :^777777 5^000000
+무게 : ^77777730^000000
+#
+
+11558#
+TE 공성 지역에서만 사용 가능.
+TE 화이트 포션과 효능이 같지만 훨씬 더 가볍다.
+^ffffff_^000000
+무게 : ^77777710^000000
+#
+
+11701#
+솜씨 좋게 잘 포장된 꽃다발. 포장한 사람의 따뜻한 마음이 느껴진다
+^ffffff_^000000
+무게 : ^7777775^000000
 #
 
 11702#
@@ -47976,7 +48353,8 @@ Weight : ^7777771^000000
 #
 
 12827#
-A Water Type Zodiac scroll you can get precious items in it .
+Water...soft and yielding, formless and flowing.
+Rise up, storm the heavens and rain down upon us!" - Sofiel
 Weight : ^7777771^000000
 #
 
@@ -49667,7 +50045,7 @@ with each attack.
 Max SP +10%
 This item cannot be Dropped or Traded.
 Class : ^777777Dagger^000000
-Attack Strength: ^77777785^000000
+Attack: ^77777785^000000
 Weight : ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
@@ -49689,7 +50067,7 @@ Restores 3 SP when
 hitting a monster.
 Max SP +10%.
 Class : ^777777Dagger^000000
-Attack Strength: ^777777129^000000
+Attack: ^777777129^000000
 Weight : ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
@@ -49705,7 +50083,7 @@ been given to mankind^FFFFFF     ^000000 by the gods.
 MATK + 15%.
 This item cannot be Dropped or Traded.
 Class : ^777777Dagger^000000
-Attack Strength: ^777777120^000000
+Attack: ^777777120^000000
 Weight : ^7777770^000000
 Weapon Level: ^7777771^000000
 Required Level : ^7777771^000000
@@ -49721,7 +50099,7 @@ damage to its target.
 Critical + 90%
 This item cannot be Dropped or Traded.
 Class : ^777777Dagger^000000
-Attack Strength: ^777777209^000000
+Attack: ^777777209^000000
 Weight : ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
@@ -49893,8 +50271,21 @@ MATK + 120.
 장착 : ^777777노비스/검사계열/마법사계열/궁수계열/상인계열/도둑계열/소울링커/닌자계열^000000
 #
 
-13100#
+13083#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MATK + 100.
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 침묵.
+계열 : ^777777단검^000000 공격 : ^777777100^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777노비스/검사계열/마법사계열/궁수계열/상인계열/도둑계열/소울링커/닌자^000000
+#
 
+13100#
 A six chambered revolver that is the most basic weapon for Gunslingers.
 HIT - 10
 Class :^777777 Revolver^000000
@@ -50101,8 +50492,20 @@ HIT - 5.
 장착 : ^777777건슬링거^000000
 #
 
-13150#
+13117#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 저주.
+계열 : ^777777권총^000000 공격 : ^77777760^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777건슬링거^000000
+#
 
+13150#
 A practical firearm with a long gun barrel which increases its range and accuracy.
 Class :^777777 Rifle^000000
 Attack :^777777 50^000000
@@ -50523,8 +50926,59 @@ Applicable Job :^777777 Gunslinger^000000
 장착 : ^777777건슬링거^000000
 #
 
-13200#
+13184#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 침묵.
+계열 : ^777777라이플^000000 공격 : ^77777780^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777건슬링거^000000
+#
 
+13185#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 스턴.
+계열 : ^777777게틀링건^000000 공격 : ^777777100^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777건슬링거^000000
+#
+
+13186#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 중독.
+계열 : ^777777샷건^000000 공격 : ^777777100^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777건슬링거^000000
+#
+
+13187#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 암흑.
+계열 : ^777777그레네이드런처^000000 공격 : ^777777100^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777건슬링거^000000
+#
+
+13200#
 A small metal bullet that can be fired from a gun to damage enemies.
 Class :^777777 Bullet^000000
 Attack :^777777 10^000000
@@ -51188,8 +51642,21 @@ MATK + 50.
 장착 : ^777777닌자계열^000000
 #
 
-13400#
+13317#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MATK + 100.
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 출혈.
+계열 : ^777777풍마 수리검^000000 공격 : ^77777780^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777닌자^000000
+#
 
+13400#
 An one-handed sword popularized by its use by sea adventurers.
 Enables use of ^008800Level 5 Bash^000000.
 STR + 2
@@ -51553,7 +52020,7 @@ Str + 2
 DEF + 1
 This item cannot be Dropped or Traded.
 Class : ^777777Sword^000000
-Attack Strength: ^777777185^000000
+Attack: ^777777185^000000
 Weight : ^7777770^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
@@ -51571,7 +52038,7 @@ Drains 15 SP from its
 owner every 10 seconds.
 This item cannot be Dropped or Traded.
 Class : ^777777One-handed Sword^000000
-Attack Strength: ^777777120^000000
+Attack: ^777777120^000000
 Weight : ^7777770^000000
 Property: ^777777Fire^000000
 Weapon Level: ^7777774^000000
@@ -51582,7 +52049,6 @@ Thief Classes^000000
 #
 
 13431#
-
 A cold blue dagger crafted from the other world mineral Bradium.
 Indestructible (except in upgrade attempts).
 AGI + 1, MaxHP - 5%.
@@ -51595,7 +52061,6 @@ Applicable Job :^777777 Trans Swordman Class, Merchant Class^000000
 #
 
 13434#
-
 ...
 Impossible to refine this item.
 Class :^777777 Sword^000000
@@ -51606,8 +52071,21 @@ Required Level : ^777777 60^000000
 Applicable Job :^777777 Swordman Class, Merchant Class, Thief Class^000000
 #
 
-13500#
+13439#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MATK + 100.
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 중독.
+계열 : ^777777검^000000 공격 : ^777777120^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777노비스/검사계열/상인계열/도둑계열^000000
+#
 
+13500#
 A box containing 10 Life Insurance Certificate for 1 hours.
 ^ffffff_^000000
 Life insurance - Within the active duration of 60 minutes, player will not lose any experience the first time he is KO'ed. Valid for just once.
@@ -61320,6 +61798,48 @@ AGI + 1 추가.
 장착 : ^777777닌자계열^000000
 #
 
+15062#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 15.
+※ TE 공성 지역 추가 옵션
+MAXHP + 250, MAXSP + 250.
+플레이어로부터 받는 데미지 10% 감소.
+동빙에 대한 내성 25% 증가.
+계열 : ^777777갑옷^000000 방어 : ^77777715^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전직업^000000
+#
+
+15063#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 5.
+※ TE 공성 지역 추가 옵션
+MAXHP + 450, MAXSP + 50.
+플레이어로부터 받는 데미지 15% 감소.
+동빙에 대한 내성 25% 증가.
+계열 : ^777777갑옷^000000 방어 : ^77777725^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777검사계열/상인계열^000000
+#
+
+15064#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 25.
+※ TE 공성 지역 추가 옵션
+MAXHP + 200, MAXSP + 300.
+플레이어로부터 받는 데미지 5% 감소.
+동빙에 대한 내성 25% 증가.
+계열 : ^777777갑옷^000000 방어 : ^7777775^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777노비스계열/마법사계열/복사계열/소울링커^000000
+#
+
 15056#
 실전 경험이 많은 닌자들의 의견을 모아 기존의 닌자 슈츠의 문제점을 개선한 새 닌자 슈츠. 보다 가볍고 섬유의 강도를 높였다.
 AGI + 1. 3제련 당 AGI 1씩 증가.
@@ -61330,8 +61850,11 @@ AGI + 1. 3제련 당 AGI 1씩 증가.
 장착 : ^777777닌자계열^000000
 #
 
-16000#
+15065#
+알려고 하면 안되는 아이템.
+#
 
+16000#
 Crafted in the shape of the Serpent of Knowledge.
 MaxSP + 50
 Increases damage when using skill ^008800Acid terror or Demontration^000000 by 20%.
@@ -61439,7 +61962,7 @@ or ^880000Frozen^000000 statuses with
 each attack.
 This item cannot be Dropped or Traded.
 Class : ^777777Mace^000000
-Attack Strength: ^777777150^000000
+Attack: ^777777150^000000
 Weight : ^7777770^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
@@ -61581,8 +62104,22 @@ MATK + 180, STR + 2, INT + 2.
 장착 : ^777777노비스/검사계열/복사계열/상인계열^000000
 #
 
-16100#
+16025#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+파괴불가.
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 동빙.
+힐량 5% 증가.
+계열 : ^777777둔기^000000 공격 : ^777777120^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777노비스/검사계열/복사계열/상인계열^000000
+#
 
+16100#
 A box that contains 1 "Angry Mouth" inside.
 ^ffffff_^000000
 Weight :^777777 1^000000
@@ -62622,19 +63159,21 @@ Weight : ^7777771^000000
 #
 
 16258#
-A box that contains 5 "High Density Bradium" inside.
-^ffffff_^000000
-^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
-^ffffff_^000000
-Weight :^777777 1^000000
+A box which contains 5 high density bradiums.
+A high density Bradium used in upgrading weapons. Take this to Mighty Hammer in Eden Group or Payon next to the Kafra Shop Ladies to help you upgrade weapons at +10 and higher.
+This Bradium's density guarantees that your weapon will NOT break when attempting to upgrade and if the upgrade attempt fails, it will only downgrade 1 level instead of 3 like a normal Bradium.
+Weight : ^7777771^000000
+^ff0000This item is excluded from subscription withdrawal or refund.^000000
+Weight : ^7777771^000000
 #
 
 16259#
-A box that contains 5 "High Density Kalunium" inside.
-^ffffff_^000000
-^000088Once this item is purchased, termination of contract is impossible. Also, this item is not refundable.^000000
-^ffffff_^000000
-Weight :^777777 1^000000
+A box which contains 5 high density carniums.
+A high density Carnium used in upgrading armor. Take this to Mighty Hammer in Eden Group or Payon next to the Kafra Shop Ladies to help you upgrade armor at +10 and higher.
+This Carnium's density guarantees that your armor will NOT break when attempting to upgrade and if the upgrade attempt fails, it will only downgrade 1 level instead of 3 like a normal Carnium.
+Weight : ^7777771^000000
+^ff0000This item is excluded from subscription withdrawal or refund.^000000
+Weight : ^7777771^000000
 #
 
 16260#
@@ -63935,7 +64474,7 @@ Increases damage inflicted on Demihuman monsters by 20%, but increases damage re
 This item cannot be Dropped or Traded.
 Class :
 ^777777Two-handed Sword^000000
-Attack Strength: ^777777190^000000
+Attack: ^777777190^000000
 Weight : ^7777771^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^7777774^000000
@@ -63957,7 +64496,7 @@ Str + 2
 DEF + 1
 This item cannot be Dropped or Traded.
 Class : ^777777Sword^000000
-Attack Strength: ^777777185^000000
+Attack: ^777777185^000000
 Weight : ^7777771^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
@@ -63978,7 +64517,7 @@ with each attack.
 Max SP +10%
 This item cannot be Dropped or Traded.
 Class : ^777777Dagger^000000
-Attack Strength: ^77777785^000000
+Attack: ^77777785^000000
 Weight : ^77777771^000000
 Weapon Level: ^7777774^000000
 Required Level : ^7777771^000000
@@ -63998,7 +64537,7 @@ or ^880000Frozen^000000 statuses with
 each attack.
 This item cannot be Dropped or Traded.
 Class : ^777777Mace^000000
-Attack Strength: ^777777150^000000
+Attack: ^777777150^000000
 Weight : ^7777771^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
@@ -64017,7 +64556,7 @@ Drains 15 SP from its
 owner every 10 seconds.
 This item cannot be Dropped or Traded.
 Class : ^777777One-handed Sword^000000
-Attack Strength: ^777777120^000000
+Attack: ^777777120^000000
 Weight : ^7777771^000000
 Property: ^777777Fire^000000
 Weapon Level: ^7777774^000000
@@ -64037,7 +64576,7 @@ Enables use of
 ^008800Tomahawk Throwing^000000.
 This item cannot be Dropped or Traded.
 Class : ^777777Axe^000000
-Attack Strength: ^777777200^000000
+Attack: ^777777200^000000
 Weight : ^7777771^000000
 Property: ^777777Wind^000000
 Weapon Level: ^7777774^000000
@@ -64059,7 +64598,7 @@ Chaos and Blind statuses. Enables the use of
 ^008800Level 1 Cure^000000. Int +5
 This item cannot be Dropped or Traded.
 Class : ^777777Bow^000000
-Attack Strength: ^777777185^000000
+Attack: ^777777185^000000
 Weight : ^7777771^000000
 Property: ^777777Holy^000000
 Weapon Level: ^7777774^000000
@@ -64081,7 +64620,7 @@ through thick armor.
 Str +1, Int +2, Dex +1
 This item cannot be Dropped or Traded.
 Class : ^777777Spear^000000
-Attack Strength: ^777777195^000000
+Attack: ^777777195^000000
 Weight : ^7777771^000000
 Weapon Level: ^7777773^000000
 Required Level : ^7777771^000000
@@ -70804,7 +71343,7 @@ Chaos and Blind statuses. Enables the use of
 ^008800Level 1 Cure^000000. Int +5
 This item cannot be Dropped or Traded.
 Class : ^777777Bow^000000
-Attack Strength: ^777777185^000000
+Attack: ^777777185^000000
 Weight : ^7777770^000000
 Property: ^777777Holy^000000
 Weapon Level: ^7777774^000000
@@ -70942,8 +71481,21 @@ ASPD - 5.
 장착 : ^777777궁수계열^000000
 #
 
-18500#
+18118#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 저주.
+계열 : ^777777활^000000 공격 : ^777777120^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777궁수계열/도둑/로그계열^000000
+#
 
+18500#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 ^000088임삳 궉이템^000000
 정강적인 뇟엔덕의 응공곕 껨카프.
 뤽껨터가왔난 횃뷸 욘험치 60% 증에.
@@ -72103,6 +72655,82 @@ All State + 1, 고정캐스팅 1초 감소, ASPD + 1.
 장착 : ^777777전직업^000000
 #
 
+18732#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 5.
+※ TE 공성지역 추가 옵션
+ATK + 5, MATK + 5.
+플레이어에게 물리/마법 공격력 10% 증가.
+동빙에 대한 내성 25% 증가.
+계열 : ^777777투구^000000 방어 : ^7777775^000000
+위치 : ^777777상단 ^000000무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전직업^000000
+#
+
+18733#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성지역 추가 옵션
+ATK + 10.
+플레이어에게 물리 공격력 20% 증가.
+동빙에 대한 내성 25% 증가.
+계열 : ^777777투구^000000 방어 : ^77777710^000000
+위치 : ^777777상단 ^000000무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777검사계열/상인계열^000000
+#
+
+18734#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 5.
+※ TE 공성 지역 추가 옵션
+MATK + 10.
+플레이어에게 마법 공격력 20% 증가.
+동빙에 대한 내성 25% 증가.
+계열 : ^777777투구^000000 방어 : ^7777775^000000
+위치 : ^777777상단 ^000000무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777노비스계열/마법사계열/복사계열/소울링커^000000
+#
+
+18736#
+눈이 검은 모자이크처리가 되어 누구인지 전혀 알 수가 없다.
+계열 : ^777777투구^000000    방어 : ^7777770^000000
+위치 : ^777777중단^000000    무게 : ^77777710^000000
+장착 : ^777777전직업 장착가능^000000
+#
+
+19500#
+
+#
+
+19501#
+
+#
+
+19502#
+
+#
+
+19503#
+
+#
+
+19504#
+
+#
+
+19505#
+
+#
+
+19506#
+
+#
+
 19507#
 A brightly shining sun that floats above your head.
 ^ff0000This item is account bound^000000
@@ -72730,6 +73358,44 @@ INT + 1.
 장착 : ^777777전직업^000000
 #
 
+20702#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 5.
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리/마법 공격력 5% 증가.
+동빙에 대한 내성 25% 증가.
+계열 : ^777777걸칠것^000000 방어 : ^7777775^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777전직업^000000
+#
+
+20703#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 10% 증가.
+동빙에 대한 내성 25% 증가.
+계열 : ^777777걸칠것^000000 방어 : ^77777710^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777검사계열/상인계열^000000
+#
+
+20704#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+MDEF + 5.
+※ TE 공성 지역 추가 옵션
+플레이어에게 마법 공격력 10% 증가.
+동빙에 대한 내성 25% 증가.
+계열 : ^777777걸칠것^000000 방어 : ^7777775^000000
+무게 : ^7777770^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777노비스계열/마법사계열/복사계열/소울링커^000000
+#
+
 21000#
 오리데오콘과 황금을 황금비율로 섞어 코팅한 양손검.
 제련도 1당 ATK + 12 / MATK + 5 증가.
@@ -72772,6 +73438,19 @@ INT + 1.
 캐릭터 레벨 20이상 : BaseLv이 10 상승 할 때 마다 ATK + 5씩 추가 증가.
 (증가량은  BaseLv 120까지 적용)
 계열 : ^777777양손검^000000 공격 : ^77777795^000000
+무게 : ^7777770^000000
+무기 레벨 : ^7777773^000000
+요구 레벨 : ^7777771^000000
+장착 : ^777777검사계열^000000
+#
+
+21006#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+^000088임대 아이템^000000
+※ TE 공성 지역 추가 옵션
+플레이어에게 물리 공격력 40% 증가.
+물리 공격 시 높은 확률로 출혈.
+계열 : ^777777양손검^000000 공격 : ^777777150^000000
 무게 : ^7777770^000000
 무기 레벨 : ^7777773^000000
 요구 레벨 : ^7777771^000000

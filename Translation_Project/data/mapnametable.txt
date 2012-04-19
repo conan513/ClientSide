@@ -359,7 +359,15 @@ itemmall.rsw#Kafra Shop#
 itemmall_p.rsw#Item mall#
 itemmall_s.rsw#Item mall#
 iz_ac01.rsw#아카데미1층#
+iz_ac01_a.rsw#아카데미1층#
+iz_ac01_b.rsw#아카데미1층#
+iz_ac01_c.rsw#아카데미1층#
+iz_ac01_d.rsw#아카데미1층#
 iz_ac02.rsw#아카데미2층#
+iz_ac02_a.rsw#아카데미2층#
+iz_ac02_b.rsw#아카데미2층#
+iz_ac02_c.rsw#아카데미2층#
+iz_ac02_d.rsw#아카데미2층#
 iz_dun00.rsw#Undersea Tunnel#
 iz_dun00t.rsw#Overlook Water Dungeon#
 iz_dun01.rsw#Undersea Tunnel#
@@ -380,6 +388,10 @@ iz_ng01.rsw#닌자튜토리얼맵#
 izlu2dun.rsw#Byalan Island#
 izlude.rsw#Izlude Town#
 izlude07.rsw#Izlude Town#
+izlude_a.rsw#위성도시 이즈루드#
+izlude_b.rsw#위성도시 이즈루드#
+izlude_c.rsw#위성도시 이즈루드#
+izlude_d.rsw#위성도시 이즈루드#
 izlude_in.rsw#Inside Izlude#
 izlude_x.rsw#Izlude Town#
 jawaii.rsw#Jawaii, the Honeymoon Island#
@@ -689,6 +701,10 @@ prt_fild05.rsw#Prontera Field#
 prt_fild06.rsw#Prontera Field#
 prt_fild07.rsw#Prontera Field#
 prt_fild08.rsw#Prontera Field#
+prt_fild08a.rsw#Prontera Field#
+prt_fild08b.rsw#Prontera Field#
+prt_fild08c.rsw#Prontera Field#
+prt_fild08d.rsw#Prontera Field#
 prt_fild09.rsw#Prontera Field#
 prt_fild10.rsw#Prontera Field#
 prt_fild11.rsw#Prontera Field#
@@ -890,6 +906,20 @@ sword_2-1.rsw#Swordman Test Hall#
 sword_3-1.rsw#Swordman Test Hall#
 tank_test.rsw#Tank Test 1#
 tank_test2.rsw#Tank Test 2#
+te_alde_gld.rsw#카프라가텐#
+te_aldecas1.rsw#글라리스#
+te_aldecas2.rsw#디포르테#
+te_aldecas3.rsw#소린#
+te_aldecas4.rsw#비닛#
+te_aldecas5.rsw#더블류#
+te_prt_gld.rsw#글로리아#
+te_prtcas01.rsw#게오보르그#
+te_prtcas02.rsw#리하르트#
+te_prtcas03.rsw#위그너#
+te_prtcas04.rsw#하이네#
+te_prtcas05.rsw#네리우스#
+teg_dun01.rsw#길드 지하 던전#
+teg_dun02.rsw#길드 지하 던전#
 test.rsw#Test Map#
 tha_scene01.rsw#Thanatos Tower Entrance#
 tha_t01.rsw#Thanatos Tower - Lower Level#

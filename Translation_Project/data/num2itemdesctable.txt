@@ -3507,6 +3507,10 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+1299#
+Unidentified item, can be identified with [Magnifier].
+#
+
 1301#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -3565,6 +3569,10 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 1315#
+Unidentified item, can be identified with [Magnifier].
+#
+
+1319#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -3748,6 +3756,10 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+1399#
+Unidentified item, can be identified with [Magnifier].
+#
+
 1401#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -3885,6 +3897,10 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 1436#
+Unidentified item, can be identified with [Magnifier].
+#
+
+1437#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -4058,6 +4074,10 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 1493#
+Unidentified item, can be identified with [Magnifier].
+#
+
+1495#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -4409,6 +4429,10 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+1591#
+Unidentified item, can be identified with [Magnifier].
+#
+
 1599#
 "^339999The Real Holy Cross^000000"
 #
@@ -4646,6 +4670,10 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 1661#
+Unidentified item, can be identified with [Magnifier].
+#
+
+1667#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -5200,6 +5228,10 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+1834#
+Unidentified item, can be identified with [Magnifier].
+#
+
 1901#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -5321,6 +5353,10 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 1931#
+Unidentified item, can be identified with [Magnifier].
+#
+
+1932#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -5472,6 +5508,10 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+1987#
+Unidentified item, can be identified with [Magnifier].
+#
+
 2000#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -5541,6 +5581,18 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 2018#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2019#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2020#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2021#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -5797,6 +5849,26 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 2173#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2178#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2179#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2180#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2181#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2182#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -6949,6 +7021,18 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 2492#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2496#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2497#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2498#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -8510,6 +8594,18 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 2942#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2944#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2945#
+Unidentified item, can be identified with [Magnifier].
+#
+
+2946#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -13530,9 +13626,9 @@ SP + 75
 공격속도 증가.(공격 후딜레이 8%감소)
 #
 
-//4874#
-//봄을 상징하는 선명한 초록빛 보석. 부드럽게 불어오는 봄바람에 취해 의미불명의 말을 중얼거리게 된다고 한다.
-//#
+4874#
+봄을 상징하는 선명한 초록빛 보석. 부드럽게 불어오는 봄바람에 취해 의미불명의 말을 중얼거리게 된다고 한다.
+#
 
 4991#
 Kafra_Blossom_Card
@@ -19868,6 +19964,73 @@ Weight : ^7777770^000000
 ^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
 슈바이체르빌 마법학교 도서관에서 도망쳤다가 포획된 책. 으르렁 소리에 귀를 가까이하면 물릴지도 모른다.
 무게 : ^7777770^000000
+#
+
+6592#
+길드 아지트에 숨겨져 있던 작은 나무상자. 누군가에게 매우 소중한 그것이 들어있다고 한다.
+무게 : ^7777771^000000
+#
+
+6593#
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+크리투라 학원 전용 미용 쿠폰.
+다른 사람과는 차별된 무언가를 찾는 사람에게 독특한 머리스타일을 선사해 준다고 한다.
+무게 : ^7777770^000000
+#
+
+6594#
+룬 마술에 의해 마력이 주입된 청동괴. 강력한 마력이 느껴진다.
+무게 : ^777777100^000000
+#
+
+6595#
+대장장이 베룬드의 망치.
+오랜세월 사용되어 손때를 많이 탄 듯 하다.
+무게 : ^77777750^000000
+#
+
+6596#
+대장장이 베룬드의 모루.
+오랜 세월을 베룬드와 함께 전설적인 무구들을 만들어 왔다.
+무게 : ^777777200^000000
+#
+
+6597#
+사랑하는 아내를 위하여 베룬드가 만든 팔찌 중 하나. 그녀를 향한 진실한 사랑이 담겨있다.
+무게 : ^77777750^000000
+#
+
+6598#
+거대한 뱀 \"요르문간드\"의 늑골. 믿을 수 없을 정도의 강도와 크기를 자랑한다.
+무게 : ^7777772000^000000
+#
+
+6599#
+오딘의 사역마 중 하나인 사고를 관장하는 까마귀 \"후긴\"의 혼을 형상화 한 것.
+강대한 마력을 지닌 요르문간드의 힘을 억제 해 준다고 한다.
+무게 : ^77777710^000000
+#
+
+6600#
+오딘의 사역마 중 하나인 기억를 관장하는 까마귀 \"무닌\"의 혼을 형상화 한 것.
+강대한 마력을 지닌 요르문간드의 힘을 억제 해 준다고 한다.
+무게 : ^77777710^000000
+#
+
+6601#
+엄청난 강도를 자랑하는 암석이라도 이 끌을 사용하면 깍고 다듬는 것이 가능하다고 전해진다. 거인족의 물건인 만큼 매우 거대하여 사용하기 까다로운 것이 문제.
+무게 : ^777777100^000000
+#
+
+6602#
+주신 오딘의 힘을 빌리기 위한 여러가지 룬 마술들이 적혀있는 낡은 책.
+무게 : ^77777710^000000
+#
+
+6603#
+괴조의 두터운 가죽조각.
+강대한 마력을 지닌 요르문간드의 힘을 억제 해준다고 한다.
+무게 : ^77777750^000000
 #
 
 7001#
@@ -27025,10 +27188,24 @@ PvP, 마을, 공성전지역에서만 사용가능.
 무게 : ^7777771^000000
 #
 
-11701#
-...
+11557#
+TE 공성 지역에서만 사용 가능.
+하얀허브를 잘 갈아 만든 체력회복제 ^000088HP를 325가량 회복^000000 시켜 준다.
 ^ffffff_^000000
-Weight :^777777 5^000000
+무게 : ^77777730^000000
+#
+
+11558#
+TE 공성 지역에서만 사용 가능.
+TE 화이트 포션과 효능이 같지만 훨씬 더 가볍다.
+^ffffff_^000000
+무게 : ^77777710^000000
+#
+
+11701#
+솜씨 좋게 잘 포장된 꽃다발. 포장한 사람의 따뜻한 마음이 느껴진다
+^ffffff_^000000
+무게 : ^7777775^000000
 #
 
 11702#
@@ -31821,6 +31998,12 @@ Can obtain either Garm Card, Sunglasses Baseball Hat, Hankie In Mouth, Gemini Cr
 Weight : ^7777771^0000
 #
 
+12827#
+Water...soft and yielding, formless and flowing.
+Rise up, storm the heavens and rain down upon us!" - Sofiel
+Weight : ^7777771^000000
+#
+
 12828#
 "I am what was, what is, what will be : the Chaos-Bringer! I AM POWER!"
 -The Phoenix Aeon
@@ -33116,6 +33299,10 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+13083#
+Unidentified item, can be identified with [Magnifier].
+#
+
 13100#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -33181,6 +33368,10 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 13116#
+Unidentified item, can be identified with [Magnifier].
+#
+
+13117#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -33317,6 +33508,22 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 13183#
+Unidentified item, can be identified with [Magnifier].
+#
+
+13184#
+Unidentified item, can be identified with [Magnifier].
+#
+
+13185#
+Unidentified item, can be identified with [Magnifier].
+#
+
+13186#
+Unidentified item, can be identified with [Magnifier].
+#
+
+13187#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -33835,6 +34042,10 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+13317#
+Unidentified item, can be identified with [Magnifier].
+#
+
 13400#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -33952,6 +34163,10 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 13434#
+Unidentified item, can be identified with [Magnifier].
+#
+
+13439#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -43398,6 +43613,22 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+15062#
+Unidentified item, can be identified with [Magnifier].
+#
+
+15063#
+Unidentified item, can be identified with [Magnifier].
+#
+
+15064#
+Unidentified item, can be identified with [Magnifier].
+#
+
+15065#
+Unidentified item, can be identified with [Magnifier].
+#
+
 16000#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -43475,6 +43706,10 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 16023#
+Unidentified item, can be identified with [Magnifier].
+#
+
+16025#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -51275,6 +51510,10 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+18118#
+Unidentified item, can be identified with [Magnifier].
+#
+
 18500#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -51722,6 +51961,50 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+18732#
+Unidentified item, can be identified with [Magnifier].
+#
+
+18733#
+Unidentified item, can be identified with [Magnifier].
+#
+
+18734#
+Unidentified item, can be identified with [Magnifier].
+#
+
+18736#
+Unidentified item, can be identified with [Magnifier].
+#
+
+19500#
+
+#
+
+19501#
+
+#
+
+19502#
+
+#
+
+19503#
+
+#
+
+19504#
+
+#
+
+19505#
+
+#
+
+19506#
+
+#
+
 19507#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -52004,6 +52287,18 @@ Unidentified item, can be identified with [Magnifier].
 Unidentified item, can be identified with [Magnifier].
 #
 
+20702#
+Unidentified item, can be identified with [Magnifier].
+#
+
+20703#
+Unidentified item, can be identified with [Magnifier].
+#
+
+20704#
+Unidentified item, can be identified with [Magnifier].
+#
+
 21000#
 Unidentified item, can be identified with [Magnifier].
 #
@@ -52017,6 +52312,10 @@ Unidentified item, can be identified with [Magnifier].
 #
 
 21005#
+Unidentified item, can be identified with [Magnifier].
+#
+
+21006#
 Unidentified item, can be identified with [Magnifier].
 #
 
@@ -52063,4 +52362,3 @@ HD_Elunium_10_Box
 25014#
 HD_Oridecon_10_Box
 #
-
