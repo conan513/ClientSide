@@ -15151,7 +15151,7 @@ Speak to the Pope who is near the entrance on the first floor of Rachel Temple.#
 #
 
 61026#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
-Now that you've received a prayer from the Pope, go to Bianca and bring her the Chocolate, Flowers and Jewelry that you are supposed to give her.#
+Go to Bianca with the items. Oh and the 4 song lyrics are without [-]... When I look in your eyes - I feel my heart beat strong. - I cried those nights - million of tears as in this song...#
 #
 
 61027#Eye of the Beholder#SG_FEEL#QUE_NOIMAGE#
