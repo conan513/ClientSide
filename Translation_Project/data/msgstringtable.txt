@@ -2176,8 +2176,8 @@ Rotate left#
 Rotate right#
 (%s)님의 이전서버 정보보기#
 기존 서버 정보#
-^ff0000기존 서버 : ^0000ff
-^ff0000기존 캐릭명 : ^0000ff
+^ff0000기존 서버 : ^0000ff#
+^ff0000기존 캐릭명 : ^0000ff#
 Show monster HP bar when attacking.#
 Hide monster HP bar when attacking..#
 병합 가능한 아이템이 존재하지 않습니다#
